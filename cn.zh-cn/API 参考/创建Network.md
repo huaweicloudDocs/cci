@@ -8,6 +8,9 @@ Network对象是华为云CCI 新增对象，用于定义kubernetes中一个names
 
 CCI的容器网络依赖于华为云底层的neutron网络，因此在创建network对象前，需要先调用虚拟私有云的接口创建或者查询已有子网信息。
 
+>![](public_sys-resources/icon-notice.gif) **注意：**   
+>此处VPC和子网的网段不能为10.247.0.0/16，10.247.0.0/16是云容器实例预留给Service的网段。如果您使用此网段，后续可能会造成IP冲突，导致负载无法创建或服务不可用；如果您不需要通过Service访问，而是直接访问Pod，则可以使用此网段。  
+
 ## URI<a name="section8403243161416"></a>
 
 POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
@@ -92,7 +95,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 <td class="cellrowborder" valign="top" width="18.181818181818183%" headers="mcps1.2.5.1.3 "><p id="a3467669217d84b4c81c113d5e2da8569"><a name="a3467669217d84b4c81c113d5e2da8569"></a><a name="a3467669217d84b4c81c113d5e2da8569"></a><a href="公共参数.md#zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="48.484848484848484%" headers="mcps1.2.5.1.4 "><p id="p338173482316"><a name="p338173482316"></a><a name="p338173482316"></a>Standard object metadata.</p>
-<p id="p107941024294"><a name="p107941024294"></a><a name="p107941024294"></a>其中annotations字段请参见<a href="#cci_02_2012__table15841359192020">表4</a>。</p>
+<p id="p107941024294"><a name="p107941024294"></a><a name="p107941024294"></a>其中annotations字段请参见<a href="#table15841359192020">表4</a>。</p>
 <p id="p1852313501213"><a name="p1852313501213"></a><a name="p1852313501213"></a>另外必须设置metadata.Namespace=当前操作的namespace</p>
 </td>
 </tr>
@@ -100,7 +103,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="13.131313131313133%" headers="mcps1.2.5.1.2 "><p id="p4986110104112"><a name="p4986110104112"></a><a name="p4986110104112"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.181818181818183%" headers="mcps1.2.5.1.3 "><p id="p83351644132313"><a name="p83351644132313"></a><a name="p83351644132313"></a><a href="#cci_02_2012__table15570752102811">表5</a></p>
+<td class="cellrowborder" valign="top" width="18.181818181818183%" headers="mcps1.2.5.1.3 "><p id="p83351644132313"><a name="p83351644132313"></a><a name="p83351644132313"></a><a href="#table15570752102811">表5</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="48.484848484848484%" headers="mcps1.2.5.1.4 "><p id="p086472482619"><a name="p086472482619"></a><a name="p086472482619"></a>Specification of the desired behavior of the Network.</p>
 </td>
@@ -109,7 +112,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="13.131313131313133%" headers="mcps1.2.5.1.2 "><p id="p3864112482611"><a name="p3864112482611"></a><a name="p3864112482611"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.181818181818183%" headers="mcps1.2.5.1.3 "><p id="p1430310471239"><a name="p1430310471239"></a><a name="p1430310471239"></a><a href="#cci_02_2012__table3226535203116">表6</a></p>
+<td class="cellrowborder" valign="top" width="18.181818181818183%" headers="mcps1.2.5.1.3 "><p id="p1430310471239"><a name="p1430310471239"></a><a name="p1430310471239"></a><a href="#table3226535203116">表6</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="48.484848484848484%" headers="mcps1.2.5.1.4 "><p id="p9864162417264"><a name="p9864162417264"></a><a name="p9864162417264"></a>Most recently observed status of the Network.</p>
 </td>
@@ -180,6 +183,8 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p734152063019"><a name="p734152063019"></a><a name="p734152063019"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p1534112014309"><a name="p1534112014309"></a><a name="p1534112014309"></a>Network对应子网的网段。</p>
+<div class="note" id="note3755144411414"><a name="note3755144411414"></a><a name="note3755144411414"></a><span class="notetitle"> 说明： </span><div class="notebody"><p id="p1294525011518"><a name="p1294525011518"></a><a name="p1294525011518"></a>此处VPC和子网的网段不能为10.247.0.0/16，10.247.0.0/16是云容器实例预留给Service的网段。如果您使用此网段，后续可能会造成IP冲突，导致负载无法创建或服务不可用；如果您不需要通过Service访问，而是直接访问Pod，则可以使用此网段。</p>
+</div></div>
 </td>
 </tr>
 <tr id="row367322818307"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.5.1.1 "><p id="p15251183993015"><a name="p15251183993015"></a><a name="p15251183993015"></a>attachedVPC</p>

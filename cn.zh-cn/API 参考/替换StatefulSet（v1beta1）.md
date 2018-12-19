@@ -1,8 +1,8 @@
-# 替换StatefulSet（v1beta1）<a name="cci_02_0040"></a>
+# 替换StatefulSet<a name="cci_02_0040"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0091433692_section53648226"></a>
 
-This API is used to replace a StatefulSet object under a specified Namespace.
+This API is used to update a StatefulSet object under a specified Namespace.
 
 The following fields can be updated:
 

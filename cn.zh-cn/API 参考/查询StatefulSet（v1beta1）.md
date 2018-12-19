@@ -1,4 +1,4 @@
-# 查询StatefulSet（v1beta1）<a name="cci_02_0038"></a>
+# 查询StatefulSet<a name="cci_02_0038"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0091433690_section15132207"></a>
 

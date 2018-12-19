@@ -1,4 +1,4 @@
-# 更新Deployment（v1beta1）<a name="cci_02_0033"></a>
+# 更新Deployment<a name="cci_02_0033"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0083864912_section172959268501"></a>
 
@@ -130,12 +130,12 @@ PATCH /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}
                         "image": "nginx:latest", 
                         "resources": {
                             "limits": {
-                                "cpu": "1", 
-                                "memory": "1536Mi"
+                                "cpu": "500m", 
+                                "memory": "1024Mi"
                             }, 
                             "requests": {
-                                "cpu": "1", 
-                                "memory": "1536Mi"
+                                "cpu": "500m", 
+                                "memory": "1024Mi"
                             }
                         }, 
                         "lifecycle": {}, 

@@ -1,4 +1,4 @@
-# 替换Deployment（v1beta1）<a name="cci_02_0031"></a>
+# 替换Deployment<a name="cci_02_0031"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0083864912_section172959268501"></a>
 
@@ -100,12 +100,12 @@ PUT /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}
                         "name": "container-0", 
                         "resources": {
                             "limits": {
-                                "cpu": "1000m", 
-                                "memory": "1536Mi"
+                                "cpu": "500m", 
+                                "memory": "1024Mi"
                             }, 
                             "requests": {
-                                "cpu": "1000m", 
-                                "memory": "1536Mi"
+                                "cpu": "500m", 
+                                "memory": "1024Mi"
                             }
                         }, 
                         "lifecycle": {}

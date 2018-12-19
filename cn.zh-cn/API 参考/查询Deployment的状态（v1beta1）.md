@@ -1,4 +1,4 @@
-# 查询Deployment的状态（v1beta1）<a name="cci_02_0030"></a>
+# 查询Deployment的状态<a name="cci_02_0030"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0091433676_section37553505"></a>
 

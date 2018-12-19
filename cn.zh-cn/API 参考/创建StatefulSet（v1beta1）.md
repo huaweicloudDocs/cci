@@ -1,4 +1,4 @@
-# 创建StatefulSet（v1beta1）<a name="cci_02_0035"></a>
+# 创建StatefulSet<a name="cci_02_0035"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0091433687_section40975543"></a>
 
@@ -86,7 +86,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="14.288571142885711%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p12424902"><a name="zh-cn_topic_0091433687_p12424902"></a><a name="zh-cn_topic_0091433687_p12424902"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p66893020"><a name="zh-cn_topic_0091433687_p66893020"></a><a name="zh-cn_topic_0091433687_p66893020"></a><a href="#cci_02_0035__table3236827151115">表3</a></p>
+<td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p66893020"><a name="zh-cn_topic_0091433687_p66893020"></a><a name="zh-cn_topic_0091433687_p66893020"></a><a href="#table3236827151115">表3</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="42.85571442855714%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p43976738"><a name="zh-cn_topic_0091433687_p43976738"></a><a name="zh-cn_topic_0091433687_p43976738"></a>Spec defines the desired identities of pods in this set.</p>
 </td>
@@ -95,7 +95,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="14.288571142885711%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p4961465"><a name="zh-cn_topic_0091433687_p4961465"></a><a name="zh-cn_topic_0091433687_p4961465"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p66334361"><a name="zh-cn_topic_0091433687_p66334361"></a><a name="zh-cn_topic_0091433687_p66334361"></a><a href="#cci_02_0035__zh-cn_topic_0091433687_d0e37659">表4</a></p>
+<td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p66334361"><a name="zh-cn_topic_0091433687_p66334361"></a><a name="zh-cn_topic_0091433687_p66334361"></a><a href="#zh-cn_topic_0091433687_d0e37659">表4</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="42.85571442855714%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p39367534"><a name="zh-cn_topic_0091433687_p39367534"></a><a name="zh-cn_topic_0091433687_p39367534"></a>Status is the current status of Pods in this StatefulSet. This data may be out of date by some window of time.</p>
 </td>
@@ -149,7 +149,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.5.1.2 "><p id="p2369527101114"><a name="p2369527101114"></a><a name="p2369527101114"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p13374112717112"><a name="p13374112717112"></a><a name="p13374112717112"></a><a href="#cci_02_0035__zh-cn_topic_0091433687_d0e38083">表7</a></p>
+<td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p13374112717112"><a name="p13374112717112"></a><a name="p13374112717112"></a><a href="#zh-cn_topic_0091433687_d0e38083">表7</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p15381927161112"><a name="p15381927161112"></a><a name="p15381927161112"></a></p>
 <p id="p1938532751120"><a name="p1938532751120"></a><a name="p1938532751120"></a>updateStrategy indicates the StatefulSetUpdateStrategy that will be employed to update Pods in the StatefulSet when a revision is made to Template.</p>
@@ -168,7 +168,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.5.1.2 "><p id="p544362713115"><a name="p544362713115"></a><a name="p544362713115"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p144919276113"><a name="p144919276113"></a><a name="p144919276113"></a><a href="#cci_02_0035__zh-cn_topic_0091433687_d0e37920">表5</a></p>
+<td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p144919276113"><a name="p144919276113"></a><a name="p144919276113"></a><a href="#zh-cn_topic_0091433687_d0e37920">表5</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p10456182715116"><a name="p10456182715116"></a><a name="p10456182715116"></a>Selector is a label query over pods that should match the replica count. If empty, defaulted to labels on the pod template.</p>
 </td>
@@ -286,7 +286,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="15.308469153084694%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p31224060"><a name="zh-cn_topic_0091433687_p31224060"></a><a name="zh-cn_topic_0091433687_p31224060"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.388061193880613%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p46120952"><a name="zh-cn_topic_0091433687_p46120952"></a><a name="zh-cn_topic_0091433687_p46120952"></a><a href="#cci_02_0035__zh-cn_topic_0091433687_d0e37970">表6</a> array</p>
+<td class="cellrowborder" valign="top" width="19.388061193880613%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p46120952"><a name="zh-cn_topic_0091433687_p46120952"></a><a name="zh-cn_topic_0091433687_p46120952"></a><a href="#zh-cn_topic_0091433687_d0e37970">表6</a> array</p>
 </td>
 <td class="cellrowborder" valign="top" width="42.85571442855714%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p633806"><a name="zh-cn_topic_0091433687_p633806"></a><a name="zh-cn_topic_0091433687_p633806"></a>matchExpressions is a list of label selector requirements. The requirements are ANDed.</p>
 </td>
@@ -363,7 +363,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p65113955"><a name="zh-cn_topic_0091433687_p65113955"></a><a name="zh-cn_topic_0091433687_p65113955"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="23.46765323467653%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p39738973"><a name="zh-cn_topic_0091433687_p39738973"></a><a name="zh-cn_topic_0091433687_p39738973"></a><a href="#cci_02_0035__zh-cn_topic_0091433687_table102371729161619">表8</a></p>
+<td class="cellrowborder" valign="top" width="23.46765323467653%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p39738973"><a name="zh-cn_topic_0091433687_p39738973"></a><a name="zh-cn_topic_0091433687_p39738973"></a><a href="#zh-cn_topic_0091433687_table102371729161619">表8</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.796020397960206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p45791139"><a name="zh-cn_topic_0091433687_p45791139"></a><a name="zh-cn_topic_0091433687_p45791139"></a></p>
 <p id="zh-cn_topic_0091433687_p9467071"><a name="zh-cn_topic_0091433687_p9467071"></a><a name="zh-cn_topic_0091433687_p9467071"></a>RollingUpdate is used to communicate parameters when Type is RollingUpdateStatefulSetStrategyType.</p>

@@ -1,4 +1,4 @@
-# 创建Deployment回滚（v1beta1）<a name="cci_02_0026"></a>
+# 创建Deployment回滚<a name="cci_02_0026"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0091433672_section41398477"></a>
 
@@ -93,7 +93,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </td>
 <td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433672_p46988743"><a name="zh-cn_topic_0091433672_p46988743"></a><a name="zh-cn_topic_0091433672_p46988743"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p47991837"><a name="zh-cn_topic_0091433672_p47991837"></a><a name="zh-cn_topic_0091433672_p47991837"></a><a href="#cci_02_0026__zh-cn_topic_0091433672_table3169229152410">表3</a></p>
+<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p47991837"><a name="zh-cn_topic_0091433672_p47991837"></a><a name="zh-cn_topic_0091433672_p47991837"></a><a href="#zh-cn_topic_0091433672_table3169229152410">表3</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="43%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433672_p22331121"><a name="zh-cn_topic_0091433672_p22331121"></a><a name="zh-cn_topic_0091433672_p22331121"></a>The config of this deployment rollback.</p>
 </td>

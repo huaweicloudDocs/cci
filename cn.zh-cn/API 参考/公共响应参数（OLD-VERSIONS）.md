@@ -27,21 +27,21 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row45232374"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39943711"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39943711"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39943711"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14215164"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14215164"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14215164"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14215164"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14215164"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14215164"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10577654"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10577654"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10577654"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row28090025"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60699544"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60699544"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60699544"></a>spec</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17716056"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17716056"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17716056"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table39592297">表26</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17716056"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17716056"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17716056"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table39592297">表26</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25714449"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25714449"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25714449"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row30103450"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22460346"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22460346"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22460346"></a>status</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7348710"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7348710"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7348710"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table32774565">表6</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7348710"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7348710"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7348710"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table32774565">表6</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58374663"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58374663"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58374663"></a>-</p>
 </td>
@@ -76,14 +76,14 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row29117349"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9695103"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9695103"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9695103"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47105906"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47105906"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47105906"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table66688435">表13</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47105906"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47105906"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47105906"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table66688435">表13</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57482021"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57482021"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57482021"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row47576142"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p28462276"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p28462276"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p28462276"></a>items</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="p341014305123"><a name="p341014305123"></a><a name="p341014305123"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table52931650">表1</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="p341014305123"><a name="p341014305123"></a><a name="p341014305123"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table52931650">表1</a></p>
 <p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23743056"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23743056"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23743056"></a>array</p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44139351"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44139351"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44139351"></a>List of pods.</p>
@@ -119,14 +119,14 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row13573102"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25679515"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25679515"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25679515"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66774824"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66774824"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66774824"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66774824"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66774824"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66774824"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p40051645"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p40051645"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p40051645"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row24920491"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p5293856"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p5293856"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p5293856"></a>template</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26149169"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26149169"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26149169"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table4399144">表25</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26149169"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26149169"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26149169"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table4399144">表25</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37707976"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37707976"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37707976"></a>-</p>
 </td>
@@ -161,14 +161,14 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row16965260"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32008819"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32008819"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32008819"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7e9559988fa2455498f6a2b034afc28c"><a name="zh-cn_topic_0083857396_a7e9559988fa2455498f6a2b034afc28c"></a><a name="zh-cn_topic_0083857396_a7e9559988fa2455498f6a2b034afc28c"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_tf50171b557ef4ebdafb2cc0bcb724d1b">表50</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7e9559988fa2455498f6a2b034afc28c"><a name="zh-cn_topic_0083857396_a7e9559988fa2455498f6a2b034afc28c"></a><a name="zh-cn_topic_0083857396_a7e9559988fa2455498f6a2b034afc28c"></a><a href="#zh-cn_topic_0083857396_tf50171b557ef4ebdafb2cc0bcb724d1b">表50</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26228578"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26228578"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26228578"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row34730616"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61716500"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61716500"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61716500"></a>items</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p710201617910"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p710201617910"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p710201617910"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table63293941">表5</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p710201617910"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p710201617910"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p710201617910"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table63293941">表5</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p54180000"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p54180000"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p54180000"></a>List of pod templates.</p>
 </td>
@@ -203,21 +203,21 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row32708358"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32131343"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32131343"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32131343"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a4226ab677eb747ffa5ace85c49d91070"><a name="zh-cn_topic_0083857396_a4226ab677eb747ffa5ace85c49d91070"></a><a name="zh-cn_topic_0083857396_a4226ab677eb747ffa5ace85c49d91070"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a4226ab677eb747ffa5ace85c49d91070"><a name="zh-cn_topic_0083857396_a4226ab677eb747ffa5ace85c49d91070"></a><a name="zh-cn_topic_0083857396_a4226ab677eb747ffa5ace85c49d91070"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p24805660"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p24805660"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p24805660"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row21924350"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31041896"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31041896"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31041896"></a>spec</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a5863cdcb478146f1b9cd48aa51d01491"><a name="zh-cn_topic_0083857396_a5863cdcb478146f1b9cd48aa51d01491"></a><a name="zh-cn_topic_0083857396_a5863cdcb478146f1b9cd48aa51d01491"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table39592297">表26</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a5863cdcb478146f1b9cd48aa51d01491"><a name="zh-cn_topic_0083857396_a5863cdcb478146f1b9cd48aa51d01491"></a><a name="zh-cn_topic_0083857396_a5863cdcb478146f1b9cd48aa51d01491"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table39592297">表26</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57588138"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57588138"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57588138"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row48531194"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38712671"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38712671"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38712671"></a>status</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48718669"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48718669"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48718669"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table32774565">表6</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48718669"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48718669"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48718669"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table32774565">表6</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53898091"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53898091"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53898091"></a>-</p>
 </td>
@@ -245,7 +245,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row27428197"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7091448"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7091448"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7091448"></a>conditions</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37536453"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37536453"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37536453"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table26535630">表7</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37536453"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37536453"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37536453"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table26535630">表7</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p20553842"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p20553842"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p20553842"></a>Current service state of the pod.</p>
 </td>
@@ -287,7 +287,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row33631792"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39820598"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39820598"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39820598"></a>containerStatuses</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4243005"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4243005"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4243005"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table37494083">表8</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4243005"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4243005"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4243005"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table37494083">表8</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8139116"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8139116"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8139116"></a>The list has one entry per container in the manifest. Each entry is currently the output of docker inspect.</p>
 </td>
@@ -371,14 +371,14 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row39471019"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p43035983"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p43035983"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p43035983"></a>state</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p910905917164"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p910905917164"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p910905917164"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table1902427">表9</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p910905917164"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p910905917164"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p910905917164"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table1902427">表9</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32093935"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32093935"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p32093935"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row20409962"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42594206"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42594206"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42594206"></a>lastState</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a90fea3daa0204637bf02cafb037ef070"><a name="zh-cn_topic_0083857396_a90fea3daa0204637bf02cafb037ef070"></a><a name="zh-cn_topic_0083857396_a90fea3daa0204637bf02cafb037ef070"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table1902427">表9</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a90fea3daa0204637bf02cafb037ef070"><a name="zh-cn_topic_0083857396_a90fea3daa0204637bf02cafb037ef070"></a><a name="zh-cn_topic_0083857396_a90fea3daa0204637bf02cafb037ef070"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table1902427">表9</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19278548"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19278548"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19278548"></a>-</p>
 </td>
@@ -434,21 +434,21 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row66229107"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62957461"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62957461"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62957461"></a>waiting</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_ab8a27bafd3da491abba1c04a4ac635d4"><a name="zh-cn_topic_0083857396_ab8a27bafd3da491abba1c04a4ac635d4"></a><a name="zh-cn_topic_0083857396_ab8a27bafd3da491abba1c04a4ac635d4"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table17121849">表10</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_ab8a27bafd3da491abba1c04a4ac635d4"><a name="zh-cn_topic_0083857396_ab8a27bafd3da491abba1c04a4ac635d4"></a><a name="zh-cn_topic_0083857396_ab8a27bafd3da491abba1c04a4ac635d4"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table17121849">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8848839"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8848839"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8848839"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row12530692"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8353121"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8353121"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8353121"></a>running</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a36791fc9bcc846948f4225d13fcc62b7"><a name="zh-cn_topic_0083857396_a36791fc9bcc846948f4225d13fcc62b7"></a><a name="zh-cn_topic_0083857396_a36791fc9bcc846948f4225d13fcc62b7"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table19878917">表11</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a36791fc9bcc846948f4225d13fcc62b7"><a name="zh-cn_topic_0083857396_a36791fc9bcc846948f4225d13fcc62b7"></a><a name="zh-cn_topic_0083857396_a36791fc9bcc846948f4225d13fcc62b7"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table19878917">表11</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p43995612"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p43995612"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p43995612"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row60416193"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61873442"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61873442"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61873442"></a>terminated</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a253c54cf0edc4b4f995ae4c85795b4b6"><a name="zh-cn_topic_0083857396_a253c54cf0edc4b4f995ae4c85795b4b6"></a><a name="zh-cn_topic_0083857396_a253c54cf0edc4b4f995ae4c85795b4b6"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44692528">表12</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a253c54cf0edc4b4f995ae4c85795b4b6"><a name="zh-cn_topic_0083857396_a253c54cf0edc4b4f995ae4c85795b4b6"></a><a name="zh-cn_topic_0083857396_a253c54cf0edc4b4f995ae4c85795b4b6"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44692528">表12</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10140379"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10140379"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10140379"></a>-</p>
 </td>
@@ -623,21 +623,21 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row40491146"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58557380"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58557380"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58557380"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a4249446039654944804f5e455b53dacf"><a name="zh-cn_topic_0083857396_a4249446039654944804f5e455b53dacf"></a><a name="zh-cn_topic_0083857396_a4249446039654944804f5e455b53dacf"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a4249446039654944804f5e455b53dacf"><a name="zh-cn_topic_0083857396_a4249446039654944804f5e455b53dacf"></a><a name="zh-cn_topic_0083857396_a4249446039654944804f5e455b53dacf"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p63837475"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p63837475"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p63837475"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row37666363"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31076558"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31076558"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31076558"></a>spec</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a875ecde10b8f42a4a98e06cb10a0f192"><a name="zh-cn_topic_0083857396_a875ecde10b8f42a4a98e06cb10a0f192"></a><a name="zh-cn_topic_0083857396_a875ecde10b8f42a4a98e06cb10a0f192"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table29051967">表16</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a875ecde10b8f42a4a98e06cb10a0f192"><a name="zh-cn_topic_0083857396_a875ecde10b8f42a4a98e06cb10a0f192"></a><a name="zh-cn_topic_0083857396_a875ecde10b8f42a4a98e06cb10a0f192"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table29051967">表16</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16572114"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16572114"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16572114"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row14931301"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1475883"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1475883"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1475883"></a>status</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a8b7892f94c4a427bbf2291985cce3ed0"><a name="zh-cn_topic_0083857396_a8b7892f94c4a427bbf2291985cce3ed0"></a><a name="zh-cn_topic_0083857396_a8b7892f94c4a427bbf2291985cce3ed0"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table60141117">表17</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a8b7892f94c4a427bbf2291985cce3ed0"><a name="zh-cn_topic_0083857396_a8b7892f94c4a427bbf2291985cce3ed0"></a><a name="zh-cn_topic_0083857396_a8b7892f94c4a427bbf2291985cce3ed0"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table60141117">表17</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19595752"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19595752"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19595752"></a>-</p>
 </td>
@@ -672,7 +672,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_r43674f133d104fde9b689a2dbb32bebd"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a9958228064a141b78314fc31dc2cfef4"><a name="zh-cn_topic_0083857396_a9958228064a141b78314fc31dc2cfef4"></a><a name="zh-cn_topic_0083857396_a9958228064a141b78314fc31dc2cfef4"></a>initializers</p>
 </td>
-<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"><a name="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"></a><a name="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t050e77dc2b1644c895d89f389e46d859">表18</a></p>
+<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"><a name="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"></a><a name="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"></a><a href="#zh-cn_topic_0083857396_t050e77dc2b1644c895d89f389e46d859">表18</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_abaad277f9538439a8641066f3e601ed5"><a name="zh-cn_topic_0083857396_abaad277f9538439a8641066f3e601ed5"></a><a name="zh-cn_topic_0083857396_abaad277f9538439a8641066f3e601ed5"></a>(A newly added parameter in Kubernetes 1.7)</p>
 <p id="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"><a name="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"></a><a name="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"></a>An initializer is a controller which enforces some system invariant at object creation time. This field is a list of initializers that have not yet acted on this object. If nil or empty, this object has been completely initialized. Otherwise, the object is considered uninitialized and is hidden (in list/watch and get calls) from clients that haven't explicitly asked to observe uninitialized objects. When an object is created, the system will populate this list with the current set of initializers. Only privileged users may set or modify this list. Once it is empty, it may not be modified further by any user.</p>
@@ -759,7 +759,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_rb1bb50c174b447a79ee9854c6e6739c1"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a599fe60be01c4d7a9a745d7925bc7e09"><a name="zh-cn_topic_0083857396_a599fe60be01c4d7a9a745d7925bc7e09"></a><a name="zh-cn_topic_0083857396_a599fe60be01c4d7a9a745d7925bc7e09"></a>ownerReferences</p>
 </td>
-<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_ab6b5169a4eb04f2688ef7ff4cc4f207d"><a name="zh-cn_topic_0083857396_ab6b5169a4eb04f2688ef7ff4cc4f207d"></a><a name="zh-cn_topic_0083857396_ab6b5169a4eb04f2688ef7ff4cc4f207d"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t9b2c5d4719b24ea6a40f0f5e7bd366b8">表24</a></p>
+<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_ab6b5169a4eb04f2688ef7ff4cc4f207d"><a name="zh-cn_topic_0083857396_ab6b5169a4eb04f2688ef7ff4cc4f207d"></a><a name="zh-cn_topic_0083857396_ab6b5169a4eb04f2688ef7ff4cc4f207d"></a><a href="#zh-cn_topic_0083857396_t9b2c5d4719b24ea6a40f0f5e7bd366b8">表24</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a2209e70c347a48a281b58a635d1535a6"><a name="zh-cn_topic_0083857396_a2209e70c347a48a281b58a635d1535a6"></a><a name="zh-cn_topic_0083857396_a2209e70c347a48a281b58a635d1535a6"></a>List of objects depended by this object. If ALL objects in the list have been deleted, this object will be garbage collected. If this object is managed by a controller, then an entry in this list will point to this controller, with the controller field set to true. There cannot be more than one managing controller.</p>
 </td>
@@ -808,7 +808,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row43029967"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62875317"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62875317"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62875317"></a>template</p>
 </td>
-<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a21262b64622d4d629c9a43cf4b4f27a6"><a name="zh-cn_topic_0083857396_a21262b64622d4d629c9a43cf4b4f27a6"></a><a name="zh-cn_topic_0083857396_a21262b64622d4d629c9a43cf4b4f27a6"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table4399144">表25</a></p>
+<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a21262b64622d4d629c9a43cf4b4f27a6"><a name="zh-cn_topic_0083857396_a21262b64622d4d629c9a43cf4b4f27a6"></a><a name="zh-cn_topic_0083857396_a21262b64622d4d629c9a43cf4b4f27a6"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table4399144">表25</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6771634"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6771634"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6771634"></a>-</p>
 </td>
@@ -857,7 +857,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_ra1e039c700dd45c0887b851b6801c63e"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a2f587920564648798b485678b3e2dfae"><a name="zh-cn_topic_0083857396_a2f587920564648798b485678b3e2dfae"></a><a name="zh-cn_topic_0083857396_a2f587920564648798b485678b3e2dfae"></a>conditions</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a38471d8e5bc24c77b622a2e440320a5d"><a name="zh-cn_topic_0083857396_a38471d8e5bc24c77b622a2e440320a5d"></a><a name="zh-cn_topic_0083857396_a38471d8e5bc24c77b622a2e440320a5d"></a><a href="#cci_02_0066__t0136d24c39ae4df89959d36b2119f260">表51</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a38471d8e5bc24c77b622a2e440320a5d"><a name="zh-cn_topic_0083857396_a38471d8e5bc24c77b622a2e440320a5d"></a><a name="zh-cn_topic_0083857396_a38471d8e5bc24c77b622a2e440320a5d"></a><a href="#t0136d24c39ae4df89959d36b2119f260">表51</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_afa4284a82e8544c782344bb59345468a"><a name="zh-cn_topic_0083857396_afa4284a82e8544c782344bb59345468a"></a><a name="zh-cn_topic_0083857396_afa4284a82e8544c782344bb59345468a"></a>Represents the latest available observations of a replication controller's current state.</p>
 </td>
@@ -885,7 +885,7 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_r232080d946b142898970428e54b64066"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p128321049407"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p128321049407"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p128321049407"></a>pending</p>
 </td>
-<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t692762a9bbc843b5896568bfd21b9648">表19</a></p>
+<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"></a><a href="#zh-cn_topic_0083857396_t692762a9bbc843b5896568bfd21b9648">表19</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p127263811423"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p127263811423"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p127263811423"></a>(A newly added parameter in Kubernetes 1.7)</p>
 <p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"></a>Pending is a list of initializers that must execute in order before this object is visible. When the last pending initializer is removed, and no failing result is set, the initializers struct will be set to nil and the object is considered as initialized and visible to all clients.</p>
@@ -893,7 +893,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_r80ee49e795914b3682ccb2c3036316df"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a0b303b01e17f4f90b3301f27cff4d110"><a name="zh-cn_topic_0083857396_a0b303b01e17f4f90b3301f27cff4d110"></a><a name="zh-cn_topic_0083857396_a0b303b01e17f4f90b3301f27cff4d110"></a>result</p>
 </td>
-<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"><a name="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"></a><a name="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t6c6ba0cfa7084a419291c2d12d305875">表20</a></p>
+<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"><a name="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"></a><a name="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"></a><a href="#zh-cn_topic_0083857396_t6c6ba0cfa7084a419291c2d12d305875">表20</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p155339581656"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p155339581656"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p155339581656"></a>(A newly added parameter in Kubernetes 1.7)</p>
 <p id="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"><a name="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"></a><a name="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"></a>If result is set with the Failure field, the object will be persisted to storage and then deleted, ensuring that other clients can observe the deletion.</p>
@@ -953,7 +953,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_r3f56a6a641324124af9617a10a798517"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a4a94c6b95e754a27ad1996ce074f9d7e"><a name="zh-cn_topic_0083857396_a4a94c6b95e754a27ad1996ce074f9d7e"></a><a name="zh-cn_topic_0083857396_a4a94c6b95e754a27ad1996ce074f9d7e"></a>details</p>
 </td>
-<td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t8621cc18eac440e38feedc125a229d1d">表21</a></p>
+<td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"></a><a href="#zh-cn_topic_0083857396_t8621cc18eac440e38feedc125a229d1d">表21</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p123052279463"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p123052279463"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p123052279463"></a>(A newly added parameter in Kubernetes 1.7)</p>
 <p id="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"><a name="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"></a><a name="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"></a>Extended data associated with the reason. Each reason may define its own extended details. This field is optional and the data returned is not guaranteed to conform to any schema except that defined by the reason type.</p>
@@ -977,7 +977,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_rf95715f7e760438589d074b2536084fd"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p185817444010"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p185817444010"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p185817444010"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"><a name="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"></a><a name="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_te555e6efe7cd4ab8809d83b30977a22a">表22</a></p>
+<td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"><a name="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"></a><a name="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"></a><a href="#zh-cn_topic_0083857396_te555e6efe7cd4ab8809d83b30977a22a">表22</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1793740954"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1793740954"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1793740954"></a>(A newly added parameter in Kubernetes 1.7)</p>
 <p id="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"><a name="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"></a><a name="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"></a>Standard list metadata.</p>
@@ -1015,7 +1015,7 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_r56ace96e6e5245819c1d1eeb08255212"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_ac0a6b02cc2644d5b9f1f7d28f9f65332"><a name="zh-cn_topic_0083857396_ac0a6b02cc2644d5b9f1f7d28f9f65332"></a><a name="zh-cn_topic_0083857396_ac0a6b02cc2644d5b9f1f7d28f9f65332"></a>causes</p>
 </td>
-<td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t1193c22aa5984fd0b43bfc8f02276db7">表23</a></p>
+<td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"></a><a href="#zh-cn_topic_0083857396_t1193c22aa5984fd0b43bfc8f02276db7">表23</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a931c8d0e25f54a06aa53b88fa8d32648"><a name="zh-cn_topic_0083857396_a931c8d0e25f54a06aa53b88fa8d32648"></a><a name="zh-cn_topic_0083857396_a931c8d0e25f54a06aa53b88fa8d32648"></a>(A newly added parameter in Kubernetes 1.7)</p>
 <p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"></a>The Causes array includes more details associated with the StatusReason failure. Not all StatusReasons may provide detailed causes.</p>
@@ -1202,14 +1202,14 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row29024834"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2201379"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2201379"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2201379"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7f488c22b0f74226b008d9081296131a"><a name="zh-cn_topic_0083857396_a7f488c22b0f74226b008d9081296131a"></a><a name="zh-cn_topic_0083857396_a7f488c22b0f74226b008d9081296131a"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7f488c22b0f74226b008d9081296131a"><a name="zh-cn_topic_0083857396_a7f488c22b0f74226b008d9081296131a"></a><a name="zh-cn_topic_0083857396_a7f488c22b0f74226b008d9081296131a"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158">表15</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14848227"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14848227"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14848227"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row66525186"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19830949"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19830949"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19830949"></a>spec</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a18a6615544394fb1bae1b58bc214799c"><a name="zh-cn_topic_0083857396_a18a6615544394fb1bae1b58bc214799c"></a><a name="zh-cn_topic_0083857396_a18a6615544394fb1bae1b58bc214799c"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table39592297">表26</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a18a6615544394fb1bae1b58bc214799c"><a name="zh-cn_topic_0083857396_a18a6615544394fb1bae1b58bc214799c"></a><a name="zh-cn_topic_0083857396_a18a6615544394fb1bae1b58bc214799c"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table39592297">表26</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53884223"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53884223"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53884223"></a>-</p>
 </td>
@@ -1237,7 +1237,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row31431022"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62884833"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62884833"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62884833"></a>containers</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a1cca5a822e3b42cda35a6851fde6e5e2"><a name="zh-cn_topic_0083857396_a1cca5a822e3b42cda35a6851fde6e5e2"></a><a name="zh-cn_topic_0083857396_a1cca5a822e3b42cda35a6851fde6e5e2"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table21660524">表27</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a1cca5a822e3b42cda35a6851fde6e5e2"><a name="zh-cn_topic_0083857396_a1cca5a822e3b42cda35a6851fde6e5e2"></a><a name="zh-cn_topic_0083857396_a1cca5a822e3b42cda35a6851fde6e5e2"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table21660524">表27</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2094376"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2094376"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2094376"></a>List of containers belonging to the pod. Containers cannot currently be added or removed. There must be at least one container in a Pod. Cannot be updated.</p>
 </td>
@@ -1314,14 +1314,14 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row32581173"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p21829362"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p21829362"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p21829362"></a>securityContext</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23347916"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23347916"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23347916"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875925">表28</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23347916"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23347916"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23347916"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875925">表28</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42088446"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42088446"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42088446"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row43251701"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p13726868"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p13726868"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p13726868"></a>imagePullSecrets</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38134512"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38134512"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38134512"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875945">表29</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38134512"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38134512"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38134512"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875945">表29</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16989553"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16989553"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16989553"></a>ImagePullSecrets is an optional list of references to secrets in the same namespace to use for pulling any of the images used by this PodSpec. If specified, these secrets will be passed to individual puller implementations for them to use. For example, in the case of docker, only DockerConfig type secrets are honored.</p>
 </td>
@@ -1377,21 +1377,21 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row2426788"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62352163"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62352163"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62352163"></a>ports</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17360438"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17360438"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17360438"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table5972994">表33</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17360438"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17360438"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p17360438"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table5972994">表33</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39293304"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39293304"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39293304"></a>List of ports to expose from the container. Cannot be updated.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row18095418"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56442747"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56442747"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56442747"></a>env</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8459760"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8459760"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8459760"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table53756949">表34</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8459760"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8459760"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8459760"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table53756949">表34</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60258576"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60258576"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60258576"></a>List of environment variables to set in the container. Cannot be updated.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row5456280"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39305498"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39305498"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39305498"></a>resources</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p29628785"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p29628785"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p29628785"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t5532c616d0de49d2aabe5e4cad89e370">表35</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p29628785"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p29628785"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p29628785"></a><a href="#zh-cn_topic_0083857396_t5532c616d0de49d2aabe5e4cad89e370">表35</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51121413"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51121413"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51121413"></a>Resources represents the minimum resources the volume should have.</p>
 </td>
@@ -1405,21 +1405,21 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row64610266"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66049029"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66049029"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66049029"></a>livenessProbe</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48371137"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48371137"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48371137"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table59345638">表36</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48371137"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48371137"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48371137"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table59345638">表36</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30405604"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30405604"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30405604"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row5214986"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19760744"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19760744"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p19760744"></a>readinessProbe</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57116406"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57116406"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57116406"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table59345638">表36</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57116406"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57116406"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57116406"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table59345638">表36</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30364352"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30364352"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30364352"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row4843715"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56796626"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56796626"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56796626"></a>lifecycle</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37124018"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37124018"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37124018"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table64348702">表37</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37124018"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37124018"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37124018"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table64348702">表37</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18537444"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18537444"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18537444"></a>-</p>
 </td>
@@ -1440,7 +1440,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row38120704"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p769309"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p769309"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p769309"></a>securityContext</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62314050"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62314050"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62314050"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table42267412">表38</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62314050"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62314050"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62314050"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table42267412">表38</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14273304"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14273304"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p14273304"></a>-</p>
 </td>
@@ -1482,7 +1482,7 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row2793896"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p24979015"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p24979015"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p24979015"></a>seLinuxOptions</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10034359"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10034359"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10034359"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44862393">表39</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10034359"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10034359"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10034359"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44862393">表39</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7476768"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7476768"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7476768"></a>-</p>
 </td>
@@ -1686,7 +1686,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row59928369"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22359750"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22359750"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22359750"></a>valueFrom</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66309348"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66309348"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66309348"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table9975229">表41</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66309348"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66309348"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p66309348"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table9975229">表41</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2348082"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2348082"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2348082"></a>-</p>
 </td>
@@ -1735,21 +1735,21 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row34074728"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8589563"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8589563"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8589563"></a>exec</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_ad7f4b1bad97a4a289f56e6bb6cf75216"><a name="zh-cn_topic_0083857396_ad7f4b1bad97a4a289f56e6bb6cf75216"></a><a name="zh-cn_topic_0083857396_ad7f4b1bad97a4a289f56e6bb6cf75216"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table22668197">表42</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_ad7f4b1bad97a4a289f56e6bb6cf75216"><a name="zh-cn_topic_0083857396_ad7f4b1bad97a4a289f56e6bb6cf75216"></a><a name="zh-cn_topic_0083857396_ad7f4b1bad97a4a289f56e6bb6cf75216"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table22668197">表42</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51786882"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51786882"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51786882"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row63428758"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37455741"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37455741"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37455741"></a>httpGet</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_ad8c45c2a529248198684b536898323ef"><a name="zh-cn_topic_0083857396_ad8c45c2a529248198684b536898323ef"></a><a name="zh-cn_topic_0083857396_ad8c45c2a529248198684b536898323ef"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table2687184">表43</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_ad8c45c2a529248198684b536898323ef"><a name="zh-cn_topic_0083857396_ad8c45c2a529248198684b536898323ef"></a><a name="zh-cn_topic_0083857396_ad8c45c2a529248198684b536898323ef"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table2687184">表43</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61570530"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61570530"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p61570530"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row17263863"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56195629"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56195629"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56195629"></a>tcpSocket</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a11876c77e8b24e53b20491cf62eaef22"><a name="zh-cn_topic_0083857396_a11876c77e8b24e53b20491cf62eaef22"></a><a name="zh-cn_topic_0083857396_a11876c77e8b24e53b20491cf62eaef22"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table24184664">表44</a></p>
+<td class="cellrowborder" valign="top" width="30.330000000000002%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a11876c77e8b24e53b20491cf62eaef22"><a name="zh-cn_topic_0083857396_a11876c77e8b24e53b20491cf62eaef22"></a><a name="zh-cn_topic_0083857396_a11876c77e8b24e53b20491cf62eaef22"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table24184664">表44</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.61%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p3426243"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p3426243"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p3426243"></a>-</p>
 </td>
@@ -1805,14 +1805,14 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row21312323"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48576570"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48576570"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48576570"></a>postStart</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_afa14dbe327584092a1535af0ea8fa01d"><a name="zh-cn_topic_0083857396_afa14dbe327584092a1535af0ea8fa01d"></a><a name="zh-cn_topic_0083857396_afa14dbe327584092a1535af0ea8fa01d"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table16335389">表45</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_afa14dbe327584092a1535af0ea8fa01d"><a name="zh-cn_topic_0083857396_afa14dbe327584092a1535af0ea8fa01d"></a><a name="zh-cn_topic_0083857396_afa14dbe327584092a1535af0ea8fa01d"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table16335389">表45</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10885567"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10885567"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10885567"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row30861244"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16732802"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16732802"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16732802"></a>preStop</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7dbde56db2324974bda611e3e8f68bcb"><a name="zh-cn_topic_0083857396_a7dbde56db2324974bda611e3e8f68bcb"></a><a name="zh-cn_topic_0083857396_a7dbde56db2324974bda611e3e8f68bcb"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table16335389">表45</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7dbde56db2324974bda611e3e8f68bcb"><a name="zh-cn_topic_0083857396_a7dbde56db2324974bda611e3e8f68bcb"></a><a name="zh-cn_topic_0083857396_a7dbde56db2324974bda611e3e8f68bcb"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table16335389">表45</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60924472"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60924472"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60924472"></a>-</p>
 </td>
@@ -1833,7 +1833,7 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row15710183"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p64565334"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p64565334"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p64565334"></a>capabilities</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62409561"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62409561"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62409561"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table12800776">表46</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62409561"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62409561"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p62409561"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table12800776">表46</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22009689"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22009689"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22009689"></a>-</p>
 </td>
@@ -1847,7 +1847,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row64416468"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p50351451"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p50351451"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p50351451"></a>seLinuxOptions</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51935693"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51935693"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51935693"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44862393">表39</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51935693"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51935693"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p51935693"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44862393">表39</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p46041620"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p46041620"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p46041620"></a>-</p>
 </td>
@@ -1931,7 +1931,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row36429313"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p65093277"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p65093277"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p65093277"></a>fieldRef</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38064052"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38064052"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38064052"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table48098122">表47</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38064052"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38064052"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38064052"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table48098122">表47</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p63289392"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p63289392"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p63289392"></a>-</p>
 </td>
@@ -1952,14 +1952,14 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row6946132"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25765781"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25765781"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25765781"></a>fieldRef</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6653511"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6653511"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6653511"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table48098122">表47</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6653511"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6653511"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6653511"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table48098122">表47</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2063505"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2063505"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2063505"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r69c78bd61d9245059b619f92aa1e1060"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53846543114"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53846543114"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53846543114"></a>resourceFieldRef</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p163841559315"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p163841559315"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p163841559315"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t1d4186ca4f8d41b6802b56b71011f7a8">表48</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p163841559315"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p163841559315"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p163841559315"></a><a href="#zh-cn_topic_0083857396_t1d4186ca4f8d41b6802b56b71011f7a8">表48</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a2b82b2ba44454e83b4bf86bfe99fcb80"><a name="zh-cn_topic_0083857396_a2b82b2ba44454e83b4bf86bfe99fcb80"></a><a name="zh-cn_topic_0083857396_a2b82b2ba44454e83b4bf86bfe99fcb80"></a>Selects a resource of the container: only resources limits and requests (limits.cpu, limits.memory, requests.cpu and requests.memory) are currently supported.</p>
 </td>
@@ -2064,21 +2064,21 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row23863445"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53890875"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53890875"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53890875"></a>exec</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7ddc1436f962492fad4079cbb22ffc92"><a name="zh-cn_topic_0083857396_a7ddc1436f962492fad4079cbb22ffc92"></a><a name="zh-cn_topic_0083857396_a7ddc1436f962492fad4079cbb22ffc92"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table22668197">表42</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7ddc1436f962492fad4079cbb22ffc92"><a name="zh-cn_topic_0083857396_a7ddc1436f962492fad4079cbb22ffc92"></a><a name="zh-cn_topic_0083857396_a7ddc1436f962492fad4079cbb22ffc92"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table22668197">表42</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48541486"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48541486"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p48541486"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row34220196"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p20372514"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p20372514"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p20372514"></a>httpGet</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_aa46a45fc7dc04a1e82fe1a2e10517def"><a name="zh-cn_topic_0083857396_aa46a45fc7dc04a1e82fe1a2e10517def"></a><a name="zh-cn_topic_0083857396_aa46a45fc7dc04a1e82fe1a2e10517def"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table2687184">表43</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_aa46a45fc7dc04a1e82fe1a2e10517def"><a name="zh-cn_topic_0083857396_aa46a45fc7dc04a1e82fe1a2e10517def"></a><a name="zh-cn_topic_0083857396_aa46a45fc7dc04a1e82fe1a2e10517def"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table2687184">表43</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p50317270"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p50317270"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p50317270"></a>-</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50202250"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39850440"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39850440"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p39850440"></a>tcpSocket</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a2109314a61634d72ad350a3388b682cb"><a name="zh-cn_topic_0083857396_a2109314a61634d72ad350a3388b682cb"></a><a name="zh-cn_topic_0083857396_a2109314a61634d72ad350a3388b682cb"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_zh-cn_topic_0079614930_table24184664">表44</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a2109314a61634d72ad350a3388b682cb"><a name="zh-cn_topic_0083857396_a2109314a61634d72ad350a3388b682cb"></a><a name="zh-cn_topic_0083857396_a2109314a61634d72ad350a3388b682cb"></a><a href="#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table24184664">表44</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2606194"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2606194"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2606194"></a>TCPSocket specifies an action involving a TCP port. TCP hooks not yet supported.</p>
 </td>
@@ -2099,14 +2099,14 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row16114973"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30244474"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30244474"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30244474"></a>add</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33883319"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33883319"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33883319"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t32d1ae0b791b43ada220117e4f918910">Table68 Data structure of the add field</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33883319"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33883319"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33883319"></a><a href="#zh-cn_topic_0083857396_t32d1ae0b791b43ada220117e4f918910">Table68 Data structure of the add field</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60194300"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60194300"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p60194300"></a>Added capabilities</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row4877794"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59556999"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59556999"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59556999"></a>drop</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59387592"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59387592"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59387592"></a><a href="#cci_02_0066__zh-cn_topic_0083857396_t32d1ae0b791b43ada220117e4f918910">表49</a></p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59387592"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59387592"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59387592"></a><a href="#zh-cn_topic_0083857396_t32d1ae0b791b43ada220117e4f918910">表49</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45665679"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45665679"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45665679"></a>Removed capabilities</p>
 </td>
@@ -2317,7 +2317,7 @@
 </tr>
 <tr id="row5725145710598"><td class="cellrowborder" valign="top" width="16.161616161616163%" headers="mcps1.2.4.1.1 "><p id="p1725135717596"><a name="p1725135717596"></a><a name="p1725135717596"></a>details</p>
 </td>
-<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p1472505725920"><a name="p1472505725920"></a><a name="p1472505725920"></a><a href="#cci_02_0066__table513814471454">StatusDetails</a></p>
+<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p1472505725920"><a name="p1472505725920"></a><a name="p1472505725920"></a><a href="#table513814471454">StatusDetails</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p2072519576598"><a name="p2072519576598"></a><a name="p2072519576598"></a>Extended data associated with the reason. Each reason may define its own extended details. This field is optional and the data returned is not guaranteed to conform to any schema except that defined by the reason type.</p>
 </td>
@@ -2338,7 +2338,7 @@
 </tr>
 <tr id="row7725125745914"><td class="cellrowborder" valign="top" width="16.161616161616163%" headers="mcps1.2.4.1.1 "><p id="p07251357115917"><a name="p07251357115917"></a><a name="p07251357115917"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p117253577593"><a name="p117253577593"></a><a name="p117253577593"></a><a href="#cci_02_0066__table14206179122311">表56 ListMeta v1 meta数据结构说明</a></p>
+<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p117253577593"><a name="p117253577593"></a><a name="p117253577593"></a><a href="#table14206179122311">表56 ListMeta v1 meta数据结构说明</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p19725145705915"><a name="p19725145705915"></a><a name="p19725145705915"></a>Standard list metadata.</p>
 </td>
@@ -2348,7 +2348,7 @@
 <td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p197253575598"><a name="p197253575598"></a><a name="p197253575598"></a>string</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p672555718598"><a name="p672555718598"></a><a name="p672555718598"></a>A machine-readable description of why this operation is in the "Failure" status. If this value is empty there is no information available. A Reason clarifies an HTTP status code but does not override it.</p>
-<div class="notice" id="note201334494311"><a name="note201334494311"></a><a name="note201334494311"></a><span class="noticetitle"> 注意： </span><div class="noticebody"><p id="p14133247432"><a name="p14133247432"></a><a name="p14133247432"></a>reason取值详见表：<a href="#cci_02_0066__table93541738154317">表57</a></p>
+<div class="notice" id="note201334494311"><a name="note201334494311"></a><a name="note201334494311"></a><span class="noticetitle"> 注意： </span><div class="noticebody"><p id="p14133247432"><a name="p14133247432"></a><a name="p14133247432"></a>reason取值详见表：<a href="#table93541738154317">表57</a></p>
 </div></div>
 </td>
 </tr>
@@ -2376,7 +2376,7 @@
 <tbody><tr id="row15138194715514"><td class="cellrowborder" valign="top" width="14.141414141414144%" headers="mcps1.2.4.1.1 "><p id="p3138174711515"><a name="p3138174711515"></a><a name="p3138174711515"></a>causes</p>
 </td>
 <td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p687313212613"><a name="p687313212613"></a><a name="p687313212613"></a>array</p>
-<p id="p1713814715518"><a name="p1713814715518"></a><a name="p1713814715518"></a><a href="#cci_02_0066__table17518521795">StatusCause</a></p>
+<p id="p1713814715518"><a name="p1713814715518"></a><a name="p1713814715518"></a><a href="#table17518521795">StatusCause</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="70.70707070707071%" headers="mcps1.2.4.1.3 "><p id="p1138247058"><a name="p1138247058"></a><a name="p1138247058"></a>The Causes array includes more details associated with the StatusReason failure. Not all StatusReasons may provide detailed causes.</p>
 </td>
@@ -2449,7 +2449,7 @@
 <td class="cellrowborder" valign="top" width="13%" headers="mcps1.2.4.1.2 "><p id="p1751812211392"><a name="p1751812211392"></a><a name="p1751812211392"></a>string</p>
 </td>
 <td class="cellrowborder" valign="top" width="70%" headers="mcps1.2.4.1.3 "><p id="p18518192117911"><a name="p18518192117911"></a><a name="p18518192117911"></a>A machine-readable description of the cause of the error. If this value is empty there is no information available.</p>
-<div class="notice" id="note174271020171217"><a name="note174271020171217"></a><a name="note174271020171217"></a><span class="noticetitle"> 注意： </span><div class="noticebody"><p id="p542712208126"><a name="p542712208126"></a><a name="p542712208126"></a>取值 详见表 <a href="#cci_02_0066__table208502167132">表55 StatusCause Type 说明</a></p>
+<div class="notice" id="note174271020171217"><a name="note174271020171217"></a><a name="note174271020171217"></a><span class="noticetitle"> 注意： </span><div class="noticebody"><p id="p542712208126"><a name="p542712208126"></a><a name="p542712208126"></a>取值 详见表 <a href="#table208502167132">表55 StatusCause Type 说明</a></p>
 </div></div>
 </td>
 </tr>

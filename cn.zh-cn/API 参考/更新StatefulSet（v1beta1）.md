@@ -1,4 +1,4 @@
-# 更新StatefulSet（v1beta1）<a name="cci_02_0042"></a>
+# 更新StatefulSet<a name="cci_02_0042"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0091433692_section53648226"></a>
 

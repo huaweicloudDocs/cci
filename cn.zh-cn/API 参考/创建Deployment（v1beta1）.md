@@ -1,4 +1,4 @@
-# 创建Deployment（v1beta1）<a name="cci_02_0025"></a>
+# 创建Deployment<a name="cci_02_0025"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0083864910_section15904123713483"></a>
 
@@ -88,7 +88,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.07839216078392%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p4986110104112"><a name="zh-cn_topic_0083864910_p4986110104112"></a><a name="zh-cn_topic_0083864910_p4986110104112"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p8864142422612"><a name="zh-cn_topic_0083864910_p8864142422612"></a><a name="zh-cn_topic_0083864910_p8864142422612"></a><a href="#cci_02_0025__zh-cn_topic_0083864910_table15570752102811">表3</a></p>
+<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p8864142422612"><a name="zh-cn_topic_0083864910_p8864142422612"></a><a name="zh-cn_topic_0083864910_p8864142422612"></a><a href="#zh-cn_topic_0083864910_table15570752102811">表3</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.97520247975203%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p086472482619"><a name="zh-cn_topic_0083864910_p086472482619"></a><a name="zh-cn_topic_0083864910_p086472482619"></a>Specification of the desired behavior of the Deployment.</p>
 </td>
@@ -97,7 +97,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.07839216078392%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p3864112482611"><a name="zh-cn_topic_0083864910_p3864112482611"></a><a name="zh-cn_topic_0083864910_p3864112482611"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p586492412263"><a name="zh-cn_topic_0083864910_p586492412263"></a><a name="zh-cn_topic_0083864910_p586492412263"></a><a href="#cci_02_0025__zh-cn_topic_0083864910_table3226535203116">表4</a></p>
+<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p586492412263"><a name="zh-cn_topic_0083864910_p586492412263"></a><a name="zh-cn_topic_0083864910_p586492412263"></a><a href="#zh-cn_topic_0083864910_table3226535203116">表4</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.97520247975203%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p9864162417264"><a name="zh-cn_topic_0083864910_p9864162417264"></a><a name="zh-cn_topic_0083864910_p9864162417264"></a>Most recently observed status of the Deployment. Read-only.</p>
 </td>
@@ -168,7 +168,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p206181610290"><a name="zh-cn_topic_0083864910_p206181610290"></a><a name="zh-cn_topic_0083864910_p206181610290"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p78567169339"><a name="zh-cn_topic_0083864910_p78567169339"></a><a name="zh-cn_topic_0083864910_p78567169339"></a><a href="#cci_02_0025__zh-cn_topic_0083864910_table38158357321">表5</a></p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p78567169339"><a name="zh-cn_topic_0083864910_p78567169339"></a><a name="zh-cn_topic_0083864910_p78567169339"></a><a href="#zh-cn_topic_0083864910_table38158357321">表5</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p46191365294"><a name="zh-cn_topic_0083864910_p46191365294"></a><a name="zh-cn_topic_0083864910_p46191365294"></a>The config this deployment is rolling back to. Will be cleared after rollback is done.</p>
 </td>
@@ -177,7 +177,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p10619126192913"><a name="zh-cn_topic_0083864910_p10619126192913"></a><a name="zh-cn_topic_0083864910_p10619126192913"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p138907188364"><a name="zh-cn_topic_0083864910_p138907188364"></a><a name="zh-cn_topic_0083864910_p138907188364"></a><a href="#cci_02_0025__zh-cn_topic_0083864910_table5344134293516">表6</a></p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p138907188364"><a name="zh-cn_topic_0083864910_p138907188364"></a><a name="zh-cn_topic_0083864910_p138907188364"></a><a href="#zh-cn_topic_0083864910_table5344134293516">表6</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p156190611293"><a name="zh-cn_topic_0083864910_p156190611293"></a><a name="zh-cn_topic_0083864910_p156190611293"></a>Label selector for pods. Existing ReplicaSets whose pods are selected by this will be the ones affected by this deployment.</p>
 </td>
@@ -186,7 +186,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p361936172916"><a name="zh-cn_topic_0083864910_p361936172916"></a><a name="zh-cn_topic_0083864910_p361936172916"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1619116122915"><a name="zh-cn_topic_0083864910_p1619116122915"></a><a name="zh-cn_topic_0083864910_p1619116122915"></a><a href="#cci_02_0025__zh-cn_topic_0083864910_table10348336183618">表7</a></p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1619116122915"><a name="zh-cn_topic_0083864910_p1619116122915"></a><a name="zh-cn_topic_0083864910_p1619116122915"></a><a href="#zh-cn_topic_0083864910_table10348336183618">表7</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p361915616297"><a name="zh-cn_topic_0083864910_p361915616297"></a><a name="zh-cn_topic_0083864910_p361915616297"></a>The deployment strategy to use to replace existing pods with new ones.</p>
 </td>
@@ -239,7 +239,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p377012542314"><a name="zh-cn_topic_0083864910_p377012542314"></a><a name="zh-cn_topic_0083864910_p377012542314"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p5707133213438"><a name="zh-cn_topic_0083864910_p5707133213438"></a><a name="zh-cn_topic_0083864910_p5707133213438"></a><a href="#cci_02_0025__zh-cn_topic_0083864910_table2173152418384">表8</a></p>
+<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p5707133213438"><a name="zh-cn_topic_0083864910_p5707133213438"></a><a name="zh-cn_topic_0083864910_p5707133213438"></a><a href="#zh-cn_topic_0083864910_table2173152418384">表8</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p15770105413316"><a name="zh-cn_topic_0083864910_p15770105413316"></a><a name="zh-cn_topic_0083864910_p15770105413316"></a>Represents the latest available observations of a deployment's current state.</p>
 </td>
@@ -334,7 +334,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.2016201620162%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p1144815011368"><a name="zh-cn_topic_0083864910_p1144815011368"></a><a name="zh-cn_topic_0083864910_p1144815011368"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.801880188018803%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1744810113613"><a name="zh-cn_topic_0083864910_p1744810113613"></a><a name="zh-cn_topic_0083864910_p1744810113613"></a><a href="#cci_02_0025__table96731180568">表9</a></p>
+<td class="cellrowborder" valign="top" width="18.801880188018803%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1744810113613"><a name="zh-cn_topic_0083864910_p1744810113613"></a><a name="zh-cn_topic_0083864910_p1744810113613"></a><a href="#table96731180568">表9</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.92479247924793%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p744813073619"><a name="zh-cn_topic_0083864910_p744813073619"></a><a name="zh-cn_topic_0083864910_p744813073619"></a>matchExpressions is a list of label selector requirements. The requirements are ANDed.</p>
 </td>
@@ -368,7 +368,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p97843653716"><a name="zh-cn_topic_0083864910_p97843653716"></a><a name="zh-cn_topic_0083864910_p97843653716"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p19720175165913"><a name="zh-cn_topic_0083864910_p19720175165913"></a><a name="zh-cn_topic_0083864910_p19720175165913"></a><a href="#cci_02_0025__zh-cn_topic_0083864910_table890691614586">表10</a></p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p19720175165913"><a name="zh-cn_topic_0083864910_p19720175165913"></a><a name="zh-cn_topic_0083864910_p19720175165913"></a><a href="#zh-cn_topic_0083864910_table890691614586">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p17842616373"><a name="zh-cn_topic_0083864910_p17842616373"></a><a name="zh-cn_topic_0083864910_p17842616373"></a>Rolling update config params. Present only if DeploymentStrategyType = RollingUpdate.</p>
 </td>
@@ -571,12 +571,12 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
                         "name": "container-0", 
                         "resources": {
                             "limits": {
-                                "cpu": "1000m", 
-                                "memory": "1536Mi"
+                                "cpu": "500m", 
+                                "memory": "1024Mi"
                             }, 
                             "requests": {
-                                "cpu": "1000m", 
-                                "memory": "1536Mi"
+                                "cpu": "500m", 
+                                "memory": "1024Mi"
                             }
                         }, 
                         "lifecycle": {}

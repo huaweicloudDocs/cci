@@ -1,4 +1,4 @@
-# 删除所有StatefulSet（v1beta1）<a name="cci_02_0037"></a>
+# 删除所有StatefulSet<a name="cci_02_0037"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0091433689_section11422692"></a>
 

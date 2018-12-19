@@ -1,4 +1,4 @@
-# 查询Deployment（v1beta1）<a name="cci_02_0029"></a>
+# 查询Deployment<a name="cci_02_0029"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0083864911_section530813545496"></a>
 

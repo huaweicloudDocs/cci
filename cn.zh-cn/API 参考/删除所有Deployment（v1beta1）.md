@@ -1,4 +1,4 @@
-# 删除所有Deployment（v1beta1）<a name="cci_02_0028"></a>
+# 删除所有Deployment<a name="cci_02_0028"></a>
 
 ## 功能介绍<a name="zh-cn_topic_0091433674_section58759520"></a>
 

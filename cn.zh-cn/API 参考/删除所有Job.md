@@ -104,7 +104,43 @@ DELETE /apis/batch/v1/namespaces/\{namespace\}/jobs
 
 ## 请求消息<a name="section65708320"></a>
 
-N/A
+**请求参数：**
+
+请求参数如[表65](公共参数.md#zh-cn_topic_0091433700_d0e41006)所示。
+
+**请求示例：**
+
+-   只删除Job（对应Pod不删除）：
+
+    ```
+    {
+        "kind": "DeleteOptions",
+        "apiVersion": "v1",
+        "gracePeriodSeconds": 0,
+        "propagationPolicy": "Orphan"
+    }
+    ```
+
+-   前台级联删除（按照Pod-\>Job的顺序进行删除）
+
+    ```
+    {
+        "kind": "DeleteOptions",
+        "apiVersion": "v1",
+        "propagationPolicy": "Foreground"
+    }
+    ```
+
+-   后台级联删除（按照Job-\>Pod的顺序进行删除）
+
+    ```
+    {
+        "kind": "DeleteOptions",
+        "apiVersion": "v1",
+        "propagationPolicy": "Background"
+    }
+    ```
+
 
 ## 响应消息<a name="section54503971"></a>
 

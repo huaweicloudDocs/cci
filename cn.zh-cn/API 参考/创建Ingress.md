@@ -23,7 +23,7 @@ selector:
 其中：
 
 -   lables参数下“app“参数所键入的“appname“为显示在CCI工作负载界面上的工作负载名称，其值与Deployment/StatefuleSet的“metadata.name“中所添加的内容一致。
--   selector参数下“app“的值与需要关联的Deployment的“spec.selector“保持一致。
+-   selector参数下“app“的值与需要关联的Deployment/StatefuleSet的“spec.selector“保持一致。
 
 ## URI<a name="section14030938"></a>
 

@@ -37,7 +37,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48539332"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48539332"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48539332"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39371826"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39371826"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39371826"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39371826"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39371826"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39371826"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35001377"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35001377"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35001377"></a>-</p>
 </td>
@@ -46,7 +46,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44678570"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44678570"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44678570"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62194446"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62194446"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62194446"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table52089545">表20</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62194446"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62194446"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62194446"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table52089545">表20</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4585366"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4585366"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4585366"></a>-</p>
 </td>
@@ -91,7 +91,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10477980"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10477980"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10477980"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a5ec02a9b6db6400ca95907e0f2994ef2"><a name="zh-cn_topic_0083857342_a5ec02a9b6db6400ca95907e0f2994ef2"></a><a name="zh-cn_topic_0083857342_a5ec02a9b6db6400ca95907e0f2994ef2"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a5ec02a9b6db6400ca95907e0f2994ef2"><a name="zh-cn_topic_0083857342_a5ec02a9b6db6400ca95907e0f2994ef2"></a><a name="zh-cn_topic_0083857342_a5ec02a9b6db6400ca95907e0f2994ef2"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26553952"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26553952"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26553952"></a>-</p>
 </td>
@@ -100,7 +100,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52837255"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52837255"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52837255"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p51959302"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p51959302"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p51959302"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table66152725">表22</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p51959302"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p51959302"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p51959302"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table66152725">表22</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47953966"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47953966"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47953966"></a>-</p>
 </td>
@@ -109,7 +109,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42348363"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42348363"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42348363"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7665379"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7665379"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7665379"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table6622601">表3</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7665379"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7665379"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7665379"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table6622601">表3</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16915976"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16915976"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16915976"></a>-</p>
 </td>
@@ -143,7 +143,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47203227"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47203227"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47203227"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65365037"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65365037"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65365037"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table59603417">表4</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65365037"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65365037"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65365037"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table59603417">表4</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60076631"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60076631"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60076631"></a>Current service state of the pod.</p>
 </td>
@@ -197,7 +197,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12507294"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12507294"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12507294"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p6457885"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p6457885"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p6457885"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table66668712">表5</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p6457885"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p6457885"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p6457885"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table66668712">表5</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53326701"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53326701"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53326701"></a>The list has one entry per container in the manifest. Each entry is currently the output of docker inspect.</p>
 </td>
@@ -301,7 +301,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p22488863"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p22488863"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p22488863"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8f86e29d0d4f483ea9af73e09e86bd23"><a name="zh-cn_topic_0083857342_a8f86e29d0d4f483ea9af73e09e86bd23"></a><a name="zh-cn_topic_0083857342_a8f86e29d0d4f483ea9af73e09e86bd23"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table63147504">表6</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8f86e29d0d4f483ea9af73e09e86bd23"><a name="zh-cn_topic_0083857342_a8f86e29d0d4f483ea9af73e09e86bd23"></a><a name="zh-cn_topic_0083857342_a8f86e29d0d4f483ea9af73e09e86bd23"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table63147504">表6</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44153132"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44153132"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44153132"></a>-</p>
 </td>
@@ -310,7 +310,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18939022"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18939022"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18939022"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a290cf05c45344636b5cbca4fa3e84fcc"><a name="zh-cn_topic_0083857342_a290cf05c45344636b5cbca4fa3e84fcc"></a><a name="zh-cn_topic_0083857342_a290cf05c45344636b5cbca4fa3e84fcc"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table63147504">表6</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a290cf05c45344636b5cbca4fa3e84fcc"><a name="zh-cn_topic_0083857342_a290cf05c45344636b5cbca4fa3e84fcc"></a><a name="zh-cn_topic_0083857342_a290cf05c45344636b5cbca4fa3e84fcc"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table63147504">表6</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p40422241"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p40422241"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p40422241"></a>-</p>
 </td>
@@ -380,7 +380,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56875922"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56875922"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56875922"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a70bad63696214a80a635807800057217"><a name="zh-cn_topic_0083857342_a70bad63696214a80a635807800057217"></a><a name="zh-cn_topic_0083857342_a70bad63696214a80a635807800057217"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table31456624">表7</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a70bad63696214a80a635807800057217"><a name="zh-cn_topic_0083857342_a70bad63696214a80a635807800057217"></a><a name="zh-cn_topic_0083857342_a70bad63696214a80a635807800057217"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table31456624">表7</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37641542"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37641542"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37641542"></a>-</p>
 </td>
@@ -389,7 +389,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49866595"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49866595"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49866595"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a92748707c5584ae5b61401ac06ff78d5"><a name="zh-cn_topic_0083857342_a92748707c5584ae5b61401ac06ff78d5"></a><a name="zh-cn_topic_0083857342_a92748707c5584ae5b61401ac06ff78d5"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table14674162">表8</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a92748707c5584ae5b61401ac06ff78d5"><a name="zh-cn_topic_0083857342_a92748707c5584ae5b61401ac06ff78d5"></a><a name="zh-cn_topic_0083857342_a92748707c5584ae5b61401ac06ff78d5"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table14674162">表8</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19019038"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19019038"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19019038"></a>-</p>
 </td>
@@ -398,7 +398,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p55444801"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p55444801"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p55444801"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a06cc826f42744b24865d33f28be20cce"><a name="zh-cn_topic_0083857342_a06cc826f42744b24865d33f28be20cce"></a><a name="zh-cn_topic_0083857342_a06cc826f42744b24865d33f28be20cce"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table64958600">表9</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a06cc826f42744b24865d33f28be20cce"><a name="zh-cn_topic_0083857342_a06cc826f42744b24865d33f28be20cce"></a><a name="zh-cn_topic_0083857342_a06cc826f42744b24865d33f28be20cce"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table64958600">表9</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43298646"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43298646"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43298646"></a>-</p>
 </td>
@@ -583,7 +583,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a0314e1962ef847328758d9fc451ec0c4"><a name="zh-cn_topic_0083857342_a0314e1962ef847328758d9fc451ec0c4"></a><a name="zh-cn_topic_0083857342_a0314e1962ef847328758d9fc451ec0c4"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_aad3f959e5e404dff95bb6244adc0d228"><a name="zh-cn_topic_0083857342_aad3f959e5e404dff95bb6244adc0d228"></a><a name="zh-cn_topic_0083857342_aad3f959e5e404dff95bb6244adc0d228"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t693768b66dfa47239c0f155ad4dd18e8">表11</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_aad3f959e5e404dff95bb6244adc0d228"><a name="zh-cn_topic_0083857342_aad3f959e5e404dff95bb6244adc0d228"></a><a name="zh-cn_topic_0083857342_aad3f959e5e404dff95bb6244adc0d228"></a><a href="#zh-cn_topic_0083857342_t693768b66dfa47239c0f155ad4dd18e8">表11</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p446541317194"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p446541317194"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p446541317194"></a>(A newly added parameter in Kubernetes 1.7)</p>
 <p id="zh-cn_topic_0083857342_af039aab6875e4fc4abd420dd5f11ee95"><a name="zh-cn_topic_0083857342_af039aab6875e4fc4abd420dd5f11ee95"></a><a name="zh-cn_topic_0083857342_af039aab6875e4fc4abd420dd5f11ee95"></a>An initializer is a controller which enforces some system invariant at object creation time. This field is a list of initializers that have not yet acted on this object. If nil or empty, this object has been completely initialized. Otherwise, the object is considered uninitialized and is hidden (in list/watch and get calls) from clients that haven't explicitly asked to observe uninitialized objects. When an object is created, the system will populate this list with the current set of initializers. Only privileged users may set or modify this list. Once it is empty, it may not be modified further by any user.</p>
@@ -706,7 +706,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a2391d7de25274b2ea534b2cef7753504"><a name="zh-cn_topic_0083857342_a2391d7de25274b2ea534b2cef7753504"></a><a name="zh-cn_topic_0083857342_a2391d7de25274b2ea534b2cef7753504"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a9337098256ce459fadb3f377ff492a20"><a name="zh-cn_topic_0083857342_a9337098256ce459fadb3f377ff492a20"></a><a name="zh-cn_topic_0083857342_a9337098256ce459fadb3f377ff492a20"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t750cc4dd5dd645d6963dcde2ebd1be84">表17</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a9337098256ce459fadb3f377ff492a20"><a name="zh-cn_topic_0083857342_a9337098256ce459fadb3f377ff492a20"></a><a name="zh-cn_topic_0083857342_a9337098256ce459fadb3f377ff492a20"></a><a href="#zh-cn_topic_0083857342_t750cc4dd5dd645d6963dcde2ebd1be84">表17</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a489121aa4a0f4728b51a06425d8ff437"><a name="zh-cn_topic_0083857342_a489121aa4a0f4728b51a06425d8ff437"></a><a name="zh-cn_topic_0083857342_a489121aa4a0f4728b51a06425d8ff437"></a>(A newly added parameter in Kubernetes 1.3)</p>
 <p id="zh-cn_topic_0083857342_aba90d6ba8e034efdb57027b598623dfc"><a name="zh-cn_topic_0083857342_aba90d6ba8e034efdb57027b598623dfc"></a><a name="zh-cn_topic_0083857342_aba90d6ba8e034efdb57027b598623dfc"></a>List of objects depended by this object. If ALL objects in the list have been deleted, this object will be garbage collected. If this object is managed by a controller, then an entry in this list will point to this controller, with the controller field set to true. There cannot be more than one managing controller.</p>
@@ -742,7 +742,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="17.348265173482645%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_abf3f5c4956bb41aab0a19a58ae25a533"><a name="zh-cn_topic_0083857342_abf3f5c4956bb41aab0a19a58ae25a533"></a><a name="zh-cn_topic_0083857342_abf3f5c4956bb41aab0a19a58ae25a533"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p683244194010"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p683244194010"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p683244194010"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t7e798f1bd8de403bbd92f0c647f7a961">表12</a></p>
+<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p683244194010"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p683244194010"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p683244194010"></a><a href="#zh-cn_topic_0083857342_t7e798f1bd8de403bbd92f0c647f7a961">表12</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p127263811423"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p127263811423"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p127263811423"></a></p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p783254124017"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p783254124017"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p783254124017"></a>Pending is a list of initializers that must execute in order before this object is visible. When the last pending initializer is removed, and no failing result is set, the initializers struct will be set to nil and the object is considered as initialized and visible to all clients.</p>
@@ -752,7 +752,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="17.348265173482645%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a77c4ee22a8f14969b6dc7d4c191b77a3"><a name="zh-cn_topic_0083857342_a77c4ee22a8f14969b6dc7d4c191b77a3"></a><a name="zh-cn_topic_0083857342_a77c4ee22a8f14969b6dc7d4c191b77a3"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a7fad437e9915428ca604fb6992e87c5f"><a name="zh-cn_topic_0083857342_a7fad437e9915428ca604fb6992e87c5f"></a><a name="zh-cn_topic_0083857342_a7fad437e9915428ca604fb6992e87c5f"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t835b0e0450bb4249a6346dfe1f860a65">表13</a></p>
+<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a7fad437e9915428ca604fb6992e87c5f"><a name="zh-cn_topic_0083857342_a7fad437e9915428ca604fb6992e87c5f"></a><a name="zh-cn_topic_0083857342_a7fad437e9915428ca604fb6992e87c5f"></a><a href="#zh-cn_topic_0083857342_t835b0e0450bb4249a6346dfe1f860a65">表13</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p155339581656"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p155339581656"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p155339581656"></a></p>
 <p id="zh-cn_topic_0083857342_a921239036d2845f0978cde53bf270761"><a name="zh-cn_topic_0083857342_a921239036d2845f0978cde53bf270761"></a><a name="zh-cn_topic_0083857342_a921239036d2845f0978cde53bf270761"></a>If result is set with the Failure field, the object will be persisted to storage and then deleted, ensuring that other clients can observe the deletion.</p>
@@ -824,7 +824,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="17.348265173482645%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a0cfa6ea3de39470ab24fb74a58aca92c"><a name="zh-cn_topic_0083857342_a0cfa6ea3de39470ab24fb74a58aca92c"></a><a name="zh-cn_topic_0083857342_a0cfa6ea3de39470ab24fb74a58aca92c"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p198578414402"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p198578414402"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p198578414402"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t575b8f0cebbf4c2c8be8e64172c0bc1b">表14</a></p>
+<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p198578414402"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p198578414402"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p198578414402"></a><a href="#zh-cn_topic_0083857342_t575b8f0cebbf4c2c8be8e64172c0bc1b">表14</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p123052279463"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p123052279463"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p123052279463"></a></p>
 <p id="zh-cn_topic_0083857342_ab3081af864fe4f1b801fac6317695c0c"><a name="zh-cn_topic_0083857342_ab3081af864fe4f1b801fac6317695c0c"></a><a name="zh-cn_topic_0083857342_ab3081af864fe4f1b801fac6317695c0c"></a>Extended data associated with the reason. Each reason may define its own extended details. This field is optional and the data returned is not guaranteed to conform to any schema except that defined by the reason type.</p>
@@ -854,7 +854,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="17.348265173482645%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_ad8deeac0183d48ba90a288ea142479d1"><a name="zh-cn_topic_0083857342_ad8deeac0183d48ba90a288ea142479d1"></a><a name="zh-cn_topic_0083857342_ad8deeac0183d48ba90a288ea142479d1"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a9e608186124043cfa74851509231bdea"><a name="zh-cn_topic_0083857342_a9e608186124043cfa74851509231bdea"></a><a name="zh-cn_topic_0083857342_a9e608186124043cfa74851509231bdea"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_tfec585109f8845e287eebb730ed9214e">表15</a></p>
+<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a9e608186124043cfa74851509231bdea"><a name="zh-cn_topic_0083857342_a9e608186124043cfa74851509231bdea"></a><a name="zh-cn_topic_0083857342_a9e608186124043cfa74851509231bdea"></a><a href="#zh-cn_topic_0083857342_tfec585109f8845e287eebb730ed9214e">表15</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1793740954"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1793740954"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1793740954"></a></p>
 <p id="zh-cn_topic_0083857342_aea8035fd882243c78f36ede31bbbea6b"><a name="zh-cn_topic_0083857342_aea8035fd882243c78f36ede31bbbea6b"></a><a name="zh-cn_topic_0083857342_aea8035fd882243c78f36ede31bbbea6b"></a>Standard list metadata.</p>
@@ -900,7 +900,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="17.348265173482645%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a2ef9019087ff44e5882fd118d291491a"><a name="zh-cn_topic_0083857342_a2ef9019087ff44e5882fd118d291491a"></a><a name="zh-cn_topic_0083857342_a2ef9019087ff44e5882fd118d291491a"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p487284194011"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p487284194011"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p487284194011"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_tc496db47200d435cbb78c11dc6f172d3">表16</a></p>
+<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p487284194011"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p487284194011"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p487284194011"></a><a href="#zh-cn_topic_0083857342_tc496db47200d435cbb78c11dc6f172d3">表16</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_afe91154576e947c1a57e464b0cff3122"><a name="zh-cn_topic_0083857342_afe91154576e947c1a57e464b0cff3122"></a><a name="zh-cn_topic_0083857342_afe91154576e947c1a57e464b0cff3122"></a></p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15872147403"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15872147403"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15872147403"></a>The Causes array includes more details associated with the StatusReason failure. Not all StatusReasons may provide detailed causes.</p>
@@ -1149,7 +1149,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52973048"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52973048"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52973048"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ab00ae081c40b4642aa7fc32a4ae9b7d1"><a name="zh-cn_topic_0083857342_ab00ae081c40b4642aa7fc32a4ae9b7d1"></a><a name="zh-cn_topic_0083857342_ab00ae081c40b4642aa7fc32a4ae9b7d1"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table52089545">表20</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ab00ae081c40b4642aa7fc32a4ae9b7d1"><a name="zh-cn_topic_0083857342_ab00ae081c40b4642aa7fc32a4ae9b7d1"></a><a name="zh-cn_topic_0083857342_ab00ae081c40b4642aa7fc32a4ae9b7d1"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table52089545">表20</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66472916"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66472916"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66472916"></a>-</p>
 </td>
@@ -1210,7 +1210,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_aa4ce537e1886499991b98798799594a7"><a name="zh-cn_topic_0083857342_aa4ce537e1886499991b98798799594a7"></a><a name="zh-cn_topic_0083857342_aa4ce537e1886499991b98798799594a7"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ab30ccd7b9e5e4a9c874afab3bd408dd5"><a name="zh-cn_topic_0083857342_ab30ccd7b9e5e4a9c874afab3bd408dd5"></a><a name="zh-cn_topic_0083857342_ab30ccd7b9e5e4a9c874afab3bd408dd5"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t98ff3e5ee20d488b9906bd31144724f3">表21</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ab30ccd7b9e5e4a9c874afab3bd408dd5"><a name="zh-cn_topic_0083857342_ab30ccd7b9e5e4a9c874afab3bd408dd5"></a><a name="zh-cn_topic_0083857342_ab30ccd7b9e5e4a9c874afab3bd408dd5"></a><a href="#zh-cn_topic_0083857342_t98ff3e5ee20d488b9906bd31144724f3">表21</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_ab4052f30f2b04c6dac730cb56bd11eb5"><a name="zh-cn_topic_0083857342_ab4052f30f2b04c6dac730cb56bd11eb5"></a><a name="zh-cn_topic_0083857342_ab4052f30f2b04c6dac730cb56bd11eb5"></a>Represents the latest available observations of a replication controller's current state.</p>
 </td>
@@ -1253,7 +1253,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49185071"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49185071"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49185071"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p221640917476"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p221640917476"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p221640917476"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p221640917476"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p221640917476"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p221640917476"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43835397"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43835397"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43835397"></a>-</p>
 </td>
@@ -1262,7 +1262,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47486005"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47486005"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47486005"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a96cf236eb68c45c2988ccc0b2f25614c"><a name="zh-cn_topic_0083857342_a96cf236eb68c45c2988ccc0b2f25614c"></a><a name="zh-cn_topic_0083857342_a96cf236eb68c45c2988ccc0b2f25614c"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table66152725">表22</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a96cf236eb68c45c2988ccc0b2f25614c"><a name="zh-cn_topic_0083857342_a96cf236eb68c45c2988ccc0b2f25614c"></a><a name="zh-cn_topic_0083857342_a96cf236eb68c45c2988ccc0b2f25614c"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table66152725">表22</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p36334077"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p36334077"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p36334077"></a>-</p>
 </td>
@@ -1357,7 +1357,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p257119710473"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p257119710473"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p257119710473"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p205720794711"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p205720794711"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p205720794711"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_tbfd18f2629c14251a5aa840fec915754">表47</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p205720794711"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p205720794711"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p205720794711"></a><a href="#zh-cn_topic_0083857342_tbfd18f2629c14251a5aa840fec915754">表47</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a40478361049b4e2190a4ad86b38d5f50"><a name="zh-cn_topic_0083857342_a40478361049b4e2190a4ad86b38d5f50"></a><a name="zh-cn_topic_0083857342_a40478361049b4e2190a4ad86b38d5f50"></a></p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p257210734719"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p257210734719"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p257210734719"></a>If specified, the pod's scheduling constraints</p>
@@ -1369,7 +1369,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4122781"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4122781"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4122781"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ac0cd576b47784b68bd22b40d2e746385"><a name="zh-cn_topic_0083857342_ac0cd576b47784b68bd22b40d2e746385"></a><a name="zh-cn_topic_0083857342_ac0cd576b47784b68bd22b40d2e746385"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table56770522">表23</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ac0cd576b47784b68bd22b40d2e746385"><a name="zh-cn_topic_0083857342_ac0cd576b47784b68bd22b40d2e746385"></a><a name="zh-cn_topic_0083857342_ac0cd576b47784b68bd22b40d2e746385"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table56770522">表23</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4696217"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4696217"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4696217"></a>List of containers belonging to the pod. Containers cannot currently be added or removed. There must be at least one container in a pod. Cannot be updated.</p>
 </td>
@@ -1421,7 +1421,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a4df15cc58b974d05a71bdf297512704a"><a name="zh-cn_topic_0083857342_a4df15cc58b974d05a71bdf297512704a"></a><a name="zh-cn_topic_0083857342_a4df15cc58b974d05a71bdf297512704a"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_acb0a106a1f3a4c24b830ac7f31d890c2"><a name="zh-cn_topic_0083857342_acb0a106a1f3a4c24b830ac7f31d890c2"></a><a name="zh-cn_topic_0083857342_acb0a106a1f3a4c24b830ac7f31d890c2"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t1fd09529895f445989372ccc67d34544">表58</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_acb0a106a1f3a4c24b830ac7f31d890c2"><a name="zh-cn_topic_0083857342_acb0a106a1f3a4c24b830ac7f31d890c2"></a><a name="zh-cn_topic_0083857342_acb0a106a1f3a4c24b830ac7f31d890c2"></a><a href="#zh-cn_topic_0083857342_t1fd09529895f445989372ccc67d34544">表58</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p331865083518"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p331865083518"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p331865083518"></a></p>
 <p id="zh-cn_topic_0083857342_a5bdf2ffc6ddc42b38734464df77e0dd5"><a name="zh-cn_topic_0083857342_a5bdf2ffc6ddc42b38734464df77e0dd5"></a><a name="zh-cn_topic_0083857342_a5bdf2ffc6ddc42b38734464df77e0dd5"></a>HostAliases is an optional list of hosts and IPs that will be injected into the pod's hosts file if specified. This is only valid for non-hostNetwork pods.</p>
@@ -1535,7 +1535,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7131258"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7131258"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7131258"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_af7db49d62e61456d8abc87c712cde51b"><a name="zh-cn_topic_0083857342_af7db49d62e61456d8abc87c712cde51b"></a><a name="zh-cn_topic_0083857342_af7db49d62e61456d8abc87c712cde51b"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table41172652">表24</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_af7db49d62e61456d8abc87c712cde51b"><a name="zh-cn_topic_0083857342_af7db49d62e61456d8abc87c712cde51b"></a><a name="zh-cn_topic_0083857342_af7db49d62e61456d8abc87c712cde51b"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table41172652">表24</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p13307388"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p13307388"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p13307388"></a>-</p>
 </td>
@@ -1544,7 +1544,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10271087"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10271087"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10271087"></a>使用的镜像是容器镜像服务界面上的“我的镜像”页签中的镜像时必须设置。</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_aec0b072270034a42a6e0122c7ac84baf"><a name="zh-cn_topic_0083857342_aec0b072270034a42a6e0122c7ac84baf"></a><a name="zh-cn_topic_0083857342_aec0b072270034a42a6e0122c7ac84baf"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table35009555">表25</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_aec0b072270034a42a6e0122c7ac84baf"><a name="zh-cn_topic_0083857342_aec0b072270034a42a6e0122c7ac84baf"></a><a name="zh-cn_topic_0083857342_aec0b072270034a42a6e0122c7ac84baf"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table35009555">表25</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11303491"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11303491"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11303491"></a>A list of references to secrets in the same namespace to use for pulling any of the images used by this PodSpec. If specified, these secrets will be passed to individual puller implementations for them to use. For example, in the case of docker, only DockerConfig type secrets are honored.</p>
 </td>
@@ -1553,7 +1553,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a9840c0cdc60e4f27a2f8a9fc65f2993b"><a name="zh-cn_topic_0083857342_a9840c0cdc60e4f27a2f8a9fc65f2993b"></a><a name="zh-cn_topic_0083857342_a9840c0cdc60e4f27a2f8a9fc65f2993b"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_aa16fa8ef21a146a2a6b3255bf7c9cb68"><a name="zh-cn_topic_0083857342_aa16fa8ef21a146a2a6b3255bf7c9cb68"></a><a name="zh-cn_topic_0083857342_aa16fa8ef21a146a2a6b3255bf7c9cb68"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table56770522">表23</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_aa16fa8ef21a146a2a6b3255bf7c9cb68"><a name="zh-cn_topic_0083857342_aa16fa8ef21a146a2a6b3255bf7c9cb68"></a><a name="zh-cn_topic_0083857342_aa16fa8ef21a146a2a6b3255bf7c9cb68"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table56770522">表23</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p919131811365"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p919131811365"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p919131811365"></a></p>
 <p id="zh-cn_topic_0083857342_a110a7effef0d40909e8825d1b5aa8fd6"><a name="zh-cn_topic_0083857342_a110a7effef0d40909e8825d1b5aa8fd6"></a><a name="zh-cn_topic_0083857342_a110a7effef0d40909e8825d1b5aa8fd6"></a>List of initialization containers belonging to the pod. Init containers are executed in order prior to containers being started. If any init container fails, the pod is considered to have failed and is handled according to its restartPolicy. The name for an init container or normal container must be unique among all containers. Init containers may not have Lifecycle actions, Readiness probes, or Liveness probes. The resourceRequirements of an init container are taken into account during scheduling by finding the highest request/limit for each resource type, and then using the max of of that value or the sum of the normal containers. Limits are applied to init containers in a similar fashion. Init containers cannot currently be added or removed.</p>
@@ -1581,7 +1581,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_ad7dd1adf8fac470381e03a9a584c7654"><a name="zh-cn_topic_0083857342_ad7dd1adf8fac470381e03a9a584c7654"></a><a name="zh-cn_topic_0083857342_ad7dd1adf8fac470381e03a9a584c7654"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795112514512"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795112514512"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795112514512"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t9c64dcbb868f45359607f0693e41091c">表62</a></p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795112514512"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795112514512"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795112514512"></a><a href="#zh-cn_topic_0083857342_t9c64dcbb868f45359607f0693e41091c">表62</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_ac165853eb5d94705b3df638f1d12d05d"><a name="zh-cn_topic_0083857342_ac165853eb5d94705b3df638f1d12d05d"></a><a name="zh-cn_topic_0083857342_ac165853eb5d94705b3df638f1d12d05d"></a></p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795122555115"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795122555115"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p795122555115"></a>If specified, the pod's tolerations.</p>
@@ -1654,7 +1654,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35221125"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35221125"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35221125"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a5901ccc3641e45e6ad18c09b4e353bbd"><a name="zh-cn_topic_0083857342_a5901ccc3641e45e6ad18c09b4e353bbd"></a><a name="zh-cn_topic_0083857342_a5901ccc3641e45e6ad18c09b4e353bbd"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table61256692">Table47 Data structure of the ports field</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a5901ccc3641e45e6ad18c09b4e353bbd"><a name="zh-cn_topic_0083857342_a5901ccc3641e45e6ad18c09b4e353bbd"></a><a name="zh-cn_topic_0083857342_a5901ccc3641e45e6ad18c09b4e353bbd"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table61256692">Table47 Data structure of the ports field</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29983308"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29983308"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29983308"></a>List of ports to expose from the container. Cannot be updated.</p>
 </td>
@@ -1663,7 +1663,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18330915"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18330915"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18330915"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a3af03e122c534938b0b7d7ef596485d4"><a name="zh-cn_topic_0083857342_a3af03e122c534938b0b7d7ef596485d4"></a><a name="zh-cn_topic_0083857342_a3af03e122c534938b0b7d7ef596485d4"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table14439320">表30</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a3af03e122c534938b0b7d7ef596485d4"><a name="zh-cn_topic_0083857342_a3af03e122c534938b0b7d7ef596485d4"></a><a name="zh-cn_topic_0083857342_a3af03e122c534938b0b7d7ef596485d4"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table14439320">表30</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10054985"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10054985"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10054985"></a>List of environment variables to set in the container. Cannot be updated.</p>
 </td>
@@ -1672,7 +1672,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p185920455401"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p185920455401"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p185920455401"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8b0eb7dc6dc3432b88a05a161057e1ce"><a name="zh-cn_topic_0083857342_a8b0eb7dc6dc3432b88a05a161057e1ce"></a><a name="zh-cn_topic_0083857342_a8b0eb7dc6dc3432b88a05a161057e1ce"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t0da1d4b32d79462a85a53d425612b4fc">表59</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8b0eb7dc6dc3432b88a05a161057e1ce"><a name="zh-cn_topic_0083857342_a8b0eb7dc6dc3432b88a05a161057e1ce"></a><a name="zh-cn_topic_0083857342_a8b0eb7dc6dc3432b88a05a161057e1ce"></a><a href="#zh-cn_topic_0083857342_t0da1d4b32d79462a85a53d425612b4fc">表59</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a8617f51d3edb4e2e97f17dbd8806105e"><a name="zh-cn_topic_0083857342_a8617f51d3edb4e2e97f17dbd8806105e"></a><a name="zh-cn_topic_0083857342_a8617f51d3edb4e2e97f17dbd8806105e"></a></p>
 <p id="zh-cn_topic_0083857342_a0e566aca6835457b9b6e742b829585c5"><a name="zh-cn_topic_0083857342_a0e566aca6835457b9b6e742b829585c5"></a><a name="zh-cn_topic_0083857342_a0e566aca6835457b9b6e742b829585c5"></a>List of sources to populate environment variables in the container. The keys defined within a source must be a C_IDENTIFIER. All invalid keys will be reported as an event when the container is starting. When a key exists in multiple sources, the value associated with the last source will take precedence. Values defined by an Env with a duplicate key will take precedence. Cannot be updated.</p>
@@ -1682,7 +1682,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24732013"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24732013"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24732013"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57136061"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57136061"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57136061"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_tadcecbe6eebe4b1190e9630dce396f2c">表31</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57136061"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57136061"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57136061"></a><a href="#zh-cn_topic_0083857342_tadcecbe6eebe4b1190e9630dce396f2c">表31</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p64618246"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p64618246"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p64618246"></a>Minimum resources the volume should have.</p>
 </td>
@@ -1691,7 +1691,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p34134179"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p34134179"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p34134179"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a036616bd2a214f7aba77b060ae7b7470"><a name="zh-cn_topic_0083857342_a036616bd2a214f7aba77b060ae7b7470"></a><a name="zh-cn_topic_0083857342_a036616bd2a214f7aba77b060ae7b7470"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table62845019">表32</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a036616bd2a214f7aba77b060ae7b7470"><a name="zh-cn_topic_0083857342_a036616bd2a214f7aba77b060ae7b7470"></a><a name="zh-cn_topic_0083857342_a036616bd2a214f7aba77b060ae7b7470"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table62845019">表32</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12074594"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12074594"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12074594"></a>Pod volumes to mount into the container's filesystem. Cannot be updated.</p>
 </td>
@@ -1700,7 +1700,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28166990"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28166990"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28166990"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8deb80db97404e6db63a12615b7be874"><a name="zh-cn_topic_0083857342_a8deb80db97404e6db63a12615b7be874"></a><a name="zh-cn_topic_0083857342_a8deb80db97404e6db63a12615b7be874"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table1046103">表33</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8deb80db97404e6db63a12615b7be874"><a name="zh-cn_topic_0083857342_a8deb80db97404e6db63a12615b7be874"></a><a name="zh-cn_topic_0083857342_a8deb80db97404e6db63a12615b7be874"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table1046103">表33</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52925064"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52925064"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52925064"></a>-</p>
 </td>
@@ -1709,7 +1709,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46541184"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46541184"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46541184"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8d885d658a2c425c98f4ffba0e063517"><a name="zh-cn_topic_0083857342_a8d885d658a2c425c98f4ffba0e063517"></a><a name="zh-cn_topic_0083857342_a8d885d658a2c425c98f4ffba0e063517"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table1046103">表33</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8d885d658a2c425c98f4ffba0e063517"><a name="zh-cn_topic_0083857342_a8d885d658a2c425c98f4ffba0e063517"></a><a name="zh-cn_topic_0083857342_a8d885d658a2c425c98f4ffba0e063517"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table1046103">表33</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11378472"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11378472"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11378472"></a>-</p>
 </td>
@@ -1718,7 +1718,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60557584"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60557584"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60557584"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a77b91d439cd14ea8a84f7107f94312ee"><a name="zh-cn_topic_0083857342_a77b91d439cd14ea8a84f7107f94312ee"></a><a name="zh-cn_topic_0083857342_a77b91d439cd14ea8a84f7107f94312ee"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table28734262">表34</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a77b91d439cd14ea8a84f7107f94312ee"><a name="zh-cn_topic_0083857342_a77b91d439cd14ea8a84f7107f94312ee"></a><a name="zh-cn_topic_0083857342_a77b91d439cd14ea8a84f7107f94312ee"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table28734262">表34</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33837754"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33837754"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33837754"></a>-</p>
 </td>
@@ -1747,7 +1747,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7525275"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7525275"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7525275"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a5b5b4ec266ac4dc3bdb53d4231a7db78"><a name="zh-cn_topic_0083857342_a5b5b4ec266ac4dc3bdb53d4231a7db78"></a><a name="zh-cn_topic_0083857342_a5b5b4ec266ac4dc3bdb53d4231a7db78"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table57281770">表35</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a5b5b4ec266ac4dc3bdb53d4231a7db78"><a name="zh-cn_topic_0083857342_a5b5b4ec266ac4dc3bdb53d4231a7db78"></a><a name="zh-cn_topic_0083857342_a5b5b4ec266ac4dc3bdb53d4231a7db78"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table57281770">表35</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48314965"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48314965"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48314965"></a>-</p>
 </td>
@@ -1799,7 +1799,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p31924758"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p31924758"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p31924758"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35768611"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35768611"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35768611"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table45773889">表36</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35768611"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35768611"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35768611"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table45773889">表36</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11576397"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11576397"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11576397"></a>-</p>
 </td>
@@ -2059,7 +2059,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39682040"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39682040"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p39682040"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60128634"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60128634"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60128634"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table16697504">Table56 Data structure of the valueFrom field</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60128634"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60128634"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p60128634"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table16697504">Table56 Data structure of the valueFrom field</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p38581201"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p38581201"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p38581201"></a>-</p>
 </td>
@@ -2176,7 +2176,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53621294"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53621294"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53621294"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8cb81976ecd84b689fb55a0a02c8ffe6"><a name="zh-cn_topic_0083857342_a8cb81976ecd84b689fb55a0a02c8ffe6"></a><a name="zh-cn_topic_0083857342_a8cb81976ecd84b689fb55a0a02c8ffe6"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table16059811">表39</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8cb81976ecd84b689fb55a0a02c8ffe6"><a name="zh-cn_topic_0083857342_a8cb81976ecd84b689fb55a0a02c8ffe6"></a><a name="zh-cn_topic_0083857342_a8cb81976ecd84b689fb55a0a02c8ffe6"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table16059811">表39</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24645678"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24645678"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24645678"></a>-</p>
 </td>
@@ -2185,7 +2185,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46979855"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46979855"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46979855"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a40a3e1b555c6417599be2087e775b424"><a name="zh-cn_topic_0083857342_a40a3e1b555c6417599be2087e775b424"></a><a name="zh-cn_topic_0083857342_a40a3e1b555c6417599be2087e775b424"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table10320572">表40</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a40a3e1b555c6417599be2087e775b424"><a name="zh-cn_topic_0083857342_a40a3e1b555c6417599be2087e775b424"></a><a name="zh-cn_topic_0083857342_a40a3e1b555c6417599be2087e775b424"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table10320572">表40</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3821339"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3821339"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3821339"></a>-</p>
 </td>
@@ -2194,7 +2194,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26250571"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26250571"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26250571"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ac5b9d70f6c2d45dbbf0e889aba8958d0"><a name="zh-cn_topic_0083857342_ac5b9d70f6c2d45dbbf0e889aba8958d0"></a><a name="zh-cn_topic_0083857342_ac5b9d70f6c2d45dbbf0e889aba8958d0"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table25776284">表41</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ac5b9d70f6c2d45dbbf0e889aba8958d0"><a name="zh-cn_topic_0083857342_ac5b9d70f6c2d45dbbf0e889aba8958d0"></a><a name="zh-cn_topic_0083857342_ac5b9d70f6c2d45dbbf0e889aba8958d0"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table25776284">表41</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28654805"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28654805"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28654805"></a>-</p>
 </td>
@@ -2273,7 +2273,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54336427"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54336427"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54336427"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_abf4f07afc58b4d2bb35adbcf234aa31d"><a name="zh-cn_topic_0083857342_abf4f07afc58b4d2bb35adbcf234aa31d"></a><a name="zh-cn_topic_0083857342_abf4f07afc58b4d2bb35adbcf234aa31d"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table30659964">表42</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_abf4f07afc58b4d2bb35adbcf234aa31d"><a name="zh-cn_topic_0083857342_abf4f07afc58b4d2bb35adbcf234aa31d"></a><a name="zh-cn_topic_0083857342_abf4f07afc58b4d2bb35adbcf234aa31d"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table30659964">表42</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19017117"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19017117"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19017117"></a>-</p>
 </td>
@@ -2282,7 +2282,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p9155596"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p9155596"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p9155596"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a37c33eb7a9554cb69d611c2540b80ecb"><a name="zh-cn_topic_0083857342_a37c33eb7a9554cb69d611c2540b80ecb"></a><a name="zh-cn_topic_0083857342_a37c33eb7a9554cb69d611c2540b80ecb"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table30659964">表42</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a37c33eb7a9554cb69d611c2540b80ecb"><a name="zh-cn_topic_0083857342_a37c33eb7a9554cb69d611c2540b80ecb"></a><a name="zh-cn_topic_0083857342_a37c33eb7a9554cb69d611c2540b80ecb"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table30659964">表42</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7436496"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7436496"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7436496"></a>-</p>
 </td>
@@ -2307,7 +2307,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66097328"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66097328"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66097328"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52283348"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52283348"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52283348"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table7504221">表43</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52283348"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52283348"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52283348"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table7504221">表43</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7092825"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7092825"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7092825"></a>-</p>
 </td>
@@ -2330,7 +2330,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54381543"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54381543"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54381543"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42828888"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42828888"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42828888"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table45773889">表36</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42828888"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42828888"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42828888"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table45773889">表36</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46587942"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46587942"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46587942"></a>-</p>
 </td>
@@ -2436,7 +2436,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45035201"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45035201"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45035201"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23972698"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23972698"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23972698"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table429128">表44</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23972698"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23972698"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23972698"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table429128">表44</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62740391"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62740391"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62740391"></a>-</p>
 </td>
@@ -2445,7 +2445,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p159495511458"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p159495511458"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p159495511458"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ad088a06897ce43f1b99e629b4568e681"><a name="zh-cn_topic_0083857342_ad088a06897ce43f1b99e629b4568e681"></a><a name="zh-cn_topic_0083857342_ad088a06897ce43f1b99e629b4568e681"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t38f0ca2ab8d74dd98de023687b5cfcf1">表45</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ad088a06897ce43f1b99e629b4568e681"><a name="zh-cn_topic_0083857342_ad088a06897ce43f1b99e629b4568e681"></a><a name="zh-cn_topic_0083857342_ad088a06897ce43f1b99e629b4568e681"></a><a href="#zh-cn_topic_0083857342_t38f0ca2ab8d74dd98de023687b5cfcf1">表45</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a2b4b7484dde64f86945766858e8e6349"><a name="zh-cn_topic_0083857342_a2b4b7484dde64f86945766858e8e6349"></a><a name="zh-cn_topic_0083857342_a2b4b7484dde64f86945766858e8e6349"></a>Selects a resource of the container: only resources limits and requests. (limits.cpu, limits.memory, requests.cpu and requests.memory) are currently supported.</p>
 </td>
@@ -2470,7 +2470,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33500465"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33500465"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33500465"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29183140"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29183140"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29183140"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table429128">表44</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29183140"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29183140"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p29183140"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table429128">表44</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15024148"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15024148"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15024148"></a>-</p>
 </td>
@@ -2479,7 +2479,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_aff37d546a1654d10a99525ad1b41a7b0"><a name="zh-cn_topic_0083857342_aff37d546a1654d10a99525ad1b41a7b0"></a><a name="zh-cn_topic_0083857342_aff37d546a1654d10a99525ad1b41a7b0"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43652314109"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43652314109"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43652314109"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t38f0ca2ab8d74dd98de023687b5cfcf1">表45</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43652314109"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43652314109"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43652314109"></a><a href="#zh-cn_topic_0083857342_t38f0ca2ab8d74dd98de023687b5cfcf1">表45</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p77461061111"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p77461061111"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p77461061111"></a>Selects a resource of the container: only resources limits and requests. (limits.cpu, limits.memory, requests.cpu and requests.memory) are currently supported.</p>
 </td>
@@ -2606,7 +2606,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65304051"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65304051"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65304051"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a61cd9b8aeb7f4aa69111bc6a144c8c5c"><a name="zh-cn_topic_0083857342_a61cd9b8aeb7f4aa69111bc6a144c8c5c"></a><a name="zh-cn_topic_0083857342_a61cd9b8aeb7f4aa69111bc6a144c8c5c"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table16059811">表39</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a61cd9b8aeb7f4aa69111bc6a144c8c5c"><a name="zh-cn_topic_0083857342_a61cd9b8aeb7f4aa69111bc6a144c8c5c"></a><a name="zh-cn_topic_0083857342_a61cd9b8aeb7f4aa69111bc6a144c8c5c"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table16059811">表39</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p36893205"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p36893205"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p36893205"></a>-</p>
 </td>
@@ -2615,7 +2615,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18958665"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18958665"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18958665"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a3e5cc8548403462b9c99f129bb369e0d"><a name="zh-cn_topic_0083857342_a3e5cc8548403462b9c99f129bb369e0d"></a><a name="zh-cn_topic_0083857342_a3e5cc8548403462b9c99f129bb369e0d"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table10320572">表40</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a3e5cc8548403462b9c99f129bb369e0d"><a name="zh-cn_topic_0083857342_a3e5cc8548403462b9c99f129bb369e0d"></a><a name="zh-cn_topic_0083857342_a3e5cc8548403462b9c99f129bb369e0d"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table10320572">表40</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35081826"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35081826"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p35081826"></a>-</p>
 </td>
@@ -2624,7 +2624,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p30370233"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p30370233"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p30370233"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ae7d422027b1e4a33bf1051185298a759"><a name="zh-cn_topic_0083857342_ae7d422027b1e4a33bf1051185298a759"></a><a name="zh-cn_topic_0083857342_ae7d422027b1e4a33bf1051185298a759"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_zh-cn_topic_0079614925_table25776284">表41</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ae7d422027b1e4a33bf1051185298a759"><a name="zh-cn_topic_0083857342_ae7d422027b1e4a33bf1051185298a759"></a><a name="zh-cn_topic_0083857342_ae7d422027b1e4a33bf1051185298a759"></a><a href="#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table25776284">表41</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12884892"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12884892"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12884892"></a>TCPSocket specifies an action involving a TCP port. TCP hooks not yet supported.</p>
 </td>
@@ -2649,7 +2649,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12972762"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12972762"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12972762"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44160826"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44160826"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44160826"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t5d748156fbe2402fb321de0cf4f31ebf">Table64 Data structure of the add field</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44160826"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44160826"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44160826"></a><a href="#zh-cn_topic_0083857342_t5d748156fbe2402fb321de0cf4f31ebf">Table64 Data structure of the add field</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20257171"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20257171"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20257171"></a>Added capabilities.</p>
 </td>
@@ -2658,7 +2658,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17305016"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17305016"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17305016"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59529081"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59529081"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59529081"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t5d748156fbe2402fb321de0cf4f31ebf">Table64 Data structure of the add field</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59529081"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59529081"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59529081"></a><a href="#zh-cn_topic_0083857342_t5d748156fbe2402fb321de0cf4f31ebf">Table64 Data structure of the add field</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57126295"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57126295"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57126295"></a>Removed capabilities.</p>
 </td>
@@ -2804,7 +2804,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7987534485"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7987534485"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7987534485"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p940414489"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p940414489"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p940414489"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t73c1a2f755cd4c26a308ffde4c9472d6">表48</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p940414489"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p940414489"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p940414489"></a><a href="#zh-cn_topic_0083857342_t73c1a2f755cd4c26a308ffde4c9472d6">表48</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_afe2d7ec8c34c446eb7fe9ec7e7421fb1"><a name="zh-cn_topic_0083857342_afe2d7ec8c34c446eb7fe9ec7e7421fb1"></a><a name="zh-cn_topic_0083857342_afe2d7ec8c34c446eb7fe9ec7e7421fb1"></a></p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11414518492"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11414518492"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11414518492"></a>Describes node affinity scheduling rules for the pod.</p>
@@ -2814,7 +2814,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12631947482"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12631947482"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12631947482"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1478642483"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1478642483"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1478642483"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_tdaa4038d2198465fbf27b65a84b0e82e">表49</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1478642483"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1478642483"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1478642483"></a><a href="#zh-cn_topic_0083857342_tdaa4038d2198465fbf27b65a84b0e82e">表49</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_abc4de25a48df482d9942260cfbac299b"><a name="zh-cn_topic_0083857342_abc4de25a48df482d9942260cfbac299b"></a><a name="zh-cn_topic_0083857342_abc4de25a48df482d9942260cfbac299b"></a></p>
 <p id="zh-cn_topic_0083857342_a5b3989d2a09148ff888a91df2b63ea87"><a name="zh-cn_topic_0083857342_a5b3989d2a09148ff888a91df2b63ea87"></a><a name="zh-cn_topic_0083857342_a5b3989d2a09148ff888a91df2b63ea87"></a>Describes pod affinity scheduling rules (e.g. co-locate this pod in the same node, zone, etc. as some other pod(s)).</p>
@@ -2824,7 +2824,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_ab4a3d4f602fa4556b0b3523200c9400c"><a name="zh-cn_topic_0083857342_ab4a3d4f602fa4556b0b3523200c9400c"></a><a name="zh-cn_topic_0083857342_ab4a3d4f602fa4556b0b3523200c9400c"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a9c3f5a8de7b04d67aa32daecd96a325a"><a name="zh-cn_topic_0083857342_a9c3f5a8de7b04d67aa32daecd96a325a"></a><a name="zh-cn_topic_0083857342_a9c3f5a8de7b04d67aa32daecd96a325a"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_tdaa4038d2198465fbf27b65a84b0e82e">表49</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a9c3f5a8de7b04d67aa32daecd96a325a"><a name="zh-cn_topic_0083857342_a9c3f5a8de7b04d67aa32daecd96a325a"></a><a name="zh-cn_topic_0083857342_a9c3f5a8de7b04d67aa32daecd96a325a"></a><a href="#zh-cn_topic_0083857342_tdaa4038d2198465fbf27b65a84b0e82e">表49</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p066924733919"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p066924733919"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p066924733919"></a></p>
 <p id="zh-cn_topic_0083857342_a3c64e25c12284740a51670b05d5da7bb"><a name="zh-cn_topic_0083857342_a3c64e25c12284740a51670b05d5da7bb"></a><a name="zh-cn_topic_0083857342_a3c64e25c12284740a51670b05d5da7bb"></a>Describes pod anti-affinity scheduling rules (e.g. avoid putting this pod in the same node, zone, etc. as some other pod(s)).</p>
@@ -2850,7 +2850,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_aab890e8525874e52a6e286393b3fa939"><a name="zh-cn_topic_0083857342_aab890e8525874e52a6e286393b3fa939"></a><a name="zh-cn_topic_0083857342_aab890e8525874e52a6e286393b3fa939"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a022e75d609e54979b8baac92ad96c3eb"><a name="zh-cn_topic_0083857342_a022e75d609e54979b8baac92ad96c3eb"></a><a name="zh-cn_topic_0083857342_a022e75d609e54979b8baac92ad96c3eb"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t006ba8881ab94c2e959daa5be168b8c4">表50</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a022e75d609e54979b8baac92ad96c3eb"><a name="zh-cn_topic_0083857342_a022e75d609e54979b8baac92ad96c3eb"></a><a name="zh-cn_topic_0083857342_a022e75d609e54979b8baac92ad96c3eb"></a><a href="#zh-cn_topic_0083857342_t006ba8881ab94c2e959daa5be168b8c4">表50</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p756946154020"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p756946154020"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p756946154020"></a></p>
 <p id="zh-cn_topic_0083857342_af7c8361d6e2c4e0d8b3e4faeb4d5efa1"><a name="zh-cn_topic_0083857342_af7c8361d6e2c4e0d8b3e4faeb4d5efa1"></a><a name="zh-cn_topic_0083857342_af7c8361d6e2c4e0d8b3e4faeb4d5efa1"></a>The scheduler will prefer to schedule pods to nodes that satisfy the affinity expressions specified by this field, but it may choose a node that violates one or more of the expressions. The node that is most preferred is the one with the greatest sum of weights, i.e. for each node that meets all of the scheduling requirements (resource request, requiredDuringScheduling affinity expressions, etc.), compute a sum by iterating through the elements of this field and adding "weight" to the sum if the node matches the corresponding matchExpressions; the node(s) with the highest sum are the most preferred.</p>
@@ -2860,7 +2860,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p263191112504"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p263191112504"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p263191112504"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a7ec1e39da41a4b5193129738ee2f57a9"><a name="zh-cn_topic_0083857342_a7ec1e39da41a4b5193129738ee2f57a9"></a><a name="zh-cn_topic_0083857342_a7ec1e39da41a4b5193129738ee2f57a9"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_tc27eca87ee0b4a819ab6ee20720e2f45">表51</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a7ec1e39da41a4b5193129738ee2f57a9"><a name="zh-cn_topic_0083857342_a7ec1e39da41a4b5193129738ee2f57a9"></a><a name="zh-cn_topic_0083857342_a7ec1e39da41a4b5193129738ee2f57a9"></a><a href="#zh-cn_topic_0083857342_tc27eca87ee0b4a819ab6ee20720e2f45">表51</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p083771434019"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p083771434019"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p083771434019"></a></p>
 <p id="zh-cn_topic_0083857342_abeaac04f46a349c3bd68145093c08164"><a name="zh-cn_topic_0083857342_abeaac04f46a349c3bd68145093c08164"></a><a name="zh-cn_topic_0083857342_abeaac04f46a349c3bd68145093c08164"></a>If the affinity requirements specified by this field are not met at scheduling time, the pod will not be scheduled onto the node. If the affinity requirements specified by this field cease to be met at some point during pod execution (e.g. due to an update), the system may or may not try to eventually evict the pod from its node.</p>
@@ -2886,7 +2886,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p548991414542"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p548991414542"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p548991414542"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47785331018"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47785331018"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47785331018"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_ta557c04db47245eea38937a835800ed8">表54</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47785331018"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47785331018"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p47785331018"></a><a href="#zh-cn_topic_0083857342_ta557c04db47245eea38937a835800ed8">表54</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a3dbfbb251a814bab9b475ddc2ffa23e1"><a name="zh-cn_topic_0083857342_a3dbfbb251a814bab9b475ddc2ffa23e1"></a><a name="zh-cn_topic_0083857342_a3dbfbb251a814bab9b475ddc2ffa23e1"></a></p>
 <p id="zh-cn_topic_0083857342_a155e0f95505e4a2998e810032ae1b9a2"><a name="zh-cn_topic_0083857342_a155e0f95505e4a2998e810032ae1b9a2"></a><a name="zh-cn_topic_0083857342_a155e0f95505e4a2998e810032ae1b9a2"></a>The scheduler will prefer to schedule pods to nodes that satisfy the affinity expressions specified by this field, but it may choose a node that violates one or more of the expressions. The node that is most preferred is the one with the greatest sum of weights, i.e. for each node that meets all of the scheduling requirements (resource request, requiredDuringScheduling affinity expressions, etc.), compute a sum by iterating through the elements of this field and adding "weight" to the sum if the node has pods which match the corresponding podAffinityTerm; the node(s) with the highest sum are the most preferred.</p>
@@ -2896,7 +2896,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a663465cc4dd3425e9ae32e8378b459e4"><a name="zh-cn_topic_0083857342_a663465cc4dd3425e9ae32e8378b459e4"></a><a name="zh-cn_topic_0083857342_a663465cc4dd3425e9ae32e8378b459e4"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a34e9e471d7df486ba7ed2ddbee212611"><a name="zh-cn_topic_0083857342_a34e9e471d7df486ba7ed2ddbee212611"></a><a name="zh-cn_topic_0083857342_a34e9e471d7df486ba7ed2ddbee212611"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t71c4d466f8914af8b2bdc715f3c17157">表55</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a34e9e471d7df486ba7ed2ddbee212611"><a name="zh-cn_topic_0083857342_a34e9e471d7df486ba7ed2ddbee212611"></a><a name="zh-cn_topic_0083857342_a34e9e471d7df486ba7ed2ddbee212611"></a><a href="#zh-cn_topic_0083857342_t71c4d466f8914af8b2bdc715f3c17157">表55</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a56b90f57fba74bf4b9d43c29f32292a3"><a name="zh-cn_topic_0083857342_a56b90f57fba74bf4b9d43c29f32292a3"></a><a name="zh-cn_topic_0083857342_a56b90f57fba74bf4b9d43c29f32292a3"></a>NOT YET IMPLEMENTED. TODO: Uncomment field once it is implemented. If the affinity requirements specified by this field are not met at scheduling time, the pod will not be scheduled onto the node. If the affinity requirements specified by this field cease to be met at some point during pod execution (e.g. due to a pod label update), the system will try to eventually evict the pod from its node. When there are multiple elements, the lists of nodes corresponding to each podAffinityTerm are intersected, i.e. all terms must be satisfied. RequiredDuringSchedulingRequiredDuringExecution []PodAffinityTerm json:"requiredDuringSchedulingRequiredDuringExecution,omitempty" If the affinity requirements specified by this field are not met at scheduling time, the pod will not be scheduled onto the node. If the affinity requirements specified by this field cease to be met at some point during pod execution (e.g. due to a pod label update), the system may or may not try to eventually evict the pod from its node. When there are multiple elements, the lists of nodes corresponding to each podAffinityTerm are intersected, i.e. all terms must be satisfied.</p>
 </td>
@@ -2921,7 +2921,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1627827904"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1627827904"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1627827904"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p176441327308"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p176441327308"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p176441327308"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t17a1b90b9b294b4eaa152585792e7617">表52</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p176441327308"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p176441327308"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p176441327308"></a><a href="#zh-cn_topic_0083857342_t17a1b90b9b294b4eaa152585792e7617">表52</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p395374211406"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p395374211406"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p395374211406"></a></p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p466117271601"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p466117271601"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p466117271601"></a>A node selector term, associated with the corresponding weight.</p>
@@ -2957,7 +2957,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20814143415"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20814143415"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20814143415"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a6366c9ed87cd4e63b734760e73352310"><a name="zh-cn_topic_0083857342_a6366c9ed87cd4e63b734760e73352310"></a><a name="zh-cn_topic_0083857342_a6366c9ed87cd4e63b734760e73352310"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t17a1b90b9b294b4eaa152585792e7617">表52</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a6366c9ed87cd4e63b734760e73352310"><a name="zh-cn_topic_0083857342_a6366c9ed87cd4e63b734760e73352310"></a><a name="zh-cn_topic_0083857342_a6366c9ed87cd4e63b734760e73352310"></a><a href="#zh-cn_topic_0083857342_t17a1b90b9b294b4eaa152585792e7617">表52</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65915158415"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65915158415"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65915158415"></a></p>
 <p id="zh-cn_topic_0083857342_ac3b890ffe6074337873797b7845bdce3"><a name="zh-cn_topic_0083857342_ac3b890ffe6074337873797b7845bdce3"></a><a name="zh-cn_topic_0083857342_ac3b890ffe6074337873797b7845bdce3"></a>Required. A list of node selector terms. The terms are ORed.</p>
@@ -2983,7 +2983,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a8900a90c4ece490496a7dcae918e60a2"><a name="zh-cn_topic_0083857342_a8900a90c4ece490496a7dcae918e60a2"></a><a name="zh-cn_topic_0083857342_a8900a90c4ece490496a7dcae918e60a2"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45567247412"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45567247412"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45567247412"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_tc4580543ea4b466c8f9c319a6364992e">表53</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45567247412"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45567247412"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45567247412"></a><a href="#zh-cn_topic_0083857342_tc4580543ea4b466c8f9c319a6364992e">表53</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p857231924117"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p857231924117"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p857231924117"></a>(A newly added parameter in Kubernetes 1.7)</p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65731242047"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65731242047"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p65731242047"></a>Required. A list of node selector requirements. The requirements are ANDed.</p>
@@ -3056,7 +3056,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p825414142115"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p825414142115"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p825414142115"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8562c55c4b70434fac466c45cb930bca"><a name="zh-cn_topic_0083857342_a8562c55c4b70434fac466c45cb930bca"></a><a name="zh-cn_topic_0083857342_a8562c55c4b70434fac466c45cb930bca"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t71c4d466f8914af8b2bdc715f3c17157">表55</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a8562c55c4b70434fac466c45cb930bca"><a name="zh-cn_topic_0083857342_a8562c55c4b70434fac466c45cb930bca"></a><a name="zh-cn_topic_0083857342_a8562c55c4b70434fac466c45cb930bca"></a><a href="#zh-cn_topic_0083857342_t71c4d466f8914af8b2bdc715f3c17157">表55</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p797212358417"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p797212358417"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p797212358417"></a></p>
 <p id="zh-cn_topic_0083857342_a585d32de96a44762845be4254c037d3c"><a name="zh-cn_topic_0083857342_a585d32de96a44762845be4254c037d3c"></a><a name="zh-cn_topic_0083857342_a585d32de96a44762845be4254c037d3c"></a>Required. A pod affinity term, associated with the corresponding weight.</p>
@@ -3092,7 +3092,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a6bcc6d86c0c648e99da4f32f9c898464"><a name="zh-cn_topic_0083857342_a6bcc6d86c0c648e99da4f32f9c898464"></a><a name="zh-cn_topic_0083857342_a6bcc6d86c0c648e99da4f32f9c898464"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ad115dc73b43147b69240bfee05edf7bb"><a name="zh-cn_topic_0083857342_ad115dc73b43147b69240bfee05edf7bb"></a><a name="zh-cn_topic_0083857342_ad115dc73b43147b69240bfee05edf7bb"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t9761ecceafe2408fa4ada94298c2557d">表56</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_ad115dc73b43147b69240bfee05edf7bb"><a name="zh-cn_topic_0083857342_ad115dc73b43147b69240bfee05edf7bb"></a><a name="zh-cn_topic_0083857342_ad115dc73b43147b69240bfee05edf7bb"></a><a href="#zh-cn_topic_0083857342_t9761ecceafe2408fa4ada94298c2557d">表56</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a803860419b9c4d468be586cad162f575"><a name="zh-cn_topic_0083857342_a803860419b9c4d468be586cad162f575"></a><a name="zh-cn_topic_0083857342_a803860419b9c4d468be586cad162f575"></a></p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11675141317"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11675141317"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11675141317"></a>A label query over a set of resources, in this case pods.</p>
@@ -3138,7 +3138,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p0156168154"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p0156168154"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p0156168154"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p217317631512"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p217317631512"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p217317631512"></a><a href="#cci_02_0065__zh-cn_topic_0083857342_t9151539b718d4fa8ab6783d827b85620">表57</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p217317631512"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p217317631512"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p217317631512"></a><a href="#zh-cn_topic_0083857342_t9151539b718d4fa8ab6783d827b85620">表57</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a6e3182e132714bb79cde7abcad07e0e6"><a name="zh-cn_topic_0083857342_a6e3182e132714bb79cde7abcad07e0e6"></a><a name="zh-cn_topic_0083857342_a6e3182e132714bb79cde7abcad07e0e6"></a></p>
 <p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p151945671520"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p151945671520"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p151945671520"></a>matchExpressions is a list of label selector requirements. The requirements are ANDed.</p>
@@ -3251,7 +3251,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a1c52d2f9a7094537850a3a03dbf426a2"><a name="zh-cn_topic_0083857342_a1c52d2f9a7094537850a3a03dbf426a2"></a><a name="zh-cn_topic_0083857342_a1c52d2f9a7094537850a3a03dbf426a2"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p202668296441"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p202668296441"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p202668296441"></a><a href="#cci_02_0065__tec427515396240f4920a49535b56f6d2">表60</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p202668296441"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p202668296441"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p202668296441"></a><a href="#tec427515396240f4920a49535b56f6d2">表60</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_af49c412924824bc6a689f626c96ef5c4"><a name="zh-cn_topic_0083857342_af49c412924824bc6a689f626c96ef5c4"></a><a name="zh-cn_topic_0083857342_af49c412924824bc6a689f626c96ef5c4"></a>The ConfigMap to select from</p>
 </td>
@@ -3269,7 +3269,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p166236159448"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p166236159448"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p166236159448"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_af5fe9791a3f24531a6cedf5920cba7ce"><a name="zh-cn_topic_0083857342_af5fe9791a3f24531a6cedf5920cba7ce"></a><a name="zh-cn_topic_0083857342_af5fe9791a3f24531a6cedf5920cba7ce"></a><a href="#cci_02_0065__t9d5712d0cc1143f296b53218ac2ed2ff">表61</a></p>
+<td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_af5fe9791a3f24531a6cedf5920cba7ce"><a name="zh-cn_topic_0083857342_af5fe9791a3f24531a6cedf5920cba7ce"></a><a name="zh-cn_topic_0083857342_af5fe9791a3f24531a6cedf5920cba7ce"></a><a href="#t9d5712d0cc1143f296b53218ac2ed2ff">表61</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a2a4dc249e77b40bab29bc15379e61846"><a name="zh-cn_topic_0083857342_a2a4dc249e77b40bab29bc15379e61846"></a><a name="zh-cn_topic_0083857342_a2a4dc249e77b40bab29bc15379e61846"></a>-</p>
 </td>
@@ -3470,7 +3470,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.388061193880613%" headers="mcps1.2.5.1.2 "><p id="p175798502275"><a name="p175798502275"></a><a name="p175798502275"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.388061193880613%" headers="mcps1.2.5.1.3 "><p id="p1457925022719"><a name="p1457925022719"></a><a name="p1457925022719"></a><em id="i618831313286"><a name="i618831313286"></a><a name="i618831313286"></a><a href="#cci_02_0065__zh-cn_topic_0091433700_d0e41122">Preconditions</a></em></p>
+<td class="cellrowborder" valign="top" width="19.388061193880613%" headers="mcps1.2.5.1.3 "><p id="p1457925022719"><a name="p1457925022719"></a><a name="p1457925022719"></a><em id="i618831313286"><a name="i618831313286"></a><a name="i618831313286"></a><a href="#zh-cn_topic_0091433700_d0e41122">Preconditions</a></em></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.796020397960206%" headers="mcps1.2.5.1.4 "><p id="p125795502278"><a name="p125795502278"></a><a name="p125795502278"></a>Must be fulfilled before a deletion is carried out. If not possible, a 409 Conflict status will be returned.</p>
 </td>

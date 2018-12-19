@@ -80,14 +80,14 @@ POST /api/v1/namespaces
 <td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="a3467669217d84b4c81c113d5e2da8569"><a name="a3467669217d84b4c81c113d5e2da8569"></a><a name="a3467669217d84b4c81c113d5e2da8569"></a><a href="公共参数.md#zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.290000000000006%" headers="mcps1.2.5.1.4 "><p id="p6864112411261"><a name="p6864112411261"></a><a name="p6864112411261"></a>Standard object metadata.</p>
-<p id="p177247555127"><a name="p177247555127"></a><a name="p177247555127"></a>其中annotations字段请参见<a href="#cci_02_3002__table759162211124">表3</a></p>
+<p id="p177247555127"><a name="p177247555127"></a><a name="p177247555127"></a>其中annotations字段请参见<a href="#table759162211124">表3</a></p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0079615062_row21024178"><td class="cellrowborder" valign="top" width="21.8%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0079615062_p25236858"><a name="zh-cn_topic_0079615062_p25236858"></a><a name="zh-cn_topic_0079615062_p25236858"></a>spec</p>
 </td>
 <td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0079615062_p30919631"><a name="zh-cn_topic_0079615062_p30919631"></a><a name="zh-cn_topic_0079615062_p30919631"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="a06e8700df468433aa540a2f15c58b358"><a name="a06e8700df468433aa540a2f15c58b358"></a><a name="a06e8700df468433aa540a2f15c58b358"></a><a href="#cci_02_3002__zh-cn_topic_0079615062_table19390540">表4</a></p>
+<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="a06e8700df468433aa540a2f15c58b358"><a name="a06e8700df468433aa540a2f15c58b358"></a><a name="a06e8700df468433aa540a2f15c58b358"></a><a href="#zh-cn_topic_0079615062_table19390540">表4</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.290000000000006%" headers="mcps1.2.5.1.4 "><p id="p27117293810"><a name="p27117293810"></a><a name="p27117293810"></a>Spec defines the behavior of the Namespace.</p>
 </td>
@@ -96,7 +96,7 @@ POST /api/v1/namespaces
 </td>
 <td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0079615062_p13977142"><a name="zh-cn_topic_0079615062_p13977142"></a><a name="zh-cn_topic_0079615062_p13977142"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="a3336b15d7dc74a08a73e99cd75f4058f"><a name="a3336b15d7dc74a08a73e99cd75f4058f"></a><a name="a3336b15d7dc74a08a73e99cd75f4058f"></a><a href="#cci_02_3002__zh-cn_topic_0079615062_table40297137">表6</a></p>
+<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="a3336b15d7dc74a08a73e99cd75f4058f"><a name="a3336b15d7dc74a08a73e99cd75f4058f"></a><a name="a3336b15d7dc74a08a73e99cd75f4058f"></a><a href="#zh-cn_topic_0079615062_table40297137">表6</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.290000000000006%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0079615062_p33323423"><a name="zh-cn_topic_0079615062_p33323423"></a><a name="zh-cn_topic_0079615062_p33323423"></a>Status describes the current status of a Namespace.</p>
 </td>
@@ -147,7 +147,7 @@ POST /api/v1/namespaces
 <td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0079615062_p29915412"><a name="zh-cn_topic_0079615062_p29915412"></a><a name="zh-cn_topic_0079615062_p29915412"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="p5913192918352"><a name="p5913192918352"></a><a name="p5913192918352"></a>[]FinalizerName</p>
-<p id="p966354019359"><a name="p966354019359"></a><a name="p966354019359"></a><a href="#cci_02_3002__table1330102063316">表5</a></p>
+<p id="p966354019359"><a name="p966354019359"></a><a name="p966354019359"></a><a href="#table1330102063316">表5</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.290000000000006%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0079615062_p48701244"><a name="zh-cn_topic_0079615062_p48701244"></a><a name="zh-cn_topic_0079615062_p48701244"></a>Finalizers is an opaque list of values that must be empty to permanently remove object from storage.</p>
 </td>

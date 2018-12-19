@@ -13,6 +13,8 @@
 -   ssd：超高I/O云硬盘卷
 -   nfs-rw：标准文件协议类型文件存储卷
 
+如果不指定 spec.storageClassName，可以在 metadata.annotations 中指定 volume.beta.kubernetes.io/storage-class，取值含义与spec.storageClassName 相同，这两个参数选择一个即可。
+
 ## URI<a name="sdad79289da6f40bfb1b0726f426f9f1f"></a>
 
 POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
