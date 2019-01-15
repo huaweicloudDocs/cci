@@ -1,4 +1,4 @@
-# API参考
+# CCI API参考
 
 -   [使用前必读](使用前必读.md)
 -   [接口简介](接口简介.md)
@@ -32,7 +32,7 @@
     -   Pod
         -   [创建Pod](创建Pod.md)
         -   [查询Pod](查询Pod.md)
-        -   [查询所有Pod](查询所有Pod.md)
+        -   [查询指定Namespace下所有Pod](查询指定Namespace下所有Pod.md)
         -   [查询Pod状态](查询Pod状态.md)
         -   [查询Pod日志](查询Pod日志.md)
         -   [替换Pod](替换Pod.md)
@@ -43,7 +43,7 @@
     -   Deployment
         -   [创建Deployment](创建Deployment.md)
         -   [查询Deployment](查询Deployment.md)
-        -   [查询所有Deployment](查询所有Deployment.md)
+        -   [查询指定namespace下所有Deployment](查询指定namespace下所有Deployment.md)
         -   [查询Deployment状态](查询Deployment状态.md)
         -   [替换Deployment](替换Deployment.md)
         -   [更新Deployment](更新Deployment.md)
@@ -53,7 +53,7 @@
     -   StatefulSet
         -   [创建StatefulSet](创建StatefulSet.md)
         -   [查询StatefulSet](查询StatefulSet.md)
-        -   [查询所有StatefulSet](查询所有StatefulSet.md)
+        -   [查询指定namespace下所有StatefulSet](查询指定namespace下所有StatefulSet.md)
         -   [查询StatefulSet状态](查询StatefulSet状态.md)
         -   [替换StatefulSet](替换StatefulSet.md)
         -   [更新StatefulSet](更新StatefulSet.md)
@@ -63,7 +63,7 @@
     -   Job
         -   [创建Job](创建Job.md)
         -   [查询Job](查询Job.md)
-        -   [查询所有Job](查询所有Job.md)
+        -   [查询指定namespace下所有Job](查询指定namespace下所有Job.md)
         -   [查询Job状态](查询Job状态.md)
         -   [替换Job](替换Job.md)
         -   [更新Job](更新Job.md)

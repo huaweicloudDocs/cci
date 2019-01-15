@@ -4,15 +4,13 @@
 
 创建一个Pod。
 
-Pod 使用资源的限制如下：
+>![](public_sys-resources/icon-note.gif) **说明：**   
+>Pod的生命周期是短暂的，Pod是用后即焚的实体。在实际使用中，请谨慎单独创建Pod，请使用Deployment、StatefulSet和Job这些控制器创建应用，从而保障应用高可用。  
 
 -   Pod的CPU取值范围为0.25核-32核，且单个容器的CPU必须为0.25核的整数倍
 -   Pod的内存取值范围为1GB-128GB，且内存必须为1GB的整数倍
 -   Pod的CPU/内存配比值必须在1:2到1:4之间
 -   一个Pod内最多支持5个容器，单个容器最小配置是0.25核、0.2GB，最大同容器实例的最大配置
-
->![](public_sys-resources/icon-note.gif) **说明：**   
->Pod的生命周期是短暂的，Pod是用后即焚的实体。在实际使用中，请谨慎单独创建Pod，请使用Deployment、StatefulSet和Job这些控制器创建应用，从而保障应用高可用。  
 
 ## URI<a name="s83bc1fb06185462cb2e2665b169bc85c"></a>
 
@@ -83,7 +81,7 @@ POST /api/v1/namespaces/\{namespace\}/pods
                 "resources": {
                     "requests": {
                         "cpu": "0.5",
-                        "memory": "1024Mi"
+                        "memory": "1024Mi" 
                     },
                     "limits": {
                         "cpu": "0.5",
