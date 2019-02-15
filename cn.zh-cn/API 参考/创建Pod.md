@@ -7,6 +7,17 @@
 >![](public_sys-resources/icon-note.gif) **说明：**   
 >Pod的生命周期是短暂的，Pod是用后即焚的实体。在实际使用中，请谨慎单独创建Pod，请使用Deployment、StatefulSet和Job这些控制器创建应用，从而保障应用高可用。  
 
+您可以选择使用GPU（只能在GPU型命名空间下）或不使用GPU。
+
+当前提供Nvidia Telsla V100 16G显卡（显卡驱动版本: 396.26 | CUDA驱动版本: 9.2），使用GPU时容器规格有如下几种：
+
+-   Nvidia Telsla V100 16G x 1，CPU 4核，内存32GB
+-   Nvidia Telsla V100 16G x 2，CPU 8核，内存64GB
+-   Nvidia Telsla V100 16G x 4，CPU 16核，内存128GB
+-   Nvidia Telsla V100 16G x 8，CPU 32核，内存256GB
+
+不使用GPU时容器规格有如下几种：
+
 -   Pod的CPU取值范围为0.25核-32核，且单个容器的CPU必须为0.25核的整数倍
 -   Pod的内存取值范围为1GB-128GB，且内存必须为1GB的整数倍
 -   Pod的CPU/内存配比值必须在1:2到1:4之间
@@ -86,6 +97,48 @@ POST /api/v1/namespaces/\{namespace\}/pods
                     "limits": {
                         "cpu": "0.5",
                         "memory": "1024Mi"
+                    }
+                }
+            }
+        ],
+        "imagePullSecrets": [
+            {
+                "name": "imagepull-secret"
+            }
+        ],
+        "restartPolicy": "Always"
+    }
+}
+```
+
+创建GPUpod示例：
+
+```
+{
+    "apiVersion": "v1",
+    "kind": "Pod",
+    "metadata": {
+        "labels": {
+            "name": "pod-test"
+        },
+        "name": "pod-test"
+    },
+    "spec": {
+        "containers": [
+            {
+                "image": "redis:3.0",
+                "imagePullPolicy": "Always",
+                "name": "test",
+                "resources": {
+                    "requests": {
+                        "cpu": "4",
+                        "memory": "32Gi", 
+                        "nvidia.com/gpu-tesla-v100-16GB": "1"
+                    },
+                    "limits": {
+                        "cpu": "4",
+                        "memory": "32Gi"
+                        "nvidia.com/gpu-tesla-v100-16GB": "1"
                     }
                 }
             }

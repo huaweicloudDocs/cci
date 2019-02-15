@@ -54,8 +54,7 @@ DELETE /apis/apps/v1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="p419514115597"><a name="p419514115597"></a><a name="p419514115597"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="61.22%" headers="mcps1.2.4.1.3 "><p id="p171951411145913"><a name="p171951411145913"></a><a name="p171951411145913"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="p1719512117596"><a name="p1719512117596"></a><a name="p1719512117596"></a>If true, partially initialized resources are included in the response.</p>
+<td class="cellrowborder" valign="top" width="61.22%" headers="mcps1.2.4.1.3 "><p id="p1719512117596"><a name="p1719512117596"></a><a name="p1719512117596"></a>If true, partially initialized resources are included in the response.</p>
 </td>
 </tr>
 <tr id="row57732278"><td class="cellrowborder" valign="top" width="22.45%" headers="mcps1.2.4.1.1 "><p id="p13195311115914"><a name="p13195311115914"></a><a name="p13195311115914"></a>labelSelector</p>

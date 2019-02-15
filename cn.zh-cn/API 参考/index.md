@@ -27,6 +27,7 @@
     -   Namespace
         -   [创建Namespace](创建Namespace.md)
         -   [查询Namespace](查询Namespace.md)
+        -   [列出Namespace](列出Namespace.md)
         -   [删除Namespace](删除Namespace.md)
 
     -   Pod
@@ -35,6 +36,7 @@
         -   [查询指定Namespace下所有Pod](查询指定Namespace下所有Pod.md)
         -   [查询Pod状态](查询Pod状态.md)
         -   [查询Pod日志](查询Pod日志.md)
+        -   [列出用户所有的Pod](列出用户所有的Pod.md)
         -   [替换Pod](替换Pod.md)
         -   [更新Pod](更新Pod.md)
         -   [删除Pod](删除Pod.md)
@@ -43,10 +45,14 @@
     -   Deployment
         -   [创建Deployment](创建Deployment.md)
         -   [查询Deployment](查询Deployment.md)
-        -   [查询指定namespace下所有Deployment](查询指定namespace下所有Deployment.md)
+        -   [查询Namespace下所有Deployment](查询Namespace下所有Deployment.md)
         -   [查询Deployment状态](查询Deployment状态.md)
+        -   [查询Deployment的伸缩操作](查询Deployment的伸缩操作.md)
+        -   [列出用户所有Deployment](列出用户所有Deployment.md)
         -   [替换Deployment](替换Deployment.md)
+        -   [替换Deployment的伸缩操作](替换Deployment的伸缩操作.md)
         -   [更新Deployment](更新Deployment.md)
+        -   [更新Deployment的伸缩操作](更新Deployment的伸缩操作.md)
         -   [删除Deployment](删除Deployment.md)
         -   [删除所有Deployment](删除所有Deployment.md)
 
@@ -55,6 +61,7 @@
         -   [查询StatefulSet](查询StatefulSet.md)
         -   [查询指定namespace下所有StatefulSet](查询指定namespace下所有StatefulSet.md)
         -   [查询StatefulSet状态](查询StatefulSet状态.md)
+        -   [列出用户所有的StatefulSet](列出用户所有的StatefulSet.md)
         -   [替换StatefulSet](替换StatefulSet.md)
         -   [更新StatefulSet](更新StatefulSet.md)
         -   [删除StatefulSet](删除StatefulSet.md)
@@ -65,10 +72,24 @@
         -   [查询Job](查询Job.md)
         -   [查询指定namespace下所有Job](查询指定namespace下所有Job.md)
         -   [查询Job状态](查询Job状态.md)
+        -   [列出用户所有Job](列出用户所有Job.md)
         -   [替换Job](替换Job.md)
         -   [更新Job](更新Job.md)
         -   [删除Job](删除Job.md)
         -   [删除所有Job](删除所有Job.md)
+
+    -   CronJob
+        -   [创建CronJob](创建CronJob.md)
+        -   [查询CronJob](查询CronJob.md)
+        -   [列出指定Namespace下所有CronJob](列出指定Namespace下所有CronJob.md)
+        -   [查询CronJob的状态](查询CronJob的状态.md)
+        -   [列出用户所有的CronJob](列出用户所有的CronJob.md)
+        -   [替换CronJob](替换CronJob.md)
+        -   [替换CronJob的状态](替换CronJob的状态.md)
+        -   [更新CronJob](更新CronJob.md)
+        -   [更新CronJob的状态](更新CronJob的状态.md)
+        -   [删除CronJob](删除CronJob.md)
+        -   [删除所有CronJob](删除所有CronJob.md)
 
     -   Service
         -   [创建Service](创建Service.md)
@@ -116,28 +137,45 @@
         -   [查询所有Event](查询所有Event.md)
         -   [删除Event](删除Event.md)
 
+    -   API groups
+        -   [列出APIVersions](列出APIVersions.md)
+        -   [列出APIGroups](列出APIGroups.md)
+        -   [列出所有extensions/v1beta1版本的API](列出所有extensions-v1beta1版本的API.md)
+        -   [列出所有apps/v1版本的API](列出所有apps-v1版本的API.md)
+        -   [列出所有apps/v1beta1版本的API](列出所有apps-v1beta1版本的API.md)
+        -   [列出所有batch/v1版本的API](列出所有batch-v1版本的API.md)
+        -   [列出所有networking.cci.io/v1beta1版本的API](列出所有networking-cci-io-v1beta1版本的API.md)
+        -   [列出所有v1版本的API](列出所有v1版本的API.md)
+
+    -   Endpoint
+        -   [查询Endpoint](查询Endpoint.md)
+        -   [查询所有Endpoints](查询所有Endpoints.md)
+
+    -   ReplicSet
+        -   [查询所有ReplicaSets](查询所有ReplicaSets.md)
+
 
 -   Kubernetes API （OLD VERSIONS）
-    -   Deployment（v1beta1）
-        -   [创建Deployment（v1beta1）](创建Deployment（v1beta1）.md)
-        -   [创建Deployment回滚（v1beta1）](创建Deployment回滚（v1beta1）.md)
-        -   [查询Deployment（v1beta1）](查询Deployment（v1beta1）.md)
-        -   [查询所有Deployment（v1beta1）](查询所有Deployment（v1beta1）.md)
-        -   [查询Deployment的状态（v1beta1）](查询Deployment的状态（v1beta1）.md)
-        -   [替换Deployment（v1beta1）](替换Deployment（v1beta1）.md)
-        -   [更新Deployment（v1beta1）](更新Deployment（v1beta1）.md)
-        -   [删除Deployment（v1beta1）](删除Deployment（v1beta1）.md)
-        -   [删除所有Deployment（v1beta1）](删除所有Deployment（v1beta1）.md)
+    -   Deployment
+        -   [创建Deployment](创建Deployment（v1beta1）.md)
+        -   [创建Deployment回滚](创建Deployment回滚（v1beta1）.md)
+        -   [查询Deployment](查询Deployment（v1beta1）.md)
+        -   [查询所有Deployment](查询所有Deployment（v1beta1）.md)
+        -   [查询Deployment的状态](查询Deployment的状态（v1beta1）.md)
+        -   [替换Deployment](替换Deployment（v1beta1）.md)
+        -   [更新Deployment](更新Deployment（v1beta1）.md)
+        -   [删除Deployment](删除Deployment（v1beta1）.md)
+        -   [删除所有Deployment](删除所有Deployment（v1beta1）.md)
 
-    -   Statefulset（v1beta1）
-        -   [创建StatefulSet（v1beta1）](创建StatefulSet（v1beta1）.md)
-        -   [查询StatefulSet（v1beta1）](查询StatefulSet（v1beta1）.md)
-        -   [查询所有StatefulSet（v1beta1）](查询所有StatefulSet（v1beta1）.md)
-        -   [查询StatefulSet状态（v1beta1）](查询StatefulSet状态（v1beta1）.md)
-        -   [替换StatefulSet（v1beta1）](替换StatefulSet（v1beta1）.md)
-        -   [更新StatefulSet（v1beta1）](更新StatefulSet（v1beta1）.md)
-        -   [删除StatefulSet（v1beta1）](删除StatefulSet（v1beta1）.md)
-        -   [删除所有StatefulSet（v1beta1）](删除所有StatefulSet（v1beta1）.md)
+    -   Statefulset
+        -   [创建StatefulSet](创建StatefulSet（v1beta1）.md)
+        -   [查询StatefulSet](查询StatefulSet（v1beta1）.md)
+        -   [查询所有StatefulSet](查询所有StatefulSet（v1beta1）.md)
+        -   [查询StatefulSet状态](查询StatefulSet状态（v1beta1）.md)
+        -   [替换StatefulSet](替换StatefulSet（v1beta1）.md)
+        -   [更新StatefulSet](更新StatefulSet（v1beta1）.md)
+        -   [删除StatefulSet](删除StatefulSet（v1beta1）.md)
+        -   [删除所有StatefulSet](删除所有StatefulSet（v1beta1）.md)
 
 
 -   公共参数

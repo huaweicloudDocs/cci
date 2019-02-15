@@ -5,9 +5,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table52931650"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row16588560"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p198314281258"><a name="p198314281258"></a><a name="p198314281258"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1583115281354"><a name="p1583115281354"></a><a name="p1583115281354"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -54,9 +54,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table6622802"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row61186665"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57172870"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57172870"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57172870"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1084610286518"><a name="p1084610286518"></a><a name="p1084610286518"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1084792810514"><a name="p1084792810514"></a><a name="p1084792810514"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -97,9 +97,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table59605225"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row46940727"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44102542"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44102542"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44102542"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p13857202815514"><a name="p13857202815514"></a><a name="p13857202815514"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p3858928552"><a name="p3858928552"></a><a name="p3858928552"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -139,9 +139,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table66684983"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row1786593"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10496346"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10496346"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10496346"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p5871628054"><a name="p5871628054"></a><a name="p5871628054"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p198737284513"><a name="p198737284513"></a><a name="p198737284513"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -181,9 +181,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table63293941"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50435184"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58718067"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58718067"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58718067"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1886428252"><a name="p1886428252"></a><a name="p1886428252"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1288613281759"><a name="p1288613281759"></a><a name="p1288613281759"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -230,9 +230,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table32774565"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row36210358"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47357861"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47357861"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47357861"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p390514283517"><a name="p390514283517"></a><a name="p390514283517"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p290614287515"><a name="p290614287515"></a><a name="p290614287515"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -300,9 +300,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table26535630"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row29527278"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42899290"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42899290"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42899290"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p09261728454"><a name="p09261728454"></a><a name="p09261728454"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p15926132818510"><a name="p15926132818510"></a><a name="p15926132818510"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -356,9 +356,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table37494083"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row25588789"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59426032"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59426032"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59426032"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p10959428051"><a name="p10959428051"></a><a name="p10959428051"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1896010281151"><a name="p1896010281151"></a><a name="p1896010281151"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -426,9 +426,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table1902427"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row42946824"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56140680"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56140680"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56140680"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p698318281855"><a name="p698318281855"></a><a name="p698318281855"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1983928557"><a name="p1983928557"></a><a name="p1983928557"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -461,9 +461,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table17121849"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row2186211"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42865437"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42865437"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42865437"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p109926281752"><a name="p109926281752"></a><a name="p109926281752"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p2992628755"><a name="p2992628755"></a><a name="p2992628755"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -489,9 +489,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table19878917"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row26348324"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53839469"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53839469"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53839469"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p9933831558"><a name="p9933831558"></a><a name="p9933831558"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p39343311156"><a name="p39343311156"></a><a name="p39343311156"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -510,9 +510,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44692528"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row62719193"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47089838"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47089838"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47089838"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1293520313511"><a name="p1293520313511"></a><a name="p1293520313511"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p209361931953"><a name="p209361931953"></a><a name="p209361931953"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -573,9 +573,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table66688435"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row31807536"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26273638"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26273638"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26273638"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p149434319518"><a name="p149434319518"></a><a name="p149434319518"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p159433312055"><a name="p159433312055"></a><a name="p159433312055"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -601,9 +601,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table63325007"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row37516664"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18950973"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18950973"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18950973"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p7946123117512"><a name="p7946123117512"></a><a name="p7946123117512"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p6946173115513"><a name="p6946173115513"></a><a name="p6946173115513"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -650,9 +650,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row28541725"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30178389"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30178389"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30178389"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p199520315516"><a name="p199520315516"></a><a name="p199520315516"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p5952331556"><a name="p5952331556"></a><a name="p5952331556"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -674,8 +674,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"><a name="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"></a><a name="zh-cn_topic_0083857396_a8c2743b129b9487486acb0543860c87b"></a><a href="#zh-cn_topic_0083857396_t050e77dc2b1644c895d89f389e46d859">表18</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_abaad277f9538439a8641066f3e601ed5"><a name="zh-cn_topic_0083857396_abaad277f9538439a8641066f3e601ed5"></a><a name="zh-cn_topic_0083857396_abaad277f9538439a8641066f3e601ed5"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"><a name="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"></a><a name="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"></a>An initializer is a controller which enforces some system invariant at object creation time. This field is a list of initializers that have not yet acted on this object. If nil or empty, this object has been completely initialized. Otherwise, the object is considered uninitialized and is hidden (in list/watch and get calls) from clients that haven't explicitly asked to observe uninitialized objects. When an object is created, the system will populate this list with the current set of initializers. Only privileged users may set or modify this list. Once it is empty, it may not be modified further by any user.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"><a name="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"></a><a name="zh-cn_topic_0083857396_a1b8a98e9639f4021bf8970f7d4893fe4"></a>An initializer is a controller which enforces some system invariant at object creation time. This field is a list of initializers that have not yet acted on this object. If nil or empty, this object has been completely initialized. Otherwise, the object is considered uninitialized and is hidden (in list/watch and get calls) from clients that haven't explicitly asked to observe uninitialized objects. When an object is created, the system will populate this list with the current set of initializers. Only privileged users may set or modify this list. Once it is empty, it may not be modified further by any user.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row47741325"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41842146"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41842146"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41842146"></a>generateName</p>
@@ -779,9 +778,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table29051967"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row49494501"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p49631670"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p49631670"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p49631670"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p17973731859"><a name="p17973731859"></a><a name="p17973731859"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p1697413113518"><a name="p1697413113518"></a><a name="p1697413113518"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -821,9 +820,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table60141117"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row37173655"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58276079"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58276079"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58276079"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1797843113512"><a name="p1797843113512"></a><a name="p1797843113512"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p29780315514"><a name="p29780315514"></a><a name="p29780315514"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -887,16 +886,14 @@
 </td>
 <td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p683244194010"></a><a href="#zh-cn_topic_0083857396_t692762a9bbc843b5896568bfd21b9648">表19</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p127263811423"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p127263811423"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p127263811423"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"></a>Pending is a list of initializers that must execute in order before this object is visible. When the last pending initializer is removed, and no failing result is set, the initializers struct will be set to nil and the object is considered as initialized and visible to all clients.</p>
+<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p783254124017"></a>Pending is a list of initializers that must execute in order before this object is visible. When the last pending initializer is removed, and no failing result is set, the initializers struct will be set to nil and the object is considered as initialized and visible to all clients.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r80ee49e795914b3682ccb2c3036316df"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a0b303b01e17f4f90b3301f27cff4d110"><a name="zh-cn_topic_0083857396_a0b303b01e17f4f90b3301f27cff4d110"></a><a name="zh-cn_topic_0083857396_a0b303b01e17f4f90b3301f27cff4d110"></a>result</p>
 </td>
 <td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"><a name="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"></a><a name="zh-cn_topic_0083857396_aab398b49ed3b474f9f5d27b8b4e601ca"></a><a href="#zh-cn_topic_0083857396_t6c6ba0cfa7084a419291c2d12d305875">表20</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p155339581656"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p155339581656"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p155339581656"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"><a name="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"></a><a name="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"></a>If result is set with the Failure field, the object will be persisted to storage and then deleted, ensuring that other clients can observe the deletion.</p>
+<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"><a name="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"></a><a name="zh-cn_topic_0083857396_ae5bef952a21c49b38dde750f6f144520"></a>If result is set with the Failure field, the object will be persisted to storage and then deleted, ensuring that other clients can observe the deletion.</p>
 </td>
 </tr>
 </tbody>
@@ -917,8 +914,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="29.7029702970297%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p584414124010"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p584414124010"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p584414124010"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="44.554455445544555%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6271187449"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6271187449"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p6271187449"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_ab74127e3bb24471389d398b83e1879db"><a name="zh-cn_topic_0083857396_ab74127e3bb24471389d398b83e1879db"></a><a name="zh-cn_topic_0083857396_ab74127e3bb24471389d398b83e1879db"></a>name of the process that is responsible for initializing this object.</p>
+<td class="cellrowborder" valign="top" width="44.554455445544555%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_ab74127e3bb24471389d398b83e1879db"><a name="zh-cn_topic_0083857396_ab74127e3bb24471389d398b83e1879db"></a><a name="zh-cn_topic_0083857396_ab74127e3bb24471389d398b83e1879db"></a>name of the process that is responsible for initializing this object.</p>
 </td>
 </tr>
 </tbody>
@@ -939,64 +935,56 @@
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7857943407"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7857943407"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7857943407"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p339422110468"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p339422110468"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p339422110468"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108571048404"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108571048404"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108571048404"></a>APIVersion defines the versioned schema of this representation of an object. Servers should convert recognized schemas to the latest internal value, and may reject unrecognized values.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108571048404"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108571048404"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108571048404"></a>APIVersion defines the versioned schema of this representation of an object. Servers should convert recognized schemas to the latest internal value, and may reject unrecognized values.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r83622f935d634259912e5784dd8d2899"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178576411405"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178576411405"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178576411405"></a>code</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78574411409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78574411409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78574411409"></a>Integer</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_ab06ea10876244a1cb05a8f643349ba0e"><a name="zh-cn_topic_0083857396_ab06ea10876244a1cb05a8f643349ba0e"></a><a name="zh-cn_topic_0083857396_ab06ea10876244a1cb05a8f643349ba0e"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785764154017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785764154017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785764154017"></a>Suggested HTTP return code for this status, 0 if not set.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785764154017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785764154017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785764154017"></a>Suggested HTTP return code for this status, 0 if not set.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r3f56a6a641324124af9617a10a798517"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a4a94c6b95e754a27ad1996ce074f9d7e"><a name="zh-cn_topic_0083857396_a4a94c6b95e754a27ad1996ce074f9d7e"></a><a name="zh-cn_topic_0083857396_a4a94c6b95e754a27ad1996ce074f9d7e"></a>details</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198578414402"></a><a href="#zh-cn_topic_0083857396_t8621cc18eac440e38feedc125a229d1d">表21</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p123052279463"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p123052279463"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p123052279463"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"><a name="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"></a><a name="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"></a>Extended data associated with the reason. Each reason may define its own extended details. This field is optional and the data returned is not guaranteed to conform to any schema except that defined by the reason type.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"><a name="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"></a><a name="zh-cn_topic_0083857396_aa6e300126b5744178a6332bcd99051fe"></a>Extended data associated with the reason. Each reason may define its own extended details. This field is optional and the data returned is not guaranteed to conform to any schema except that defined by the reason type.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_re4d71d5cf45d40d6b4af806e039c9b96"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a703e388ca3da4d2a8fbbdac14c345502"><a name="zh-cn_topic_0083857396_a703e388ca3da4d2a8fbbdac14c345502"></a><a name="zh-cn_topic_0083857396_a703e388ca3da4d2a8fbbdac14c345502"></a>kind</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785715484014"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785715484014"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p785715484014"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a9838acb2b2de4d3a8bffdd0d6cc6ce46"><a name="zh-cn_topic_0083857396_a9838acb2b2de4d3a8bffdd0d6cc6ce46"></a><a name="zh-cn_topic_0083857396_a9838acb2b2de4d3a8bffdd0d6cc6ce46"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p885812494014"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p885812494014"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p885812494014"></a>Kind is a string value representing the REST resource this object represents. Servers may infer this from the endpoint the client submits requests to. Cannot be updated.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p885812494014"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p885812494014"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p885812494014"></a>Kind is a string value representing the REST resource this object represents. Servers may infer this from the endpoint the client submits requests to. Cannot be updated.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r1bd8ad14d231412e8163aae4245a6092"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148582412401"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148582412401"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148582412401"></a>message</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58585464014"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58585464014"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58585464014"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a0e9f079b2fd64e47884cee8912f84da5"><a name="zh-cn_topic_0083857396_a0e9f079b2fd64e47884cee8912f84da5"></a><a name="zh-cn_topic_0083857396_a0e9f079b2fd64e47884cee8912f84da5"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168588444017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168588444017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168588444017"></a>A human-readable description of the status of this operation.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168588444017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168588444017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168588444017"></a>A human-readable description of the status of this operation.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_rf95715f7e760438589d074b2536084fd"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p185817444010"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p185817444010"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p185817444010"></a>metadata</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"><a name="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"></a><a name="zh-cn_topic_0083857396_a51f9cce578f647eda2dd697fca2de741"></a><a href="#zh-cn_topic_0083857396_te555e6efe7cd4ab8809d83b30977a22a">表22</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1793740954"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1793740954"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1793740954"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"><a name="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"></a><a name="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"></a>Standard list metadata.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"><a name="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"></a><a name="zh-cn_topic_0083857396_a462a88bd344a40cbad92920a471cf610"></a>Standard list metadata.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r5a2003f28f834829b7e4ed8c4c121449"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78591046404"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78591046404"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78591046404"></a>reason</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p685918454011"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p685918454011"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p685918454011"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_ab018602967a24d63a732e53b997fd9b0"><a name="zh-cn_topic_0083857396_ab018602967a24d63a732e53b997fd9b0"></a><a name="zh-cn_topic_0083857396_ab018602967a24d63a732e53b997fd9b0"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_ab1144d0c74d843ef88df2ca4aca93559"><a name="zh-cn_topic_0083857396_ab1144d0c74d843ef88df2ca4aca93559"></a><a name="zh-cn_topic_0083857396_ab1144d0c74d843ef88df2ca4aca93559"></a>A machine-readable description of why this operation is in the "Failure" status. If this value is empty there is no information available. A Reason clarifies an HTTP status code but does not override it.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_ab1144d0c74d843ef88df2ca4aca93559"><a name="zh-cn_topic_0083857396_ab1144d0c74d843ef88df2ca4aca93559"></a><a name="zh-cn_topic_0083857396_ab1144d0c74d843ef88df2ca4aca93559"></a>A machine-readable description of why this operation is in the "Failure" status. If this value is empty there is no information available. A Reason clarifies an HTTP status code but does not override it.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_rb66bfa79993b449c8da76a10c0748d45"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a7b4b0e5fda6f4831803727f84e7fd765"><a name="zh-cn_topic_0083857396_a7b4b0e5fda6f4831803727f84e7fd765"></a><a name="zh-cn_topic_0083857396_a7b4b0e5fda6f4831803727f84e7fd765"></a>status</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p208597414019"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p208597414019"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p208597414019"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p117523311751"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p117523311751"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p117523311751"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78609417401"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78609417401"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78609417401"></a>Status of the operation. One of: "Success" or "Failure".</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78609417401"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78609417401"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78609417401"></a>Status of the operation. One of: "Success" or "Failure".</p>
 </td>
 </tr>
 </tbody>
@@ -1017,48 +1005,42 @@
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p487284194011"></a><a href="#zh-cn_topic_0083857396_t1193c22aa5984fd0b43bfc8f02276db7">表23</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a931c8d0e25f54a06aa53b88fa8d32648"><a name="zh-cn_topic_0083857396_a931c8d0e25f54a06aa53b88fa8d32648"></a><a name="zh-cn_topic_0083857396_a931c8d0e25f54a06aa53b88fa8d32648"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"></a>The Causes array includes more details associated with the StatusReason failure. Not all StatusReasons may provide detailed causes.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p15872147403"></a>The Causes array includes more details associated with the StatusReason failure. Not all StatusReasons may provide detailed causes.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r6f25067706ef4f8082705eeb792fe209"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148727474016"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148727474016"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148727474016"></a>group</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188721443409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188721443409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188721443409"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a52c4cdd1bfb84db79ffc8516ee013311"><a name="zh-cn_topic_0083857396_a52c4cdd1bfb84db79ffc8516ee013311"></a><a name="zh-cn_topic_0083857396_a52c4cdd1bfb84db79ffc8516ee013311"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118721445409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118721445409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118721445409"></a>The group attribute of the resource associated with the status StatusReason.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118721445409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118721445409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118721445409"></a>The group attribute of the resource associated with the status StatusReason.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r3337d00864604383acf105269d55e74c"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a672a4cbd52374453a2b3247fec15ccb7"><a name="zh-cn_topic_0083857396_a672a4cbd52374453a2b3247fec15ccb7"></a><a name="zh-cn_topic_0083857396_a672a4cbd52374453a2b3247fec15ccb7"></a>kind</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a0c76b84dbb3f4b14bea48ad432bbd16b"><a name="zh-cn_topic_0083857396_a0c76b84dbb3f4b14bea48ad432bbd16b"></a><a name="zh-cn_topic_0083857396_a0c76b84dbb3f4b14bea48ad432bbd16b"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p741378852"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p741378852"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p741378852"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_aecf134c53d144b7496c244fa4766778a"><a name="zh-cn_topic_0083857396_aecf134c53d144b7496c244fa4766778a"></a><a name="zh-cn_topic_0083857396_aecf134c53d144b7496c244fa4766778a"></a>The kind attribute of the resource associated with the status StatusReason. On some operations may differ from the requested resource Kind.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_aecf134c53d144b7496c244fa4766778a"><a name="zh-cn_topic_0083857396_aecf134c53d144b7496c244fa4766778a"></a><a name="zh-cn_topic_0083857396_aecf134c53d144b7496c244fa4766778a"></a>The kind attribute of the resource associated with the status StatusReason. On some operations may differ from the requested resource Kind.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r09445815aea049058020e3078e2d7f13"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_aeb54deb421ad47bf9d001d07f63beab9"><a name="zh-cn_topic_0083857396_aeb54deb421ad47bf9d001d07f63beab9"></a><a name="zh-cn_topic_0083857396_aeb54deb421ad47bf9d001d07f63beab9"></a>name</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a47e695bb5cbc4a45a23bd8c4380275dd"><a name="zh-cn_topic_0083857396_a47e695bb5cbc4a45a23bd8c4380275dd"></a><a name="zh-cn_topic_0083857396_a47e695bb5cbc4a45a23bd8c4380275dd"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p729810619511"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p729810619511"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p729810619511"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_ad641265e64c54acbb47a9403cc4250a5"><a name="zh-cn_topic_0083857396_ad641265e64c54acbb47a9403cc4250a5"></a><a name="zh-cn_topic_0083857396_ad641265e64c54acbb47a9403cc4250a5"></a>The name attribute of the resource associated with the status StatusReason (when there is a single name which can be described).</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_ad641265e64c54acbb47a9403cc4250a5"><a name="zh-cn_topic_0083857396_ad641265e64c54acbb47a9403cc4250a5"></a><a name="zh-cn_topic_0083857396_ad641265e64c54acbb47a9403cc4250a5"></a>The name attribute of the resource associated with the status StatusReason (when there is a single name which can be described).</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r470ef158a33640098d5cd828f3c74770"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p98731449407"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p98731449407"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p98731449407"></a>retryAfterSeconds</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739413408"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739413408"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739413408"></a>Integer</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p180510213518"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p180510213518"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p180510213518"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178732434018"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178732434018"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178732434018"></a>If specified, the time in seconds before the operation should be retried.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178732434018"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178732434018"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p178732434018"></a>If specified, the time in seconds before the operation should be retried.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r2be4bfe1f2b7405e86df43bd0d33f31b"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148731248406"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148731248406"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148731248406"></a>uid</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.999999999999996%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78737484019"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78737484019"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p78737484019"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_ad8b47ed34c574c239aafdec7a5ff827f"><a name="zh-cn_topic_0083857396_ad8b47ed34c574c239aafdec7a5ff827f"></a><a name="zh-cn_topic_0083857396_ad8b47ed34c574c239aafdec7a5ff827f"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739412409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739412409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739412409"></a>UID of the resource. (when there is a single resource which can be described).</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739412409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739412409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198739412409"></a>UID of the resource. (when there is a single resource which can be described).</p>
 </td>
 </tr>
 </tbody>
@@ -1079,16 +1061,14 @@
 </td>
 <td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9886241400"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9886241400"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9886241400"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p124081055446"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p124081055446"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p124081055446"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118863464016"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118863464016"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118863464016"></a>String that identifies the server's internal version of this object that can be used by clients to determine when objects have changed. Value must be treated as opaque by clients and passed unmodified back to the server. Populated by the system. Read-only.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118863464016"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118863464016"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p118863464016"></a>String that identifies the server's internal version of this object that can be used by clients to determine when objects have changed. Value must be treated as opaque by clients and passed unmodified back to the server. Populated by the system. Read-only.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r2fd7a272928841c48d3c794f2e28b49e"><td class="cellrowborder" valign="top" width="27%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_abc54d0565e6c459d9ab7773ef026a2fd"><a name="zh-cn_topic_0083857396_abc54d0565e6c459d9ab7773ef026a2fd"></a><a name="zh-cn_topic_0083857396_abc54d0565e6c459d9ab7773ef026a2fd"></a>selfLink</p>
 </td>
 <td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p288684144015"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p288684144015"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p288684144015"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p162011253348"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p162011253348"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p162011253348"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p88861043401"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p88861043401"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p88861043401"></a>SelfLink is a URL representing this object. Populated by the system. Read-only.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p88861043401"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p88861043401"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p88861043401"></a>SelfLink is a URL representing this object. Populated by the system. Read-only.</p>
 </td>
 </tr>
 </tbody>
@@ -1109,24 +1089,21 @@
 </td>
 <td class="cellrowborder" valign="top" width="27%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16898242401"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16898242401"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p16898242401"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="46%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p113588474419"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p113588474419"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p113588474419"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_ad3e401bec85f4764b8e7f54ed1318646"><a name="zh-cn_topic_0083857396_ad3e401bec85f4764b8e7f54ed1318646"></a><a name="zh-cn_topic_0083857396_ad3e401bec85f4764b8e7f54ed1318646"></a>The field of the resource that has caused this error, as named by its JSON serialization. May include dot and postfix notation for nested attributes. Arrays are zero-indexed. Fields may appear more than once in an array of causes due to fields having multiple errors. Optional. Examples: "name" - the field "name" on the current resource "items[0].name" - the field "name" on the first array entry in "items"</p>
+<td class="cellrowborder" valign="top" width="46%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_ad3e401bec85f4764b8e7f54ed1318646"><a name="zh-cn_topic_0083857396_ad3e401bec85f4764b8e7f54ed1318646"></a><a name="zh-cn_topic_0083857396_ad3e401bec85f4764b8e7f54ed1318646"></a>The field of the resource that has caused this error, as named by its JSON serialization. May include dot and postfix notation for nested attributes. Arrays are zero-indexed. Fields may appear more than once in an array of causes due to fields having multiple errors. Optional. Examples: "name" - the field "name" on the current resource "items[0].name" - the field "name" on the first array entry in "items"</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r139cf020bd6e463a9e7fb1153dcd4c26"><td class="cellrowborder" valign="top" width="27%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108989484017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108989484017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p108989484017"></a>message</p>
 </td>
 <td class="cellrowborder" valign="top" width="27%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p0898647409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p0898647409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p0898647409"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="46%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p204738411241"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p204738411241"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p204738411241"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_a207be7161dde4f41a191b965c99f48d8"><a name="zh-cn_topic_0083857396_a207be7161dde4f41a191b965c99f48d8"></a><a name="zh-cn_topic_0083857396_a207be7161dde4f41a191b965c99f48d8"></a>A human-readable description of the cause of the error. This field may be presented as-is to a reader.</p>
+<td class="cellrowborder" valign="top" width="46%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a207be7161dde4f41a191b965c99f48d8"><a name="zh-cn_topic_0083857396_a207be7161dde4f41a191b965c99f48d8"></a><a name="zh-cn_topic_0083857396_a207be7161dde4f41a191b965c99f48d8"></a>A human-readable description of the cause of the error. This field may be presented as-is to a reader.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row5898247409"><td class="cellrowborder" valign="top" width="27%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p138981344407"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p138981344407"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p138981344407"></a>reason</p>
 </td>
 <td class="cellrowborder" valign="top" width="27%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188987417406"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188987417406"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188987417406"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="46%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p162773381944"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p162773381944"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p162773381944"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p089916464019"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p089916464019"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p089916464019"></a>A machine-readable description of the cause of the error. If this value is empty there is no information available.</p>
+<td class="cellrowborder" valign="top" width="46%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p089916464019"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p089916464019"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p089916464019"></a>A machine-readable description of the cause of the error. If this value is empty there is no information available.</p>
 </td>
 </tr>
 </tbody>
@@ -1137,9 +1114,9 @@
 <a name="zh-cn_topic_0083857396_t9b2c5d4719b24ea6a40f0f5e7bd366b8"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_r3a26942761ab4b7d92867b3a8805dcee"><th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_a995203116d034393912ffdae279c4b79"><a name="zh-cn_topic_0083857396_a995203116d034393912ffdae279c4b79"></a><a name="zh-cn_topic_0083857396_a995203116d034393912ffdae279c4b79"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="28.000000000000004%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="28.000000000000004%" id="mcps1.2.4.1.2"><p id="p171217324517"><a name="p171217324517"></a><a name="p171217324517"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p412133211516"><a name="p412133211516"></a><a name="p412133211516"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1154,8 +1131,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p686552923317"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p686552923317"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p686552923317"></a>Boolean</p>
 </td>
-<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p612212616546"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p612212616546"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p612212616546"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="zh-cn_topic_0083857396_a8e45550fc29f4b248bfe0222ed5979ba"><a name="zh-cn_topic_0083857396_a8e45550fc29f4b248bfe0222ed5979ba"></a><a name="zh-cn_topic_0083857396_a8e45550fc29f4b248bfe0222ed5979ba"></a>If true, AND if the owner has the "foregroundDeletion" finalizer, then the owner cannot be deleted from the key-value store until this reference is removed. Default to false. To set this field, a user needs "delete" permission of the owner, otherwise 422 (Unprocessable Entity) will be returned.</p>
+<td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a8e45550fc29f4b248bfe0222ed5979ba"><a name="zh-cn_topic_0083857396_a8e45550fc29f4b248bfe0222ed5979ba"></a><a name="zh-cn_topic_0083857396_a8e45550fc29f4b248bfe0222ed5979ba"></a>If true, AND if the owner has the "foregroundDeletion" finalizer, then the owner cannot be deleted from the key-value store until this reference is removed. Default to false. To set this field, a user needs "delete" permission of the owner, otherwise 422 (Unprocessable Entity) will be returned.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r2122474b79994b8ab649ae21e2ad14e4"><td class="cellrowborder" valign="top" width="27%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a79406e46e80a4784bdf0cf5a334bc7a9"><a name="zh-cn_topic_0083857396_a79406e46e80a4784bdf0cf5a334bc7a9"></a><a name="zh-cn_topic_0083857396_a79406e46e80a4784bdf0cf5a334bc7a9"></a>kind</p>
@@ -1194,9 +1170,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table4399144"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row57734587"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45989946"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45989946"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45989946"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p71893211513"><a name="p71893211513"></a><a name="p71893211513"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p61811326515"><a name="p61811326515"></a><a name="p61811326515"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1222,9 +1198,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table39592297"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row10450704"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41200727"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41200727"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41200727"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p9205321056"><a name="p9205321056"></a><a name="p9205321056"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p72118326516"><a name="p72118326516"></a><a name="p72118326516"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1334,9 +1310,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table21660524"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row36090219"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37626636"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37626636"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37626636"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p1034532758"><a name="p1034532758"></a><a name="p1034532758"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p id="p10341932655"><a name="p10341932655"></a><a name="p10341932655"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1474,9 +1450,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875925"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row41062319"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37713565"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37713565"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37713565"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p3491032754"><a name="p3491032754"></a><a name="p3491032754"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p105019325511"><a name="p105019325511"></a><a name="p105019325511"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1524,9 +1500,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875945"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row17290772"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58375326"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58375326"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58375326"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p105519321054"><a name="p105519321054"></a><a name="p105519321054"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p115514321511"><a name="p115514321511"></a><a name="p115514321511"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1545,9 +1521,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875954"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row48514746"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37380344"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37380344"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37380344"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p159123219519"><a name="p159123219519"></a><a name="p159123219519"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p059632455"><a name="p059632455"></a><a name="p059632455"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1566,9 +1542,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875979"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row6915674"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23298740"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23298740"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23298740"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p46011329518"><a name="p46011329518"></a><a name="p46011329518"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p id="p1603322513"><a name="p1603322513"></a><a name="p1603322513"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1594,9 +1570,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875984"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50642235"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8380364"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8380364"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8380364"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p9668321659"><a name="p9668321659"></a><a name="p9668321659"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p666123215518"><a name="p666123215518"></a><a name="p666123215518"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1615,9 +1591,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table5972994"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row392368"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31781818"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31781818"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31781818"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p867123214519"><a name="p867123214519"></a><a name="p867123214519"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p156717324512"><a name="p156717324512"></a><a name="p156717324512"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1664,9 +1640,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table53756949"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row48372684"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25873364"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25873364"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25873364"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p147419321513"><a name="p147419321513"></a><a name="p147419321513"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p974153218515"><a name="p974153218515"></a><a name="p974153218515"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1699,9 +1675,9 @@
 <a name="zh-cn_topic_0083857396_t5532c616d0de49d2aabe5e4cad89e370"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_r5c106f8c400e4799b618758f6faa4156"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_ad6d59c06de8c431798339fd238aa9f60"><a name="zh-cn_topic_0083857396_ad6d59c06de8c431798339fd238aa9f60"></a><a name="zh-cn_topic_0083857396_ad6d59c06de8c431798339fd238aa9f60"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p577032359"><a name="p577032359"></a><a name="p577032359"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p187743216516"><a name="p187743216516"></a><a name="p187743216516"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1727,9 +1703,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table59345638"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row62863761"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58799890"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58799890"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58799890"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p1379173217518"><a name="p1379173217518"></a><a name="p1379173217518"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p id="p1079173216518"><a name="p1079173216518"></a><a name="p1079173216518"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1797,9 +1773,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table64348702"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row4240049"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7899687"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7899687"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7899687"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p7851132251"><a name="p7851132251"></a><a name="p7851132251"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p08517323512"><a name="p08517323512"></a><a name="p08517323512"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1825,9 +1801,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table42267412"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row23912794"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57888134"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57888134"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57888134"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p5878321552"><a name="p5878321552"></a><a name="p5878321552"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p68823211520"><a name="p68823211520"></a><a name="p68823211520"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1874,9 +1850,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44862393"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row51424131"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4605057"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4605057"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4605057"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p109512321258"><a name="p109512321258"></a><a name="p109512321258"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p169514321555"><a name="p169514321555"></a><a name="p169514321555"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1916,9 +1892,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table1108358"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row1243712"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33631824"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33631824"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33631824"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1610013211513"><a name="p1610013211513"></a><a name="p1610013211513"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1310012320512"><a name="p1310012320512"></a><a name="p1310012320512"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1944,9 +1920,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table9975229"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row30238483"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33398050"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33398050"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33398050"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p191034328511"><a name="p191034328511"></a><a name="p191034328511"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1310315321454"><a name="p1310315321454"></a><a name="p1310315321454"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1972,9 +1948,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table22668197"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50448563"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59801811"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59801811"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59801811"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p161038321057"><a name="p161038321057"></a><a name="p161038321057"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p19105153219513"><a name="p19105153219513"></a><a name="p19105153219513"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -1993,9 +1969,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table2687184"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row26632111"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9717417"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9717417"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9717417"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p810523212510"><a name="p810523212510"></a><a name="p810523212510"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p12107032658"><a name="p12107032658"></a><a name="p12107032658"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -2035,9 +2011,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table24184664"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row65930648"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38782309"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38782309"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38782309"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p411143218517"><a name="p411143218517"></a><a name="p411143218517"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p411153211512"><a name="p411153211512"></a><a name="p411153211512"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -2056,9 +2032,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table16335389"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row65732647"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22744204"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22744204"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22744204"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1811353216513"><a name="p1811353216513"></a><a name="p1811353216513"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p41146321054"><a name="p41146321054"></a><a name="p41146321054"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -2091,9 +2067,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table12800776"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row9493201"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30751803"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30751803"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30751803"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p711963217520"><a name="p711963217520"></a><a name="p711963217520"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p10119123212515"><a name="p10119123212515"></a><a name="p10119123212515"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -2119,9 +2095,9 @@
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table48098122"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row52349424"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12444953"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12444953"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12444953"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p19121133219516"><a name="p19121133219516"></a><a name="p19121133219516"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p9121153218516"><a name="p9121153218516"></a><a name="p9121153218516"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -2147,9 +2123,9 @@
 <a name="zh-cn_topic_0083857396_t1d4186ca4f8d41b6802b56b71011f7a8"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_r349d25501ca74176a76a2d7d12fcdffc"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p129724816411"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p129724816411"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p129724816411"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p51319329519"><a name="p51319329519"></a><a name="p51319329519"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p10131203215518"><a name="p10131203215518"></a><a name="p10131203215518"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -2182,9 +2158,9 @@
 <a name="zh-cn_topic_0083857396_t32d1ae0b791b43ada220117e4f918910"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_r3de984aa47c7415294d6b8da46e19ba1"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_a3fd83a91b0f746fcaed57aca5f6e63d6"><a name="zh-cn_topic_0083857396_a3fd83a91b0f746fcaed57aca5f6e63d6"></a><a name="zh-cn_topic_0083857396_a3fd83a91b0f746fcaed57aca5f6e63d6"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1513593210518"><a name="p1513593210518"></a><a name="p1513593210518"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p413511321753"><a name="p413511321753"></a><a name="p413511321753"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -2218,9 +2194,9 @@
 <a name="zh-cn_topic_0083857396_tf50171b557ef4ebdafb2cc0bcb724d1b"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0083857396_r1893423f49864701824a66b2055df20b"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_a0d847fe09883492b80c890e6ab45948b"><a name="zh-cn_topic_0083857396_a0d847fe09883492b80c890e6ab45948b"></a><a name="zh-cn_topic_0083857396_a0d847fe09883492b80c890e6ab45948b"></a>名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p613923219516"><a name="p613923219516"></a><a name="p613923219516"></a>类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p913918326518"><a name="p913918326518"></a><a name="p913918326518"></a>描述</p>
 </th>
 </tr>
 </thead>

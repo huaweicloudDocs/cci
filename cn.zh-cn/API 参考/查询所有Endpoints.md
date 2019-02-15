@@ -1,12 +1,12 @@
-# 查询所有Event<a name="cci_02_3093"></a>
+# 查询所有Endpoints<a name="cci_02_3126"></a>
 
-## 功能介绍<a name="zh-cn_topic_0091433726_section6726992"></a>
+## 功能介绍<a name="s929c7f68195e496187ed769a50539e04"></a>
 
-查询Namespace下所有Event的详细信息。
+查询Namespace下所有Endpoints
 
-## URI<a name="zh-cn_topic_0091433726_section60542934"></a>
+## URI<a name="s3de16f9dad264ecd9bc63f9ea6344f66"></a>
 
-GET /api/v1/namespaces/\{namespace\}/events
+GET /api/v1/namespaces/\{namespace\}/endpoints
 
 **表 1**  Path参数
 
@@ -102,171 +102,72 @@ GET /api/v1/namespaces/\{namespace\}/events
 </tbody>
 </table>
 
-## 请求消息<a name="zh-cn_topic_0091433726_section8015500"></a>
+## 请求消息<a name="sef5c2e860abe4851bf5e58fb868633d9"></a>
 
 N/A
 
-## 响应消息<a name="zh-cn_topic_0091433726_section5030644"></a>
+## 响应消息<a name="sd91f7b136258433a922cbc821ade2d1f"></a>
 
 **响应参数：**
 
-响应参数如[表133](公共参数.md#table2908120115216)所示。
-
-**表 3**  EventSource字段数据结构说明
-
-<a name="table94641515173415"></a>
-<table><thead align="left"><tr id="row9476131511345"><th class="cellrowborder" valign="top" width="22.220000000000002%" id="mcps1.2.4.1.1"><p id="p11480151553412"><a name="p11480151553412"></a><a name="p11480151553412"></a>参数</p>
-</th>
-<th class="cellrowborder" valign="top" width="16.16%" id="mcps1.2.4.1.2"><p id="p848751511346"><a name="p848751511346"></a><a name="p848751511346"></a>类型</p>
-</th>
-<th class="cellrowborder" valign="top" width="61.62%" id="mcps1.2.4.1.3"><p id="p194941315153411"><a name="p194941315153411"></a><a name="p194941315153411"></a>描述</p>
-</th>
-</tr>
-</thead>
-<tbody><tr id="row15497141515348"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="p17502161593411"><a name="p17502161593411"></a><a name="p17502161593411"></a>component</p>
-</td>
-<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p13505115103418"><a name="p13505115103418"></a><a name="p13505115103418"></a>string</p>
-</td>
-<td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p16306820173518"><a name="p16306820173518"></a><a name="p16306820173518"></a>Component from which the event is generated.</p>
-</td>
-</tr>
-<tr id="row25101115143414"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="p17515715183418"><a name="p17515715183418"></a><a name="p17515715183418"></a>host</p>
-</td>
-<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p2518171512342"><a name="p2518171512342"></a><a name="p2518171512342"></a>string</p>
-</td>
-<td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p8324143113358"><a name="p8324143113358"></a><a name="p8324143113358"></a>Node name on which the event is generated.</p>
-</td>
-</tr>
-</tbody>
-</table>
+响应参数的详细描述请参见[表139](公共参数.md#table219774262719)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "EventList",
-  "apiVersion": "v1",
-  "metadata": {
-    "selfLink": "/api/v1/namespaces/namespace-test/events",
-    "resourceVersion": "764693"
-  },
-  "items": [
-    {
-      "metadata": {
-        "name": "deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
-        "uid": "0122b5b2-af79-11e8-8f17-c81fbe371a17",
-        "resourceVersion": "760533",
-        "creationTimestamp": "2018-09-03T12:58:07Z",
-        "enable": true
-      },
-      "involvedObject": {
-        "kind": "Pod",
-        "namespace": "namespace-test",
-        "name": "deployment-test-57f7cff77c-5x5tw",
-        "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
-        "apiVersion": "v1",
-        "resourceVersion": "5036865"
-      },
-      "reason": "Scheduled",
-      "message": "Successfully assigned deployment-test-57f7cff77c-5x5tw to c0dd6256-195a-e811-90a2-10c17294fcbc",
-      "source": {
-        "component": "default-scheduler"
-      },
-      "firstTimestamp": "2018-09-03T12:58:07Z",
-      "lastTimestamp": "2018-09-03T12:58:07Z",
-      "count": 1,
-      "type": "Normal",
-      "eventTime": null,
-      "reportingComponent": "",
-      "reportingInstance": ""
+    "kind": "EndpointsList",
+    "apiVersion": "v1",
+    "metadata": {
+        "selfLink": "/api/v1/namespaces/default/endpoints",
+        "resourceVersion": "598704"
     },
-    {
-      "metadata": {
-        "name": "deployment-test-57f7cff77c-5x5tw.1550e534d3105acd",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e534d3105acd",
-        "uid": "0123faea-af79-11e8-8f17-c81fbe371a17",
-        "resourceVersion": "760542",
-        "creationTimestamp": "2018-09-03T12:58:07Z",
-        "enable": true
-      },
-      "involvedObject": {
-        "kind": "Pod",
-        "namespace": "namespace-test",
-        "name": "deployment-test-57f7cff77c-5x5tw",
-        "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
-        "apiVersion": "v1",
-        "resourceVersion": "5036870"
-      },
-      "reason": "SuccessfulMountVolume",
-      "message": "Successfully mounted volumes for pod \"deployment-test-57f7cff77c-5x5tw_namespace-test(010fec39-af79-11e8-8f17-c81fbe371a17)\"",
-      "source": {
-        "component": "kubelet",
-        "host": "c0dd6256-195a-e811-90a2-10c17294fcbc"
-      },
-      "firstTimestamp": "2018-09-03T12:58:07Z",
-      "lastTimestamp": "2018-09-03T12:58:12Z",
-      "count": 2,
-      "type": "Normal",
-      "eventTime": null,
-      "reportingComponent": "",
-      "reportingInstance": ""
-    },
-    {
-      "metadata": {
-        "name": "deployment-test-57f7cff77c-5x5tw.1550e5354a5915e0",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e5354a5915e0",
-        "uid": "025554a4-af79-11e8-8f17-c81fbe371a17",
-        "resourceVersion": "760536",
-        "creationTimestamp": "2018-09-03T12:58:09Z",
-        "enable": true
-      },
-      "involvedObject": {
-        "kind": "Pod",
-        "namespace": "namespace-test",
-        "name": "deployment-test-57f7cff77c-5x5tw",
-        "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
-        "apiVersion": "v1",
-        "resourceVersion": "5036870",
-        "fieldPath": "spec.containers{container-0}"
-      },
-      "reason": "Pulling",
-      "message": "pulling image \"100.125.5.235:20202/cci_z00425431/redis:V1\"",
-      "source": {
-        "component": "kubelet",
-        "host": "c0dd6256-195a-e811-90a2-10c17294fcbc"
-      },
-      "firstTimestamp": "2018-09-03T12:58:09Z",
-      "lastTimestamp": "2018-09-03T12:58:09Z",
-      "count": 1,
-      "type": "Normal",
-      "eventTime": null,
-      "reportingComponent": "",
-      "reportingInstance": ""
-    }
-  ]
+    "items": [
+        {
+            "metadata": {
+                "name": "kubernetes",
+                "namespace": "default",
+                "selfLink": "/api/v1/namespaces/default/endpoints/kubernetes",
+                "uid": "64593b5d-f83d-11e7-9c3c-fa163eb8ad1a",
+                "resourceVersion": "49",
+                "creationTimestamp": "2018-01-13T08:40:21Z",
+                "enable": true
+            },
+            "subsets": [
+                {
+                    "addresses": [
+                        {
+                            "ip": "192.168.0.64"
+                        }
+                    ],
+                    "ports": [
+                        {
+                            "name": "https",
+                            "port": 5444,
+                            "protocol": "TCP"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
 ```
 
-## 状态码<a name="zh-cn_topic_0091433726_section45275797"></a>
+## 状态码<a name="s1736c40a8a6e4e3dab0ee276f7614231"></a>
 
-[表4](#zh-cn_topic_0091433726_d0e45532)描述API的状态码。
+**表 3**  状态码
 
-**表 4**  状态码
-
-<a name="zh-cn_topic_0091433726_d0e45532"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0091433726_row18260744"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="zh-cn_topic_0091433726_p2725313"><a name="zh-cn_topic_0091433726_p2725313"></a><a name="zh-cn_topic_0091433726_p2725313"></a>状态码</p>
+<a name="zh-cn_topic_0079615068_table769899"></a>
+<table><thead align="left"><tr id="zh-cn_topic_0079615068_row22998005"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="p11007541201651"><a name="p11007541201651"></a><a name="p11007541201651"></a>状态码</p>
 </th>
-<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p id="zh-cn_topic_0091433726_p19423770"><a name="zh-cn_topic_0091433726_p19423770"></a><a name="zh-cn_topic_0091433726_p19423770"></a>描述</p>
+<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p id="p19195629201651"><a name="p19195629201651"></a><a name="p19195629201651"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="zh-cn_topic_0091433726_row29821499"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="zh-cn_topic_0091433726_p66731213"><a name="zh-cn_topic_0091433726_p66731213"></a><a name="zh-cn_topic_0091433726_p66731213"></a>200</p>
+<tbody><tr id="zh-cn_topic_0079615068_row15320653"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="zh-cn_topic_0079615068_p33013406"><a name="zh-cn_topic_0079615068_p33013406"></a><a name="zh-cn_topic_0079615068_p33013406"></a>200</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0091433726_p36519159"><a name="zh-cn_topic_0091433726_p36519159"></a><a name="zh-cn_topic_0091433726_p36519159"></a>This operation succeeds, and an Event resource object is returned.</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0079615068_p56840268"><a name="zh-cn_topic_0079615068_p56840268"></a><a name="zh-cn_topic_0079615068_p56840268"></a>This operation succeeds, and a group of Endpoint resource objects is returned.</p>
 </td>
 </tr>
 </tbody>

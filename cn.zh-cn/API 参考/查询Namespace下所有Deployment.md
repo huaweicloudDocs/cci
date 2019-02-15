@@ -1,4 +1,4 @@
-# 查询指定namespace下所有Deployment<a name="cci_02_3025"></a>
+# 查询Namespace下所有Deployment<a name="cci_02_3025"></a>
 
 ## 功能介绍<a name="section51078739"></a>
 
@@ -47,8 +47,7 @@ GET /apis/apps/v1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p14592144716592"><a name="p14592144716592"></a><a name="p14592144716592"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p95921447195910"><a name="p95921447195910"></a><a name="p95921447195910"></a>(A newly added parameter in Kubernetes 1.7)</p>
-<p id="p159254710598"><a name="p159254710598"></a><a name="p159254710598"></a>If true, partially initialized resources are included in the response.</p>
+<td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p159254710598"><a name="p159254710598"></a><a name="p159254710598"></a>If true, partially initialized resources are included in the response.</p>
 </td>
 </tr>
 <tr id="row54381628"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="p1359244755920"><a name="p1359244755920"></a><a name="p1359244755920"></a>labelSelector</p>
