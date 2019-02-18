@@ -37,7 +37,7 @@ Secret是Kubernetes中一种加密存储的资源对象，您可以将认证信�
         <tr id="row133224252315"><td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.3.1.1 "><p id="p23228259314"><a name="p23228259314"></a><a name="p23228259314"></a>*Secret数据</p>
         </td>
         <td class="cellrowborder" valign="top" width="72%" headers="mcps1.2.3.1.2 "><p id="p133223251335"><a name="p133223251335"></a><a name="p133223251335"></a>Secret的数据可以在容器中使用。其中，“键”代表文件名；“值”代表文件中的内容。</p>
-        <a name="ol10322425232"></a><a name="ol10322425232"></a><ol id="ol10322425232"><li>单击“添加Secret数据” 。</li><li>输入键、值。</li></ol>
+        <a name="ol10322425232"></a><a name="ol10322425232"></a><ol id="ol10322425232"><li>单击“添加Secret数据” 。</li><li>输入键、值（支持base64自动转码，如果您勾选<span class="uicontrol" id="uicontrol165220558496"><a name="uicontrol165220558496"></a><a name="uicontrol165220558496"></a>“自动转码”</span>，则可以输入未转码的Secret值）。</li></ol>
         </td>
         </tr>
         <tr id="row123142814330"><td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.3.1.1 "><p id="p17322225134"><a name="p17322225134"></a><a name="p17322225134"></a>Secret标签</p>
