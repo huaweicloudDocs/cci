@@ -33,7 +33,7 @@ ConfigMap是一种用于存储应用所需配置信息的资源类型。资源�
         </tr>
         <tr id="row133224252315"><td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.3.1.1 "><p id="p23228259314"><a name="p23228259314"></a><a name="p23228259314"></a><strong id="b16491619731"><a name="b16491619731"></a><a name="b16491619731"></a>ConfigMap数据</strong></p>
         </td>
-        <td class="cellrowborder" valign="top" width="72%" headers="mcps1.2.3.1.2 "><p id="p133223251335"><a name="p133223251335"></a><a name="p133223251335"></a>ConfigMap数据可以在容器中使用，或被用来存储ConfigMap数据。其中，“键”代表文件名；“值”代表文件中的内容。</p>
+        <td class="cellrowborder" valign="top" width="72%" headers="mcps1.2.3.1.2 "><p id="p133223251335"><a name="p133223251335"></a><a name="p133223251335"></a>ConfigMap存储的配置数据。其中，“键”代表文件名；“值”代表文件中的内容。</p>
         <a name="ol10322425232"></a><a name="ol10322425232"></a><ol id="ol10322425232"><li>单击“添加数据” 。</li><li>输入键、值。</li></ol>
         </td>
         </tr>
@@ -50,7 +50,7 @@ ConfigMap是一种用于存储应用所需配置信息的资源类型。资源�
     -   方式二：文件上传。
 
         >![](public_sys-resources/icon-note.gif) **说明：**   
-        >若需要通过上传文件的方式创建资源，请确保资源描述文件已创建。云容器实例支持json或yaml格式，且文件大小需要小于1MB，详细请参见[ConfigMap文件格式要求](#section18975165217385)。  
+        >云容器实例支持json或yaml格式，且文件大小需要小于1MB，详细请参见[ConfigMap文件格式要求](#section18975165217385)。  
 
         单击“添加文件“，选择已创建的ConfigMap类型资源文件后，单击“打开”。
 
