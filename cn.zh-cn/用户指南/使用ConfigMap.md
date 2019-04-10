@@ -117,3 +117,7 @@ ConfigMap资源文件支持json和yaml两种格式，且数据值大小不得超
     ```
 
 
+## 使用kubectl创建ConfigMap<a name="section25041341338"></a>
+
+使用kubectl创建ConfigMap请参见[ConfigMap](https://support.huaweicloud.com/devg-cci/cci_05_0019.html)。
+

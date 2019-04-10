@@ -137,3 +137,7 @@ root@ubuntu:~# echo -n "3306" | base64
 MzMwNg==
 ```
 
+## 使用kubectl创建Secret<a name="section25041341338"></a>
+
+使用kubectl创建Secret请参见[Secret](https://support.huaweicloud.com/devg-cci/cci_05_0020.html)。
+
