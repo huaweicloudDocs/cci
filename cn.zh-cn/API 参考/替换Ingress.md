@@ -62,7 +62,7 @@ PUT /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses/\{name\}
 
 **响应参数：**
 
-请求参数的详细描述请参见[表111](公共参数.md#d0e42951)。
+请求参数的详细描述请参见[表111](数据结构.md#d0e42951)。
 
 **请求示例：**
 
@@ -109,7 +109,7 @@ PUT /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表111](公共参数.md#d0e42951)。
+响应参数的详细描述请参见[表111](数据结构.md#d0e42951)。
 
 **响应示例：**
 

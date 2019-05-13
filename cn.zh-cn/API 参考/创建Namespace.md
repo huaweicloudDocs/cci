@@ -77,7 +77,7 @@ POST /api/v1/namespaces
 </td>
 <td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0079615062_p13700797"><a name="zh-cn_topic_0079615062_p13700797"></a><a name="zh-cn_topic_0079615062_p13700797"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="a3467669217d84b4c81c113d5e2da8569"><a name="a3467669217d84b4c81c113d5e2da8569"></a><a name="a3467669217d84b4c81c113d5e2da8569"></a><a href="公共参数.md#zh-cn_topic_0079614925_table47756489">表10</a></p>
+<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="a3467669217d84b4c81c113d5e2da8569"><a name="a3467669217d84b4c81c113d5e2da8569"></a><a name="a3467669217d84b4c81c113d5e2da8569"></a><a href="数据结构.md#zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="39.290000000000006%" headers="mcps1.2.5.1.4 "><p id="p6864112411261"><a name="p6864112411261"></a><a name="p6864112411261"></a>Standard object metadata.</p>
 <p id="p177247555127"><a name="p177247555127"></a><a name="p177247555127"></a>其中annotations字段请参见<a href="#table759162211124">表3</a></p>

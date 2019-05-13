@@ -79,7 +79,7 @@ DELETE /apis/apps/v1/namespaces/\{namespace\}/statefulsets/\{name\}
 
 **请求参数：**
 
-请求参数如[表65](公共参数.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
@@ -118,7 +118,7 @@ DELETE /apis/apps/v1/namespaces/\{namespace\}/statefulsets/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](公共参数.md#table37251757105918)。
+响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
 
 **响应示例**：
 

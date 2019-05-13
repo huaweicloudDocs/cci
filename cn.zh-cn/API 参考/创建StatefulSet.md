@@ -61,7 +61,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/statefulsets
 
 **请求参数：**
 
-请求参数如[表87](公共参数.md#d0e37568)所示。
+请求参数如[表87](数据结构.md#d0e37568)所示。
 
 **请求示例：**
 
@@ -117,7 +117,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/statefulsets
 
 **响应参数：**
 
-响应参数的详细描述请参见[表87](公共参数.md#d0e37568)。
+响应参数的详细描述请参见[表87](数据结构.md#d0e37568)。
 
 **响应示例：**
 

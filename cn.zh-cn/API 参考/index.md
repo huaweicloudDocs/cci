@@ -1,18 +1,20 @@
 # CCI API参考
 
--   [使用前必读](使用前必读.md)
--   [接口简介](接口简介.md)
--   环境准备
-    -   [获取请求认证](获取请求认证.md)
-    -   [获取项目ID](获取项目ID.md)
-    -   [获取账号ID](获取账号ID.md)
-    -   [获取Docker镜像地址](获取Docker镜像地址.md)
+-   使用前必读
+    -   [概述](概述.md)
+    -   [调用说明](调用说明.md)
+    -   [终端节点](终端节点.md)
+    -   [约束限制](约束限制.md)
+    -   [基本概念](基本概念.md)
+    -   [API版本选择建议](API版本选择建议.md)
 
--   接口使用方法
-    -   [REST API介绍](REST-API介绍.md)
-    -   [示例](示例.md)
-    -   [使用Postman调用接口](使用Postman调用接口.md)
+-   [API概览](API概览.md)
+-   如何调用API
+    -   [构造请求](构造请求.md)
+    -   [认证鉴权](认证鉴权.md)
+    -   [返回结果](返回结果.md)
 
+-   [快速入门](快速入门.md)
 -   API
     -   Network
         -   [创建Network](创建Network.md)
@@ -77,19 +79,6 @@
         -   [更新Job](更新Job.md)
         -   [删除Job](删除Job.md)
         -   [删除所有Job](删除所有Job.md)
-
-    -   CronJob
-        -   [创建CronJob](创建CronJob.md)
-        -   [查询CronJob](查询CronJob.md)
-        -   [列出指定Namespace下所有CronJob](列出指定Namespace下所有CronJob.md)
-        -   [查询CronJob的状态](查询CronJob的状态.md)
-        -   [列出用户所有的CronJob](列出用户所有的CronJob.md)
-        -   [替换CronJob](替换CronJob.md)
-        -   [替换CronJob的状态](替换CronJob的状态.md)
-        -   [更新CronJob](更新CronJob.md)
-        -   [更新CronJob的状态](更新CronJob的状态.md)
-        -   [删除CronJob](删除CronJob.md)
-        -   [删除所有CronJob](删除所有CronJob.md)
 
     -   Service
         -   [创建Service](创建Service.md)
@@ -178,14 +167,18 @@
         -   [删除所有StatefulSet](删除所有StatefulSet（v1beta1）.md)
 
 
--   公共参数
-    -   [公共请求参数（OLD VERSIONS）](公共请求参数（OLD-VERSIONS）.md)
-    -   [公共响应参数（OLD VERSIONS）](公共响应参数（OLD-VERSIONS）.md)
-    -   [公共参数](公共参数.md)
-    -   [状态码](状态码.md)
+-   数据结构
+    -   [请求数据结构（OLD VERSIONS）](请求数据结构（OLD-VERSIONS）.md)
+    -   [响应数据结构（OLD VERSIONS）](响应数据结构（OLD-VERSIONS）.md)
+    -   [数据结构](数据结构.md)
 
 -   附录
     -   [PATCH请求方法操作说明](PATCH请求方法操作说明.md)
     -   [PATCH请求方法操作示例](PATCH请求方法操作示例.md)
+    -   [状态码](状态码.md)
+    -   [获取项目ID](获取项目ID.md)
+    -   [获取账号ID](获取账号ID.md)
+    -   [获取Docker镜像地址](获取Docker镜像地址.md)
+    -   [使用Postman调用接口](使用Postman调用接口.md)
 
 

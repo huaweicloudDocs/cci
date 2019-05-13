@@ -50,7 +50,7 @@ POST /apis/batch/v1/namespaces/\{namespace\}/jobs
 
 **请求参数：**
 
-请求参数如[表98](公共参数.md#table8040885)所示。
+请求参数如[表98](数据结构.md#table8040885)所示。
 
 **请求示例：**
 
@@ -105,7 +105,7 @@ POST /apis/batch/v1/namespaces/\{namespace\}/jobs
 
 **响应参数：**
 
-响应参数的详细描述请参见[表98](公共参数.md#table8040885)。
+响应参数的详细描述请参见[表98](数据结构.md#table8040885)。
 
 **响应示例：**
 

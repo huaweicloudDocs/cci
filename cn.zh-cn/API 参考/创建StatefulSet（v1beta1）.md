@@ -77,7 +77,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="14.288571142885711%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p55702032"><a name="zh-cn_topic_0091433687_p55702032"></a><a name="zh-cn_topic_0091433687_p55702032"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p15570756"><a name="zh-cn_topic_0091433687_p15570756"></a><a name="zh-cn_topic_0091433687_p15570756"></a><a href="公共请求参数（OLD-VERSIONS）.md#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
+<td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p15570756"><a name="zh-cn_topic_0091433687_p15570756"></a><a name="zh-cn_topic_0091433687_p15570756"></a><a href="请求数据结构（OLD-VERSIONS）.md#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="42.85571442855714%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p9683143"><a name="zh-cn_topic_0091433687_p9683143"></a><a name="zh-cn_topic_0091433687_p9683143"></a>Standard list metadata.</p>
 </td>
@@ -177,7 +177,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.5.1.2 "><p id="p144714273119"><a name="p144714273119"></a><a name="p144714273119"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p144759277110"><a name="p144759277110"></a><a name="p144759277110"></a><a href="公共参数.md#zh-cn_topic_0079614925_table58905579">表1</a></p>
+<td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p144759277110"><a name="p144759277110"></a><a name="p144759277110"></a><a href="数据结构.md#zh-cn_topic_0079614925_table58905579">表1</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p18483122715119"><a name="p18483122715119"></a><a name="p18483122715119"></a>Template is the object that describes the pod that will be created if insufficient replicas are detected. Each pod stamped out by the StatefulSet will fulfill this Template, but have a unique identity from the rest of the StatefulSet.</p>
 </td>

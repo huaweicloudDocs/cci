@@ -108,7 +108,7 @@ N/A
 </tr>
 <tr id="row59958055"><td class="cellrowborder" valign="top" width="25.252525252525253%" headers="mcps1.2.4.1.1 "><p id="p24764287"><a name="p24764287"></a><a name="p24764287"></a>items</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.303030303030305%" headers="mcps1.2.4.1.2 "><p id="p59750244"><a name="p59750244"></a><a name="p59750244"></a><a href="公共参数.md#d0e37568">表87</a></p>
+<td class="cellrowborder" valign="top" width="30.303030303030305%" headers="mcps1.2.4.1.2 "><p id="p59750244"><a name="p59750244"></a><a name="p59750244"></a><a href="数据结构.md#d0e37568">表87</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="44.44444444444445%" headers="mcps1.2.4.1.3 "><p id="p4275369"><a name="p4275369"></a><a name="p4275369"></a>List of StatefulSets.</p>
 </td>

@@ -1,4 +1,4 @@
-# 接口简介<a name="cci_02_0002"></a>
+# API概览<a name="cci_02_0002"></a>
 
 云容器实例所提供的接口为CCI接口和Kubernetes原生接口。通过使用云容器实例提供的接口，您可以完整的使用云容器实例的所有功能，包括创建无状态负载、有状态负载等。
 
@@ -19,7 +19,7 @@
 <p id="p854542223216"><a name="p854542223216"></a><a name="p854542223216"></a>Network对象是华为云CCI 新增对象，用于定义kubernetes中一个namespace内的网络与华为云虚拟私有云服务的子网和VPC的映射关系。</p>
 </td>
 </tr>
-<tr id="row24301411136"><td class="cellrowborder" rowspan="15" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p1565011115165"><a name="p1565011115165"></a><a name="p1565011115165"></a>Kubernetes API</p>
+<tr id="row24301411136"><td class="cellrowborder" rowspan="14" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p1565011115165"><a name="p1565011115165"></a><a name="p1565011115165"></a>Kubernetes API</p>
 </td>
 <td class="cellrowborder" valign="top" width="21%" headers="mcps1.1.4.1.2 "><p id="p1243017413139"><a name="p1243017413139"></a><a name="p1243017413139"></a><a href="#section115511242677">Namespace</a></p>
 </td>
@@ -49,12 +49,6 @@
 </td>
 <td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p134393081919"><a name="p134393081919"></a><a name="p134393081919"></a>Job对象管理接口，包括Job对象的创建，查询，修改，删除等接口。</p>
 <p id="p2026631573310"><a name="p2026631573310"></a><a name="p2026631573310"></a>Job是用来控制批处理型任务的资源对象。批处理业务与长期伺服业务（Deployment、Statefulset）的主要区别是批处理业务的运行有头有尾，而长期伺服业务在用户不停止的情况下永远运行。Job管理的Pod根据用户的设置把任务成功完成就自动退出了。</p>
-</td>
-</tr>
-<tr id="row14324724135511"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p13326524165515"><a name="p13326524165515"></a><a name="p13326524165515"></a><a href="#section155231544134310">CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p136645218295"><a name="p136645218295"></a><a name="p136645218295"></a>CronJob对象管理接口，包括CronJob对象的创建，查询，修改，删除等接口。</p>
-<p id="p862467122911"><a name="p862467122911"></a><a name="p862467122911"></a>CronJob是基于时间的Job，就类似于Linux系统的crontab，在指定的时间周期运行指定的Job。</p>
 </td>
 </tr>
 <tr id="row2027518598155"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p10276185916155"><a name="p10276185916155"></a><a name="p10276185916155"></a><a href="#section477116311381">Service</a></p>
@@ -442,73 +436,6 @@
 <tr id="row1272593417119"><td class="cellrowborder" valign="top" width="32.11%" headers="mcps1.1.3.1.1 "><p id="p8725183420112"><a name="p8725183420112"></a><a name="p8725183420112"></a><a href="删除所有Job.md">删除所有Job</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="67.89%" headers="mcps1.1.3.1.2 "><p id="p16725234141116"><a name="p16725234141116"></a><a name="p16725234141116"></a>删除Namespace下所有Job。</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-## CronJob<a name="section155231544134310"></a>
-
-<a name="table484165814433"></a>
-<table><thead align="left"><tr id="row58411586436"><th class="cellrowborder" valign="top" width="32.23%" id="mcps1.1.3.1.1"><p id="p7841115874313"><a name="p7841115874313"></a><a name="p7841115874313"></a>API</p>
-</th>
-<th class="cellrowborder" valign="top" width="67.77%" id="mcps1.1.3.1.2"><p id="p1884125813435"><a name="p1884125813435"></a><a name="p1884125813435"></a>说明</p>
-</th>
-</tr>
-</thead>
-<tbody><tr id="row10841195811435"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p113547393452"><a name="p113547393452"></a><a name="p113547393452"></a><a href="创建CronJob.md">创建CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p58411058114314"><a name="p58411058114314"></a><a name="p58411058114314"></a>创建CronJob。</p>
-</td>
-</tr>
-<tr id="row784114581437"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p535312391456"><a name="p535312391456"></a><a name="p535312391456"></a><a href="查询CronJob.md">查询CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p08414587436"><a name="p08414587436"></a><a name="p08414587436"></a>查询指定的CronJob。</p>
-</td>
-</tr>
-<tr id="row584125834313"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p14350113964518"><a name="p14350113964518"></a><a name="p14350113964518"></a><a href="列出指定Namespace下所有CronJob.md">列出指定Namespace下所有CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p13841135864317"><a name="p13841135864317"></a><a name="p13841135864317"></a>列出Namespace下所有CronJob。</p>
-</td>
-</tr>
-<tr id="row184125814319"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p1584135854313"><a name="p1584135854313"></a><a name="p1584135854313"></a><a href="查询CronJob的状态.md">查询CronJob的状态</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p1184145811437"><a name="p1184145811437"></a><a name="p1184145811437"></a>查询CronJob状态。</p>
-</td>
-</tr>
-<tr id="row18411358154311"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p58418581434"><a name="p58418581434"></a><a name="p58418581434"></a><a href="列出用户所有的CronJob.md">列出用户所有的CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p484117585434"><a name="p484117585434"></a><a name="p484117585434"></a>列出用户所有CronJob。</p>
-</td>
-</tr>
-<tr id="row88413586430"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p10841105819437"><a name="p10841105819437"></a><a name="p10841105819437"></a><a href="替换CronJob.md">替换CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p3841195864317"><a name="p3841195864317"></a><a name="p3841195864317"></a>替换CronJob。</p>
-</td>
-</tr>
-<tr id="row1884112582433"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p884125804315"><a name="p884125804315"></a><a name="p884125804315"></a><a href="替换CronJob的状态.md">替换CronJob的状态</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p984125814439"><a name="p984125814439"></a><a name="p984125814439"></a>替换CronJob的状态。</p>
-</td>
-</tr>
-<tr id="row20414154034916"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p34157405490"><a name="p34157405490"></a><a name="p34157405490"></a><a href="更新CronJob.md">更新CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p18415740114913"><a name="p18415740114913"></a><a name="p18415740114913"></a>更新CronJob。</p>
-</td>
-</tr>
-<tr id="row526184115496"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p162694114915"><a name="p162694114915"></a><a name="p162694114915"></a><a href="更新CronJob的状态.md">更新CronJob的状态</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p142604194914"><a name="p142604194914"></a><a name="p142604194914"></a>更新CronJob状态。</p>
-</td>
-</tr>
-<tr id="row1598964116496"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p0989541134914"><a name="p0989541134914"></a><a name="p0989541134914"></a><a href="删除CronJob.md">删除CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p398994174919"><a name="p398994174919"></a><a name="p398994174919"></a>删除CronJob。</p>
-</td>
-</tr>
-<tr id="row15433134718496"><td class="cellrowborder" valign="top" width="32.23%" headers="mcps1.1.3.1.1 "><p id="p843394716497"><a name="p843394716497"></a><a name="p843394716497"></a><a href="删除所有CronJob.md">删除所有CronJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.77%" headers="mcps1.1.3.1.2 "><p id="p9433154724915"><a name="p9433154724915"></a><a name="p9433154724915"></a>删除Namespace下所有CronJob。</p>
 </td>
 </tr>
 </tbody>

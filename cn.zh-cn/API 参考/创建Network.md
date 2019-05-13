@@ -4,9 +4,9 @@
 
 创建一个Network对象。
 
-Network对象是华为云CCI 新增对象，用于定义kubernetes中一个namespace内的网络与华为云虚拟私有云服务的子网和vpc的映射关系。一个network对象对应于虚拟私有云中一个子网。
+Network对象是华为云CCI 新增对象，用于定义kubernetes中一个namespace内的网络。目前CCI支持VPC网络，一个VPC网络类型的network对象对应于华为云虚拟私有云服务中的一个子网。
 
-CCI的容器网络依赖于华为云底层网络，因此在创建network对象前，需要先调用虚拟私有云的接口创建或者查询已有子网信息。
+CCI的容器网络依赖于华为云底层VPC网络，因此在创建network对象前，需要先调用虚拟私有云的接口创建或者查询已有子网信息。
 
 >![](public_sys-resources/icon-notice.gif) **注意：**   
 >此处VPC和子网的网段不能为10.247.0.0/16，10.247.0.0/16是云容器实例预留给Service的网段。如果您使用此网段，后续可能会造成IP冲突，导致负载无法创建或服务不可用；如果您不需要通过Service访问，而是直接访问Pod，则可以使用此网段。  
@@ -105,7 +105,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="13.131313131313133%" headers="mcps1.2.5.1.2 "><p id="p986512418201"><a name="p986512418201"></a><a name="p986512418201"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.181818181818183%" headers="mcps1.2.5.1.3 "><p id="a3467669217d84b4c81c113d5e2da8569"><a name="a3467669217d84b4c81c113d5e2da8569"></a><a name="a3467669217d84b4c81c113d5e2da8569"></a><a href="公共参数.md#zh-cn_topic_0079614925_table47756489">表10</a></p>
+<td class="cellrowborder" valign="top" width="18.181818181818183%" headers="mcps1.2.5.1.3 "><p id="a3467669217d84b4c81c113d5e2da8569"><a name="a3467669217d84b4c81c113d5e2da8569"></a><a name="a3467669217d84b4c81c113d5e2da8569"></a><a href="数据结构.md#zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="48.484848484848484%" headers="mcps1.2.5.1.4 "><p id="p338173482316"><a name="p338173482316"></a><a name="p338173482316"></a>Standard object metadata.</p>
 <p id="p107941024294"><a name="p107941024294"></a><a name="p107941024294"></a>其中annotations字段请参见<a href="#table15841359192020">表4</a>。</p>
@@ -176,7 +176,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </tbody>
 </table>
 
-**表 5**  spec字段数据结构说明
+**表 5**  VPC网络类型
 
 <a name="table15570752102811"></a>
 <table><thead align="left"><tr id="row457055292811"><th class="cellrowborder" valign="top" width="17%" id="mcps1.2.5.1.1"><p id="p1745604817818"><a name="p1745604817818"></a><a name="p1745604817818"></a>参数</p>
@@ -191,11 +191,11 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </thead>
 <tbody><tr id="row4570125212286"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.5.1.1 "><p id="p6341320173012"><a name="p6341320173012"></a><a name="p6341320173012"></a>cidr</p>
 </td>
-<td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="p123462063018"><a name="p123462063018"></a><a name="p123462063018"></a>Yes</p>
+<td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="p123462063018"><a name="p123462063018"></a><a name="p123462063018"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p734152063019"><a name="p734152063019"></a><a name="p734152063019"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p1534112014309"><a name="p1534112014309"></a><a name="p1534112014309"></a>Network对应子网的网段。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p1534112014309"><a name="p1534112014309"></a><a name="p1534112014309"></a>Network对应VPC子网的网段。</p>
 <div class="note" id="note3755144411414"><a name="note3755144411414"></a><a name="note3755144411414"></a><span class="notetitle"> 说明： </span><div class="notebody"><p id="p1294525011518"><a name="p1294525011518"></a><a name="p1294525011518"></a>此处VPC和子网的网段不能为10.247.0.0/16，10.247.0.0/16是云容器实例预留给Service的网段。如果您使用此网段，后续可能会造成IP冲突，导致负载无法创建或服务不可用；如果您不需要通过Service访问，而是直接访问Pod，则可以使用此网段。</p>
 </div></div>
 </td>
@@ -215,7 +215,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p18221754103018"><a name="p18221754103018"></a><a name="p18221754103018"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p3221185418309"><a name="p3221185418309"></a><a name="p3221185418309"></a>Network 网络类型，当前仅支持<strong id="b197945241336"><a name="b197945241336"></a><a name="b197945241336"></a>underlay_neutron</strong>网络模式。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p3221185418309"><a name="p3221185418309"></a><a name="p3221185418309"></a>Network 网络类型，VPC网络类型取值：<strong id="b197945241336"><a name="b197945241336"></a><a name="b197945241336"></a>underlay_neutron</strong>。</p>
 </td>
 </tr>
 <tr id="row1581183217301"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.5.1.1 "><p id="p9470170173116"><a name="p9470170173116"></a><a name="p9470170173116"></a>networkID</p>
@@ -224,7 +224,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p34704093112"><a name="p34704093112"></a><a name="p34704093112"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p447020173116"><a name="p447020173116"></a><a name="p447020173116"></a>Network对应子网的网络ID。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p447020173116"><a name="p447020173116"></a><a name="p447020173116"></a>Network对应VPC子网的网络ID。</p>
 </td>
 </tr>
 <tr id="row2861143193012"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.5.1.1 "><p id="p63148613115"><a name="p63148613115"></a><a name="p63148613115"></a>subnetID</p>
@@ -233,7 +233,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p17314196103116"><a name="p17314196103116"></a><a name="p17314196103116"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p931417643110"><a name="p931417643110"></a><a name="p931417643110"></a>Network对应子网的子网ID。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p931417643110"><a name="p931417643110"></a><a name="p931417643110"></a>Network对应VPC子网的子网ID。</p>
 </td>
 </tr>
 <tr id="row2845112943015"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.5.1.1 "><p id="p5736171133115"><a name="p5736171133115"></a><a name="p5736171133115"></a>availableZone</p>
@@ -242,7 +242,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p1873651111311"><a name="p1873651111311"></a><a name="p1873651111311"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p1877275710511"><a name="p1877275710511"></a><a name="p1877275710511"></a>Network对应子网所在可用区。当前仅支持<span class="uicontrol" id="uicontrol187721557175111"><a name="uicontrol187721557175111"></a><a name="uicontrol187721557175111"></a>“华北-北京一”</span>区域，<span class="uicontrol" id="uicontrol1477935085316"><a name="uicontrol1477935085316"></a><a name="uicontrol1477935085316"></a>“可用区一”</span>。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p1877275710511"><a name="p1877275710511"></a><a name="p1877275710511"></a>Network对应VPC子网所在可用区。当前仅支持<span class="uicontrol" id="uicontrol187721557175111"><a name="uicontrol187721557175111"></a><a name="uicontrol187721557175111"></a>“华北-北京一”</span>区域，<span class="uicontrol" id="uicontrol1477935085316"><a name="uicontrol1477935085316"></a><a name="uicontrol1477935085316"></a>“可用区一”</span>。</p>
 <p id="p197365115311"><a name="p197365115311"></a><a name="p197365115311"></a>值必须为<span class="uicontrol" id="uicontrol59911284529"><a name="uicontrol59911284529"></a><a name="uicontrol59911284529"></a>“cnnorth1a”</span>。</p>
 </td>
 </tr>

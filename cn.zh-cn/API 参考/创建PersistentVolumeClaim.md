@@ -41,9 +41,9 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
 <a name="tbb39505880dd47b7952941b52626bf77"></a>
 <table><thead align="left"><tr id="rf1f3422b7e214676bd6220a3089a0b6c"><th class="cellrowborder" valign="top" width="22.06%" id="mcps1.2.4.1.1"><p id="a301ecfa05ce3484b872abcfe0f9a0bd9"><a name="a301ecfa05ce3484b872abcfe0f9a0bd9"></a><a name="a301ecfa05ce3484b872abcfe0f9a0bd9"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="17.36%" id="mcps1.2.4.1.2"><p>是否必选</p>
+<th class="cellrowborder" valign="top" width="17.36%" id="mcps1.2.4.1.2"><p id="p7604122714332"><a name="p7604122714332"></a><a name="p7604122714332"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="60.58%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="60.58%" id="mcps1.2.4.1.3"><p id="p2607102713310"><a name="p2607102713310"></a><a name="p2607102713310"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -61,7 +61,7 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
 
 **请求参数：**
 
-请参见[表93](公共参数.md#t7aa9de1153e9466cbfcaa9af17a24772)
+请参见[表93](数据结构.md#t7aa9de1153e9466cbfcaa9af17a24772)
 
 **请求示例：**
 
@@ -69,22 +69,25 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
 
 ```
 {
-    "apiVersion": "v1",
-    "kind": "PersistentVolumeClaim",
-    "metadata": {
-        "name": "pvc-test"
+  "apiVersion": "v1",
+  "kind": "PersistentVolumeClaim",
+  "metadata": {
+    "annotations": {
+      "volume.beta.kubernetes.io/storage-class": "sata"
     },
-    "spec": {
-        "accessModes": [
-            "ReadWriteMany"
-        ],
-        "resources": {
-            "requests": {
-                "storage": "10Gi"
-            }
-        },
-       "storageClassName": "sata"
+    "name": "pvc-test",
+    "namespace": "test-namespace"
+  },
+  "spec": {
+    "accessModes": [
+      "ReadWriteMany"
+    ],
+    "resources": {
+      "requests": {
+        "storage": "10Gi"
+      }
     }
+  }
 }
 ```
 
@@ -92,7 +95,7 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
 
 **响应参数：**
 
-响应参数的详细描述请参见[表93](公共参数.md#t7aa9de1153e9466cbfcaa9af17a24772).
+响应参数的详细描述请参见[表93](数据结构.md#t7aa9de1153e9466cbfcaa9af17a24772).
 
 **响应示例：**
 
@@ -150,9 +153,9 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
 **表 3**  状态码
 
 <a name="t395400749a4a48bdaa2c2d6467f593cd"></a>
-<table><thead align="left"><tr id="rbe30eb05eac64354acc6ebc34daf65dc"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p>状态码</p>
+<table><thead align="left"><tr id="rbe30eb05eac64354acc6ebc34daf65dc"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="p1164219276335"><a name="p1164219276335"></a><a name="p1164219276335"></a>状态码</p>
 </th>
-<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p>描述</p>
+<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p id="p18643192753317"><a name="p18643192753317"></a><a name="p18643192753317"></a>描述</p>
 </th>
 </tr>
 </thead>

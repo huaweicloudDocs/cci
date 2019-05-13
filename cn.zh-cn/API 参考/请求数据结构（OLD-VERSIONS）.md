@@ -1,4 +1,4 @@
-# 公共请求参数（OLD VERSIONS）<a name="cci_02_0065"></a>
+# 请求数据结构（OLD VERSIONS）<a name="cci_02_0065"></a>
 
 **表 1**  v1.PodTemplate数据结构说明
 
@@ -2094,6 +2094,7 @@
 <td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"></a>object</p>
 </td>
 <td class="cellrowborder" valign="top" width="39.47%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a2f754c9b36674039aefe0854ee9253c6"><a name="zh-cn_topic_0083857342_a2f754c9b36674039aefe0854ee9253c6"></a><a name="zh-cn_topic_0083857342_a2f754c9b36674039aefe0854ee9253c6"></a>Minimum amount of compute resources required. If Requests is omitted for a container, it defaults to Limits if that is explicitly specified, otherwise to an implementation-defined value.</p>
+<p id="p1937915924315"><a name="p1937915924315"></a><a name="p1937915924315"></a>云容器实例中Pod规格有限制，具体的限制请参见<a href="https://support.huaweicloud.com/productdesc-cci/cci_03_0007.html" target="_blank" rel="noopener noreferrer">约束限制</a>页面的<span class="uicontrol" id="uicontrol1961412441534"><a name="uicontrol1961412441534"></a><a name="uicontrol1961412441534"></a>“Pod规格”</span>部分。</p>
 </td>
 </tr>
 </tbody>

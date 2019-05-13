@@ -72,7 +72,7 @@ PUT /api/v1/namespaces/\{namespace\}/services/\{name\}
 
 **响应参数：**
 
-请求参数的详细描述请参见[表102](公共参数.md#zh-cn_topic_0079615000_ref458759328)。
+请求参数的详细描述请参见[表102](数据结构.md#zh-cn_topic_0079615000_ref458759328)。
 
 **请求示例：**
 
@@ -122,7 +122,7 @@ PUT /api/v1/namespaces/\{namespace\}/services/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表102](公共参数.md#zh-cn_topic_0079615000_ref458759328)。
+响应参数的详细描述请参见[表102](数据结构.md#zh-cn_topic_0079615000_ref458759328)。
 
 **响应示例：**
 

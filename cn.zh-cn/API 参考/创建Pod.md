@@ -7,27 +7,42 @@
 >![](public_sys-resources/icon-note.gif) **说明：**   
 >Pod的生命周期是短暂的，Pod是用后即焚的实体。在实际使用中，请谨慎单独创建Pod，请使用Deployment、StatefulSet和Job这些控制器创建应用，从而保障应用高可用。  
 
-您可以选择使用GPU（只能在GPU型命名空间下）或不使用GPU。
+云容器实例中Pod规格有限制，具体的限制请参见[约束限制](https://support.huaweicloud.com/productdesc-cci/cci_03_0007.html)页面的“Pod规格“部分。
 
-当前提供Nvidia Telsla V100 16G显卡（显卡驱动版本: 396.26 | CUDA驱动版本: 9.2），使用GPU时容器规格有如下几种：
+当前支持使用Nvidia GPU的驱动版本为**396.26**和**410.104**，您应用程序中使用的CUDA需满足如[表1](#table2822104310159)所示的配套关系。CUDA与驱动的配套关系来源于Nvidia官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
 
--   Nvidia Telsla V100 16G x 1，CPU 4核，内存32GB
--   Nvidia Telsla V100 16G x 2，CPU 8核，内存64GB
--   Nvidia Telsla V100 16G x 4，CPU 16核，内存128GB
--   Nvidia Telsla V100 16G x 8，CPU 32核，内存256GB
+**表 1**  Nvidia GPU驱动与CUDA配套关系
 
-不使用GPU时容器规格有如下几种：
+<a name="table2822104310159"></a>
+<table><thead align="left"><tr id="row17823154311517"><th class="cellrowborder" valign="top" width="20.61%" id="mcps1.2.3.1.1"><p id="p114410478202"><a name="p114410478202"></a><a name="p114410478202"></a>Nvidia GPU驱动版本</p>
+</th>
+<th class="cellrowborder" valign="top" width="79.39%" id="mcps1.2.3.1.2"><p id="p3823104361519"><a name="p3823104361519"></a><a name="p3823104361519"></a>CUDA Toolkit版本</p>
+</th>
+</tr>
+</thead>
+<tbody><tr id="row4823184321519"><td class="cellrowborder" valign="top" width="20.61%" headers="mcps1.2.3.1.1 "><p id="p10823114312154"><a name="p10823114312154"></a><a name="p10823114312154"></a>396.26</p>
+</td>
+<td class="cellrowborder" valign="top" width="79.39%" headers="mcps1.2.3.1.2 "><p id="p1356832711196"><a name="p1356832711196"></a><a name="p1356832711196"></a>CUDA 9.2 (9.2.88)及以下</p>
+</td>
+</tr>
+<tr id="row482384341513"><td class="cellrowborder" valign="top" width="20.61%" headers="mcps1.2.3.1.1 "><p id="p14823104361510"><a name="p14823104361510"></a><a name="p14823104361510"></a>410.104</p>
+</td>
+<td class="cellrowborder" valign="top" width="79.39%" headers="mcps1.2.3.1.2 "><p id="p3628192518161"><a name="p3628192518161"></a><a name="p3628192518161"></a>CUDA 10.0 (10.0.130)及以下</p>
+</td>
+</tr>
+</tbody>
+</table>
 
--   Pod的CPU取值范围为0.25核-32核，且单个容器的CPU必须为0.25核的整数倍
--   Pod的内存取值范围为1GB-128GB，且内存必须为1GB的整数倍
--   Pod的CPU/内存配比值必须在1:2到1:4之间
--   一个Pod内最多支持5个容器，单个容器最小配置是0.25核、0.2GB，最大同容器实例的最大配置
+如果选择GPU加速型Pod，您需要设置Pod的**metadata.annotations**中添加**cri.cci.io/gpu-driver**字段，指定使用哪个版本显卡驱动，取值如下：
+
+-   gpu-410.104
+-   gpu-396.26
 
 ## URI<a name="s83bc1fb06185462cb2e2665b169bc85c"></a>
 
 POST /api/v1/namespaces/\{namespace\}/pods
 
-**表 1**  Path参数
+**表 2**  Path参数
 
 <a name="table1696332124519"></a>
 <table><thead align="left"><tr id="row11961332194516"><th class="cellrowborder" valign="top" width="24%" id="mcps1.2.3.1.1"><p id="p396032144518"><a name="p396032144518"></a><a name="p396032144518"></a>参数</p>
@@ -44,7 +59,7 @@ POST /api/v1/namespaces/\{namespace\}/pods
 </tbody>
 </table>
 
-**表 2**  参数描述
+**表 3**  参数描述
 
 <a name="zh-cn_topic_0079615001_table32114614"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0079615001_row42303331"><th class="cellrowborder" valign="top" width="14.000000000000002%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0079615001_p4017754"><a name="zh-cn_topic_0079615001_p4017754"></a><a name="zh-cn_topic_0079615001_p4017754"></a>参数</p>
@@ -69,7 +84,7 @@ POST /api/v1/namespaces/\{namespace\}/pods
 
 **请求参数：**
 
-请求参数的详细描述请参见[表2](公共参数.md#zh-cn_topic_0079614925_table60388168)。
+请求参数的详细描述请参见[表2](数据结构.md#zh-cn_topic_0079614925_table60388168)。
 
 **请求示例：**
 
@@ -121,7 +136,10 @@ POST /api/v1/namespaces/\{namespace\}/pods
         "labels": {
             "name": "pod-test"
         },
-        "name": "pod-test"
+        "name": "pod-test",
+        "annotations": {
+            "cri.cci.io/gpu-driver": "gpu-410.104"
+        }
     },
     "spec": {
         "containers": [
@@ -132,12 +150,12 @@ POST /api/v1/namespaces/\{namespace\}/pods
                 "resources": {
                     "requests": {
                         "cpu": "4",
-                        "memory": "32Gi", 
+                        "memory": "32Gi",
                         "nvidia.com/gpu-tesla-v100-16GB": "1"
                     },
                     "limits": {
                         "cpu": "4",
-                        "memory": "32Gi"
+                        "memory": "32Gi",
                         "nvidia.com/gpu-tesla-v100-16GB": "1"
                     }
                 }
@@ -157,7 +175,7 @@ POST /api/v1/namespaces/\{namespace\}/pods
 
 **响应参数：**
 
-响应参数的详细描述请参见[表2](公共参数.md#zh-cn_topic_0079614925_table60388168)。
+响应参数的详细描述请参见[表2](数据结构.md#zh-cn_topic_0079614925_table60388168)。
 
 **响应示例：**
 
@@ -236,9 +254,9 @@ POST /api/v1/namespaces/\{namespace\}/pods
 
 ## 状态码<a name="sbb2d9f14fc4a4197a3a609e7c568ab4d"></a>
 
-[表3](#zh-cn_topic_0079615001_table20596071)描述API的状态码。
+[表4](#zh-cn_topic_0079615001_table20596071)描述API的状态码。
 
-**表 3**  状态码
+**表 4**  状态码
 
 <a name="zh-cn_topic_0079615001_table20596071"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0079615001_row9746163"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="p57545694203043"><a name="p57545694203043"></a><a name="p57545694203043"></a>状态码</p>

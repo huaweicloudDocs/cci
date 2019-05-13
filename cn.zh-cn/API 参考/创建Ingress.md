@@ -4,26 +4,7 @@
 
 创建Ingress。
 
-如果在创建Ingress资源对象和Deployment/StatefuleSet资源对象后，要在CCI界面，工作负载详情页面中，“访问方式“页签下显示对应的Ingress资源，则需要给创建的Ingress资源对象添加labels标签，并且设置对应的selector。
-
-设置请求消息体中的“metadata.labels“参数键值如下：
-
-```
-labels:
-    app: appname
-```
-
-设置请求消息体中的“spec.selector“参数键值如下：
-
-```
-selector:
-    app: appname 
-```
-
-其中：
-
--   lables参数下“app“参数所键入的“appname“为显示在CCI工作负载界面上的工作负载名称，其值与Deployment/StatefuleSet的“metadata.name“中所添加的内容一致。
--   selector参数下“app“的值与需要关联的Deployment/StatefuleSet的“spec.selector“保持一致。
+如果在创建Ingress资源对象和Deployment/StatefuleSet资源对象后，要在CCI界面，工作负载详情页面中，“访问方式“页签下显示对应的Ingress资源，则需要给创建的Ingress资源对象添加labels标签。
 
 ## URI<a name="section14030938"></a>
 
@@ -71,16 +52,16 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
 
 **请求参数：**
 
-请求参数请参见[表111](公共参数.md#d0e42951)。
+请求参数请参见[表111](数据结构.md#d0e42951)。
 
 **表 3**  创建Ingress时必填的annotations字段数据结构说明
 
 <a name="table1219043217326"></a>
 <table><thead align="left"><tr id="row1019023212325"><th class="cellrowborder" valign="top" width="31.683168316831683%" id="mcps1.2.5.1.1"><p id="p11909326324"><a name="p11909326324"></a><a name="p11909326324"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="10.891089108910892%" id="mcps1.2.5.1.2"><p id="p171901532153212"><a name="p171901532153212"></a><a name="p171901532153212"></a>是否必须</p>
+<th class="cellrowborder" valign="top" width="10.792079207920793%" id="mcps1.2.5.1.2"><p id="p171901532153212"><a name="p171901532153212"></a><a name="p171901532153212"></a>是否必须</p>
 </th>
-<th class="cellrowborder" valign="top" width="12.871287128712872%" id="mcps1.2.5.1.3"><p id="p219015321324"><a name="p219015321324"></a><a name="p219015321324"></a>类型</p>
+<th class="cellrowborder" valign="top" width="12.970297029702971%" id="mcps1.2.5.1.3"><p id="p219015321324"><a name="p219015321324"></a><a name="p219015321324"></a>类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.554455445544555%" id="mcps1.2.5.1.4"><p id="p8872152412914"><a name="p8872152412914"></a><a name="p8872152412914"></a>描述</p>
 </th>
@@ -88,27 +69,18 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
 </thead>
 <tbody><tr id="row10190183223213"><td class="cellrowborder" valign="top" width="31.683168316831683%" headers="mcps1.2.5.1.1 "><p id="p3190103273218"><a name="p3190103273218"></a><a name="p3190103273218"></a>kubernetes.io/elb.id</p>
 </td>
-<td class="cellrowborder" valign="top" width="10.891089108910892%" headers="mcps1.2.5.1.2 "><p id="p16465204161912"><a name="p16465204161912"></a><a name="p16465204161912"></a>Yes</p>
+<td class="cellrowborder" valign="top" width="10.792079207920793%" headers="mcps1.2.5.1.2 "><p id="p16465204161912"><a name="p16465204161912"></a><a name="p16465204161912"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p787663812220"><a name="p787663812220"></a><a name="p787663812220"></a>String</p>
+<td class="cellrowborder" valign="top" width="12.970297029702971%" headers="mcps1.2.5.1.3 "><p id="p787663812220"><a name="p787663812220"></a><a name="p787663812220"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="44.554455445544555%" headers="mcps1.2.5.1.4 "><p id="p19440125812308"><a name="p19440125812308"></a><a name="p19440125812308"></a>ELB实例的ID。</p>
 </td>
 </tr>
-<tr id="row11190183213217"><td class="cellrowborder" valign="top" width="31.683168316831683%" headers="mcps1.2.5.1.1 "><p id="p1480352318318"><a name="p1480352318318"></a><a name="p1480352318318"></a>kubernetes.io/elb.ip</p>
-</td>
-<td class="cellrowborder" valign="top" width="10.891089108910892%" headers="mcps1.2.5.1.2 "><p id="p1037844716197"><a name="p1037844716197"></a><a name="p1037844716197"></a>Yes</p>
-</td>
-<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p574619495197"><a name="p574619495197"></a><a name="p574619495197"></a>String</p>
-</td>
-<td class="cellrowborder" valign="top" width="44.554455445544555%" headers="mcps1.2.5.1.4 "><p id="p1787717112314"><a name="p1787717112314"></a><a name="p1787717112314"></a>ELB实例的IP。</p>
-</td>
-</tr>
 <tr id="row1367415418314"><td class="cellrowborder" valign="top" width="31.683168316831683%" headers="mcps1.2.5.1.1 "><p id="p2674841314"><a name="p2674841314"></a><a name="p2674841314"></a>kubernetes.io/elb.port</p>
 </td>
-<td class="cellrowborder" valign="top" width="10.891089108910892%" headers="mcps1.2.5.1.2 "><p id="p444433216314"><a name="p444433216314"></a><a name="p444433216314"></a>Yes</p>
+<td class="cellrowborder" valign="top" width="10.792079207920793%" headers="mcps1.2.5.1.2 "><p id="p444433216314"><a name="p444433216314"></a><a name="p444433216314"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p114441632163115"><a name="p114441632163115"></a><a name="p114441632163115"></a>String</p>
+<td class="cellrowborder" valign="top" width="12.970297029702971%" headers="mcps1.2.5.1.3 "><p id="p114441632163115"><a name="p114441632163115"></a><a name="p114441632163115"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="44.554455445544555%" headers="mcps1.2.5.1.4 "><p id="p2674174193117"><a name="p2674174193117"></a><a name="p2674174193117"></a>ELB实例的端口。</p>
 </td>
@@ -126,12 +98,9 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
         "name": "redis",
         "labels": {
             "app": "redis",
-            "isExternal": "true",
-            "zone": "data"
         },
         "annotations": {
             "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
-            "kubernetes.io/elb.ip": "192.168.137.182",
             "kubernetes.io/elb.port": "6071"
         }
     },
@@ -159,7 +128,7 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
 
 **响应参数：**
 
-响应参数的详细描述请参见[表111](公共参数.md#d0e42951)。
+响应参数的详细描述请参见[表111](数据结构.md#d0e42951)。
 
 **响应示例：**
 
@@ -182,7 +151,6 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
     },
     "annotations": {
       "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
-      "kubernetes.io/elb.ip": "192.168.137.182",
       "kubernetes.io/elb.port": "6071"
     },
     "enable": true

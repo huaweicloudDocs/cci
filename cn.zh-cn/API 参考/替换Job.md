@@ -71,7 +71,7 @@ PUT /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
 
 **请求参数：**
 
-请求参数的详细描述请参见[表98](公共参数.md#table8040885)。
+请求参数的详细描述请参见[表98](数据结构.md#table8040885)。
 
 **请求示例：**
 
@@ -167,7 +167,7 @@ PUT /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表98](公共参数.md#table8040885)。
+响应参数的详细描述请参见[表98](数据结构.md#table8040885)。
 
 **响应示例：**
 

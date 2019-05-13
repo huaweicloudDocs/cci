@@ -89,7 +89,7 @@ Content-Type: application/merge-patch+json
 
 **响应参数：**
 
-响应参数的详细描述请参见[表2](公共参数.md#zh-cn_topic_0079614925_table60388168)。
+响应参数的详细描述请参见[表2](数据结构.md#zh-cn_topic_0079614925_table60388168)。
 
 **响应示例：**
 

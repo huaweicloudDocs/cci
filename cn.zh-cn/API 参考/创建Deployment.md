@@ -61,7 +61,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/deployments
 
 **请求参数**：
 
-请求参数如[表80](公共参数.md#table12862324102610)所示。
+请求参数如[表80](数据结构.md#table12862324102610)所示。
 
 **请求示例：**
 
@@ -117,7 +117,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/deployments
 
 **响应参数**：
 
-响应参数如[表80](公共参数.md#table12862324102610)所示。
+响应参数如[表80](数据结构.md#table12862324102610)所示。
 
 **响应示例：**
 

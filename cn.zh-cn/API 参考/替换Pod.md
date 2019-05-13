@@ -66,7 +66,7 @@ PUT /api/v1/namespaces/\{namespace\}/pods/\{name\}
 
 **请求参数：**
 
-请求参数的详细描述请参见[表2](公共参数.md#zh-cn_topic_0079614925_table60388168)。
+请求参数的详细描述请参见[表2](数据结构.md#zh-cn_topic_0079614925_table60388168)。
 
 **请求示例：**
 
@@ -114,7 +114,7 @@ PUT /api/v1/namespaces/\{namespace\}/pods/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表2](公共参数.md#zh-cn_topic_0079614925_table60388168)。
+响应参数的详细描述请参见[表2](数据结构.md#zh-cn_topic_0079614925_table60388168)。
 
 **响应示例：**
 

@@ -71,9 +71,11 @@ POST /api/v1/namespaces/\{namespace\}/services
 
 **请求参数：**
 
-请求参数参见[表102](公共参数.md#zh-cn_topic_0079615000_ref458759328)。
+请求参数参见[表102](数据结构.md#zh-cn_topic_0079615000_ref458759328)。
 
 **请求示例：**
+
+ClusterIP类型示例。
 
 ```
 {
@@ -102,11 +104,44 @@ POST /api/v1/namespaces/\{namespace\}/services
 }
 ```
 
+LoadBalancer类型示例。
+
+LoadBalancer类型Service需要在metadata.annotations自定中添加elb实例ID（kubernetes.io/elb.id）、项目ID（tenant.kubernetes.io/project-id）和账号ID（tenant.kubernetes.io/domain-id）
+
+```
+{
+  "apiVersion": "v1",
+  "kind": "Service",
+  "metadata": {
+    "name": "nginx",
+    "annotations": {
+      "kubernetes.io/elb.id": "77e6246c-a091-xxxx-xxxx-789baa571280",
+      "tenant.kubernetes.io/project-id": "a9cab8xxxxxxxxxxxxxxxx41c0aeb",
+      "tenant.kubernetes.io/domain-id": "65382xxxxxxxxxxxxxxxxxe684b"
+    }
+  },
+  "spec": {
+    "selector": {
+      "app": "nginx"
+    },
+    "ports": [
+      {
+        "name": "service0",
+        "targetPort": 80,
+        "port": 8080,
+        "protocol": "TCP"
+      }
+    ],
+    "type": "LoadBalancer"
+  }
+}
+```
+
 ## 响应消息<a name="s6d1491fd7cac4a0fa401c80bcb2778d1"></a>
 
 **响应参数：**
 
-响应参数的详细描述请参见[表102](公共参数.md#zh-cn_topic_0079615000_ref458759328)。
+响应参数的详细描述请参见[表102](数据结构.md#zh-cn_topic_0079615000_ref458759328)。
 
 **响应示例：**
 

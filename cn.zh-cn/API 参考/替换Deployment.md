@@ -65,7 +65,7 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}
 
 **请求参数：**
 
-请求参数的详细描述请参见[表80](公共参数.md#table12862324102610)。
+请求参数的详细描述请参见[表80](数据结构.md#table12862324102610)。
 
 **请求示例：**
 
@@ -123,7 +123,7 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表80](公共参数.md#table12862324102610)。
+响应参数的详细描述请参见[表80](数据结构.md#table12862324102610)。
 
 **响应示例：**
 

@@ -1,4 +1,4 @@
-# 公共响应参数（OLD VERSIONS）<a name="cci_02_0066"></a>
+# 响应数据结构（OLD VERSIONS）<a name="cci_02_0066"></a>
 
 **表 1**  v1.Pod响应参数
 

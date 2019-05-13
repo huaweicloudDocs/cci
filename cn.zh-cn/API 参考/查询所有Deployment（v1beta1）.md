@@ -125,7 +125,7 @@ N/A
 </tr>
 <tr id="row7305335105418"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="p43081535175413"><a name="p43081535175413"></a><a name="p43081535175413"></a>metadata</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p1531113356548"><a name="p1531113356548"></a><a name="p1531113356548"></a><a href="公共响应参数（OLD-VERSIONS）.md#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table66688435">表13</a></p>
+<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p1531113356548"><a name="p1531113356548"></a><a name="p1531113356548"></a><a href="响应数据结构（OLD-VERSIONS）.md#zh-cn_topic_0083857396_zh-cn_topic_0079614930_table66688435">表13</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p631817355548"><a name="p631817355548"></a><a name="p631817355548"></a>Standard list metadata.</p>
 </td>

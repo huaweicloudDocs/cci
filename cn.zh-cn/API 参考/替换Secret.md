@@ -65,7 +65,7 @@ PUT /api/v1/namespaces/\{namespace\}/secrets/\{name\}
 
 **请求参数：**
 
-请求参数的详细描述请参见[表124](公共参数.md#zh-cn_topic_0079614900_ref458786458)。
+请求参数的详细描述请参见[表124](数据结构.md#zh-cn_topic_0079614900_ref458786458)。
 
 **请求示例：**
 
@@ -90,7 +90,7 @@ PUT /api/v1/namespaces/\{namespace\}/secrets/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表124](公共参数.md#zh-cn_topic_0079614900_ref458786458)。
+响应参数的详细描述请参见[表124](数据结构.md#zh-cn_topic_0079614900_ref458786458)。
 
 **响应示例：**
 
