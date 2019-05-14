@@ -4,7 +4,7 @@ ConfigMap是一种用于存储应用所需配置信息的资源类型。资源�
 
 ## 创建ConfigMap<a name="section18512531861"></a>
 
-1.  登录云容器实例控制台，单击左侧导航栏的“配置管理  \>  ConfigMap“，在右侧页面中选择命名空间，单击“创建ConfigMap“。
+1.  登录云容器实例控制台，单击左侧导航栏的[配置中心 \> ConfigMap](https://console.huaweicloud.com/cci/#/app/config/configMap/list)，在右侧页面中选择命名空间，单击“创建ConfigMap“。
 2.  云容器实例支持“手工输入”和“文件上传”两种方式来创建ConfigMap。
     -   方式一：手工输入。参照[表1](#table16321825732)设置新增配置参数，其中带“\*”标志的参数为必填参数。输入完成后，单击“添加ConfigMap“。
 
