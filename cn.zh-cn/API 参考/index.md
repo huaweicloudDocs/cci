@@ -194,7 +194,7 @@
 
 
 -   [Kubernetes API （OLD VERSIONS）]
-    -   [Deployment-0]
+    -   [Deployment]
         -   [创建Deployment](创建Deployment（v1beta1）.md)
         -   [创建Deployment回滚](创建Deployment回滚（v1beta1）.md)
         -   [查询Deployment](查询Deployment（v1beta1）.md)
@@ -231,4 +231,3 @@
     -   [获取账号ID](获取账号ID.md)
     -   [获取Docker镜像地址](获取Docker镜像地址.md)
     -   [挂载OBS使用限制](挂载OBS使用限制.md)
-
