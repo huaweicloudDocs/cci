@@ -110,12 +110,81 @@ N/A
 
 **响应参数**：
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
-
+{
+    "kind": "SecretList",
+    "apiVersion": "v1",
+    "metadata": {
+        "selfLink": "/api/v1/namespaces/testvipchange2/secrets",
+        "resourceVersion": "39602472"
+    },
+    "items": [
+        {
+            "metadata": {
+                "name": "secret-1",
+                "namespace": "testvipchange2",
+                "selfLink": "/api/v1/namespaces/testvipchange2/secrets/secret-1",
+                "uid": "a1bfe325-ce1c-11e9-83db-dc9914fb58e0",
+                "resourceVersion": "39601847",
+                "creationTimestamp": "2019-09-03T07:29:57Z",
+                "labels": {
+                    "label_key": "label_value"
+                },
+                "annotations": {
+                    "description": "",
+                    "secret.cci.io/namespace-uid": "c1bbdefd-c577-11e9-9355-dc9914fb58e0"
+                }
+            },
+            "data": {
+                "data_key_1": "dGVzdA==",
+                "data_key_10": "dGVzdA==",
+                "data_key_2": "dGVzdA==",
+                "data_key_3": "dGVzdA==",
+                "data_key_4": "dGVzdA==",
+                "data_key_5": "dGVzdA==",
+                "data_key_6": "dGVzdA==",
+                "data_key_7": "dGVzdA==",
+                "data_key_8": "dGVzdA==",
+                "data_key_9": "dGVzdA=="
+            },
+            "type": "Opaque"
+        },
+        {
+            "metadata": {
+                "name": "secret-3",
+                "namespace": "testvipchange2",
+                "selfLink": "/api/v1/namespaces/testvipchange2/secrets/secret-3",
+                "uid": "a1cbf6a2-ce1c-11e9-83db-dc9914fb58e0",
+                "resourceVersion": "39601852",
+                "creationTimestamp": "2019-09-03T07:29:58Z",
+                "labels": {
+                    "label_key": "label_value"
+                },
+                "annotations": {
+                    "description": "",
+                    "secret.cci.io/namespace-uid": "c1bbdefd-c577-11e9-9355-dc9914fb58e0"
+                }
+            },
+            "data": {
+                "data_key_1": "dGVzdA==",
+                "data_key_10": "dGVzdA==",
+                "data_key_2": "dGVzdA==",
+                "data_key_3": "dGVzdA==",
+                "data_key_4": "dGVzdA==",
+                "data_key_5": "dGVzdA==",
+                "data_key_6": "dGVzdA==",
+                "data_key_7": "dGVzdA==",
+                "data_key_8": "dGVzdA==",
+                "data_key_9": "dGVzdA=="
+            },
+            "type": "Opaque"
+        }
+    ]
+}
 ```
 
 ## 状态码<a name="section32679856"></a>

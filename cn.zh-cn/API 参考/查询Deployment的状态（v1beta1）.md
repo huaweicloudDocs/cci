@@ -105,11 +105,11 @@ N/A
                         "resources": {
                             "limits": {
                                 "cpu": "1", 
-                                "memory": "1536Mi"
+                                "memory": "1024Mi"
                             }, 
                             "requests": {
                                 "cpu": "1", 
-                                "memory": "1536Mi"
+                                "memory": "1024Mi"
                             }
                         }, 
                         "lifecycle": {}, 

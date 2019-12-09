@@ -75,7 +75,7 @@ Content-Type: application/merge-patch+json
 
 **响应参数：**
 
-响应参数的详细描述请参见[表124](数据结构.md#zh-cn_topic_0079614900_ref458786458)。
+响应参数的详细描述请参见[表123](数据结构.md#zh-cn_topic_0079614900_ref458786458)。
 
 **响应示例：**
 
@@ -83,23 +83,23 @@ Content-Type: application/merge-patch+json
 
 ```
 {
-  "kind": "Secret",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "secret-test",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/secrets/secret-test",
-    "uid": "e6170b6d-aff6-11e8-8f17-c81fbe371a17",
-    "resourceVersion": "5199399",
-    "creationTimestamp": "2018-09-04T03:59:19Z",
-    "enable": true
-  },
-  "data": {
-    "key1": "MWYyZDFlMmU2N2Rm",
-    "key2": "YWRtaW4="
-    "test2": "dGVzdA=="
-  },
-  "type": "Opaque"
+    "kind": "Secret",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "secret-test",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/secrets/secret-test",
+        "uid": "e6170b6d-aff6-11e8-8f17-c81fbe371a17",
+        "resourceVersion": "5199399",
+        "creationTimestamp": "2018-09-04T03:59:19Z",
+        "enable": true
+    },
+    "data": {
+        "key1": "MWYyZDFlMmU2N2Rm",
+        "key2": "YWRtaW4=",
+        "test2": "dGVzdA=="
+    },
+    "type": "Opaque"
 }
 ```
 

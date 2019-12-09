@@ -110,14 +110,14 @@ N/A
 
 **响应参数：**
 
-响应参数如[表133](数据结构.md#table2908120115216)所示。
+响应参数如[表132](数据结构.md#table2908120115216)所示。
 
 **表 3**  EventSource字段数据结构说明
 
 <a name="table94641515173415"></a>
 <table><thead align="left"><tr id="row9476131511345"><th class="cellrowborder" valign="top" width="22.220000000000002%" id="mcps1.2.4.1.1"><p id="p11480151553412"><a name="p11480151553412"></a><a name="p11480151553412"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="16.16%" id="mcps1.2.4.1.2"><p id="p848751511346"><a name="p848751511346"></a><a name="p848751511346"></a>类型</p>
+<th class="cellrowborder" valign="top" width="16.16%" id="mcps1.2.4.1.2"><p id="p848751511346"><a name="p848751511346"></a><a name="p848751511346"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="61.62%" id="mcps1.2.4.1.3"><p id="p194941315153411"><a name="p194941315153411"></a><a name="p194941315153411"></a>描述</p>
 </th>
@@ -125,14 +125,14 @@ N/A
 </thead>
 <tbody><tr id="row15497141515348"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="p17502161593411"><a name="p17502161593411"></a><a name="p17502161593411"></a>component</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p13505115103418"><a name="p13505115103418"></a><a name="p13505115103418"></a>string</p>
+<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p13505115103418"><a name="p13505115103418"></a><a name="p13505115103418"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p16306820173518"><a name="p16306820173518"></a><a name="p16306820173518"></a>Component from which the event is generated.</p>
 </td>
 </tr>
 <tr id="row25101115143414"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="p17515715183418"><a name="p17515715183418"></a><a name="p17515715183418"></a>host</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p2518171512342"><a name="p2518171512342"></a><a name="p2518171512342"></a>string</p>
+<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p2518171512342"><a name="p2518171512342"></a><a name="p2518171512342"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p8324143113358"><a name="p8324143113358"></a><a name="p8324143113358"></a>Node name on which the event is generated.</p>
 </td>
@@ -144,110 +144,110 @@ N/A
 
 ```
 {
-  "kind": "EventList",
-  "apiVersion": "v1",
-  "metadata": {
-    "selfLink": "/api/v1/namespaces/namespace-test/events",
-    "resourceVersion": "764693"
-  },
-  "items": [
-    {
-      "metadata": {
-        "name": "deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
-        "uid": "0122b5b2-af79-11e8-8f17-c81fbe371a17",
-        "resourceVersion": "760533",
-        "creationTimestamp": "2018-09-03T12:58:07Z",
-        "enable": true
-      },
-      "involvedObject": {
-        "kind": "Pod",
-        "namespace": "namespace-test",
-        "name": "deployment-test-57f7cff77c-5x5tw",
-        "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
-        "apiVersion": "v1",
-        "resourceVersion": "5036865"
-      },
-      "reason": "Scheduled",
-      "message": "Successfully assigned deployment-test-57f7cff77c-5x5tw to c0dd6256-195a-e811-90a2-10c17294fcbc",
-      "source": {
-        "component": "default-scheduler"
-      },
-      "firstTimestamp": "2018-09-03T12:58:07Z",
-      "lastTimestamp": "2018-09-03T12:58:07Z",
-      "count": 1,
-      "type": "Normal",
-      "eventTime": null,
-      "reportingComponent": "",
-      "reportingInstance": ""
+    "kind": "EventList",
+    "apiVersion": "v1",
+    "metadata": {
+        "selfLink": "/api/v1/namespaces/namespace-test/events",
+        "resourceVersion": "764693"
     },
-    {
-      "metadata": {
-        "name": "deployment-test-57f7cff77c-5x5tw.1550e534d3105acd",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e534d3105acd",
-        "uid": "0123faea-af79-11e8-8f17-c81fbe371a17",
-        "resourceVersion": "760542",
-        "creationTimestamp": "2018-09-03T12:58:07Z",
-        "enable": true
-      },
-      "involvedObject": {
-        "kind": "Pod",
-        "namespace": "namespace-test",
-        "name": "deployment-test-57f7cff77c-5x5tw",
-        "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
-        "apiVersion": "v1",
-        "resourceVersion": "5036870"
-      },
-      "reason": "SuccessfulMountVolume",
-      "message": "Successfully mounted volumes for pod \"deployment-test-57f7cff77c-5x5tw_namespace-test(010fec39-af79-11e8-8f17-c81fbe371a17)\"",
-      "source": {
-        "component": "kubelet",
-        "host": "c0dd6256-195a-e811-90a2-10c17294fcbc"
-      },
-      "firstTimestamp": "2018-09-03T12:58:07Z",
-      "lastTimestamp": "2018-09-03T12:58:12Z",
-      "count": 2,
-      "type": "Normal",
-      "eventTime": null,
-      "reportingComponent": "",
-      "reportingInstance": ""
-    },
-    {
-      "metadata": {
-        "name": "deployment-test-57f7cff77c-5x5tw.1550e5354a5915e0",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e5354a5915e0",
-        "uid": "025554a4-af79-11e8-8f17-c81fbe371a17",
-        "resourceVersion": "760536",
-        "creationTimestamp": "2018-09-03T12:58:09Z",
-        "enable": true
-      },
-      "involvedObject": {
-        "kind": "Pod",
-        "namespace": "namespace-test",
-        "name": "deployment-test-57f7cff77c-5x5tw",
-        "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
-        "apiVersion": "v1",
-        "resourceVersion": "5036870",
-        "fieldPath": "spec.containers{container-0}"
-      },
-      "reason": "Pulling",
-      "message": "pulling image \"100.125.5.235:20202/cci_z00425431/redis:V1\"",
-      "source": {
-        "component": "kubelet",
-        "host": "c0dd6256-195a-e811-90a2-10c17294fcbc"
-      },
-      "firstTimestamp": "2018-09-03T12:58:09Z",
-      "lastTimestamp": "2018-09-03T12:58:09Z",
-      "count": 1,
-      "type": "Normal",
-      "eventTime": null,
-      "reportingComponent": "",
-      "reportingInstance": ""
-    }
-  ]
+    "items": [
+        {
+            "metadata": {
+                "name": "deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
+                "namespace": "namespace-test",
+                "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
+                "uid": "0122b5b2-af79-11e8-8f17-c81fbe371a17",
+                "resourceVersion": "760533",
+                "creationTimestamp": "2018-09-03T12:58:07Z",
+                "enable": true
+            },
+            "involvedObject": {
+                "kind": "Pod",
+                "namespace": "namespace-test",
+                "name": "deployment-test-57f7cff77c-5x5tw",
+                "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
+                "apiVersion": "v1",
+                "resourceVersion": "5036865"
+            },
+            "reason": "Scheduled",
+            "message": "Successfully assigned deployment-test-57f7cff77c-5x5tw to c0dd6256-195a-e811-90a2-10c17294fcbc",
+            "source": {
+                "component": "default-scheduler"
+            },
+            "firstTimestamp": "2018-09-03T12:58:07Z",
+            "lastTimestamp": "2018-09-03T12:58:07Z",
+            "count": 1,
+            "type": "Normal",
+            "eventTime": null,
+            "reportingComponent": "",
+            "reportingInstance": ""
+        },
+        {
+            "metadata": {
+                "name": "deployment-test-57f7cff77c-5x5tw.1550e534d3105acd",
+                "namespace": "namespace-test",
+                "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e534d3105acd",
+                "uid": "0123faea-af79-11e8-8f17-c81fbe371a17",
+                "resourceVersion": "760542",
+                "creationTimestamp": "2018-09-03T12:58:07Z",
+                "enable": true
+            },
+            "involvedObject": {
+                "kind": "Pod",
+                "namespace": "namespace-test",
+                "name": "deployment-test-57f7cff77c-5x5tw",
+                "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
+                "apiVersion": "v1",
+                "resourceVersion": "5036870"
+            },
+            "reason": "SuccessfulMountVolume",
+            "message": "Successfully mounted volumes for pod \"deployment-test-57f7cff77c-5x5tw_namespace-test(010fec39-af79-11e8-8f17-c81fbe371a17)\"",
+            "source": {
+                "component": "kubelet",
+                "host": "c0dd6256-195a-e811-90a2-10c17294fcbc"
+            },
+            "firstTimestamp": "2018-09-03T12:58:07Z",
+            "lastTimestamp": "2018-09-03T12:58:12Z",
+            "count": 2,
+            "type": "Normal",
+            "eventTime": null,
+            "reportingComponent": "",
+            "reportingInstance": ""
+        },
+        {
+            "metadata": {
+                "name": "deployment-test-57f7cff77c-5x5tw.1550e5354a5915e0",
+                "namespace": "namespace-test",
+                "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e5354a5915e0",
+                "uid": "025554a4-af79-11e8-8f17-c81fbe371a17",
+                "resourceVersion": "760536",
+                "creationTimestamp": "2018-09-03T12:58:09Z",
+                "enable": true
+            },
+            "involvedObject": {
+                "kind": "Pod",
+                "namespace": "namespace-test",
+                "name": "deployment-test-57f7cff77c-5x5tw",
+                "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
+                "apiVersion": "v1",
+                "resourceVersion": "5036870",
+                "fieldPath": "spec.containers{container-0}"
+            },
+            "reason": "Pulling",
+            "message": "pulling image \"*.*.*.*:20202/cci/redis:V1\"",
+            "source": {
+                "component": "kubelet",
+                "host": "c0dd6256-195a-e811-90a2-10c17294fcbc"
+            },
+            "firstTimestamp": "2018-09-03T12:58:09Z",
+            "lastTimestamp": "2018-09-03T12:58:09Z",
+            "count": 1,
+            "type": "Normal",
+            "eventTime": null,
+            "reportingComponent": "",
+            "reportingInstance": ""
+        }
+    ]
 }
 ```
 

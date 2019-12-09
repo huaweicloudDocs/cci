@@ -35,9 +35,9 @@ DELETE  /api/v1/namespaces/\{namespace\}/persistentvolumeclaims/\{name\}
 <a name="t101edc7f76364f35a20a711cac4e7e02"></a>
 <table><thead align="left"><tr id="r187debc2c7c34469b9f2583f2eeb9928"><th class="cellrowborder" valign="top" width="20.369999999999997%" id="mcps1.2.4.1.1"><p id="a730c657a0f4643748672df8aae5ac8f9"><a name="a730c657a0f4643748672df8aae5ac8f9"></a><a name="a730c657a0f4643748672df8aae5ac8f9"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="17.54%" id="mcps1.2.4.1.2"><p>是否必选</p>
+<th class="cellrowborder" valign="top" width="17.54%" id="mcps1.2.4.1.2"><p id="p16157644131910"><a name="p16157644131910"></a><a name="p16157644131910"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="62.09%" id="mcps1.2.4.1.3"><p>描述</p>
+<th class="cellrowborder" valign="top" width="62.09%" id="mcps1.2.4.1.3"><p id="p171571944111913"><a name="p171571944111913"></a><a name="p171571944111913"></a>描述</p>
 </th>
 </tr>
 </thead>
@@ -79,61 +79,61 @@ DELETE  /api/v1/namespaces/\{namespace\}/persistentvolumeclaims/\{name\}
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
 ```
-{ 
-   "kind": "DeleteOptions", 
-   "apiVersion": "v1", 
-   "gracePeriodSeconds": 0 
- }
+{
+    "kind": "DeleteOptions",
+    "apiVersion": "v1",
+    "gracePeriodSeconds": 0
+}
 ```
 
 ## 响应消息<a name="se3a9951114354928a0998dcc1d2e25fe"></a>
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "PersistentVolumeClaim",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "pvc-test",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/persistentvolumeclaims/pvc-test",
-    "uid": "5a9ab4c1-b1a6-11e8-8b84-c88d83be759f",
-    "resourceVersion": "5669396",
-    "creationTimestamp": "2018-09-06T07:27:47Z",
-    "deletionTimestamp": "2018-09-06T07:51:51Z",
-    "deletionGracePeriodSeconds": 0,
-    "annotations": {
-      "volume.beta.kubernetes.io/storage-class": "sata",
-      "volume.beta.kubernetes.io/storage-provisioner": "flexvolume-huawei.com/fuxivol"
+    "kind": "PersistentVolumeClaim",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "pvc-test",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/persistentvolumeclaims/pvc-test",
+        "uid": "5a9ab4c1-b1a6-11e8-8b84-c88d83be759f",
+        "resourceVersion": "5669396",
+        "creationTimestamp": "2018-09-06T07:27:47Z",
+        "deletionTimestamp": "2018-09-06T07:51:51Z",
+        "deletionGracePeriodSeconds": 0,
+        "annotations": {
+            "volume.beta.kubernetes.io/storage-class": "sata",
+            "volume.beta.kubernetes.io/storage-provisioner": "flexvolume-huawei.com/fuxivol"
+        },
+        "finalizers": [
+            "kubernetes.io/pvc-protection"
+        ],
+        "enable": true
     },
-    "finalizers": [
-      "kubernetes.io/pvc-protection"
-    ],
-    "enable": true
-  },
-  "spec": {
-    "accessModes": [
-      "ReadWriteMany"
-    ],
-    "resources": {
-      "requests": {
-        "storage": "10Gi"
-      }
+    "spec": {
+        "accessModes": [
+            "ReadWriteMany"
+        ],
+        "resources": {
+            "requests": {
+                "storage": "10Gi"
+            }
+        }
+    },
+    "status": {
+        "phase": "Pending"
     }
-  },
-  "status": {
-    "phase": "Pending"
-  }
 }
 ```
 
@@ -144,9 +144,9 @@ DELETE  /api/v1/namespaces/\{namespace\}/persistentvolumeclaims/\{name\}
 **表 3**  状态码
 
 <a name="t10fde947e6644cfa87987be473137d2b"></a>
-<table><thead align="left"><tr id="ra98a80c0400848a18557491c3f9e4f64"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p>状态码</p>
+<table><thead align="left"><tr id="ra98a80c0400848a18557491c3f9e4f64"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="p151761544131914"><a name="p151761544131914"></a><a name="p151761544131914"></a>状态码</p>
 </th>
-<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p>描述</p>
+<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p id="p817714411920"><a name="p817714411920"></a><a name="p817714411920"></a>描述</p>
 </th>
 </tr>
 </thead>

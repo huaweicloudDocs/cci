@@ -33,19 +33,19 @@ DELETE /api/v1/namespaces/\{namespace\}/services/\{name\}
 **表 2**  Query参数
 
 <a name="zh-cn_topic_0079615016_table17955773"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0079615016_row34849842"><th class="cellrowborder" valign="top" width="33.33333333333333%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0079615016_p4264914"><a name="zh-cn_topic_0079615016_p4264914"></a><a name="zh-cn_topic_0079615016_p4264914"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0079615016_row34849842"><th class="cellrowborder" valign="top" width="24.08240824082408%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0079615016_p4264914"><a name="zh-cn_topic_0079615016_p4264914"></a><a name="zh-cn_topic_0079615016_p4264914"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="33.33333333333333%" id="mcps1.2.4.1.2"><p id="p47001612205713"><a name="p47001612205713"></a><a name="p47001612205713"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="24.52245224522452%" id="mcps1.2.4.1.2"><p id="p47001612205713"><a name="p47001612205713"></a><a name="p47001612205713"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="33.33333333333333%" id="mcps1.2.4.1.3"><p id="p49034188205713"><a name="p49034188205713"></a><a name="p49034188205713"></a>描述</p>
+<th class="cellrowborder" valign="top" width="51.39513951395139%" id="mcps1.2.4.1.3"><p id="p49034188205713"><a name="p49034188205713"></a><a name="p49034188205713"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="zh-cn_topic_0079615016_row15472413"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615016_p45305951"><a name="zh-cn_topic_0079615016_p45305951"></a><a name="zh-cn_topic_0079615016_p45305951"></a>pretty</p>
+<tbody><tr id="zh-cn_topic_0079615016_row15472413"><td class="cellrowborder" valign="top" width="24.08240824082408%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615016_p45305951"><a name="zh-cn_topic_0079615016_p45305951"></a><a name="zh-cn_topic_0079615016_p45305951"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615016_p45903438"><a name="zh-cn_topic_0079615016_p45903438"></a><a name="zh-cn_topic_0079615016_p45903438"></a>No</p>
+<td class="cellrowborder" valign="top" width="24.52245224522452%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615016_p45903438"><a name="zh-cn_topic_0079615016_p45903438"></a><a name="zh-cn_topic_0079615016_p45903438"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615016_p27190993"><a name="zh-cn_topic_0079615016_p27190993"></a><a name="zh-cn_topic_0079615016_p27190993"></a>If 'true', then the output is pretty printed.</p>
+<td class="cellrowborder" valign="top" width="51.39513951395139%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615016_p27190993"><a name="zh-cn_topic_0079615016_p27190993"></a><a name="zh-cn_topic_0079615016_p27190993"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
 </tbody>
@@ -59,19 +59,17 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Status",
-  "apiVersion": "v1",
-  "metadata": {
-
-  },
-  "status": "Success",
-  "code": 200
+    "kind": "Status",
+    "apiVersion": "v1",
+    "metadata": {},
+    "status": "Success",
+    "code": 200
 }
 ```
 

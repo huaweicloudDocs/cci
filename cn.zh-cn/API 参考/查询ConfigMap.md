@@ -33,33 +33,33 @@ GET /api/v1/namespaces/\{namespace\}/configmaps/\{name\}
 **表 2**  Query参数
 
 <a name="d0e43679"></a>
-<table><thead align="left"><tr id="row18163667"><th class="cellrowborder" valign="top" width="33.33333333333333%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
+<table><thead align="left"><tr id="row18163667"><th class="cellrowborder" valign="top" width="24.192419241924192%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="20.162016201620162%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="36.36363636363636%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
+<th class="cellrowborder" valign="top" width="55.64556455645564%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row32810792"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="p40428502"><a name="p40428502"></a><a name="p40428502"></a>pretty</p>
+<tbody><tr id="row32810792"><td class="cellrowborder" valign="top" width="24.192419241924192%" headers="mcps1.2.4.1.1 "><p id="p40428502"><a name="p40428502"></a><a name="p40428502"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.303030303030305%" headers="mcps1.2.4.1.2 "><p id="p53483269"><a name="p53483269"></a><a name="p53483269"></a>No</p>
+<td class="cellrowborder" valign="top" width="20.162016201620162%" headers="mcps1.2.4.1.2 "><p id="p53483269"><a name="p53483269"></a><a name="p53483269"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="36.36363636363636%" headers="mcps1.2.4.1.3 "><p id="p37177565"><a name="p37177565"></a><a name="p37177565"></a>If 'true', then the output is pretty printed.</p>
-</td>
-</tr>
-<tr id="row8339656"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="p4423518"><a name="p4423518"></a><a name="p4423518"></a>exact</p>
-</td>
-<td class="cellrowborder" valign="top" width="30.303030303030305%" headers="mcps1.2.4.1.2 "><p id="p22760714"><a name="p22760714"></a><a name="p22760714"></a>No</p>
-</td>
-<td class="cellrowborder" valign="top" width="36.36363636363636%" headers="mcps1.2.4.1.3 "><p id="p31678513"><a name="p31678513"></a><a name="p31678513"></a>Should the export be exact. Exact export maintains cluster-specific fields like 'Namespace'.</p>
+<td class="cellrowborder" valign="top" width="55.64556455645564%" headers="mcps1.2.4.1.3 "><p id="p37177565"><a name="p37177565"></a><a name="p37177565"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
-<tr id="row16671167"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="p8187309"><a name="p8187309"></a><a name="p8187309"></a>export</p>
+<tr id="row8339656"><td class="cellrowborder" valign="top" width="24.192419241924192%" headers="mcps1.2.4.1.1 "><p id="p4423518"><a name="p4423518"></a><a name="p4423518"></a>exact</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.303030303030305%" headers="mcps1.2.4.1.2 "><p id="p59192267"><a name="p59192267"></a><a name="p59192267"></a>No</p>
+<td class="cellrowborder" valign="top" width="20.162016201620162%" headers="mcps1.2.4.1.2 "><p id="p22760714"><a name="p22760714"></a><a name="p22760714"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="36.36363636363636%" headers="mcps1.2.4.1.3 "><p id="p29844289"><a name="p29844289"></a><a name="p29844289"></a>Should this value be exported. Export strips fields that a user cannot specify.</p>
+<td class="cellrowborder" valign="top" width="55.64556455645564%" headers="mcps1.2.4.1.3 "><p id="p31678513"><a name="p31678513"></a><a name="p31678513"></a>Should the export be exact. Exact export maintains cluster-specific fields like 'Namespace'.</p>
+</td>
+</tr>
+<tr id="row16671167"><td class="cellrowborder" valign="top" width="24.192419241924192%" headers="mcps1.2.4.1.1 "><p id="p8187309"><a name="p8187309"></a><a name="p8187309"></a>export</p>
+</td>
+<td class="cellrowborder" valign="top" width="20.162016201620162%" headers="mcps1.2.4.1.2 "><p id="p59192267"><a name="p59192267"></a><a name="p59192267"></a>No</p>
+</td>
+<td class="cellrowborder" valign="top" width="55.64556455645564%" headers="mcps1.2.4.1.3 "><p id="p29844289"><a name="p29844289"></a><a name="p29844289"></a>Should this value be exported. Export strips fields that a user cannot specify.</p>
 </td>
 </tr>
 </tbody>
@@ -73,7 +73,7 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表122](数据结构.md#table79541510192317)。
+响应参数的详细描述请参见[表121](数据结构.md#table79541510192317)。
 
 **响应示例：**
 

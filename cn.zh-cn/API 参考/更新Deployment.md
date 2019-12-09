@@ -86,114 +86,112 @@ Content-Type: application/merge-patch+json
 
 **响应参数：**
 
-响应参数的详细描述请参见[表80](数据结构.md#table12862324102610)。
+响应参数的详细描述请参见[表79](数据结构.md#table12862324102610)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Deployment",
-  "apiVersion": "apps/v1",
-  "metadata": {
-    "name": "deployment-test",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
-    "uid": "777dce52-b186-11e8-8cb0-c81fbe371a17",
-    "resourceVersion": "5657176",
-    "generation": 2,
-    "creationTimestamp": "2018-09-06T03:39:32Z",
-    "labels": {
-      "app": "deployment-test2"
-    },
-    "annotations": {
-      "deployment.kubernetes.io/revision": "2"
-    },
-    "enable": true
-  },
-  "spec": {
-    "replicas": 2,
-    "selector": {
-      "matchLabels": {
-        "app": "redis"
-      }
-    },
-    "template": {
-      "metadata": {
-        "creationTimestamp": null,
+    "kind": "Deployment",
+    "apiVersion": "apps/v1",
+    "metadata": {
+        "name": "deployment-test",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
+        "uid": "777dce52-b186-11e8-8cb0-c81fbe371a17",
+        "resourceVersion": "5657176",
+        "generation": 2,
+        "creationTimestamp": "2018-09-06T03:39:32Z",
         "labels": {
-          "app": "redis"
+            "app": "deployment-test2"
+        },
+        "annotations": {
+            "deployment.kubernetes.io/revision": "2"
         },
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "container-0",
-            "image": "100.125.5.235:20202/cci_z00425431/redis:V1",
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "memory": "1Gi",
-                "cpu": "500m"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "IfNotPresent"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "replicas": 2,
+        "selector": {
+            "matchLabels": {
+                "app": "redis"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "creationTimestamp": null,
+                "labels": {
+                    "app": "redis"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "container-0",
+                        "image": "*.*.*.*:20202/cci/redis:V1",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "memory": "1Gi",
+                                "cpu": "500m"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "IfNotPresent"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        },
+        "strategy": {
+            "type": "RollingUpdate",
+            "rollingUpdate": {
+                "maxUnavailable": "25%",
+                "maxSurge": "25%"
+            }
+        },
+        "revisionHistoryLimit": 10,
+        "progressDeadlineSeconds": 600
     },
-    "strategy": {
-      "type": "RollingUpdate",
-      "rollingUpdate": {
-        "maxUnavailable": "25%",
-        "maxSurge": "25%"
-      }
-    },
-    "revisionHistoryLimit": 10,
-    "progressDeadlineSeconds": 600
-  },
-  "status": {
-    "observedGeneration": 2,
-    "replicas": 2,
-    "updatedReplicas": 2,
-    "readyReplicas": 2,
-    "availableReplicas": 2,
-    "conditions": [
-      {
-        "type": "Available",
-        "status": "True",
-        "lastUpdateTime": "2018-09-06T04:14:14Z",
-        "lastTransitionTime": "2018-09-06T04:14:14Z",
-        "reason": "MinimumReplicasAvailable",
-        "message": "Deployment has minimum availability."
-      },
-      {
-        "type": "Progressing",
-        "status": "True",
-        "lastUpdateTime": "2018-09-06T04:14:24Z",
-        "lastTransitionTime": "2018-09-06T03:39:32Z",
-        "reason": "NewReplicaSetAvailable",
-        "message": "ReplicaSet \"deployment-test-68585dfddb\" has successfully progressed."
-      }
-    ]
-  }
+    "status": {
+        "observedGeneration": 2,
+        "replicas": 2,
+        "updatedReplicas": 2,
+        "readyReplicas": 2,
+        "availableReplicas": 2,
+        "conditions": [
+            {
+                "type": "Available",
+                "status": "True",
+                "lastUpdateTime": "2018-09-06T04:14:14Z",
+                "lastTransitionTime": "2018-09-06T04:14:14Z",
+                "reason": "MinimumReplicasAvailable",
+                "message": "Deployment has minimum availability."
+            },
+            {
+                "type": "Progressing",
+                "status": "True",
+                "lastUpdateTime": "2018-09-06T04:14:24Z",
+                "lastTransitionTime": "2018-09-06T03:39:32Z",
+                "reason": "NewReplicaSetAvailable",
+                "message": "ReplicaSet \"deployment-test-68585dfddb\" has successfully progressed."
+            }
+        ]
+    }
 }
 ```
 

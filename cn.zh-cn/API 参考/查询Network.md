@@ -1,6 +1,6 @@
 # 查询Network<a name="cci_02_2015"></a>
 
-## 功能描述<a name="section1686113493165"></a>
+## 功能介绍<a name="section1686113493165"></a>
 
 查询指定Network对象。
 
@@ -25,7 +25,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\}
 </td>
 <td class="cellrowborder" valign="top" width="9%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0079615000_p1759884"><a name="zh-cn_topic_0079615000_p1759884"></a><a name="zh-cn_topic_0079615000_p1759884"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p19910542114715"><a name="p19910542114715"></a><a name="p19910542114715"></a>string</p>
+<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p19910542114715"><a name="p19910542114715"></a><a name="p19910542114715"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="63%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0079615000_p8332925"><a name="zh-cn_topic_0079615000_p8332925"></a><a name="zh-cn_topic_0079615000_p8332925"></a>命名空间。</p>
 </td>
@@ -34,7 +34,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\}
 </td>
 <td class="cellrowborder" valign="top" width="9%" headers="mcps1.2.5.1.2 "><p id="p844555492518"><a name="p844555492518"></a><a name="p844555492518"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p17910154210475"><a name="p17910154210475"></a><a name="p17910154210475"></a>string</p>
+<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p17910154210475"><a name="p17910154210475"></a><a name="p17910154210475"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="63%" headers="mcps1.2.5.1.4 "><p id="p94451454182517"><a name="p94451454182517"></a><a name="p94451454182517"></a>要查询的Network名称。</p>
 </td>
@@ -59,7 +59,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\}
 </td>
 <td class="cellrowborder" valign="top" width="9%" headers="mcps1.2.5.1.2 "><p id="p12943164161619"><a name="p12943164161619"></a><a name="p12943164161619"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p10943144111613"><a name="p10943144111613"></a><a name="p10943144111613"></a><span>string</span></p>
+<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p10943144111613"><a name="p10943144111613"></a><a name="p10943144111613"></a><span>String</span></p>
 </td>
 <td class="cellrowborder" valign="top" width="63%" headers="mcps1.2.5.1.4 "><p id="p149432411161"><a name="p149432411161"></a><a name="p149432411161"></a>If 'true', then the output is pretty printed.</p>
 </td>
@@ -68,7 +68,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\}
 </td>
 <td class="cellrowborder" valign="top" width="9%" headers="mcps1.2.5.1.2 "><p id="p9959841171617"><a name="p9959841171617"></a><a name="p9959841171617"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p7959144116160"><a name="p7959144116160"></a><a name="p7959144116160"></a><span>boolean</span></p>
+<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p7959144116160"><a name="p7959144116160"></a><a name="p7959144116160"></a><span>Boolean</span></p>
 </td>
 <td class="cellrowborder" valign="top" width="63%" headers="mcps1.2.5.1.4 "><p id="p14959204141618"><a name="p14959204141618"></a><a name="p14959204141618"></a>Should the export be exact. Exact export maintains cluster-specific fields like Namespace.</p>
 </td>
@@ -77,7 +77,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\}
 </td>
 <td class="cellrowborder" valign="top" width="9%" headers="mcps1.2.5.1.2 "><p id="p1995954110161"><a name="p1995954110161"></a><a name="p1995954110161"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p495904191616"><a name="p495904191616"></a><a name="p495904191616"></a><span>boolean</span></p>
+<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p495904191616"><a name="p495904191616"></a><a name="p495904191616"></a><span>Boolean</span></p>
 </td>
 <td class="cellrowborder" valign="top" width="63%" headers="mcps1.2.5.1.4 "><p id="p1195914414163"><a name="p1195914414163"></a><a name="p1195914414163"></a>Should this value be exported. Export strips fields that a user cannot specify.</p>
 </td>

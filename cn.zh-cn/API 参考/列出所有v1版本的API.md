@@ -21,7 +21,7 @@ N/A.
 <a name="d0e50339"></a>
 <table><thead align="left"><tr id="row53024952"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p53840"><a name="p53840"></a><a name="p53840"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p4361056"><a name="p4361056"></a><a name="p4361056"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p4361056"><a name="p4361056"></a><a name="p4361056"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p17701265"><a name="p17701265"></a><a name="p17701265"></a>描述</p>
 </th>
@@ -56,7 +56,7 @@ N/A.
 <a name="d0e50389"></a>
 <table><thead align="left"><tr id="row2200900"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="p44055172"><a name="p44055172"></a><a name="p44055172"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p11699152"><a name="p11699152"></a><a name="p11699152"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p11699152"><a name="p11699152"></a><a name="p11699152"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.44444444444445%" id="mcps1.2.4.1.3"><p id="p8107281"><a name="p8107281"></a><a name="p8107281"></a>描述</p>
 </th>
@@ -133,8 +133,8 @@ N/A.
                 "get",
                 "list",
                 "patch",
-                "update",
-             ],
+                "update"
+            ],
             "shortNames": [
                 "cm"
             ]
@@ -152,7 +152,7 @@ N/A.
             "shortNames": [
                 "ev"
             ]
-        },      
+        },
         {
             "name": "namespaces",
             "singularName": "",
@@ -162,8 +162,8 @@ N/A.
                 "create",
                 "delete",
                 "get",
-                 "patch",
-                "update",
+                "patch",
+                "update"
             ],
             "shortNames": [
                 "ns"
@@ -181,7 +181,7 @@ N/A.
                 "get",
                 "list",
                 "patch",
-                "update"            
+                "update"
             ],
             "shortNames": [
                 "pvc"
@@ -199,8 +199,8 @@ N/A.
                 "get",
                 "list",
                 "patch",
-                "update",
-             ],
+                "update"
+            ],
             "shortNames": [
                 "po"
             ],
@@ -220,8 +220,8 @@ N/A.
                 "get",
                 "list",
                 "patch",
-                "update",
-             ]
+                "update"
+            ]
         },
         {
             "name": "services",

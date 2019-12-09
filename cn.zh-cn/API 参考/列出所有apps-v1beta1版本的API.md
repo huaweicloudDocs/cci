@@ -21,7 +21,7 @@ N/A.
 <a name="d0e46659"></a>
 <table><thead align="left"><tr id="row36767732"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p25396348"><a name="p25396348"></a><a name="p25396348"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p43838292"><a name="p43838292"></a><a name="p43838292"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p43838292"><a name="p43838292"></a><a name="p43838292"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p61240740"><a name="p61240740"></a><a name="p61240740"></a>描述</p>
 </th>
@@ -56,7 +56,7 @@ N/A.
 <a name="d0e46709"></a>
 <table><thead align="left"><tr id="row58709452"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="p57845160"><a name="p57845160"></a><a name="p57845160"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p54946344"><a name="p54946344"></a><a name="p54946344"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p54946344"><a name="p54946344"></a><a name="p54946344"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.44444444444445%" id="mcps1.2.4.1.3"><p id="p21468852"><a name="p21468852"></a><a name="p21468852"></a>描述</p>
 </th>
@@ -122,26 +122,27 @@ N/A.
     "apiVersion": "v1",
     "groupVersion": "apps/v1beta1",
     "resources": [
-	{
-	  "name":"statefulsets",
-      "singularName":"",
-      "namespaced":true,
-      "kind":"StatefulSet",
-      "verbs":[
-        "create",
-        "delete",
-        "deletecollection",
-        "get",
-        "list",
-        "patch",
-        "update",
-      ],
-      "shortNames":[
-        "sts"
-      ],
-      "categories":[
-        "all"
-      ]}
+        {
+            "name": "statefulsets",
+            "singularName": "",
+            "namespaced": true,
+            "kind": "StatefulSet",
+            "verbs": [
+                "create",
+                "delete",
+                "deletecollection",
+                "get",
+                "list",
+                "patch",
+                "update"
+            ],
+            "shortNames": [
+                "sts"
+            ],
+            "categories": [
+                "all"
+            ]
+        }
     ]
 }
 ```

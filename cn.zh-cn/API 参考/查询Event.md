@@ -73,43 +73,43 @@ N/A
 
 **响应参数：**
 
-响应参数请参见[表128](数据结构.md#table134439518556)。
+响应参数请参见[表127](数据结构.md#table134439518556)。
 
 **响应示例**：
 
 ```
 {
-  "kind": "Event",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
-    "uid": "0122b5b2-af79-11e8-8f17-c81fbe371a17",
-    "resourceVersion": "760533",
-    "creationTimestamp": "2018-09-03T12:58:07Z",
-    "enable": true
-  },
-  "involvedObject": {
-    "kind": "Pod",
-    "namespace": "namespace-test",
-    "name": "deployment-test-57f7cff77c-5x5tw",
-    "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
+    "kind": "Event",
     "apiVersion": "v1",
-    "resourceVersion": "5036865"
-  },
-  "reason": "Scheduled",
-  "message": "Successfully assigned deployment-test-57f7cff77c-5x5tw to c0dd6256-195a-e811-90a2-10c17294fcbc",
-  "source": {
-    "component": "default-scheduler"
-  },
-  "firstTimestamp": "2018-09-03T12:58:07Z",
-  "lastTimestamp": "2018-09-03T12:58:07Z",
-  "count": 1,
-  "type": "Normal",
-  "eventTime": null,
-  "reportingComponent": "",
-  "reportingInstance": ""
+    "metadata": {
+        "name": "deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/events/deployment-test-57f7cff77c-5x5tw.1550e534d2d8a5ef",
+        "uid": "0122b5b2-af79-11e8-8f17-c81fbe371a17",
+        "resourceVersion": "760533",
+        "creationTimestamp": "2018-09-03T12:58:07Z",
+        "enable": true
+    },
+    "involvedObject": {
+        "kind": "Pod",
+        "namespace": "namespace-test",
+        "name": "deployment-test-57f7cff77c-5x5tw",
+        "uid": "010fec39-af79-11e8-8f17-c81fbe371a17",
+        "apiVersion": "v1",
+        "resourceVersion": "5036865"
+    },
+    "reason": "Scheduled",
+    "message": "Successfully assigned deployment-test-57f7cff77c-5x5tw to c0dd6256-195a-e811-90a2-10c17294fcbc",
+    "source": {
+        "component": "default-scheduler"
+    },
+    "firstTimestamp": "2018-09-03T12:58:07Z",
+    "lastTimestamp": "2018-09-03T12:58:07Z",
+    "count": 1,
+    "type": "Normal",
+    "eventTime": null,
+    "reportingComponent": "",
+    "reportingInstance": ""
 }
 ```
 

@@ -2,7 +2,7 @@
 
 ## 功能介绍<a name="section4992645"></a>
 
-删除ConfigMap
+删除ConfigMap。
 
 ## URI<a name="section44933808"></a>
 
@@ -33,40 +33,40 @@ DELETE /api/v1/namespaces/\{namespace\}/configmaps/\{name\}
 **表 2**  Query参数
 
 <a name="d0e43122"></a>
-<table><thead align="left"><tr id="row4620112"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
+<table><thead align="left"><tr id="row4620112"><th class="cellrowborder" valign="top" width="24.434343434343436%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="15.151515151515152%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="14.929292929292929%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="59.59595959595959%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
+<th class="cellrowborder" valign="top" width="60.63636363636363%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row38131941"><td class="cellrowborder" valign="top" width="25.252525252525253%" headers="mcps1.2.4.1.1 "><p id="p1679523"><a name="p1679523"></a><a name="p1679523"></a>pretty</p>
+<tbody><tr id="row38131941"><td class="cellrowborder" valign="top" width="24.434343434343436%" headers="mcps1.2.4.1.1 "><p id="p1679523"><a name="p1679523"></a><a name="p1679523"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p1823714"><a name="p1823714"></a><a name="p1823714"></a>No</p>
+<td class="cellrowborder" valign="top" width="14.929292929292929%" headers="mcps1.2.4.1.2 "><p id="p1823714"><a name="p1823714"></a><a name="p1823714"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="59.59595959595959%" headers="mcps1.2.4.1.3 "><p id="p13503178"><a name="p13503178"></a><a name="p13503178"></a>If 'true', then the output is pretty printed.</p>
-</td>
-</tr>
-<tr id="row39484685"><td class="cellrowborder" valign="top" width="25.252525252525253%" headers="mcps1.2.4.1.1 "><p id="p44142899"><a name="p44142899"></a><a name="p44142899"></a>gracePeriodSeconds</p>
-</td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p18805103"><a name="p18805103"></a><a name="p18805103"></a>No</p>
-</td>
-<td class="cellrowborder" valign="top" width="59.59595959595959%" headers="mcps1.2.4.1.3 "><p id="p46818342"><a name="p46818342"></a><a name="p46818342"></a>The duration in seconds before the object should be deleted. Value must be a non-negative integer. The value zero indicates delete immediately. If this value is nil, the default grace period for the specified type will be used. Defaults to a per object value if not specified. zero means delete immediately.</p>
+<td class="cellrowborder" valign="top" width="60.63636363636363%" headers="mcps1.2.4.1.3 "><p id="p13503178"><a name="p13503178"></a><a name="p13503178"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
-<tr id="row18711900"><td class="cellrowborder" valign="top" width="25.252525252525253%" headers="mcps1.2.4.1.1 "><p id="p39268954"><a name="p39268954"></a><a name="p39268954"></a>orphanDependents</p>
+<tr id="row39484685"><td class="cellrowborder" valign="top" width="24.434343434343436%" headers="mcps1.2.4.1.1 "><p id="p44142899"><a name="p44142899"></a><a name="p44142899"></a>gracePeriodSeconds</p>
 </td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p26668680"><a name="p26668680"></a><a name="p26668680"></a>No</p>
+<td class="cellrowborder" valign="top" width="14.929292929292929%" headers="mcps1.2.4.1.2 "><p id="p18805103"><a name="p18805103"></a><a name="p18805103"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="59.59595959595959%" headers="mcps1.2.4.1.3 "><p id="p12679438"><a name="p12679438"></a><a name="p12679438"></a>Deprecated: Use the PropagationPolicy. This field will be deprecated in 1.7. Should the dependent objects be orphaned. If true/false, the "orphan" finalizer will be added to/removed from the object's finalizers list. Either this field or PropagationPolicy may be set, but not both.</p>
+<td class="cellrowborder" valign="top" width="60.63636363636363%" headers="mcps1.2.4.1.3 "><p id="p46818342"><a name="p46818342"></a><a name="p46818342"></a>The duration in seconds before the object should be deleted. Value must be a non-negative integer. The value zero indicates delete immediately. If this value is nil, the default grace period for the specified type will be used. Defaults to a per object value if not specified. zero means delete immediately.</p>
 </td>
 </tr>
-<tr id="row47006082"><td class="cellrowborder" valign="top" width="25.252525252525253%" headers="mcps1.2.4.1.1 "><p id="p49396288"><a name="p49396288"></a><a name="p49396288"></a>propagationPolicy</p>
+<tr id="row18711900"><td class="cellrowborder" valign="top" width="24.434343434343436%" headers="mcps1.2.4.1.1 "><p id="p39268954"><a name="p39268954"></a><a name="p39268954"></a>orphanDependents</p>
 </td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p41676395"><a name="p41676395"></a><a name="p41676395"></a>No</p>
+<td class="cellrowborder" valign="top" width="14.929292929292929%" headers="mcps1.2.4.1.2 "><p id="p26668680"><a name="p26668680"></a><a name="p26668680"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="59.59595959595959%" headers="mcps1.2.4.1.3 "><p id="p48885565"><a name="p48885565"></a><a name="p48885565"></a>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy.</p>
+<td class="cellrowborder" valign="top" width="60.63636363636363%" headers="mcps1.2.4.1.3 "><p id="p12679438"><a name="p12679438"></a><a name="p12679438"></a>Deprecated: Use the PropagationPolicy. This field will be deprecated in 1.7. Should the dependent objects be orphaned. If true/false, the "orphan" finalizer will be added to/removed from the object's finalizers list. Either this field or PropagationPolicy may be set, but not both.</p>
+</td>
+</tr>
+<tr id="row47006082"><td class="cellrowborder" valign="top" width="24.434343434343436%" headers="mcps1.2.4.1.1 "><p id="p49396288"><a name="p49396288"></a><a name="p49396288"></a>propagationPolicy</p>
+</td>
+<td class="cellrowborder" valign="top" width="14.929292929292929%" headers="mcps1.2.4.1.2 "><p id="p41676395"><a name="p41676395"></a><a name="p41676395"></a>No</p>
+</td>
+<td class="cellrowborder" valign="top" width="60.63636363636363%" headers="mcps1.2.4.1.3 "><p id="p48885565"><a name="p48885565"></a><a name="p48885565"></a>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy.</p>
 </td>
 </tr>
 </tbody>
@@ -76,7 +76,7 @@ DELETE /api/v1/namespaces/\{namespace\}/configmaps/\{name\}
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
@@ -92,24 +92,22 @@ DELETE /api/v1/namespaces/\{namespace\}/configmaps/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Status",
-  "apiVersion": "v1",
-  "metadata": {
-
-  },
-  "status": "Success",
-  "details": {
-    "name": "configmap-test",
-    "kind": "configmaps",
-    "uid": "379519a3-aff0-11e8-8f17-c81fbe371a17"
-  },
-  "code": 200
+    "kind": "Status",
+    "apiVersion": "v1",
+    "metadata": {},
+    "status": "Success",
+    "details": {
+        "name": "configmap-test",
+        "kind": "configmaps",
+        "uid": "379519a3-aff0-11e8-8f17-c81fbe371a17"
+    },
+    "code": 200
 }
 ```
 

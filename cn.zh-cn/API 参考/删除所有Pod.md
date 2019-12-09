@@ -96,19 +96,19 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见响应示例：[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见响应示例：[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "PodList",
-  "apiVersion": "v1",
-  "metadata": {
-    "selfLink": "/api/v1/namespaces/namespace-test/pods",
-    "resourceVersion": "5035636"
-  },
-  "items": []
+    "kind": "PodList",
+    "apiVersion": "v1",
+    "metadata": {
+        "selfLink": "/api/v1/namespaces/namespace-test/pods",
+        "resourceVersion": "5035636"
+    },
+    "items": []
 }
 ```
 

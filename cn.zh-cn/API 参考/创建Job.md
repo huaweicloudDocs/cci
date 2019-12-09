@@ -4,6 +4,8 @@
 
 创建Job。
 
+创建Job时挂载OBS的使用限制请参见[挂载OBS使用限制](挂载OBS使用限制.md)。
+
 ## URI<a name="section52429714"></a>
 
 POST /apis/batch/v1/namespaces/\{namespace\}/jobs
@@ -50,54 +52,56 @@ POST /apis/batch/v1/namespaces/\{namespace\}/jobs
 
 **请求参数：**
 
-请求参数如[表98](数据结构.md#table8040885)所示。
+请求参数如[表97](数据结构.md#table8040885)所示。
 
 **请求示例：**
 
 ```
 {
-  "apiVersion": "batch/v1",
-  "kind": "Job",
-  "metadata": {
-    "name": "pi"
-  },
-  "spec": {
-    "template": {
-      "metadata": {
+    "apiVersion": "batch/v1",
+    "kind": "Job",
+    "metadata": {
         "name": "pi"
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "pi",
-            "image": "perl",
-            "resources": {
-                "limits": {
-                    "cpu": "500m",
-                    "memory": "1024Mi"
-                },
-                "requests": {
-                    "cpu": "500m",
-                    "memory": "1024Mi"
-                }
+    },
+    "spec": {
+        "template": {
+            "metadata": {
+                "name": "pi"
             },
-            "command": [
-              "perl",
-              "-Mbignum=bpi",
-              "-wle",
-              "print bpi(2000)"
-            ]
-          }
-        ],
-        "imagePullSecrets": [
-            {
-                "name": "imagepull-secret"
+            "spec": {
+                "containers": [
+                    {
+                        "name": "pi",
+                        "image": "perl",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1024Mi"
+                            },
+                            "requests": {
+                                "cpu": "500m",
+                                "memory": "1024Mi"
+                            }
+                        },
+                        "command": [
+                            "perl",
+                            "-Mbignum=bpi",
+                            "-wle",
+                            "print bpi(2000)"
+                        ]
+                    }
+                ],
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+
+                ],
+                "restartPolicy": "Never",
+                "priority": "0"
             }
-        ],
-        "restartPolicy": "Never"
-      }
+        }
     }
-  }
 }
 ```
 
@@ -105,93 +109,90 @@ POST /apis/batch/v1/namespaces/\{namespace\}/jobs
 
 **响应参数：**
 
-响应参数的详细描述请参见[表98](数据结构.md#table8040885)。
+响应参数的详细描述请参见[表97](数据结构.md#table8040885)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Job",
-  "apiVersion": "batch/v1",
-  "metadata": {
-    "name": "pi",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/batch/v1/namespaces/namespace-test/jobs/pi",
-    "uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
-    "resourceVersion": "5391201",
-    "creationTimestamp": "2018-09-05T01:10:59Z",
-    "labels": {
-      "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
-      "job-name": "pi"
-    },
-    "enable": true
-  },
-  "spec": {
-    "parallelism": 1,
-    "completions": 1,
-    "backoffLimit": 6,
-    "selector": {
-      "matchLabels": {
-        "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4"
-      }
-    },
-    "template": {
-      "metadata": {
+    "kind": "Job",
+    "apiVersion": "batch/v1",
+    "metadata": {
         "name": "pi",
-        "creationTimestamp": null,
+        "namespace": "namespace-test",
+        "selfLink": "/apis/batch/v1/namespaces/namespace-test/jobs/pi",
+        "uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
+        "resourceVersion": "5391201",
+        "creationTimestamp": "2018-09-05T01:10:59Z",
         "labels": {
-          "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
-          "job-name": "pi"
-        },
-        "annotations": {
-          "cri.cci.io/container-type": "secure-container"
+            "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
+            "job-name": "pi"
         },
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "pi",
-            "image": "perl",
-            "command": [
-              "perl",
-              "-Mbignum=bpi",
-              "-wle",
-              "print bpi(2000)"
-            ],
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "Always"
-          }
-        ],
-        "restartPolicy": "Never",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "parallelism": 1,
+        "completions": 1,
+        "backoffLimit": 6,
+        "selector": {
+            "matchLabels": {
+                "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
-    }
-  },
-  "status": {
-
-  }
+        "template": {
+            "metadata": {
+                "name": "pi",
+                "creationTimestamp": null,
+                "labels": {
+                    "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
+                    "job-name": "pi"
+                },
+                "annotations": {
+                    "cri.cci.io/container-type": "secure-container"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "pi",
+                        "image": "perl",
+                        "command": [
+                            "perl",
+                            "-Mbignum=bpi",
+                            "-wle",
+                            "print bpi(2000)"
+                        ],
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "Always"
+                    }
+                ],
+                "restartPolicy": "Never",
+                "priority": "0",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        }
+    },
+    "status": {}
 }
 ```
 

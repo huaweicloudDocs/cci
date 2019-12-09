@@ -81,40 +81,38 @@ DELETE /api/v1/namespaces/\{namespace\}/secrets/\{name\}
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
 ```
-{ 
-   "kind": "DeleteOptions", 
-   "apiVersion": "v1", 
-   "gracePeriodSeconds": 10 
- }
+{
+    "kind": "DeleteOptions",
+    "apiVersion": "v1",
+    "gracePeriodSeconds": 10
+}
 ```
 
 ## 响应消息<a name="s00e4933458e84b218d5369e1c39bfae6"></a>
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Status",
-  "apiVersion": "v1",
-  "metadata": {
-
-  },
-  "status": "Success",
-  "details": {
-    "name": "secret-test",
-    "kind": "secrets",
-    "uid": "e6170b6d-aff6-11e8-8f17-c81fbe371a17"
-  },
-  "code": 200
+    "kind": "Status",
+    "apiVersion": "v1",
+    "metadata": {},
+    "status": "Success",
+    "details": {
+        "name": "secret-test",
+        "kind": "secrets",
+        "uid": "e6170b6d-aff6-11e8-8f17-c81fbe371a17"
+    },
+    "code": 200
 }
 ```
 

@@ -38,6 +38,8 @@
 -   gpu-410.104
 -   gpu-396.26
 
+创建Pod时挂载OBS的使用限制请参见[挂载OBS使用限制](挂载OBS使用限制.md)。
+
 ## URI<a name="s83bc1fb06185462cb2e2665b169bc85c"></a>
 
 POST /api/v1/namespaces/\{namespace\}/pods
@@ -88,6 +90,8 @@ POST /api/v1/namespaces/\{namespace\}/pods
 
 **请求示例：**
 
+创建普通Pod示例：
+
 ```
 {
     "apiVersion": "v1",
@@ -121,7 +125,8 @@ POST /api/v1/namespaces/\{namespace\}/pods
                 "name": "imagepull-secret"
             }
         ],
-        "restartPolicy": "Always"
+        "restartPolicy": "Always",
+        "priority": "0"
     }
 }
 ```
@@ -166,7 +171,8 @@ POST /api/v1/namespaces/\{namespace\}/pods
                 "name": "imagepull-secret"
             }
         ],
-        "restartPolicy": "Always"
+        "restartPolicy": "Always",
+        "priority": "0"
     }
 }
 ```
@@ -181,74 +187,73 @@ POST /api/v1/namespaces/\{namespace\}/pods
 
 ```
 {
-  "kind": "Pod",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "pod-test",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/pods/pod-test",
-    "uid": "8b985a27-af74-11e8-9d5d-c88d83be759f",
-    "resourceVersion": "5030599",
-    "creationTimestamp": "2018-09-03T12:26:12Z",
-    "labels": {
-      "name": "pod-test"
-    },
-    "annotations": {
-      "cri.cci.io/container-type": "secure-container"
-    },
-    "enable": true
-  },
-  "spec": {
-    "containers": [
-      {
-        "name": "test",
-        "image": "redis:3.0",
-        "resources": {
-          "limits": {
-            "cpu": "500m",
-            "memory": "1Gi"
-          },
-          "requests": {
-            "cpu": "500m",
-            "memory": "1Gi"
-          }
+    "kind": "Pod",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "pod-test",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/pods/pod-test",
+        "uid": "8b985a27-af74-11e8-9d5d-c88d83be759f",
+        "resourceVersion": "5030599",
+        "creationTimestamp": "2018-09-03T12:26:12Z",
+        "labels": {
+            "name": "pod-test"
         },
-        "terminationMessagePath": "/dev/termination-log",
-        "terminationMessagePolicy": "File",
-        "imagePullPolicy": "Always"
-      }
-    ],
-    "restartPolicy": "Always",
-    "terminationGracePeriodSeconds": 30,
-    "dnsPolicy": "ClusterFirst",
-    "securityContext": {
-
+        "annotations": {
+            "cri.cci.io/container-type": "secure-container"
+        },
+        "enable": true
     },
-    "imagePullSecrets": [
-      {
-        "name": "imagepull-secret"
-      }
-    ],
-    "schedulerName": "default-scheduler",
-    "tolerations": [
-      {
-        "key": "node.kubernetes.io/not-ready",
-        "operator": "Exists",
-        "effect": "NoExecute",
-        "tolerationSeconds": 300
-      },
-      {
-        "key": "node.kubernetes.io/unreachable",
-        "operator": "Exists",
-        "effect": "NoExecute",
-        "tolerationSeconds": 300
-      }
-    ]
-  },
-  "status": {
-    "phase": "Pending",
-    "qosClass": "Guaranteed"
-  }
+    "spec": {
+        "containers": [
+            {
+                "name": "test",
+                "image": "redis:3.0",
+                "resources": {
+                    "limits": {
+                        "cpu": "500m",
+                        "memory": "1Gi"
+                    },
+                    "requests": {
+                        "cpu": "500m",
+                        "memory": "1Gi"
+                    }
+                },
+                "terminationMessagePath": "/dev/termination-log",
+                "terminationMessagePolicy": "File",
+                "imagePullPolicy": "Always"
+            }
+        ],
+        "restartPolicy": "Always",
+        "priority": "0",
+        "terminationGracePeriodSeconds": 30,
+        "dnsPolicy": "ClusterFirst",
+        "securityContext": {},
+        "imagePullSecrets": [
+            {
+                "name": "imagepull-secret"
+            }
+        ],
+        "schedulerName": "default-scheduler",
+        "tolerations": [
+            {
+                "key": "node.kubernetes.io/not-ready",
+                "operator": "Exists",
+                "effect": "NoExecute",
+                "tolerationSeconds": 300
+            },
+            {
+                "key": "node.kubernetes.io/unreachable",
+                "operator": "Exists",
+                "effect": "NoExecute",
+                "tolerationSeconds": 300
+            }
+        ]
+    },
+    "status": {
+        "phase": "Pending",
+        "qosClass": "Guaranteed"
+    }
 }
 ```
 

@@ -67,7 +67,7 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/statefulsets/\{name\}
 
 **请求参数：**
 
-请求参数的详细描述请参见[表87](数据结构.md#d0e37568)。
+请求参数的详细描述请参见[表86](数据结构.md#d0e37568)。
 
 **请求示例：**
 
@@ -96,7 +96,7 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/statefulsets/\{name\}
             "spec": {
                 "containers": [
                     {
-                        "image": "100.125.5.235:20202/cci_z00425431/redis:V1",
+                        "image": "*.*.*.*:20202/cci/redis:V1",
                         "name": "container-0",
                         "resources": {
                             "limits": {
@@ -125,7 +125,7 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/statefulsets/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表87](数据结构.md#d0e37568)。
+响应参数的详细描述请参见[表86](数据结构.md#d0e37568)。
 
 **响应示例：**
 

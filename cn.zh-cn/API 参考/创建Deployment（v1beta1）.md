@@ -51,7 +51,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </th>
 <th class="cellrowborder" valign="top" width="16.07839216078392%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62904453205444"><a name="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62904453205444"></a><a name="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62904453205444"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="18.92810718928107%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62095922205444"><a name="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62095922205444"></a><a name="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62095922205444"></a>类型</p>
+<th class="cellrowborder" valign="top" width="18.92810718928107%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62095922205444"><a name="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62095922205444"></a><a name="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p62095922205444"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="47.97520247975203%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p63713767205444"><a name="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p63713767205444"></a><a name="zh-cn_topic_0083864910_zh-cn_topic_0083857388_p63713767205444"></a>描述</p>
 </th>
@@ -61,7 +61,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.07839216078392%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p1486362472612"><a name="zh-cn_topic_0083864910_p1486362472612"></a><a name="zh-cn_topic_0083864910_p1486362472612"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p148631124192613"><a name="zh-cn_topic_0083864910_p148631124192613"></a><a name="zh-cn_topic_0083864910_p148631124192613"></a>string</p>
+<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p148631124192613"><a name="zh-cn_topic_0083864910_p148631124192613"></a><a name="zh-cn_topic_0083864910_p148631124192613"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.97520247975203%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p38631024132612"><a name="zh-cn_topic_0083864910_p38631024132612"></a><a name="zh-cn_topic_0083864910_p38631024132612"></a>APIVersion defines the versioned schema of this representation of an object. Servers should convert recognized schemas to the latest internal value, and may reject unrecognized values.</p>
 </td>
@@ -70,7 +70,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.07839216078392%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p76386914116"><a name="zh-cn_topic_0083864910_p76386914116"></a><a name="zh-cn_topic_0083864910_p76386914116"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1486372472613"><a name="zh-cn_topic_0083864910_p1486372472613"></a><a name="zh-cn_topic_0083864910_p1486372472613"></a>string</p>
+<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1486372472613"><a name="zh-cn_topic_0083864910_p1486372472613"></a><a name="zh-cn_topic_0083864910_p1486372472613"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.97520247975203%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p1863112415264"><a name="zh-cn_topic_0083864910_p1863112415264"></a><a name="zh-cn_topic_0083864910_p1863112415264"></a>Kind is a string value representing the REST resource this object represents. Servers may infer this from the endpoint the client submits requests to. Cannot be updated. In CamelCase.</p>
 </td>
@@ -112,7 +112,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </th>
 <th class="cellrowborder" valign="top" width="16.08%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0083864910_p046512488820"><a name="zh-cn_topic_0083864910_p046512488820"></a><a name="zh-cn_topic_0083864910_p046512488820"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_p104741648481"><a name="zh-cn_topic_0083864910_p104741648481"></a><a name="zh-cn_topic_0083864910_p104741648481"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_p104741648481"><a name="zh-cn_topic_0083864910_p104741648481"></a><a name="zh-cn_topic_0083864910_p104741648481"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="47.68%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083864910_p15491184819810"><a name="zh-cn_topic_0083864910_p15491184819810"></a><a name="zh-cn_topic_0083864910_p15491184819810"></a>描述</p>
 </th>
@@ -122,7 +122,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p196171162291"><a name="zh-cn_topic_0083864910_p196171162291"></a><a name="zh-cn_topic_0083864910_p196171162291"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1461720642920"><a name="zh-cn_topic_0083864910_p1461720642920"></a><a name="zh-cn_topic_0083864910_p1461720642920"></a>integer</p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1461720642920"><a name="zh-cn_topic_0083864910_p1461720642920"></a><a name="zh-cn_topic_0083864910_p1461720642920"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p961746112911"><a name="zh-cn_topic_0083864910_p961746112911"></a><a name="zh-cn_topic_0083864910_p961746112911"></a>Minimum number of seconds for which a newly created pod should be ready without any of its containers crashing, for it to be considered available. Defaults to 0 (pod will be considered available as soon as it is ready)</p>
 </td>
@@ -131,7 +131,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p26171263291"><a name="zh-cn_topic_0083864910_p26171263291"></a><a name="zh-cn_topic_0083864910_p26171263291"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p66174617297"><a name="zh-cn_topic_0083864910_p66174617297"></a><a name="zh-cn_topic_0083864910_p66174617297"></a>boolean</p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p66174617297"><a name="zh-cn_topic_0083864910_p66174617297"></a><a name="zh-cn_topic_0083864910_p66174617297"></a>Boolean</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p1261715618295"><a name="zh-cn_topic_0083864910_p1261715618295"></a><a name="zh-cn_topic_0083864910_p1261715618295"></a>Indicates that the deployment is paused.</p>
 </td>
@@ -140,7 +140,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p136185612293"><a name="zh-cn_topic_0083864910_p136185612293"></a><a name="zh-cn_topic_0083864910_p136185612293"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1161815622910"><a name="zh-cn_topic_0083864910_p1161815622910"></a><a name="zh-cn_topic_0083864910_p1161815622910"></a>integer</p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1161815622910"><a name="zh-cn_topic_0083864910_p1161815622910"></a><a name="zh-cn_topic_0083864910_p1161815622910"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p17618961297"><a name="zh-cn_topic_0083864910_p17618961297"></a><a name="zh-cn_topic_0083864910_p17618961297"></a>The maximum time in seconds for a deployment to make progress before it is considered to be failed. The deployment controller will continue to process failed deployments and a condition with a ProgressDeadlineExceeded reason will be surfaced in the deployment status. Once autoRollback is implemented, the deployment controller will automatically rollback failed deployments. Note that progress will not be estimated during the time a deployment is paused. Defaults to 600s.</p>
 </td>
@@ -149,7 +149,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p156184692916"><a name="zh-cn_topic_0083864910_p156184692916"></a><a name="zh-cn_topic_0083864910_p156184692916"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p19618156152920"><a name="zh-cn_topic_0083864910_p19618156152920"></a><a name="zh-cn_topic_0083864910_p19618156152920"></a>integer</p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p19618156152920"><a name="zh-cn_topic_0083864910_p19618156152920"></a><a name="zh-cn_topic_0083864910_p19618156152920"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p761818692914"><a name="zh-cn_topic_0083864910_p761818692914"></a><a name="zh-cn_topic_0083864910_p761818692914"></a>Number of desired pods. This is a pointer to distinguish between explicit zero and not specified. Defaults to 1.</p>
 </td>
@@ -158,7 +158,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p96181069296"><a name="zh-cn_topic_0083864910_p96181069296"></a><a name="zh-cn_topic_0083864910_p96181069296"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p961836122910"><a name="zh-cn_topic_0083864910_p961836122910"></a><a name="zh-cn_topic_0083864910_p961836122910"></a>integer</p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p961836122910"><a name="zh-cn_topic_0083864910_p961836122910"></a><a name="zh-cn_topic_0083864910_p961836122910"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p8351621935"><a name="zh-cn_topic_0083864910_p8351621935"></a><a name="zh-cn_topic_0083864910_p8351621935"></a></p>
 <p id="zh-cn_topic_0083864910_p1761815614291"><a name="zh-cn_topic_0083864910_p1761815614291"></a><a name="zh-cn_topic_0083864910_p1761815614291"></a>The number of old ReplicaSets to retain to allow rollback. This is a pointer to distinguish between explicit zero and not specified. Defaults to 2.</p>
@@ -210,7 +210,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </th>
 <th class="cellrowborder" valign="top" width="15.828417158284172%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0083864910_p107515551089"><a name="zh-cn_topic_0083864910_p107515551089"></a><a name="zh-cn_topic_0083864910_p107515551089"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="18.998100189981002%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_p15881655682"><a name="zh-cn_topic_0083864910_p15881655682"></a><a name="zh-cn_topic_0083864910_p15881655682"></a>类型</p>
+<th class="cellrowborder" valign="top" width="18.998100189981002%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_p15881655682"><a name="zh-cn_topic_0083864910_p15881655682"></a><a name="zh-cn_topic_0083864910_p15881655682"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="47.795220477952206%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083864910_p69835516817"><a name="zh-cn_topic_0083864910_p69835516817"></a><a name="zh-cn_topic_0083864910_p69835516817"></a>描述</p>
 </th>
@@ -220,7 +220,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p77701754123116"><a name="zh-cn_topic_0083864910_p77701754123116"></a><a name="zh-cn_topic_0083864910_p77701754123116"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p15770754123114"><a name="zh-cn_topic_0083864910_p15770754123114"></a><a name="zh-cn_topic_0083864910_p15770754123114"></a>integer</p>
+<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="p520412371419"><a name="p520412371419"></a><a name="p520412371419"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p17706543314"><a name="zh-cn_topic_0083864910_p17706543314"></a><a name="zh-cn_topic_0083864910_p17706543314"></a>Total number of available pods (ready for at least minReadySeconds) targeted by this deployment.</p>
 </td>
@@ -229,7 +229,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p1770105416310"><a name="zh-cn_topic_0083864910_p1770105416310"></a><a name="zh-cn_topic_0083864910_p1770105416310"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p13770854193119"><a name="zh-cn_topic_0083864910_p13770854193119"></a><a name="zh-cn_topic_0083864910_p13770854193119"></a>integer</p>
+<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="p10225123714119"><a name="p10225123714119"></a><a name="p10225123714119"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p18234152173017"><a name="zh-cn_topic_0083864910_p18234152173017"></a><a name="zh-cn_topic_0083864910_p18234152173017"></a></p>
 <p id="zh-cn_topic_0083864910_p1477014546311"><a name="zh-cn_topic_0083864910_p1477014546311"></a><a name="zh-cn_topic_0083864910_p1477014546311"></a>Count of hash collisions for the Deployment. The Deployment controller uses this field as a collision avoidance mechanism when it needs to create the name for the newest ReplicaSet.</p>
@@ -248,7 +248,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p13770105419318"><a name="zh-cn_topic_0083864910_p13770105419318"></a><a name="zh-cn_topic_0083864910_p13770105419318"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p17770154183118"><a name="zh-cn_topic_0083864910_p17770154183118"></a><a name="zh-cn_topic_0083864910_p17770154183118"></a>integer</p>
+<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="p4483183911415"><a name="p4483183911415"></a><a name="p4483183911415"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p197709544316"><a name="zh-cn_topic_0083864910_p197709544316"></a><a name="zh-cn_topic_0083864910_p197709544316"></a>The generation observed by the deployment controller</p>
 </td>
@@ -257,7 +257,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p11770154173115"><a name="zh-cn_topic_0083864910_p11770154173115"></a><a name="zh-cn_topic_0083864910_p11770154173115"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p13770145483112"><a name="zh-cn_topic_0083864910_p13770145483112"></a><a name="zh-cn_topic_0083864910_p13770145483112"></a>integer</p>
+<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="p949523914418"><a name="p949523914418"></a><a name="p949523914418"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p14770145414316"><a name="zh-cn_topic_0083864910_p14770145414316"></a><a name="zh-cn_topic_0083864910_p14770145414316"></a>Total number of ready pods targeted by this deployment</p>
 </td>
@@ -266,7 +266,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p577112540319"><a name="zh-cn_topic_0083864910_p577112540319"></a><a name="zh-cn_topic_0083864910_p577112540319"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p17771195414319"><a name="zh-cn_topic_0083864910_p17771195414319"></a><a name="zh-cn_topic_0083864910_p17771195414319"></a>integer</p>
+<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="p1651063924120"><a name="p1651063924120"></a><a name="p1651063924120"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p8771185414313"><a name="zh-cn_topic_0083864910_p8771185414313"></a><a name="zh-cn_topic_0083864910_p8771185414313"></a>Total number of non-terminated pods targeted by this deployment (their labels match the selector).</p>
 </td>
@@ -275,7 +275,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p2077110546313"><a name="zh-cn_topic_0083864910_p2077110546313"></a><a name="zh-cn_topic_0083864910_p2077110546313"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p37711154163115"><a name="zh-cn_topic_0083864910_p37711154163115"></a><a name="zh-cn_topic_0083864910_p37711154163115"></a>integer</p>
+<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="p7513164104117"><a name="p7513164104117"></a><a name="p7513164104117"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p6771115483111"><a name="zh-cn_topic_0083864910_p6771115483111"></a><a name="zh-cn_topic_0083864910_p6771115483111"></a>Total number of unavailable pods targeted by this deployment.</p>
 </td>
@@ -284,7 +284,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p1777155423110"><a name="zh-cn_topic_0083864910_p1777155423110"></a><a name="zh-cn_topic_0083864910_p1777155423110"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p277185413115"><a name="zh-cn_topic_0083864910_p277185413115"></a><a name="zh-cn_topic_0083864910_p277185413115"></a>integer</p>
+<td class="cellrowborder" valign="top" width="18.998100189981002%" headers="mcps1.2.5.1.3 "><p id="p75291741194117"><a name="p75291741194117"></a><a name="p75291741194117"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p10771105413317"><a name="zh-cn_topic_0083864910_p10771105413317"></a><a name="zh-cn_topic_0083864910_p10771105413317"></a>Total number of non-terminated pods targeted by this deployment that have the desired template spec.</p>
 </td>
@@ -299,7 +299,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </th>
 <th class="cellrowborder" valign="top" width="16.258374162583742%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0083864910_p338415916810"><a name="zh-cn_topic_0083864910_p338415916810"></a><a name="zh-cn_topic_0083864910_p338415916810"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="18.95810418958104%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_p93912591082"><a name="zh-cn_topic_0083864910_p93912591082"></a><a name="zh-cn_topic_0083864910_p93912591082"></a>类型</p>
+<th class="cellrowborder" valign="top" width="18.95810418958104%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_p93912591082"><a name="zh-cn_topic_0083864910_p93912591082"></a><a name="zh-cn_topic_0083864910_p93912591082"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="47.7052294770523%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083864910_p1400185912814"><a name="zh-cn_topic_0083864910_p1400185912814"></a><a name="zh-cn_topic_0083864910_p1400185912814"></a>描述</p>
 </th>
@@ -309,7 +309,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.258374162583742%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p2014218504328"><a name="zh-cn_topic_0083864910_p2014218504328"></a><a name="zh-cn_topic_0083864910_p2014218504328"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.95810418958104%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p714216500323"><a name="zh-cn_topic_0083864910_p714216500323"></a><a name="zh-cn_topic_0083864910_p714216500323"></a>integer</p>
+<td class="cellrowborder" valign="top" width="18.95810418958104%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p714216500323"><a name="zh-cn_topic_0083864910_p714216500323"></a><a name="zh-cn_topic_0083864910_p714216500323"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.7052294770523%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p81425509322"><a name="zh-cn_topic_0083864910_p81425509322"></a><a name="zh-cn_topic_0083864910_p81425509322"></a>The revision to rollback to. If set to 0, rollback to the last revision.</p>
 </td>
@@ -324,7 +324,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </th>
 <th class="cellrowborder" valign="top" width="16.2016201620162%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0083864910_p172011251691"><a name="zh-cn_topic_0083864910_p172011251691"></a><a name="zh-cn_topic_0083864910_p172011251691"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="18.801880188018803%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_p4212351298"><a name="zh-cn_topic_0083864910_p4212351298"></a><a name="zh-cn_topic_0083864910_p4212351298"></a>类型</p>
+<th class="cellrowborder" valign="top" width="18.801880188018803%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0083864910_p4212351298"><a name="zh-cn_topic_0083864910_p4212351298"></a><a name="zh-cn_topic_0083864910_p4212351298"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="47.92479247924793%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083864910_p5221851899"><a name="zh-cn_topic_0083864910_p5221851899"></a><a name="zh-cn_topic_0083864910_p5221851899"></a>描述</p>
 </th>
@@ -343,7 +343,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.2016201620162%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p184481017368"><a name="zh-cn_topic_0083864910_p184481017368"></a><a name="zh-cn_topic_0083864910_p184481017368"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.801880188018803%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p2044820153610"><a name="zh-cn_topic_0083864910_p2044820153610"></a><a name="zh-cn_topic_0083864910_p2044820153610"></a>object</p>
+<td class="cellrowborder" valign="top" width="18.801880188018803%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p2044820153610"><a name="zh-cn_topic_0083864910_p2044820153610"></a><a name="zh-cn_topic_0083864910_p2044820153610"></a>Object</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.92479247924793%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p154481302365"><a name="zh-cn_topic_0083864910_p154481302365"></a><a name="zh-cn_topic_0083864910_p154481302365"></a>matchLabels is a map of {key,value} pairs. A single {key,value} in the matchLabels map is equivalent to an element of matchExpressions, whose key field is "key", the operator is "In", and the values array contains only "value". The requirements are ANDed.</p>
 </td>
@@ -377,7 +377,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p127848613719"><a name="zh-cn_topic_0083864910_p127848613719"></a><a name="zh-cn_topic_0083864910_p127848613719"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p778436123715"><a name="zh-cn_topic_0083864910_p778436123715"></a><a name="zh-cn_topic_0083864910_p778436123715"></a>string</p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p778436123715"><a name="zh-cn_topic_0083864910_p778436123715"></a><a name="zh-cn_topic_0083864910_p778436123715"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p37841653711"><a name="zh-cn_topic_0083864910_p37841653711"></a><a name="zh-cn_topic_0083864910_p37841653711"></a>Type of deployment. Can be "Recreate" or "RollingUpdate". Default is RollingUpdate.</p>
 </td>
@@ -420,7 +420,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.959999999999999%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p11646163893819"><a name="zh-cn_topic_0083864910_p11646163893819"></a><a name="zh-cn_topic_0083864910_p11646163893819"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p2647173811388"><a name="zh-cn_topic_0083864910_p2647173811388"></a><a name="zh-cn_topic_0083864910_p2647173811388"></a>string</p>
+<td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p2647173811388"><a name="zh-cn_topic_0083864910_p2647173811388"></a><a name="zh-cn_topic_0083864910_p2647173811388"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.64%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p1064773843816"><a name="zh-cn_topic_0083864910_p1064773843816"></a><a name="zh-cn_topic_0083864910_p1064773843816"></a>A human readable message indicating details about the transition.</p>
 </td>
@@ -429,7 +429,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.959999999999999%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p156471038143813"><a name="zh-cn_topic_0083864910_p156471038143813"></a><a name="zh-cn_topic_0083864910_p156471038143813"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p5647103816385"><a name="zh-cn_topic_0083864910_p5647103816385"></a><a name="zh-cn_topic_0083864910_p5647103816385"></a>string</p>
+<td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p5647103816385"><a name="zh-cn_topic_0083864910_p5647103816385"></a><a name="zh-cn_topic_0083864910_p5647103816385"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.64%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p6647143815384"><a name="zh-cn_topic_0083864910_p6647143815384"></a><a name="zh-cn_topic_0083864910_p6647143815384"></a>The reason for the condition's last transition.</p>
 </td>
@@ -438,7 +438,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.959999999999999%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p3647113833811"><a name="zh-cn_topic_0083864910_p3647113833811"></a><a name="zh-cn_topic_0083864910_p3647113833811"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p20647638173812"><a name="zh-cn_topic_0083864910_p20647638173812"></a><a name="zh-cn_topic_0083864910_p20647638173812"></a>string</p>
+<td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p20647638173812"><a name="zh-cn_topic_0083864910_p20647638173812"></a><a name="zh-cn_topic_0083864910_p20647638173812"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.64%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p16471338163813"><a name="zh-cn_topic_0083864910_p16471338163813"></a><a name="zh-cn_topic_0083864910_p16471338163813"></a>Status of the condition, one of True, False, Unknown.</p>
 </td>
@@ -447,7 +447,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.959999999999999%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p16647113814389"><a name="zh-cn_topic_0083864910_p16647113814389"></a><a name="zh-cn_topic_0083864910_p16647113814389"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p18647638153813"><a name="zh-cn_topic_0083864910_p18647638153813"></a><a name="zh-cn_topic_0083864910_p18647638153813"></a>string</p>
+<td class="cellrowborder" valign="top" width="19.17%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p18647638153813"><a name="zh-cn_topic_0083864910_p18647638153813"></a><a name="zh-cn_topic_0083864910_p18647638153813"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.64%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p20647143817386"><a name="zh-cn_topic_0083864910_p20647143817386"></a><a name="zh-cn_topic_0083864910_p20647143817386"></a>Type of deployment condition.</p>
 </td>
@@ -472,7 +472,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.93%" headers="mcps1.2.5.1.2 "><p id="p472748135613"><a name="p472748135613"></a><a name="p472748135613"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="p157291819561"><a name="p157291819561"></a><a name="p157291819561"></a>string</p>
+<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="p157291819561"><a name="p157291819561"></a><a name="p157291819561"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.52%" headers="mcps1.2.5.1.4 "><p id="p1973498155620"><a name="p1973498155620"></a><a name="p1973498155620"></a>key is the label key that the selector applies to.</p>
 </td>
@@ -481,7 +481,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.93%" headers="mcps1.2.5.1.2 "><p id="p674217855611"><a name="p674217855611"></a><a name="p674217855611"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="p9746108105619"><a name="p9746108105619"></a><a name="p9746108105619"></a>string</p>
+<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="p9746108105619"><a name="p9746108105619"></a><a name="p9746108105619"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.52%" headers="mcps1.2.5.1.4 "><p id="p187495845610"><a name="p187495845610"></a><a name="p187495845610"></a>operator represents a key's relationship to a set of values. Valid operators are In, NotIn, Exists and DoesNotExist.</p>
 </td>
@@ -490,7 +490,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.93%" headers="mcps1.2.5.1.2 "><p id="p20760681569"><a name="p20760681569"></a><a name="p20760681569"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="p1476348195612"><a name="p1476348195612"></a><a name="p1476348195612"></a>string array</p>
+<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="p1476348195612"><a name="p1476348195612"></a><a name="p1476348195612"></a>Array of strings</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.52%" headers="mcps1.2.5.1.4 "><p id="p147661687564"><a name="p147661687564"></a><a name="p147661687564"></a>values is an array of string values. If the operator is In or NotIn, the values array must be non-empty. If the operator is Exists or DoesNotExist, the values array must be empty. This array is replaced during a strategic merge patch.</p>
 </td>
@@ -515,7 +515,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.93%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p11955121645820"><a name="zh-cn_topic_0083864910_p11955121645820"></a><a name="zh-cn_topic_0083864910_p11955121645820"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1295919168584"><a name="zh-cn_topic_0083864910_p1295919168584"></a><a name="zh-cn_topic_0083864910_p1295919168584"></a>integer</p>
+<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1295919168584"><a name="zh-cn_topic_0083864910_p1295919168584"></a><a name="zh-cn_topic_0083864910_p1295919168584"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.52%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p5963121610580"><a name="zh-cn_topic_0083864910_p5963121610580"></a><a name="zh-cn_topic_0083864910_p5963121610580"></a>The maximum number of pods that can be scheduled above the desired number of pods. Value can be an absolute number (ex: 5) or a percentage of desired pods (ex: 10%). This cannot be 0 if MaxUnavailable is 0. Absolute number is calculated from percentage by rounding up. Defaults to 25%. Example: when this is set to 30%, the new RC can be scaled up immediately when the rolling update starts, such that the total number of old and new pods do not exceed 130% of desired pods. Once old pods have been killed, new RC can be scaled up further, ensuring that total number of pods running at any time during the update is at most 130% of desired pods.</p>
 </td>
@@ -524,7 +524,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="15.93%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p4975161635818"><a name="zh-cn_topic_0083864910_p4975161635818"></a><a name="zh-cn_topic_0083864910_p4975161635818"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p497801645820"><a name="zh-cn_topic_0083864910_p497801645820"></a><a name="zh-cn_topic_0083864910_p497801645820"></a>integer</p>
+<td class="cellrowborder" valign="top" width="19.12%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p497801645820"><a name="zh-cn_topic_0083864910_p497801645820"></a><a name="zh-cn_topic_0083864910_p497801645820"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="47.52%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p66201122115917"><a name="zh-cn_topic_0083864910_p66201122115917"></a><a name="zh-cn_topic_0083864910_p66201122115917"></a>The maximum number of pods that can be unavailable during the update. Value can be an absolute number (ex: 5) or a percentage of desired pods (ex: 10%). Absolute number is calculated from percentage by rounding down. This cannot be 0 if MaxSurge is 0. Defaults to 25%. Example: when this is set to 30%, the old RC can be scaled down to 70% of desired pods immediately when the rolling update starts. Once new pods are ready, old RC can be scaled down further, followed by scaling up the new RC, ensuring that the total number of pods available at all times during the update is at least 70% of desired pods.</p>
 </td>
@@ -657,11 +657,11 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
                         "resources": {
                             "limits": {
                                 "cpu": "1", 
-                                "memory": "1536Mi"
+                                "memory": "1024Mi"
                             }, 
                             "requests": {
                                 "cpu": "1", 
-                                "memory": "1536Mi"
+                                "memory": "1024Mi"
                             }
                         }, 
                         "lifecycle": {}, 

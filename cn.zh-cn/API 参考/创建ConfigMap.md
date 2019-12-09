@@ -50,7 +50,7 @@ POST /api/v1/namespaces/\{namespace\}/configmaps
 
 **请求参数：**
 
-请求参数请参见[表122](数据结构.md#table79541510192317)。
+请求参数请参见[表121](数据结构.md#table79541510192317)。
 
 **请求示例：**
 
@@ -71,26 +71,26 @@ POST /api/v1/namespaces/\{namespace\}/configmaps
 
 **响应参数：**
 
-响应参数的详细描述请参见[表122](数据结构.md#table79541510192317)。
+响应参数的详细描述请参见[表121](数据结构.md#table79541510192317)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "ConfigMap",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "configmap-test",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/configmaps/configmap-test",
-    "uid": "379519a3-aff0-11e8-8f17-c81fbe371a17",
-    "resourceVersion": "5170290",
-    "creationTimestamp": "2018-09-04T03:11:29Z",
-    "enable": true
-  },
-  "data": {
-    "property_1": "test"
-  }
+    "kind": "ConfigMap",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "configmap-test",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/configmaps/configmap-test",
+        "uid": "379519a3-aff0-11e8-8f17-c81fbe371a17",
+        "resourceVersion": "5170290",
+        "creationTimestamp": "2018-09-04T03:11:29Z",
+        "enable": true
+    },
+    "data": {
+        "property_1": "test"
+    }
 }
 ```
 

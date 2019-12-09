@@ -1,6 +1,6 @@
 # 查询Network状态<a name="cci_02_2017"></a>
 
-## 功能描述<a name="section1686113493165"></a>
+## 功能介绍<a name="section1686113493165"></a>
 
 查询一个指定Network对象的状态。
 
@@ -71,34 +71,34 @@ N/A
 
 ```
 {
-	"kind": "Network",
-	"apiVersion": "networking.cci.io/v1beta1",
-	"metadata": {
-		"name": "test-network",
-		"namespace": "test-ns",
-		"selfLink": "/apis/networking.cci.io/v1beta1/namespaces/test-ns/networks/test-network",
-		"uid": "f03452ac-a4ea-11e8-8500-c81fbe371a17",
-		"resourceVersion": "2025736",
-		"creationTimestamp": "2018-08-21T02:35:59Z",
-		"annotations": {
-			"network.alpha.kubernetes.io/default-security-group": "security-group-id",
-			"network.alpha.kubernetes.io/domain-id": "domain-id",
-			"network.alpha.kubernetes.io/project-id": "project-id",
-			"network.alpha.kubernetes.io/type": "underlay_neutron"
-		},
-		"enable": true
-	},
-	"spec": {
-		"availableZone": "cnnorth1a",
-		"cidr": "192.168.0.0/24",
-		"attachedVPC": "vpc-id",
-		"networkID": "network-id",
-		"networkType": "underlay_neutron",
-		"subnetID": "subnet-id"
-	},
-	"status": {
-		"state": "Active"
-	}
+    "kind": "Network",
+    "apiVersion": "networking.cci.io/v1beta1",
+    "metadata": {
+        "name": "test-network",
+        "namespace": "test-ns",
+        "selfLink": "/apis/networking.cci.io/v1beta1/namespaces/test-ns/networks/test-network",
+        "uid": "f03452ac-a4ea-11e8-8500-c81fbe371a17",
+        "resourceVersion": "2025736",
+        "creationTimestamp": "2018-08-21T02:35:59Z",
+        "annotations": {
+            "network.alpha.kubernetes.io/default-security-group": "security-group-id",
+            "network.alpha.kubernetes.io/domain-id": "domain-id",
+            "network.alpha.kubernetes.io/project-id": "project-id",
+            "network.alpha.kubernetes.io/type": "underlay_neutron"
+        },
+        "enable": true
+    },
+    "spec": {
+        "availableZone": "cnnorth1a",
+        "cidr": "192.168.0.0/24",
+        "attachedVPC": "vpc-id",
+        "networkID": "network-id",
+        "networkType": "underlay_neutron",
+        "subnetID": "subnet-id"
+    },
+    "status": {
+        "state": "Active"
+    }
 }
 ```
 

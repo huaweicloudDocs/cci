@@ -73,47 +73,45 @@ N/A
 
 **响应参数：**
 
-响应参数如[表102](数据结构.md#zh-cn_topic_0079615000_ref458759328)所示。
+响应参数如[表101](数据结构.md#zh-cn_topic_0079615000_ref458759328)所示。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Service",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "redis",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/services/redis",
-    "uid": "d6a1ce79-afdb-11e8-b6ef-f898ef6c78b4",
-    "resourceVersion": "5146412",
-    "creationTimestamp": "2018-09-04T00:45:36Z",
-    "labels": {
-      "app": "redis"
+    "kind": "Service",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "redis",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/services/redis",
+        "uid": "d6a1ce79-afdb-11e8-b6ef-f898ef6c78b4",
+        "resourceVersion": "5146412",
+        "creationTimestamp": "2018-09-04T00:45:36Z",
+        "labels": {
+            "app": "redis"
+        },
+        "enable": true
     },
-    "enable": true
-  },
-  "spec": {
-    "ports": [
-      {
-        "name": "service0",
-        "protocol": "TCP",
-        "port": 8080,
-        "targetPort": 80
-      }
-    ],
-    "selector": {
-      "app": "redis"
+    "spec": {
+        "ports": [
+            {
+                "name": "service0",
+                "protocol": "TCP",
+                "port": 8080,
+                "targetPort": 80
+            }
+        ],
+        "selector": {
+            "app": "redis"
+        },
+        "clusterIP": "10.247.212.210",
+        "type": "ClusterIP",
+        "sessionAffinity": "None"
     },
-    "clusterIP": "10.247.212.210",
-    "type": "ClusterIP",
-    "sessionAffinity": "None"
-  },
-  "status": {
-    "loadBalancer": {
-
+    "status": {
+        "loadBalancer": {}
     }
-  }
 }
 ```
 

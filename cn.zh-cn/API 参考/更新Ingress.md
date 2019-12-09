@@ -94,60 +94,60 @@ PATCH /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表111](数据结构.md#d0e42951)。
+响应参数的详细描述请参见[表110](数据结构.md#d0e42951)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Ingress",
-  "apiVersion": "extensions/v1beta1",
-  "metadata": {
-    "name": "redis",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses/redis",
-    "uid": "7f86c310-afe8-11e8-b6ef-f898ef6c78b4",
-    "resourceVersion": "5165479",
-    "generation": 3,
-    "creationTimestamp": "2018-09-04T02:16:14Z",
-    "labels": {
-      "app": "redis",
-      "isExternal": "true",
-      "zone": "data"
+    "kind": "Ingress",
+    "apiVersion": "extensions/v1beta1",
+    "metadata": {
+        "name": "redis",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses/redis",
+        "uid": "7f86c310-afe8-11e8-b6ef-f898ef6c78b4",
+        "resourceVersion": "5165479",
+        "generation": 3,
+        "creationTimestamp": "2018-09-04T02:16:14Z",
+        "labels": {
+            "app": "redis",
+            "isExternal": "true",
+            "zone": "data"
+        },
+        "annotations": {
+            "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
+            "kubernetes.io/elb.ip": "192.168.137.182",
+            "kubernetes.io/elb.port": "6071"
+        },
+        "enable": true
     },
-    "annotations": {
-      "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
-      "kubernetes.io/elb.ip": "192.168.137.182",
-      "kubernetes.io/elb.port": "6071"
-    },
-    "enable": true
-  },
-  "spec": {
-    "rules": [
-      {
-        "http": {
-          "paths": [
+    "spec": {
+        "rules": [
             {
-              "path": "/",
-              "backend": {
-                "serviceName": "redis",
-                "servicePort": 8082
-              }
+                "http": {
+                    "paths": [
+                        {
+                            "path": "/",
+                            "backend": {
+                                "serviceName": "redis",
+                                "servicePort": 8082
+                            }
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "status": {
+        "loadBalancer": {
+            "ingress": [
+                {
+                    "ip": "192.168.137.182"
+                }
+            ]
         }
-      }
-    ]
-  },
-  "status": {
-    "loadBalancer": {
-      "ingress": [
-        {
-          "ip": "192.168.137.182"
-        }
-      ]
     }
-  }
 }
 ```
 

@@ -73,45 +73,45 @@ N/A
 **表 3**  metadata.annotations必选字段说明
 
 <a name="table759162211124"></a>
-<table><thead align="left"><tr id="row0591622101219"><th class="cellrowborder" valign="top" width="26.97%" id="mcps1.2.4.1.1"><p id="p1975132291213"><a name="p1975132291213"></a><a name="p1975132291213"></a>参数</p>
+<table><thead align="left"><tr id="row0591622101219"><th class="cellrowborder" valign="top" width="35.06%" id="mcps1.2.4.1.1"><p id="p1975132291213"><a name="p1975132291213"></a><a name="p1975132291213"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="24.42%" id="mcps1.2.4.1.2"><p id="p87522211129"><a name="p87522211129"></a><a name="p87522211129"></a>类型</p>
+<th class="cellrowborder" valign="top" width="16.33%" id="mcps1.2.4.1.2"><p id="p87522211129"><a name="p87522211129"></a><a name="p87522211129"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="48.61%" id="mcps1.2.4.1.3"><p id="p1075142218127"><a name="p1075142218127"></a><a name="p1075142218127"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row13751122161210"><td class="cellrowborder" valign="top" width="26.97%" headers="mcps1.2.4.1.1 "><p id="p689191014121"><a name="p689191014121"></a><a name="p689191014121"></a>pv.kubernetes.io/enable-dynamic-provisioning</p>
+<tbody><tr id="row13751122161210"><td class="cellrowborder" valign="top" width="35.06%" headers="mcps1.2.4.1.1 "><p id="p689191014121"><a name="p689191014121"></a><a name="p689191014121"></a>pv.kubernetes.io/enable-dynamic-provisioning</p>
 </td>
-<td class="cellrowborder" valign="top" width="24.42%" headers="mcps1.2.4.1.2 "><p id="p19751022111211"><a name="p19751022111211"></a><a name="p19751022111211"></a>String</p>
+<td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="p19751022111211"><a name="p19751022111211"></a><a name="p19751022111211"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p115541816129"><a name="p115541816129"></a><a name="p115541816129"></a>是否支持动态创建存储。</p>
 </td>
 </tr>
-<tr id="row1499785020124"><td class="cellrowborder" valign="top" width="26.97%" headers="mcps1.2.4.1.1 "><p id="p11997175031212"><a name="p11997175031212"></a><a name="p11997175031212"></a>tenant.kubernetes.io/domain-id</p>
+<tr id="row1499785020124"><td class="cellrowborder" valign="top" width="35.06%" headers="mcps1.2.4.1.1 "><p id="p11997175031212"><a name="p11997175031212"></a><a name="p11997175031212"></a>tenant.kubernetes.io/domain-id</p>
 </td>
-<td class="cellrowborder" valign="top" width="24.42%" headers="mcps1.2.4.1.2 "><p id="p114411249141413"><a name="p114411249141413"></a><a name="p114411249141413"></a>String</p>
+<td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="p114411249141413"><a name="p114411249141413"></a><a name="p114411249141413"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p6997195015128"><a name="p6997195015128"></a><a name="p6997195015128"></a>用户的账号ID。</p>
 </td>
 </tr>
-<tr id="row191704511126"><td class="cellrowborder" valign="top" width="26.97%" headers="mcps1.2.4.1.1 "><p id="p181706518124"><a name="p181706518124"></a><a name="p181706518124"></a>tenant.kubernetes.io/domain-name</p>
+<tr id="row191704511126"><td class="cellrowborder" valign="top" width="35.06%" headers="mcps1.2.4.1.1 "><p id="p181706518124"><a name="p181706518124"></a><a name="p181706518124"></a>tenant.kubernetes.io/domain-name</p>
 </td>
-<td class="cellrowborder" valign="top" width="24.42%" headers="mcps1.2.4.1.2 "><p id="p645744931416"><a name="p645744931416"></a><a name="p645744931416"></a>String</p>
+<td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="p645744931416"><a name="p645744931416"></a><a name="p645744931416"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p15170165112125"><a name="p15170165112125"></a><a name="p15170165112125"></a>用户的账号名。</p>
 </td>
 </tr>
-<tr id="row93581510128"><td class="cellrowborder" valign="top" width="26.97%" headers="mcps1.2.4.1.1 "><p id="p14358165171218"><a name="p14358165171218"></a><a name="p14358165171218"></a>tenant.kubernetes.io/project-id</p>
+<tr id="row93581510128"><td class="cellrowborder" valign="top" width="35.06%" headers="mcps1.2.4.1.1 "><p id="p14358165171218"><a name="p14358165171218"></a><a name="p14358165171218"></a>tenant.kubernetes.io/project-id</p>
 </td>
-<td class="cellrowborder" valign="top" width="24.42%" headers="mcps1.2.4.1.2 "><p id="p3457349201411"><a name="p3457349201411"></a><a name="p3457349201411"></a>String</p>
+<td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="p3457349201411"><a name="p3457349201411"></a><a name="p3457349201411"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p5358115114122"><a name="p5358115114122"></a><a name="p5358115114122"></a>用户的项目ID。</p>
 </td>
 </tr>
-<tr id="row3285164119146"><td class="cellrowborder" valign="top" width="26.97%" headers="mcps1.2.4.1.1 "><p id="p5285124118146"><a name="p5285124118146"></a><a name="p5285124118146"></a>tenant.kubernetes.io/project-name</p>
+<tr id="row3285164119146"><td class="cellrowborder" valign="top" width="35.06%" headers="mcps1.2.4.1.1 "><p id="p5285124118146"><a name="p5285124118146"></a><a name="p5285124118146"></a>tenant.kubernetes.io/project-name</p>
 </td>
-<td class="cellrowborder" valign="top" width="24.42%" headers="mcps1.2.4.1.2 "><p id="p3472649171413"><a name="p3472649171413"></a><a name="p3472649171413"></a>String</p>
+<td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="p3472649171413"><a name="p3472649171413"></a><a name="p3472649171413"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p1028517416144"><a name="p1028517416144"></a><a name="p1028517416144"></a>用户额项目名称。</p>
 </td>
@@ -133,7 +133,7 @@ N/A
             "namespace.kubernetes.io/flavor": "gpu-accelerated",
             "pv.kubernetes.io/enable-dynamic-provisioning": "true",
             "tenant.kubernetes.io/domain-id": "aadb43c0b14c4cafbccfff483d075987",
-            "tenant.kubernetes.io/domain-name": "cci_z00425431",
+            "tenant.kubernetes.io/domain-name": "cci",
             "tenant.kubernetes.io/project-id": "51bf52609f2a49c68bfda3398817b376",
             "tenant.kubernetes.io/project-name": "southchina"
         },

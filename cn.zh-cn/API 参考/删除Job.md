@@ -33,40 +33,40 @@ DELETE /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
 **表 2**  Query参数
 
 <a name="d0e40914"></a>
-<table><thead align="left"><tr id="row55265855"><th class="cellrowborder" valign="top" width="33%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
+<table><thead align="left"><tr id="row55265855"><th class="cellrowborder" valign="top" width="24.19%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="23%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="19.82%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="44%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
+<th class="cellrowborder" valign="top" width="55.989999999999995%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row64362693"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="p45995684"><a name="p45995684"></a><a name="p45995684"></a>pretty</p>
+<tbody><tr id="row64362693"><td class="cellrowborder" valign="top" width="24.19%" headers="mcps1.2.4.1.1 "><p id="p45995684"><a name="p45995684"></a><a name="p45995684"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="23%" headers="mcps1.2.4.1.2 "><p id="p34662956"><a name="p34662956"></a><a name="p34662956"></a>No</p>
+<td class="cellrowborder" valign="top" width="19.82%" headers="mcps1.2.4.1.2 "><p id="p34662956"><a name="p34662956"></a><a name="p34662956"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="p56236036"><a name="p56236036"></a><a name="p56236036"></a>If 'true', then the output is pretty printed.</p>
-</td>
-</tr>
-<tr id="row53231781"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="p16807041"><a name="p16807041"></a><a name="p16807041"></a>gracePeriodSeconds</p>
-</td>
-<td class="cellrowborder" valign="top" width="23%" headers="mcps1.2.4.1.2 "><p id="p19193048"><a name="p19193048"></a><a name="p19193048"></a>No</p>
-</td>
-<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="p11133076"><a name="p11133076"></a><a name="p11133076"></a>The duration in seconds before the object should be deleted. Value must be a non-negative integer. The value zero indicates delete immediately. If this value is nil, the default grace period for the specified type will be used. Defaults to a per object value if not specified. zero means delete immediately.</p>
+<td class="cellrowborder" valign="top" width="55.989999999999995%" headers="mcps1.2.4.1.3 "><p id="p56236036"><a name="p56236036"></a><a name="p56236036"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
-<tr id="row33088828"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="p62949386"><a name="p62949386"></a><a name="p62949386"></a>orphanDependents</p>
+<tr id="row53231781"><td class="cellrowborder" valign="top" width="24.19%" headers="mcps1.2.4.1.1 "><p id="p16807041"><a name="p16807041"></a><a name="p16807041"></a>gracePeriodSeconds</p>
 </td>
-<td class="cellrowborder" valign="top" width="23%" headers="mcps1.2.4.1.2 "><p id="p65735472"><a name="p65735472"></a><a name="p65735472"></a>No</p>
+<td class="cellrowborder" valign="top" width="19.82%" headers="mcps1.2.4.1.2 "><p id="p19193048"><a name="p19193048"></a><a name="p19193048"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="p22973015"><a name="p22973015"></a><a name="p22973015"></a>Deprecated: please use the PropagationPolicy, this field will be deprecated in 1.7. Should the dependent objects be orphaned. If true/false, the "orphan" finalizer will be added to/removed from the object's finalizers list. Either this field or PropagationPolicy may be set, but not both.</p>
+<td class="cellrowborder" valign="top" width="55.989999999999995%" headers="mcps1.2.4.1.3 "><p id="p11133076"><a name="p11133076"></a><a name="p11133076"></a>The duration in seconds before the object should be deleted. Value must be a non-negative integer. The value zero indicates delete immediately. If this value is nil, the default grace period for the specified type will be used. Defaults to a per object value if not specified. zero means delete immediately.</p>
 </td>
 </tr>
-<tr id="row5430546"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="p37221085"><a name="p37221085"></a><a name="p37221085"></a>propagationPolicy</p>
+<tr id="row33088828"><td class="cellrowborder" valign="top" width="24.19%" headers="mcps1.2.4.1.1 "><p id="p62949386"><a name="p62949386"></a><a name="p62949386"></a>orphanDependents</p>
 </td>
-<td class="cellrowborder" valign="top" width="23%" headers="mcps1.2.4.1.2 "><p id="p62117884"><a name="p62117884"></a><a name="p62117884"></a>No</p>
+<td class="cellrowborder" valign="top" width="19.82%" headers="mcps1.2.4.1.2 "><p id="p65735472"><a name="p65735472"></a><a name="p65735472"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.4.1.3 "><p id="p12794299614"><a name="p12794299614"></a><a name="p12794299614"></a>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy. Acceptable values are: 'Orphan' - orphan the dependents; 'Background' - allow the garbage collector to delete the dependents in the background; 'Foreground' - a cascading policy that deletes all dependents in the foreground.</p>
+<td class="cellrowborder" valign="top" width="55.989999999999995%" headers="mcps1.2.4.1.3 "><p id="p22973015"><a name="p22973015"></a><a name="p22973015"></a>Deprecated: please use the PropagationPolicy, this field will be deprecated in 1.7. Should the dependent objects be orphaned. If true/false, the "orphan" finalizer will be added to/removed from the object's finalizers list. Either this field or PropagationPolicy may be set, but not both.</p>
+</td>
+</tr>
+<tr id="row5430546"><td class="cellrowborder" valign="top" width="24.19%" headers="mcps1.2.4.1.1 "><p id="p37221085"><a name="p37221085"></a><a name="p37221085"></a>propagationPolicy</p>
+</td>
+<td class="cellrowborder" valign="top" width="19.82%" headers="mcps1.2.4.1.2 "><p id="p62117884"><a name="p62117884"></a><a name="p62117884"></a>No</p>
+</td>
+<td class="cellrowborder" valign="top" width="55.989999999999995%" headers="mcps1.2.4.1.3 "><p id="p12794299614"><a name="p12794299614"></a><a name="p12794299614"></a>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy. Acceptable values are: 'Orphan' - orphan the dependents; 'Background' - allow the garbage collector to delete the dependents in the background; 'Foreground' - a cascading policy that deletes all dependents in the foreground.</p>
 </td>
 </tr>
 </tbody>
@@ -76,7 +76,7 @@ DELETE /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
@@ -116,100 +116,98 @@ DELETE /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Job",
-  "apiVersion": "batch/v1",
-  "metadata": {
-    "name": "pi",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/batch/v1/namespaces/namespace-test/jobs/pi",
-    "uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
-    "resourceVersion": "5415127",
-    "creationTimestamp": "2018-09-05T01:10:59Z",
-    "deletionTimestamp": "2018-09-05T03:27:34Z",
-    "deletionGracePeriodSeconds": 0,
-    "labels": {
-      "app": "test2",
-      "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
-      "job-name": "pi"
-    },
-    "finalizers": [
-      "orphan"
-    ],
-    "enable": true
-  },
-  "spec": {
-    "parallelism": 1,
-    "completions": 1,
-    "backoffLimit": 6,
-    "selector": {
-      "matchLabels": {
-        "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4"
-      }
-    },
-    "template": {
-      "metadata": {
+    "kind": "Job",
+    "apiVersion": "batch/v1",
+    "metadata": {
         "name": "pi",
-        "creationTimestamp": null,
+        "namespace": "namespace-test",
+        "selfLink": "/apis/batch/v1/namespaces/namespace-test/jobs/pi",
+        "uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
+        "resourceVersion": "5415127",
+        "creationTimestamp": "2018-09-05T01:10:59Z",
+        "deletionTimestamp": "2018-09-05T03:27:34Z",
+        "deletionGracePeriodSeconds": 0,
         "labels": {
-          "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
-          "job-name": "pi"
+            "app": "test2",
+            "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
+            "job-name": "pi"
         },
-        "annotations": {
-          "cri.cci.io/container-type": "secure-container"
-        },
+        "finalizers": [
+            "orphan"
+        ],
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "pi",
-            "image": "perl",
-            "command": [
-              "perl",
-              "-Mbignum=bpi",
-              "-wle",
-              "print bpi(2000)"
-            ],
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "memory": "1Gi",
-                "cpu": "500m"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "Always"
-          }
-        ],
-        "restartPolicy": "Never",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "parallelism": 1,
+        "completions": 1,
+        "backoffLimit": 6,
+        "selector": {
+            "matchLabels": {
+                "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "name": "pi",
+                "creationTimestamp": null,
+                "labels": {
+                    "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
+                    "job-name": "pi"
+                },
+                "annotations": {
+                    "cri.cci.io/container-type": "secure-container"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "pi",
+                        "image": "perl",
+                        "command": [
+                            "perl",
+                            "-Mbignum=bpi",
+                            "-wle",
+                            "print bpi(2000)"
+                        ],
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "memory": "1Gi",
+                                "cpu": "500m"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "Always"
+                    }
+                ],
+                "restartPolicy": "Never",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        }
+    },
+    "status": {
+        "startTime": "2018-09-05T01:10:59Z",
+        "active": 1
     }
-  },
-  "status": {
-    "startTime": "2018-09-05T01:10:59Z",
-    "active": 1
-  }
 }
 ```
 

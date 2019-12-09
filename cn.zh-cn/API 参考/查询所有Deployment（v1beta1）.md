@@ -96,7 +96,7 @@ N/A
 <a name="table1224473545420"></a>
 <table><thead align="left"><tr id="row425573575412"><th class="cellrowborder" valign="top" width="22.220000000000002%" id="mcps1.2.4.1.1"><p id="p132591835115416"><a name="p132591835115416"></a><a name="p132591835115416"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="16.16%" id="mcps1.2.4.1.2"><p id="p162624353549"><a name="p162624353549"></a><a name="p162624353549"></a>类型</p>
+<th class="cellrowborder" valign="top" width="16.16%" id="mcps1.2.4.1.2"><p id="p162624353549"><a name="p162624353549"></a><a name="p162624353549"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="61.62%" id="mcps1.2.4.1.3"><p id="p1726543565413"><a name="p1726543565413"></a><a name="p1726543565413"></a>描述</p>
 </th>
@@ -104,7 +104,7 @@ N/A
 </thead>
 <tbody><tr id="row18268143513548"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="p1927193513545"><a name="p1927193513545"></a><a name="p1927193513545"></a>apiVersion</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p627543516549"><a name="p627543516549"></a><a name="p627543516549"></a>string</p>
+<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p627543516549"><a name="p627543516549"></a><a name="p627543516549"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p1927983585418"><a name="p1927983585418"></a><a name="p1927983585418"></a>APIVersion defines the versioned schema of this representation of an object. Servers should convert recognized schemas to the latest internal value, and may reject unrecognized values.</p>
 </td>
@@ -118,7 +118,7 @@ N/A
 </tr>
 <tr id="row829510355545"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="p72971735125418"><a name="p72971735125418"></a><a name="p72971735125418"></a>kind</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p430183516548"><a name="p430183516548"></a><a name="p430183516548"></a>string</p>
+<td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="p430183516548"><a name="p430183516548"></a><a name="p430183516548"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="p193046354543"><a name="p193046354543"></a><a name="p193046354543"></a>Kind is a string value representing the REST resource this object represents. Servers may infer this from the endpoint the client submits requests to. Cannot be updated. In CamelCase.</p>
 </td>
@@ -189,11 +189,11 @@ N/A
                                 "resources": {
                                     "limits": {
                                         "cpu": "1", 
-                                        "memory": "1536Mi"
+                                        "memory": "1024Mi"
                                     }, 
                                     "requests": {
                                         "cpu": "1", 
-                                        "memory": "1536Mi"
+                                        "memory": "1024Mi"
                                     }
                                 }, 
                                 "lifecycle": {}, 
@@ -407,11 +407,11 @@ N/A
                                 ], 
                                 "resources": {
                                     "limits": {
-                                        "cpu": "100m", 
+                                        "cpu": "250m", 
                                         "memory": "107374182400m"
                                     }, 
                                     "requests": {
-                                        "cpu": "100m", 
+                                        "cpu": "250m", 
                                         "memory": "107374182400m"
                                     }
                                 }, 

@@ -21,7 +21,7 @@ N/A.
 <a name="d0e46199"></a>
 <table><thead align="left"><tr id="row12332252"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p59388390"><a name="p59388390"></a><a name="p59388390"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p45730313"><a name="p45730313"></a><a name="p45730313"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p45730313"><a name="p45730313"></a><a name="p45730313"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p13167852"><a name="p13167852"></a><a name="p13167852"></a>描述</p>
 </th>
@@ -56,7 +56,7 @@ N/A.
 <a name="d0e46249"></a>
 <table><thead align="left"><tr id="row20838481"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="p10195411"><a name="p10195411"></a><a name="p10195411"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p20521986"><a name="p20521986"></a><a name="p20521986"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p20521986"><a name="p20521986"></a><a name="p20521986"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.44444444444445%" id="mcps1.2.4.1.3"><p id="p51668165"><a name="p51668165"></a><a name="p51668165"></a>描述</p>
 </th>
@@ -122,46 +122,48 @@ N/A.
     "apiVersion": "v1",
     "groupVersion": "apps/v1",
     "resources": [
-	{
-      "name":"deployments",
-      "singularName":"",
-      "namespaced":true,
-      "kind":"Deployment",
-      "verbs":[
-        "create",
-        "delete",
-        "deletecollection",
-        "get",
-        "list",
-        "patch",
-        "update"
-      ],
-      "shortNames":[
-        "deploy"
-      ],
-      "categories":[
-        "all"
-      ]},{
-      "name":"statefulsets",
-      "singularName":"",
-      "namespaced":true,
-      "kind":"StatefulSet",
-      "verbs":[
-        "create",
-        "delete",
-        "deletecollection",
-        "get",
-        "list",
-        "patch",
-        "update"
-      ],
-      "shortNames":[
-        "sts"
-      ],
-      "categories":[
-        "all"
-      ]
-    }
+        {
+            "name": "deployments",
+            "singularName": "",
+            "namespaced": true,
+            "kind": "Deployment",
+            "verbs": [
+                "create",
+                "delete",
+                "deletecollection",
+                "get",
+                "list",
+                "patch",
+                "update"
+            ],
+            "shortNames": [
+                "deploy"
+            ],
+            "categories": [
+                "all"
+            ]
+        },
+        {
+            "name": "statefulsets",
+            "singularName": "",
+            "namespaced": true,
+            "kind": "StatefulSet",
+            "verbs": [
+                "create",
+                "delete",
+                "deletecollection",
+                "get",
+                "list",
+                "patch",
+                "update"
+            ],
+            "shortNames": [
+                "sts"
+            ],
+            "categories": [
+                "all"
+            ]
+        }
     ]
 }
 ```

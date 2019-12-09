@@ -39,19 +39,19 @@ PUT /api/v1/namespaces/\{namespace\}/configmaps/\{name\}
 **表 2**  Query参数
 
 <a name="d0e43866"></a>
-<table><thead align="left"><tr id="row28873940"><th class="cellrowborder" valign="top" width="33.33333333333333%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
+<table><thead align="left"><tr id="row28873940"><th class="cellrowborder" valign="top" width="24.86248624862486%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="33.33333333333333%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="25.202520252025202%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="33.33333333333333%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
+<th class="cellrowborder" valign="top" width="49.934993499349936%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row5943917"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="p11695287"><a name="p11695287"></a><a name="p11695287"></a>pretty</p>
+<tbody><tr id="row5943917"><td class="cellrowborder" valign="top" width="24.86248624862486%" headers="mcps1.2.4.1.1 "><p id="p11695287"><a name="p11695287"></a><a name="p11695287"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.2 "><p id="p7794181"><a name="p7794181"></a><a name="p7794181"></a>No</p>
+<td class="cellrowborder" valign="top" width="25.202520252025202%" headers="mcps1.2.4.1.2 "><p id="p7794181"><a name="p7794181"></a><a name="p7794181"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.3 "><p id="p27348928"><a name="p27348928"></a><a name="p27348928"></a>If 'true', then the output is pretty printed.</p>
+<td class="cellrowborder" valign="top" width="49.934993499349936%" headers="mcps1.2.4.1.3 "><p id="p27348928"><a name="p27348928"></a><a name="p27348928"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ PUT /api/v1/namespaces/\{namespace\}/configmaps/\{name\}
 
 **请求参数：**
 
-请求参数的详细描述请参见[表122](数据结构.md#table79541510192317)。
+请求参数的详细描述请参见[表121](数据结构.md#table79541510192317)。
 
 **请求示例：**
 
@@ -84,26 +84,26 @@ PUT /api/v1/namespaces/\{namespace\}/configmaps/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表122](数据结构.md#table79541510192317)。
+响应参数的详细描述请参见[表121](数据结构.md#table79541510192317)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "ConfigMap",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "configmap-test",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/configmaps/configmap-test",
-    "uid": "379519a3-aff0-11e8-8f17-c81fbe371a17",
-    "resourceVersion": "5172849",
-    "creationTimestamp": "2018-09-04T03:11:29Z",
-    "enable": true
-  },
-  "data": {
-    "property_1": "test2"
-  }
+    "kind": "ConfigMap",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "configmap-test",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/configmaps/configmap-test",
+        "uid": "379519a3-aff0-11e8-8f17-c81fbe371a17",
+        "resourceVersion": "5172849",
+        "creationTimestamp": "2018-09-04T03:11:29Z",
+        "enable": true
+    },
+    "data": {
+        "property_1": "test2"
+    }
 }
 ```
 

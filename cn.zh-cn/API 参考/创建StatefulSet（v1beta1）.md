@@ -49,7 +49,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </th>
 <th class="cellrowborder" valign="top" width="14.288571142885711%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433687_p33848965"><a name="zh-cn_topic_0091433687_p33848965"></a><a name="zh-cn_topic_0091433687_p33848965"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20.407959204079592%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p57411641"><a name="zh-cn_topic_0091433687_p57411641"></a><a name="zh-cn_topic_0091433687_p57411641"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20.407959204079592%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p57411641"><a name="zh-cn_topic_0091433687_p57411641"></a><a name="zh-cn_topic_0091433687_p57411641"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="42.85571442855714%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433687_p19831374"><a name="zh-cn_topic_0091433687_p19831374"></a><a name="zh-cn_topic_0091433687_p19831374"></a>描述</p>
 </th>
@@ -110,7 +110,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </th>
 <th class="cellrowborder" valign="top" width="15%" id="mcps1.2.5.1.2"><p id="p526516275115"><a name="p526516275115"></a><a name="p526516275115"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.3"><p id="p12270182717118"><a name="p12270182717118"></a><a name="p12270182717118"></a>类型</p>
+<th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.3"><p id="p12270182717118"><a name="p12270182717118"></a><a name="p12270182717118"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="42%" id="mcps1.2.5.1.4"><p id="p527582761114"><a name="p527582761114"></a><a name="p527582761114"></a>描述</p>
 </th>
@@ -192,7 +192,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </th>
 <th class="cellrowborder" valign="top" width="14.430000000000001%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433687_p50202190"><a name="zh-cn_topic_0091433687_p50202190"></a><a name="zh-cn_topic_0091433687_p50202190"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.59%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p39845619"><a name="zh-cn_topic_0091433687_p39845619"></a><a name="zh-cn_topic_0091433687_p39845619"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.59%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p39845619"><a name="zh-cn_topic_0091433687_p39845619"></a><a name="zh-cn_topic_0091433687_p39845619"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="43.3%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433687_p6269729"><a name="zh-cn_topic_0091433687_p6269729"></a><a name="zh-cn_topic_0091433687_p6269729"></a>描述</p>
 </th>
@@ -276,7 +276,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </th>
 <th class="cellrowborder" valign="top" width="15.308469153084694%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433687_p15239763"><a name="zh-cn_topic_0091433687_p15239763"></a><a name="zh-cn_topic_0091433687_p15239763"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.388061193880613%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p26461289"><a name="zh-cn_topic_0091433687_p26461289"></a><a name="zh-cn_topic_0091433687_p26461289"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.388061193880613%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p26461289"><a name="zh-cn_topic_0091433687_p26461289"></a><a name="zh-cn_topic_0091433687_p26461289"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="42.85571442855714%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433687_p62989635"><a name="zh-cn_topic_0091433687_p62989635"></a><a name="zh-cn_topic_0091433687_p62989635"></a>描述</p>
 </th>
@@ -310,7 +310,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </th>
 <th class="cellrowborder" valign="top" width="15.308469153084689%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433687_p64358168"><a name="zh-cn_topic_0091433687_p64358168"></a><a name="zh-cn_topic_0091433687_p64358168"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p45629083"><a name="zh-cn_topic_0091433687_p45629083"></a><a name="zh-cn_topic_0091433687_p45629083"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p45629083"><a name="zh-cn_topic_0091433687_p45629083"></a><a name="zh-cn_topic_0091433687_p45629083"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="41.83581641835816%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433687_p4968280"><a name="zh-cn_topic_0091433687_p4968280"></a><a name="zh-cn_topic_0091433687_p4968280"></a>描述</p>
 </th>
@@ -338,7 +338,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="15.308469153084689%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p30247620"><a name="zh-cn_topic_0091433687_p30247620"></a><a name="zh-cn_topic_0091433687_p30247620"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p34138135"><a name="zh-cn_topic_0091433687_p34138135"></a><a name="zh-cn_topic_0091433687_p34138135"></a>String array</p>
+<td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p34138135"><a name="zh-cn_topic_0091433687_p34138135"></a><a name="zh-cn_topic_0091433687_p34138135"></a>Array of strings</p>
 </td>
 <td class="cellrowborder" valign="top" width="41.83581641835816%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p13725522"><a name="zh-cn_topic_0091433687_p13725522"></a><a name="zh-cn_topic_0091433687_p13725522"></a>values is an array of string values. If the operator is In or NotIn, the values array must be non-empty. If the operator is Exists or DoesNotExist, the values array must be empty. This array is replaced during a strategic merge patch.</p>
 </td>
@@ -349,33 +349,33 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 **表 7**  updateStrategy字段数据结构说明
 
 <a name="zh-cn_topic_0091433687_d0e38083"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0091433687_row1068106"><th class="cellrowborder" valign="top" width="20.407959204079592%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0091433687_p19407724"><a name="zh-cn_topic_0091433687_p19407724"></a><a name="zh-cn_topic_0091433687_p19407724"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0091433687_row1068106"><th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0091433687_p19407724"><a name="zh-cn_topic_0091433687_p19407724"></a><a name="zh-cn_topic_0091433687_p19407724"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="16.328367163283673%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433687_p28521827"><a name="zh-cn_topic_0091433687_p28521827"></a><a name="zh-cn_topic_0091433687_p28521827"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="16.34836516348365%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433687_p28521827"><a name="zh-cn_topic_0091433687_p28521827"></a><a name="zh-cn_topic_0091433687_p28521827"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="23.46765323467653%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p28566679"><a name="zh-cn_topic_0091433687_p28566679"></a><a name="zh-cn_topic_0091433687_p28566679"></a>类型</p>
+<th class="cellrowborder" valign="top" width="23.447655234476546%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p28566679"><a name="zh-cn_topic_0091433687_p28566679"></a><a name="zh-cn_topic_0091433687_p28566679"></a>参数类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="39.796020397960206%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433687_p32199663"><a name="zh-cn_topic_0091433687_p32199663"></a><a name="zh-cn_topic_0091433687_p32199663"></a>描述</p>
+<th class="cellrowborder" valign="top" width="39.7960203979602%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433687_p32199663"><a name="zh-cn_topic_0091433687_p32199663"></a><a name="zh-cn_topic_0091433687_p32199663"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="zh-cn_topic_0091433687_row58035924"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p3289389"><a name="zh-cn_topic_0091433687_p3289389"></a><a name="zh-cn_topic_0091433687_p3289389"></a>rollingUpdate</p>
+<tbody><tr id="zh-cn_topic_0091433687_row58035924"><td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p3289389"><a name="zh-cn_topic_0091433687_p3289389"></a><a name="zh-cn_topic_0091433687_p3289389"></a>rollingUpdate</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p65113955"><a name="zh-cn_topic_0091433687_p65113955"></a><a name="zh-cn_topic_0091433687_p65113955"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.34836516348365%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p65113955"><a name="zh-cn_topic_0091433687_p65113955"></a><a name="zh-cn_topic_0091433687_p65113955"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="23.46765323467653%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p39738973"><a name="zh-cn_topic_0091433687_p39738973"></a><a name="zh-cn_topic_0091433687_p39738973"></a><a href="#zh-cn_topic_0091433687_table102371729161619">表8</a></p>
+<td class="cellrowborder" valign="top" width="23.447655234476546%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p39738973"><a name="zh-cn_topic_0091433687_p39738973"></a><a name="zh-cn_topic_0091433687_p39738973"></a><a href="#zh-cn_topic_0091433687_table102371729161619">表8</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="39.796020397960206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p45791139"><a name="zh-cn_topic_0091433687_p45791139"></a><a name="zh-cn_topic_0091433687_p45791139"></a></p>
+<td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p45791139"><a name="zh-cn_topic_0091433687_p45791139"></a><a name="zh-cn_topic_0091433687_p45791139"></a></p>
 <p id="zh-cn_topic_0091433687_p9467071"><a name="zh-cn_topic_0091433687_p9467071"></a><a name="zh-cn_topic_0091433687_p9467071"></a>RollingUpdate is used to communicate parameters when Type is RollingUpdateStatefulSetStrategyType.</p>
 </td>
 </tr>
-<tr id="zh-cn_topic_0091433687_row18094775"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p56390700"><a name="zh-cn_topic_0091433687_p56390700"></a><a name="zh-cn_topic_0091433687_p56390700"></a>type</p>
+<tr id="zh-cn_topic_0091433687_row18094775"><td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p56390700"><a name="zh-cn_topic_0091433687_p56390700"></a><a name="zh-cn_topic_0091433687_p56390700"></a>type</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p4244010"><a name="zh-cn_topic_0091433687_p4244010"></a><a name="zh-cn_topic_0091433687_p4244010"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.34836516348365%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433687_p4244010"><a name="zh-cn_topic_0091433687_p4244010"></a><a name="zh-cn_topic_0091433687_p4244010"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="23.46765323467653%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p8220504"><a name="zh-cn_topic_0091433687_p8220504"></a><a name="zh-cn_topic_0091433687_p8220504"></a>String</p>
+<td class="cellrowborder" valign="top" width="23.447655234476546%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p8220504"><a name="zh-cn_topic_0091433687_p8220504"></a><a name="zh-cn_topic_0091433687_p8220504"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="39.796020397960206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p61881054"><a name="zh-cn_topic_0091433687_p61881054"></a><a name="zh-cn_topic_0091433687_p61881054"></a></p>
+<td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p61881054"><a name="zh-cn_topic_0091433687_p61881054"></a><a name="zh-cn_topic_0091433687_p61881054"></a></p>
 <p id="zh-cn_topic_0091433687_p20058578"><a name="zh-cn_topic_0091433687_p20058578"></a><a name="zh-cn_topic_0091433687_p20058578"></a>Type indicates the type of the StatefulSetUpdateStrategy.</p>
 </td>
 </tr>
@@ -389,7 +389,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </th>
 <th class="cellrowborder" valign="top" width="16.328367163283673%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433687_p35116889"><a name="zh-cn_topic_0091433687_p35116889"></a><a name="zh-cn_topic_0091433687_p35116889"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="23.46765323467653%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p25895747"><a name="zh-cn_topic_0091433687_p25895747"></a><a name="zh-cn_topic_0091433687_p25895747"></a>类型</p>
+<th class="cellrowborder" valign="top" width="23.46765323467653%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433687_p25895747"><a name="zh-cn_topic_0091433687_p25895747"></a><a name="zh-cn_topic_0091433687_p25895747"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.796020397960206%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433687_p17180782"><a name="zh-cn_topic_0091433687_p17180782"></a><a name="zh-cn_topic_0091433687_p17180782"></a>描述</p>
 </th>

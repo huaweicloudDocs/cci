@@ -1,6 +1,6 @@
 # 删除Event<a name="cci_02_3094"></a>
 
-## 功能描述<a name="section1686113493165"></a>
+## 功能介绍<a name="section1686113493165"></a>
 
 删除Event。
 
@@ -76,28 +76,38 @@ DELETE /api/v1/namespaces/\{namespace\}/events/\{name\}
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
 ```
-{ 
-   "kind": "DeleteOptions", 
-   "apiVersion": "v1", 
-   "gracePeriodSeconds": 0 
- }
+{
+    "kind": "DeleteOptions",
+    "apiVersion": "v1",
+    "gracePeriodSeconds": 0
+}
 ```
 
 ## 响应消息<a name="section61819725020"></a>
 
 **响应参数**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例**
 
 ```
-
+{
+    "kind": "Status",
+    "apiVersion": "v1",
+    "metadata": {},
+    "status": "Success",
+    "details": {
+        "name": "cci-deployment-cml002.15c0dbdd5715a8da",
+        "kind": "events",
+        "uid": "68db3125-ce19-11e9-8d71-d0efc1b3bb6b"
+    }
+}
 ```
 
 ## 状态码<a name="s50f1049a6a4d404c895cf636eb8f3bf1"></a>

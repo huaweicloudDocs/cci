@@ -4,27 +4,6 @@
 
 创建一个Service。
 
-如果在创建Service资源对象和Deployment/StatefuleSet资源对象后，要在CCI界面，工作负载详情页面中，“访问方式“页签下显示对应的Service资源，则需要给创建的Service资源对象添加labels标签，并且设置对应的selector。
-
-设置请求消息体中的“metadata.labels“参数键值如下：
-
-```
-labels:
-    app: appname
-```
-
-设置请求消息体中的“spec.selector“参数键值如下：
-
-```
-selector:
-    app: appname 
-```
-
-其中：
-
--   lables参数下“app“参数所键入的“appname“为显示在CCI工作负载界面上的工作负载名称，其值与Deployment/StatefuleSet的“metadata.name“中所添加的内容一致。
--   selector参数下“app“的值与需要关联的Deployment/StatefuleSet的“spec.selector“保持一致。
-
 ## URI<a name="s5d6abc7988cb426db0a9a10aa1e612b6"></a>
 
 POST /api/v1/namespaces/\{namespace\}/services
@@ -71,7 +50,7 @@ POST /api/v1/namespaces/\{namespace\}/services
 
 **请求参数：**
 
-请求参数参见[表102](数据结构.md#zh-cn_topic_0079615000_ref458759328)。
+请求参数参见[表101](数据结构.md#zh-cn_topic_0079615000_ref458759328)。
 
 **请求示例：**
 
@@ -110,30 +89,30 @@ LoadBalancer类型Service需要在metadata.annotations自定中添加elb实例ID
 
 ```
 {
-  "apiVersion": "v1",
-  "kind": "Service",
-  "metadata": {
-    "name": "nginx",
-    "annotations": {
-      "kubernetes.io/elb.id": "77e6246c-a091-xxxx-xxxx-789baa571280",
-      "tenant.kubernetes.io/project-id": "a9cab8xxxxxxxxxxxxxxxx41c0aeb",
-      "tenant.kubernetes.io/domain-id": "65382xxxxxxxxxxxxxxxxxe684b"
-    }
-  },
-  "spec": {
-    "selector": {
-      "app": "nginx"
+    "apiVersion": "v1",
+    "kind": "Service",
+    "metadata": {
+        "name": "nginx",
+        "annotations": {
+           "kubernetes.io/elb.id": "77e6246c-a091-xxxx-xxxx-789baa571280",
+            "tenant.kubernetes.io/project-id": "a9cab8xxxxxxxxxxxxxxxx41c0aeb",
+            "tenant.kubernetes.io/domain-id": "65382xxxxxxxxxxxxxxxxxe684b"
+        }
     },
-    "ports": [
-      {
-        "name": "service0",
-        "targetPort": 80,
-        "port": 8080,
-        "protocol": "TCP"
-      }
-    ],
-    "type": "LoadBalancer"
-  }
+    "spec": {
+        "selector": {
+            "app": "nginx"
+        },
+        "ports": [
+            {
+                "name": "service0",
+                "targetPort": 80,
+                "port": 8080,
+                "protocol": "TCP"
+            }
+        ],
+        "type": "LoadBalancer"
+    }
 }
 ```
 
@@ -141,47 +120,45 @@ LoadBalancer类型Service需要在metadata.annotations自定中添加elb实例ID
 
 **响应参数：**
 
-响应参数的详细描述请参见[表102](数据结构.md#zh-cn_topic_0079615000_ref458759328)。
+响应参数的详细描述请参见[表101](数据结构.md#zh-cn_topic_0079615000_ref458759328)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Service",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "redis",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/services/redis",
-    "uid": "d6a1ce79-afdb-11e8-b6ef-f898ef6c78b4",
-    "resourceVersion": "5146412",
-    "creationTimestamp": "2018-09-04T00:45:36Z",
-    "labels": {
-      "app": "redis"
+    "kind": "Service",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "redis",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/services/redis",
+        "uid": "d6a1ce79-afdb-11e8-b6ef-f898ef6c78b4",
+        "resourceVersion": "5146412",
+        "creationTimestamp": "2018-09-04T00:45:36Z",
+        "labels": {
+            "app": "redis"
+        },
+        "enable": true
     },
-    "enable": true
-  },
-  "spec": {
-    "ports": [
-      {
-        "name": "service0",
-        "protocol": "TCP",
-        "port": 8080,
-        "targetPort": 80
-      }
-    ],
-    "selector": {
-      "app": "redis"
+    "spec": {
+        "ports": [
+            {
+                "name": "service0",
+                "protocol": "TCP",
+                "port": 8080,
+                "targetPort": 80
+            }
+        ],
+        "selector": {
+            "app": "redis"
+        },
+        "clusterIP": "10.247.212.210",
+        "type": "ClusterIP",
+        "sessionAffinity": "None"
     },
-    "clusterIP": "10.247.212.210",
-    "type": "ClusterIP",
-    "sessionAffinity": "None"
-  },
-  "status": {
-    "loadBalancer": {
-
+    "status": {
+        "loadBalancer": {}
     }
-  }
 }
 ```
 

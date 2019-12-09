@@ -73,117 +73,115 @@ N/A
 
 **响应参数：**
 
-响应消息请参见[表80](数据结构.md#table12862324102610)
+响应消息请参见[表79](数据结构.md#table12862324102610)
 
 **响应示例：**
 
 ```
 {
-  "kind": "Deployment",
-  "apiVersion": "apps/v1",
-  "metadata": {
-    "name": "deployment-test",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
-    "uid": "010506c7-af79-11e8-b6ef-f898ef6c78b4",
-    "resourceVersion": "5036888",
-    "generation": 1,
-    "creationTimestamp": "2018-09-03T12:58:07Z",
-    "labels": {
-      "app": "redis"
-    },
-    "annotations": {
-      "deployment.kubernetes.io/revision": "1"
-    },
-    "enable": true
-  },
-  "spec": {
-    "replicas": 1,
-    "selector": {
-      "matchLabels": {
-        "app": "redis"
-      }
-    },
-    "template": {
-      "metadata": {
-        "creationTimestamp": null,
+    "kind": "Deployment",
+    "apiVersion": "apps/v1",
+    "metadata": {
+        "name": "deployment-test",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
+        "uid": "010506c7-af79-11e8-b6ef-f898ef6c78b4",
+        "resourceVersion": "5036888",
+        "generation": 1,
+        "creationTimestamp": "2018-09-03T12:58:07Z",
         "labels": {
-          "app": "redis"
+            "app": "redis"
         },
         "annotations": {
-          "cri.cci.io/container-type": "secure-container"
+            "deployment.kubernetes.io/revision": "1"
         },
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "container-0",
-            "image": "redis:3.0",
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "memory": "1Gi",
-                "cpu": "500m"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "IfNotPresent"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "replicas": 1,
+        "selector": {
+            "matchLabels": {
+                "app": "redis"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "creationTimestamp": null,
+                "labels": {
+                    "app": "redis"
+                },
+                "annotations": {
+                    "cri.cci.io/container-type": "secure-container"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "container-0",
+                        "image": "redis:3.0",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "memory": "1Gi",
+                                "cpu": "500m"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "IfNotPresent"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        },
+        "strategy": {
+            "type": "RollingUpdate",
+            "rollingUpdate": {
+                "maxUnavailable": "25%",
+                "maxSurge": "25%"
+            }
+        },
+        "revisionHistoryLimit": 2,
+        "progressDeadlineSeconds": 600
     },
-    "strategy": {
-      "type": "RollingUpdate",
-      "rollingUpdate": {
-        "maxUnavailable": "25%",
-        "maxSurge": "25%"
-      }
-    },
-    "revisionHistoryLimit": 2,
-    "progressDeadlineSeconds": 600
-  },
-  "status": {
-    "observedGeneration": 1,
-    "replicas": 1,
-    "updatedReplicas": 1,
-    "readyReplicas": 1,
-    "availableReplicas": 1,
-    "conditions": [
-      {
-        "type": "Available",
-        "status": "True",
-        "lastUpdateTime": "2018-09-03T12:58:12Z",
-        "lastTransitionTime": "2018-09-03T12:58:12Z",
-        "reason": "MinimumReplicasAvailable",
-        "message": "Deployment has minimum availability."
-      },
-      {
-        "type": "Progressing",
-        "status": "True",
-        "lastUpdateTime": "2018-09-03T12:58:12Z",
-        "lastTransitionTime": "2018-09-03T12:58:07Z",
-        "reason": "NewReplicaSetAvailable",
-        "message": "ReplicaSet \"deployment-test-57f7cff77c\" has successfully progressed."
-      }
-    ]
-  }
+    "status": {
+        "observedGeneration": 1,
+        "replicas": 1,
+        "updatedReplicas": 1,
+        "readyReplicas": 1,
+        "availableReplicas": 1,
+        "conditions": [
+            {
+                "type": "Available",
+                "status": "True",
+                "lastUpdateTime": "2018-09-03T12:58:12Z",
+                "lastTransitionTime": "2018-09-03T12:58:12Z",
+                "reason": "MinimumReplicasAvailable",
+                "message": "Deployment has minimum availability."
+            },
+            {
+                "type": "Progressing",
+                "status": "True",
+                "lastUpdateTime": "2018-09-03T12:58:12Z",
+                "lastTransitionTime": "2018-09-03T12:58:07Z",
+                "reason": "NewReplicaSetAvailable",
+                "message": "ReplicaSet \"deployment-test-57f7cff77c\" has successfully progressed."
+            }
+        ]
+    }
 }
 ```
 

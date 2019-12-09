@@ -111,69 +111,69 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表121](数据结构.md#table102861526194)。
+响应参数的详细描述请参见[表120](数据结构.md#table102861526194)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "IngressList",
-  "apiVersion": "extensions/v1beta1",
-  "metadata": {
-    "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses",
-    "resourceVersion": "5161998"
-  },
-  "items": [
-    {
-      "metadata": {
-        "name": "redis",
-        "namespace": "namespace-test",
-        "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses/redis",
-        "uid": "7f86c310-afe8-11e8-b6ef-f898ef6c78b4",
-        "resourceVersion": "5161128",
-        "generation": 1,
-        "creationTimestamp": "2018-09-04T02:16:14Z",
-        "labels": {
-          "app": "redis",
-          "isExternal": "true",
-          "zone": "data"
-        },
-        "annotations": {
-          "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
-          "kubernetes.io/elb.ip": "192.168.137.182",
-          "kubernetes.io/elb.port": "6071"
-        },
-        "enable": true
-      },
-      "spec": {
-        "rules": [
-          {
-            "http": {
-              "paths": [
-                {
-                  "path": "/",
-                  "backend": {
-                    "serviceName": "redis",
-                    "servicePort": 8080
-                  }
+    "kind": "IngressList",
+    "apiVersion": "extensions/v1beta1",
+    "metadata": {
+        "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses",
+        "resourceVersion": "5161998"
+    },
+    "items": [
+        {
+            "metadata": {
+                "name": "redis",
+                "namespace": "namespace-test",
+                "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses/redis",
+                "uid": "7f86c310-afe8-11e8-b6ef-f898ef6c78b4",
+                "resourceVersion": "5161128",
+                "generation": 1,
+                "creationTimestamp": "2018-09-04T02:16:14Z",
+                "labels": {
+                    "app": "redis",
+                    "isExternal": "true",
+                    "zone": "data"
+                },
+                "annotations": {
+                    "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
+                    "kubernetes.io/elb.ip": "192.168.137.182",
+                    "kubernetes.io/elb.port": "6071"
+                },
+                "enable": true
+            },
+            "spec": {
+                "rules": [
+                    {
+                        "http": {
+                            "paths": [
+                                {
+                                    "path": "/",
+                                    "backend": {
+                                        "serviceName": "redis",
+                                        "servicePort": 8080
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "status": {
+                "loadBalancer": {
+                    "ingress": [
+                        {
+                            "ip": "192.168.137.182"
+                        }
+                    ]
                 }
-              ]
             }
-          }
-        ]
-      },
-      "status": {
-        "loadBalancer": {
-          "ingress": [
-            {
-              "ip": "192.168.137.182"
-            }
-          ]
         }
-      }
-    }
-  ]
-}[
+    ]
+}
 ```
 
 ## 状态码<a name="section991874063016"></a>

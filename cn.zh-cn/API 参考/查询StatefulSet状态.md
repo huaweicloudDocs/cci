@@ -59,95 +59,93 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表87](数据结构.md#d0e37568)。
+响应参数的详细描述请参见[表86](数据结构.md#d0e37568)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "StatefulSet",
-  "apiVersion": "apps/v1",
-  "metadata": {
-    "name": "statefulset-test",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/apps/v1/namespaces/namespace-test/statefulsets/statefulset-test/status",
-    "uid": "f4a35f35-b011-11e8-b6ef-f898ef6c78b4",
-    "resourceVersion": "5217947",
-    "generation": 1,
-    "creationTimestamp": "2018-09-04T07:13:00Z",
-    "labels": {
-      "app": "statefulset-test"
-    },
-    "enable": true
-  },
-  "spec": {
-    "replicas": 3,
-    "selector": {
-      "matchLabels": {
-        "app": "statefulset-test"
-      }
-    },
-    "template": {
-      "metadata": {
-        "creationTimestamp": null,
+    "kind": "StatefulSet",
+    "apiVersion": "apps/v1",
+    "metadata": {
+        "name": "statefulset-test",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/apps/v1/namespaces/namespace-test/statefulsets/statefulset-test/status",
+        "uid": "f4a35f35-b011-11e8-b6ef-f898ef6c78b4",
+        "resourceVersion": "5217947",
+        "generation": 1,
+        "creationTimestamp": "2018-09-04T07:13:00Z",
         "labels": {
-          "app": "statefulset-test"
-        },
-        "annotations": {
-          "cri.cci.io/container-type": "secure-container"
+            "app": "statefulset-test"
         },
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "container-0",
-            "image": "100.125.5.235:20202/cci_z00425431/redis:V1",
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "memory": "1Gi",
-                "cpu": "500m"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "IfNotPresent"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "replicas": 3,
+        "selector": {
+            "matchLabels": {
+                "app": "statefulset-test"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "creationTimestamp": null,
+                "labels": {
+                    "app": "statefulset-test"
+                },
+                "annotations": {
+                    "cri.cci.io/container-type": "secure-container"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "container-0",
+                        "image": "*.*.*.*:20202/cci/redis:V1",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "memory": "1Gi",
+                                "cpu": "500m"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "IfNotPresent"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        },
+        "serviceName": "",
+        "podManagementPolicy": "OrderedReady",
+        "updateStrategy": {
+            "type": "OnDelete"
+        },
+        "revisionHistoryLimit": 10
     },
-    "serviceName": "",
-    "podManagementPolicy": "OrderedReady",
-    "updateStrategy": {
-      "type": "OnDelete"
-    },
-    "revisionHistoryLimit": 10
-  },
-  "status": {
-    "observedGeneration": 1,
-    "replicas": 3,
-    "readyReplicas": 1,
-    "currentReplicas": 3,
-    "currentRevision": "statefulset-test-f986b645b",
-    "updateRevision": "statefulset-test-f986b645b",
-    "collisionCount": 0
-  }
+    "status": {
+        "observedGeneration": 1,
+        "replicas": 3,
+        "readyReplicas": 1,
+        "currentReplicas": 3,
+        "currentRevision": "statefulset-test-f986b645b",
+        "updateRevision": "statefulset-test-f986b645b",
+        "collisionCount": 0
+    }
 }
 ```
 

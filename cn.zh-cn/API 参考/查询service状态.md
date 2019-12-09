@@ -33,17 +33,17 @@ GET /api/v1/namespaces/\{namespace\}/services/\{name\}/status
 **表 2**  Query参数
 
 <a name="zh-cn_topic_0079614941_table43974095"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0079614941_row47185870"><th class="cellrowborder" valign="top" width="33%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0079614941_p63959112"><a name="zh-cn_topic_0079614941_p63959112"></a><a name="zh-cn_topic_0079614941_p63959112"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0079614941_row47185870"><th class="cellrowborder" valign="top" width="32.81%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0079614941_p63959112"><a name="zh-cn_topic_0079614941_p63959112"></a><a name="zh-cn_topic_0079614941_p63959112"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.2"><p id="p54432917195332"><a name="p54432917195332"></a><a name="p54432917195332"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="25.19%" id="mcps1.2.4.1.2"><p id="p54432917195332"><a name="p54432917195332"></a><a name="p54432917195332"></a>是否必选</p>
 </th>
 <th class="cellrowborder" valign="top" width="42%" id="mcps1.2.4.1.3"><p id="p46990176195332"><a name="p46990176195332"></a><a name="p46990176195332"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="zh-cn_topic_0079614941_row56542298"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079614941_p16523463"><a name="zh-cn_topic_0079614941_p16523463"></a><a name="zh-cn_topic_0079614941_p16523463"></a>pretty</p>
+<tbody><tr id="zh-cn_topic_0079614941_row56542298"><td class="cellrowborder" valign="top" width="32.81%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079614941_p16523463"><a name="zh-cn_topic_0079614941_p16523463"></a><a name="zh-cn_topic_0079614941_p16523463"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079614941_p63332116"><a name="zh-cn_topic_0079614941_p63332116"></a><a name="zh-cn_topic_0079614941_p63332116"></a>No</p>
+<td class="cellrowborder" valign="top" width="25.19%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079614941_p63332116"><a name="zh-cn_topic_0079614941_p63332116"></a><a name="zh-cn_topic_0079614941_p63332116"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079614941_p29627753"><a name="zh-cn_topic_0079614941_p29627753"></a><a name="zh-cn_topic_0079614941_p29627753"></a>If 'true', then the output is pretty printed.</p>
 </td>
@@ -59,47 +59,45 @@ N/A
 
 **响应参数：**
 
-响应参数如[表102](数据结构.md#zh-cn_topic_0079615000_ref458759328)所示。
+响应参数如[表101](数据结构.md#zh-cn_topic_0079615000_ref458759328)所示。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Service",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "redis",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/services/redis/status",
-    "uid": "d6a1ce79-afdb-11e8-b6ef-f898ef6c78b4",
-    "resourceVersion": "5146412",
-    "creationTimestamp": "2018-09-04T00:45:36Z",
-    "labels": {
-      "app": "redis"
+    "kind": "Service",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "redis",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/services/redis/status",
+        "uid": "d6a1ce79-afdb-11e8-b6ef-f898ef6c78b4",
+        "resourceVersion": "5146412",
+        "creationTimestamp": "2018-09-04T00:45:36Z",
+        "labels": {
+            "app": "redis"
+        },
+        "enable": true
     },
-    "enable": true
-  },
-  "spec": {
-    "ports": [
-      {
-        "name": "service0",
-        "protocol": "TCP",
-        "port": 8080,
-        "targetPort": 80
-      }
-    ],
-    "selector": {
-      "app": "redis"
+    "spec": {
+        "ports": [
+            {
+                "name": "service0",
+                "protocol": "TCP",
+                "port": 8080,
+                "targetPort": 80
+            }
+        ],
+        "selector": {
+            "app": "redis"
+        },
+        "clusterIP": "10.247.212.210",
+        "type": "ClusterIP",
+        "sessionAffinity": "None"
     },
-    "clusterIP": "10.247.212.210",
-    "type": "ClusterIP",
-    "sessionAffinity": "None"
-  },
-  "status": {
-    "loadBalancer": {
-
+    "status": {
+        "loadBalancer": {}
     }
-  }
 }
 ```
 

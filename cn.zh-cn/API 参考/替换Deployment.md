@@ -65,7 +65,7 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}
 
 **请求参数：**
 
-请求参数的详细描述请参见[表80](数据结构.md#table12862324102610)。
+请求参数的详细描述请参见[表79](数据结构.md#table12862324102610)。
 
 **请求示例：**
 
@@ -94,7 +94,7 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}
             "spec": {
                 "containers": [
                     {
-                        "image": "100.125.5.235:20202/cci_z00425431/redis:V1",
+                        "image": "*.*.*.*:20202/cci/redis:V1",
                         "name": "container-0",
                         "resources": {
                             "limits": {
@@ -123,111 +123,109 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表80](数据结构.md#table12862324102610)。
+响应参数的详细描述请参见[表79](数据结构.md#table12862324102610)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Deployment",
-  "apiVersion": "apps/v1",
-  "metadata": {
-    "name": "deployment-test",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
-    "uid": "777dce52-b186-11e8-8cb0-c81fbe371a17",
-    "resourceVersion": "5636210",
-    "generation": 2,
-    "creationTimestamp": "2018-09-06T03:39:32Z",
-    "labels": {
-      "app": "redis"
-    },
-    "enable": true
-  },
-  "spec": {
-    "replicas": 2,
-    "selector": {
-      "matchLabels": {
-        "app": "redis"
-      }
-    },
-    "template": {
-      "metadata": {
-        "creationTimestamp": null,
+    "kind": "Deployment",
+    "apiVersion": "apps/v1",
+    "metadata": {
+        "name": "deployment-test",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
+        "uid": "777dce52-b186-11e8-8cb0-c81fbe371a17",
+        "resourceVersion": "5636210",
+        "generation": 2,
+        "creationTimestamp": "2018-09-06T03:39:32Z",
         "labels": {
-          "app": "redis"
+            "app": "redis"
         },
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "container-0",
-            "image": "redis:3.0",
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "IfNotPresent"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "replicas": 2,
+        "selector": {
+            "matchLabels": {
+                "app": "redis"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "creationTimestamp": null,
+                "labels": {
+                    "app": "redis"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "container-0",
+                        "image": "redis:3.0",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "IfNotPresent"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        },
+        "strategy": {
+            "type": "RollingUpdate",
+            "rollingUpdate": {
+                "maxUnavailable": "25%",
+                "maxSurge": "25%"
+            }
+        },
+        "revisionHistoryLimit": 10,
+        "progressDeadlineSeconds": 600
     },
-    "strategy": {
-      "type": "RollingUpdate",
-      "rollingUpdate": {
-        "maxUnavailable": "25%",
-        "maxSurge": "25%"
-      }
-    },
-    "revisionHistoryLimit": 10,
-    "progressDeadlineSeconds": 600
-  },
-  "status": {
-    "observedGeneration": 1,
-    "replicas": 1,
-    "updatedReplicas": 1,
-    "readyReplicas": 1,
-    "availableReplicas": 1,
-    "conditions": [
-      {
-        "type": "Available",
-        "status": "True",
-        "lastUpdateTime": "2018-09-06T03:39:40Z",
-        "lastTransitionTime": "2018-09-06T03:39:40Z",
-        "reason": "MinimumReplicasAvailable",
-        "message": "Deployment has minimum availability."
-      },
-      {
-        "type": "Progressing",
-        "status": "True",
-        "lastUpdateTime": "2018-09-06T03:39:40Z",
-        "lastTransitionTime": "2018-09-06T03:39:32Z",
-        "reason": "NewReplicaSetAvailable",
-        "message": "ReplicaSet \"deployment-test-865578b586\" has successfully progressed."
-      }
-    ]
-  }
+    "status": {
+        "observedGeneration": 1,
+        "replicas": 1,
+        "updatedReplicas": 1,
+        "readyReplicas": 1,
+        "availableReplicas": 1,
+        "conditions": [
+            {
+                "type": "Available",
+                "status": "True",
+                "lastUpdateTime": "2018-09-06T03:39:40Z",
+                "lastTransitionTime": "2018-09-06T03:39:40Z",
+                "reason": "MinimumReplicasAvailable",
+                "message": "Deployment has minimum availability."
+            },
+            {
+                "type": "Progressing",
+                "status": "True",
+                "lastUpdateTime": "2018-09-06T03:39:40Z",
+                "lastTransitionTime": "2018-09-06T03:39:32Z",
+                "reason": "NewReplicaSetAvailable",
+                "message": "ReplicaSet \"deployment-test-865578b586\" has successfully progressed."
+            }
+        ]
+    }
 }
 ```
 

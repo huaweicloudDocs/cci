@@ -2,7 +2,7 @@
 
 ## 功能介绍<a name="zh-cn_topic_0079615072_section885082"></a>
 
-查询Endpoints
+查询Endpoint。
 
 ## URI<a name="s4c063734e7b04b8aa1818085c9fdd5f3"></a>
 
@@ -73,41 +73,41 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表135](数据结构.md#table143351122168)。
+响应参数的详细描述请参见[表134](数据结构.md#table143351122168)。
 
 **响应示例：**
 
 ```
-{ 
-   "kind": "Endpoints", 
-   "apiVersion": "v1", 
-   "metadata": { 
-     "name": "cluster-test", 
-     "namespace": "default", 
-     "selfLink": "/api/v1/namespaces/default/endpoints/cluster-test", 
-     "uid": "81b1503d-5960-11e6-b444-286ed488fafe", 
-     "resourceVersion": "18186", 
-     "creationTimestamp": "2016-08-03T09:56:10Z" 
-   }, 
-   "subsets": [ 
-     { 
-       "addresses": [ 
-         { 
-           "ip": "172.16.106.152" 
-         }, 
-         { 
-           "ip": "172.16.79.157" 
-         } 
-       ], 
-       "ports": [ 
-         { 
-           "port": 1, 
-           "protocol": "TCP" 
-         } 
-       ] 
-     } 
-   ] 
- }
+{
+    "kind": "Endpoints",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "cluster-test",
+        "namespace": "default",
+        "selfLink": "/api/v1/namespaces/default/endpoints/cluster-test",
+        "uid": "81b1503d-5960-11e6-b444-286ed488fafe",
+        "resourceVersion": "18186",
+        "creationTimestamp": "2016-08-03T09:56:10Z"
+    },
+    "subsets": [
+        {
+            "addresses": [
+                {
+                    "ip": "172.16.106.152"
+                },
+                {
+                    "ip": "172.16.79.157"
+                }
+            ],
+            "ports": [
+                {
+                    "port": 1,
+                    "protocol": "TCP"
+                }
+            ]
+        }
+    ]
+}
 ```
 
 ## 状态码<a name="sf826b071d47f4d51bc560ff6f2ef1fbf"></a>

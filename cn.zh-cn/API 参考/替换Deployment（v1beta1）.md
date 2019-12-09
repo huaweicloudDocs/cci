@@ -23,31 +23,31 @@ PUT /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}
 **表 1**  参数
 
 <a name="zh-cn_topic_0083864912_table14970324122818"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083864912_row0971162417289"><th class="cellrowborder" valign="top" width="33%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083864912_zh-cn_topic_0079616860_zh-cn_topic_0079614957_p54329699"><a name="zh-cn_topic_0083864912_zh-cn_topic_0079616860_zh-cn_topic_0079614957_p54329699"></a><a name="zh-cn_topic_0083864912_zh-cn_topic_0079616860_zh-cn_topic_0079614957_p54329699"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083864912_row0971162417289"><th class="cellrowborder" valign="top" width="22.96%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083864912_zh-cn_topic_0079616860_zh-cn_topic_0079614957_p54329699"><a name="zh-cn_topic_0083864912_zh-cn_topic_0079616860_zh-cn_topic_0079614957_p54329699"></a><a name="zh-cn_topic_0083864912_zh-cn_topic_0079616860_zh-cn_topic_0079614957_p54329699"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="10%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0083864912_p6151164282819"><a name="zh-cn_topic_0083864912_p6151164282819"></a><a name="zh-cn_topic_0083864912_p6151164282819"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="20.04%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0083864912_p6151164282819"><a name="zh-cn_topic_0083864912_p6151164282819"></a><a name="zh-cn_topic_0083864912_p6151164282819"></a>是否必选</p>
 </th>
 <th class="cellrowborder" valign="top" width="56.99999999999999%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0083864912_p21518421288"><a name="zh-cn_topic_0083864912_p21518421288"></a><a name="zh-cn_topic_0083864912_p21518421288"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="zh-cn_topic_0083864912_row83198295289"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083864912_p153191729102818"><a name="zh-cn_topic_0083864912_p153191729102818"></a><a name="zh-cn_topic_0083864912_p153191729102818"></a>name</p>
+<tbody><tr id="zh-cn_topic_0083864912_row83198295289"><td class="cellrowborder" valign="top" width="22.96%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083864912_p153191729102818"><a name="zh-cn_topic_0083864912_p153191729102818"></a><a name="zh-cn_topic_0083864912_p153191729102818"></a>name</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083864912_p63193293289"><a name="zh-cn_topic_0083864912_p63193293289"></a><a name="zh-cn_topic_0083864912_p63193293289"></a>Yes</p>
+<td class="cellrowborder" valign="top" width="20.04%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083864912_p63193293289"><a name="zh-cn_topic_0083864912_p63193293289"></a><a name="zh-cn_topic_0083864912_p63193293289"></a>Yes</p>
 </td>
 <td class="cellrowborder" valign="top" width="56.99999999999999%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083864912_p231992915285"><a name="zh-cn_topic_0083864912_p231992915285"></a><a name="zh-cn_topic_0083864912_p231992915285"></a>name of the Deployment</p>
 </td>
 </tr>
-<tr id="zh-cn_topic_0083864912_row6971102432818"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083864912_p397172413282"><a name="zh-cn_topic_0083864912_p397172413282"></a><a name="zh-cn_topic_0083864912_p397172413282"></a>namespace</p>
+<tr id="zh-cn_topic_0083864912_row6971102432818"><td class="cellrowborder" valign="top" width="22.96%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083864912_p397172413282"><a name="zh-cn_topic_0083864912_p397172413282"></a><a name="zh-cn_topic_0083864912_p397172413282"></a>namespace</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083864912_p14971824142810"><a name="zh-cn_topic_0083864912_p14971824142810"></a><a name="zh-cn_topic_0083864912_p14971824142810"></a>Yes</p>
+<td class="cellrowborder" valign="top" width="20.04%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083864912_p14971824142810"><a name="zh-cn_topic_0083864912_p14971824142810"></a><a name="zh-cn_topic_0083864912_p14971824142810"></a>Yes</p>
 </td>
 <td class="cellrowborder" valign="top" width="56.99999999999999%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615000_p8332925"><a name="zh-cn_topic_0079615000_p8332925"></a><a name="zh-cn_topic_0079615000_p8332925"></a>命名空间。</p>
 </td>
 </tr>
-<tr id="zh-cn_topic_0083864912_row11971122412819"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083864912_p1597142412282"><a name="zh-cn_topic_0083864912_p1597142412282"></a><a name="zh-cn_topic_0083864912_p1597142412282"></a>pretty</p>
+<tr id="zh-cn_topic_0083864912_row11971122412819"><td class="cellrowborder" valign="top" width="22.96%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083864912_p1597142412282"><a name="zh-cn_topic_0083864912_p1597142412282"></a><a name="zh-cn_topic_0083864912_p1597142412282"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083864912_p497132410288"><a name="zh-cn_topic_0083864912_p497132410288"></a><a name="zh-cn_topic_0083864912_p497132410288"></a>No</p>
+<td class="cellrowborder" valign="top" width="20.04%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083864912_p497132410288"><a name="zh-cn_topic_0083864912_p497132410288"></a><a name="zh-cn_topic_0083864912_p497132410288"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="56.99999999999999%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083864912_p1597132420289"><a name="zh-cn_topic_0083864912_p1597132420289"></a><a name="zh-cn_topic_0083864912_p1597132420289"></a>If 'true', then the output is pretty printed.</p>
 </td>
@@ -186,11 +186,11 @@ PUT /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}
                         "resources": {
                             "limits": {
                                 "cpu": "1", 
-                                "memory": "1536Mi"
+                                "memory": "1024Mi"
                             }, 
                             "requests": {
                                 "cpu": "1", 
-                                "memory": "1536Mi"
+                                "memory": "1024Mi"
                             }
                         }, 
                         "lifecycle": {}, 

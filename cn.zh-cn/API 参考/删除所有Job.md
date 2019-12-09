@@ -106,7 +106,7 @@ DELETE /apis/batch/v1/namespaces/\{namespace\}/jobs
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
@@ -146,19 +146,19 @@ DELETE /apis/batch/v1/namespaces/\{namespace\}/jobs
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "JobList",
-  "apiVersion": "batch/v1",
-  "metadata": {
-    "selfLink": "/apis/batch/v1/namespaces/namespace-test/jobs",
-    "resourceVersion": "5415316"
-  },
-  "items": null
+    "kind": "JobList",
+    "apiVersion": "batch/v1",
+    "metadata": {
+        "selfLink": "/apis/batch/v1/namespaces/namespace-test/jobs",
+        "resourceVersion": "5415316"
+    },
+    "items": null
 }
 ```
 

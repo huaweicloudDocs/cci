@@ -4,7 +4,28 @@
 
 创建Ingress。
 
-如果在创建Ingress资源对象和Deployment/StatefuleSet资源对象后，要在CCI界面，工作负载详情页面中，“访问方式“页签下显示对应的Ingress资源，则需要给创建的Ingress资源对象添加labels标签。
+>![](public_sys-resources/icon-note.gif) **说明：**   
+>若需要在CCI工作负载详情页面的“访问方式”页签中显示对应的Ingress资源，则需要给创建的Ingress资源对象添加labels标签。添加的标签需满足如下要求：  
+>-   service的labels中设置的标签必须和负载的selector中matchLabels设置的label一致。  
+>    例如，负载中matchLabels标签设置如下：  
+>    ```  
+>    "spec": {  
+>            "replicas": 1,  
+>            "selector": {  
+>                "matchLabels": {  
+>                    "app": "redis"  
+>                }  
+>            }  
+>    ```  
+>    service中的labels也必须设置为**"app": "redis"**：  
+>    ```  
+>        "metadata": {  
+>            "name": "redis",  
+>            "labels": {  
+>                "app": "redis"  
+>            }  
+>    ```  
+>-   ingress中定义的serviceName必须和service中定义的名称一致。  
 
 ## URI<a name="section14030938"></a>
 
@@ -52,37 +73,46 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
 
 **请求参数：**
 
-请求参数请参见[表111](数据结构.md#d0e42951)。
+请求参数请参见[表110](数据结构.md#d0e42951)。
 
 **表 3**  创建Ingress时必填的annotations字段数据结构说明
 
 <a name="table1219043217326"></a>
-<table><thead align="left"><tr id="row1019023212325"><th class="cellrowborder" valign="top" width="31.683168316831683%" id="mcps1.2.5.1.1"><p id="p11909326324"><a name="p11909326324"></a><a name="p11909326324"></a>参数</p>
+<table><thead align="left"><tr id="row1019023212325"><th class="cellrowborder" valign="top" width="25.05940594059406%" id="mcps1.2.5.1.1"><p id="p11909326324"><a name="p11909326324"></a><a name="p11909326324"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="10.792079207920793%" id="mcps1.2.5.1.2"><p id="p171901532153212"><a name="p171901532153212"></a><a name="p171901532153212"></a>是否必须</p>
+<th class="cellrowborder" valign="top" width="17.415841584158414%" id="mcps1.2.5.1.2"><p id="p171901532153212"><a name="p171901532153212"></a><a name="p171901532153212"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="12.970297029702971%" id="mcps1.2.5.1.3"><p id="p219015321324"><a name="p219015321324"></a><a name="p219015321324"></a>类型</p>
+<th class="cellrowborder" valign="top" width="14.415841584158418%" id="mcps1.2.5.1.3"><p id="p219015321324"><a name="p219015321324"></a><a name="p219015321324"></a>参数类型</p>
 </th>
-<th class="cellrowborder" valign="top" width="44.554455445544555%" id="mcps1.2.5.1.4"><p id="p8872152412914"><a name="p8872152412914"></a><a name="p8872152412914"></a>描述</p>
+<th class="cellrowborder" valign="top" width="43.10891089108911%" id="mcps1.2.5.1.4"><p id="p8872152412914"><a name="p8872152412914"></a><a name="p8872152412914"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row10190183223213"><td class="cellrowborder" valign="top" width="31.683168316831683%" headers="mcps1.2.5.1.1 "><p id="p3190103273218"><a name="p3190103273218"></a><a name="p3190103273218"></a>kubernetes.io/elb.id</p>
+<tbody><tr id="row10190183223213"><td class="cellrowborder" valign="top" width="25.05940594059406%" headers="mcps1.2.5.1.1 "><p id="p3190103273218"><a name="p3190103273218"></a><a name="p3190103273218"></a>kubernetes.io/elb.id</p>
 </td>
-<td class="cellrowborder" valign="top" width="10.792079207920793%" headers="mcps1.2.5.1.2 "><p id="p16465204161912"><a name="p16465204161912"></a><a name="p16465204161912"></a>Yes</p>
+<td class="cellrowborder" valign="top" width="17.415841584158414%" headers="mcps1.2.5.1.2 "><p id="p16465204161912"><a name="p16465204161912"></a><a name="p16465204161912"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="12.970297029702971%" headers="mcps1.2.5.1.3 "><p id="p787663812220"><a name="p787663812220"></a><a name="p787663812220"></a>String</p>
+<td class="cellrowborder" valign="top" width="14.415841584158418%" headers="mcps1.2.5.1.3 "><p id="p787663812220"><a name="p787663812220"></a><a name="p787663812220"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="44.554455445544555%" headers="mcps1.2.5.1.4 "><p id="p19440125812308"><a name="p19440125812308"></a><a name="p19440125812308"></a>ELB实例的ID。</p>
+<td class="cellrowborder" valign="top" width="43.10891089108911%" headers="mcps1.2.5.1.4 "><p id="p19440125812308"><a name="p19440125812308"></a><a name="p19440125812308"></a>ELB实例的ID。</p>
 </td>
 </tr>
-<tr id="row1367415418314"><td class="cellrowborder" valign="top" width="31.683168316831683%" headers="mcps1.2.5.1.1 "><p id="p2674841314"><a name="p2674841314"></a><a name="p2674841314"></a>kubernetes.io/elb.port</p>
+<tr id="row1367415418314"><td class="cellrowborder" valign="top" width="25.05940594059406%" headers="mcps1.2.5.1.1 "><p id="p2674841314"><a name="p2674841314"></a><a name="p2674841314"></a>kubernetes.io/elb.port</p>
 </td>
-<td class="cellrowborder" valign="top" width="10.792079207920793%" headers="mcps1.2.5.1.2 "><p id="p444433216314"><a name="p444433216314"></a><a name="p444433216314"></a>Yes</p>
+<td class="cellrowborder" valign="top" width="17.415841584158414%" headers="mcps1.2.5.1.2 "><p id="p444433216314"><a name="p444433216314"></a><a name="p444433216314"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="12.970297029702971%" headers="mcps1.2.5.1.3 "><p id="p114441632163115"><a name="p114441632163115"></a><a name="p114441632163115"></a>String</p>
+<td class="cellrowborder" valign="top" width="14.415841584158418%" headers="mcps1.2.5.1.3 "><p id="p114441632163115"><a name="p114441632163115"></a><a name="p114441632163115"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="44.554455445544555%" headers="mcps1.2.5.1.4 "><p id="p2674174193117"><a name="p2674174193117"></a><a name="p2674174193117"></a>ELB实例的端口。</p>
+<td class="cellrowborder" valign="top" width="43.10891089108911%" headers="mcps1.2.5.1.4 "><p id="p2674174193117"><a name="p2674174193117"></a><a name="p2674174193117"></a>ELB实例的端口。</p>
+</td>
+</tr>
+<tr id="row782162201616"><td class="cellrowborder" valign="top" width="25.05940594059406%" headers="mcps1.2.5.1.1 "><p id="p58238227162"><a name="p58238227162"></a><a name="p58238227162"></a>kubernetes.io/elb.ip</p>
+</td>
+<td class="cellrowborder" valign="top" width="17.415841584158414%" headers="mcps1.2.5.1.2 "><p id="p15823822161619"><a name="p15823822161619"></a><a name="p15823822161619"></a>No</p>
+</td>
+<td class="cellrowborder" valign="top" width="14.415841584158418%" headers="mcps1.2.5.1.3 "><p id="p382362217165"><a name="p382362217165"></a><a name="p382362217165"></a>String</p>
+</td>
+<td class="cellrowborder" valign="top" width="43.10891089108911%" headers="mcps1.2.5.1.4 "><p id="p1282316225161"><a name="p1282316225161"></a><a name="p1282316225161"></a>ELB实例的IP。</p>
 </td>
 </tr>
 </tbody>
@@ -97,10 +127,11 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
     "metadata": {
         "name": "redis",
         "labels": {
-            "app": "redis",
+            "app": "redis"
         },
         "annotations": {
             "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
+            "kubernetes.io/elb.ip": "192.168.137.182",
             "kubernetes.io/elb.port": "6071"
         }
     },
@@ -128,55 +159,53 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
 
 **响应参数：**
 
-响应参数的详细描述请参见[表111](数据结构.md#d0e42951)。
+响应参数的详细描述请参见[表110](数据结构.md#d0e42951)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Ingress",
-  "apiVersion": "extensions/v1beta1",
-  "metadata": {
-    "name": "redis",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses/redis",
-    "uid": "7f86c310-afe8-11e8-b6ef-f898ef6c78b4",
-    "resourceVersion": "5161127",
-    "generation": 1,
-    "creationTimestamp": "2018-09-04T02:16:14Z",
-    "labels": {
-      "app": "redis",
-      "isExternal": "true",
-      "zone": "data"
+    "kind": "Ingress",
+    "apiVersion": "extensions/v1beta1",
+    "metadata": {
+        "name": "redis",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses/redis",
+        "uid": "7f86c310-afe8-11e8-b6ef-f898ef6c78b4",
+        "resourceVersion": "5161127",
+        "generation": 1,
+        "creationTimestamp": "2018-09-04T02:16:14Z",
+        "labels": {
+            "app": "redis",
+            "isExternal": "true",
+            "zone": "data"
+        },
+        "annotations": {
+            "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
+            "kubernetes.io/elb.port": "6071"
+        },
+        "enable": true
     },
-    "annotations": {
-      "kubernetes.io/elb.id": "2d48d034-6046-48db-8bb2-53c67e8148b5",
-      "kubernetes.io/elb.port": "6071"
-    },
-    "enable": true
-  },
-  "spec": {
-    "rules": [
-      {
-        "http": {
-          "paths": [
+    "spec": {
+        "rules": [
             {
-              "path": "/",
-              "backend": {
-                "serviceName": "redis",
-                "servicePort": 8080
-              }
+                "http": {
+                    "paths": [
+                        {
+                            "path": "/",
+                            "backend": {
+                                "serviceName": "redis",
+                                "servicePort": 8080
+                            }
+                        }
+                    ]
+                }
             }
-          ]
-        }
-      }
-    ]
-  },
-  "status": {
-    "loadBalancer": {
-
+        ]
+    },
+    "status": {
+        "loadBalancer": {}
     }
-  }
 }
 ```
 

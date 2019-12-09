@@ -21,7 +21,7 @@ N/A.
 <a name="d0e46429"></a>
 <table><thead align="left"><tr id="row40015383"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p20020594"><a name="p20020594"></a><a name="p20020594"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p11055393"><a name="p11055393"></a><a name="p11055393"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p11055393"><a name="p11055393"></a><a name="p11055393"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p23071629"><a name="p23071629"></a><a name="p23071629"></a>描述</p>
 </th>
@@ -56,7 +56,7 @@ N/A.
 <a name="d0e46479"></a>
 <table><thead align="left"><tr id="row1004086"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="p14222151"><a name="p14222151"></a><a name="p14222151"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p11143584"><a name="p11143584"></a><a name="p11143584"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p11143584"><a name="p11143584"></a><a name="p11143584"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.44444444444445%" id="mcps1.2.4.1.3"><p id="p30215146"><a name="p30215146"></a><a name="p30215146"></a>描述</p>
 </th>
@@ -121,27 +121,27 @@ N/A.
     "kind": "APIResourceList",
     "groupVersion": "extensions/v1beta1",
     "resources": [
-    {
-      "name":"deployments",
-      "singularName":"",
-      "namespaced":true,
-      "kind":"Deployment",
-      "verbs":[
-        "create",
-        "delete",
-        "deletecollection",
-        "get",
-        "list",
-        "patch",
-        "update"
-      ],
-      "shortNames":[
-        "deploy"
-      ],
-      "categories":[
-        "all"
-      ]
-    }
+        {
+            "name": "deployments",
+            "singularName": "",
+            "namespaced": true,
+            "kind": "Deployment",
+            "verbs": [
+                "create",
+                "delete",
+                "deletecollection",
+                "get",
+                "list",
+                "patch",
+                "update"
+            ],
+            "shortNames": [
+                "deploy"
+            ],
+            "categories": [
+                "all"
+            ]
+        }
     ]
 }
 ```

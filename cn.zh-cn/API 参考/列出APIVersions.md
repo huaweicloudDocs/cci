@@ -21,7 +21,7 @@ N/A.
 <a name="d0e45702"></a>
 <table><thead align="left"><tr id="row37210166"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p61233436"><a name="p61233436"></a><a name="p61233436"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p60961283"><a name="p60961283"></a><a name="p60961283"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p60961283"><a name="p60961283"></a><a name="p60961283"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p38916882"><a name="p38916882"></a><a name="p38916882"></a>描述</p>
 </th>
@@ -63,7 +63,7 @@ N/A.
 <a name="d0e45762"></a>
 <table><thead align="left"><tr id="row41026198"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="p34787743"><a name="p34787743"></a><a name="p34787743"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p66343833"><a name="p66343833"></a><a name="p66343833"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p66343833"><a name="p66343833"></a><a name="p66343833"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.44444444444445%" id="mcps1.2.4.1.3"><p id="p5141420"><a name="p5141420"></a><a name="p5141420"></a>描述</p>
 </th>

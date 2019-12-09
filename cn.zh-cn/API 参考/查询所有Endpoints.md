@@ -2,7 +2,7 @@
 
 ## 功能介绍<a name="s929c7f68195e496187ed769a50539e04"></a>
 
-查询Namespace下所有Endpoints
+查询Namespace下所有Endpoints。
 
 ## URI<a name="s3de16f9dad264ecd9bc63f9ea6344f66"></a>
 
@@ -110,7 +110,7 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表139](数据结构.md#table219774262719)。
+响应参数的详细描述请参见[表138](数据结构.md#table219774262719)。
 
 **响应示例：**
 

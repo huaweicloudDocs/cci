@@ -3,9 +3,9 @@
 **表 1**  v1.Pod响应参数
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table52931650"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row16588560"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row16588560"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1496135"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p198314281258"><a name="p198314281258"></a><a name="p198314281258"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p198314281258"><a name="p198314281258"></a><a name="p198314281258"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1583115281354"><a name="p1583115281354"></a><a name="p1583115281354"></a>描述</p>
 </th>
@@ -52,9 +52,9 @@
 **表 2**  v1.PodList响应参数
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table6622802"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row61186665"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57172870"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57172870"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57172870"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row61186665"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p225535218511"><a name="p225535218511"></a><a name="p225535218511"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1084610286518"><a name="p1084610286518"></a><a name="p1084610286518"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p16255105235113"><a name="p16255105235113"></a><a name="p16255105235113"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1084792810514"><a name="p1084792810514"></a><a name="p1084792810514"></a>描述</p>
 </th>
@@ -95,9 +95,9 @@
 **表 3**  v1.PodTemplate响应参数
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table59605225"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row46940727"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44102542"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44102542"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p44102542"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row46940727"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p96051454195114"><a name="p96051454195114"></a><a name="p96051454195114"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p13857202815514"><a name="p13857202815514"></a><a name="p13857202815514"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p16058544519"><a name="p16058544519"></a><a name="p16058544519"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p3858928552"><a name="p3858928552"></a><a name="p3858928552"></a>描述</p>
 </th>
@@ -137,9 +137,9 @@
 **表 4**  v1.PodTemplateList响应参数
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table66684983"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row1786593"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10496346"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10496346"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p10496346"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row1786593"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p79401958115119"><a name="p79401958115119"></a><a name="p79401958115119"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p5871628054"><a name="p5871628054"></a><a name="p5871628054"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p2940145865111"><a name="p2940145865111"></a><a name="p2940145865111"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p198737284513"><a name="p198737284513"></a><a name="p198737284513"></a>描述</p>
 </th>
@@ -179,9 +179,9 @@
 **表 5**  items字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table63293941"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50435184"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58718067"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58718067"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58718067"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50435184"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p944501145218"><a name="p944501145218"></a><a name="p944501145218"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1886428252"><a name="p1886428252"></a><a name="p1886428252"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p5445012523"><a name="p5445012523"></a><a name="p5445012523"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1288613281759"><a name="p1288613281759"></a><a name="p1288613281759"></a>描述</p>
 </th>
@@ -228,9 +228,9 @@
 **表 6**  status字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table32774565"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row36210358"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47357861"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47357861"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47357861"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row36210358"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p6191194195219"><a name="p6191194195219"></a><a name="p6191194195219"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p390514283517"><a name="p390514283517"></a><a name="p390514283517"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p71912412526"><a name="p71912412526"></a><a name="p71912412526"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p290614287515"><a name="p290614287515"></a><a name="p290614287515"></a>描述</p>
 </th>
@@ -298,9 +298,9 @@
 **表 7**  conditions字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table26535630"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row29527278"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42899290"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42899290"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42899290"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row29527278"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p611818795213"><a name="p611818795213"></a><a name="p611818795213"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p09261728454"><a name="p09261728454"></a><a name="p09261728454"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1211847195215"><a name="p1211847195215"></a><a name="p1211847195215"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p15926132818510"><a name="p15926132818510"></a><a name="p15926132818510"></a>描述</p>
 </th>
@@ -354,9 +354,9 @@
 **表 8**  containerStatuses字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table37494083"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row25588789"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59426032"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59426032"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59426032"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row25588789"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p652513711529"><a name="p652513711529"></a><a name="p652513711529"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p10959428051"><a name="p10959428051"></a><a name="p10959428051"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p552523785215"><a name="p552523785215"></a><a name="p552523785215"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1896010281151"><a name="p1896010281151"></a><a name="p1896010281151"></a>描述</p>
 </th>
@@ -424,9 +424,9 @@
 **表 9**  state/lastState字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table1902427"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row42946824"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56140680"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56140680"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p56140680"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row42946824"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p4577945145215"><a name="p4577945145215"></a><a name="p4577945145215"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p698318281855"><a name="p698318281855"></a><a name="p698318281855"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1357715456525"><a name="p1357715456525"></a><a name="p1357715456525"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1983928557"><a name="p1983928557"></a><a name="p1983928557"></a>描述</p>
 </th>
@@ -459,9 +459,9 @@
 **表 10**  waiting字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table17121849"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row2186211"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42865437"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42865437"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p42865437"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row2186211"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p483615551528"><a name="p483615551528"></a><a name="p483615551528"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p109926281752"><a name="p109926281752"></a><a name="p109926281752"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p38361555105220"><a name="p38361555105220"></a><a name="p38361555105220"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p2992628755"><a name="p2992628755"></a><a name="p2992628755"></a>描述</p>
 </th>
@@ -487,9 +487,9 @@
 **表 11**  running字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table19878917"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row26348324"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53839469"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53839469"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p53839469"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row26348324"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p986155925219"><a name="p986155925219"></a><a name="p986155925219"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p9933831558"><a name="p9933831558"></a><a name="p9933831558"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1886105905210"><a name="p1886105905210"></a><a name="p1886105905210"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p39343311156"><a name="p39343311156"></a><a name="p39343311156"></a>描述</p>
 </th>
@@ -508,9 +508,9 @@
 **表 12**  terminated字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44692528"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row62719193"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47089838"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47089838"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p47089838"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row62719193"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p184299013537"><a name="p184299013537"></a><a name="p184299013537"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1293520313511"><a name="p1293520313511"></a><a name="p1293520313511"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p243010019535"><a name="p243010019535"></a><a name="p243010019535"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p209361931953"><a name="p209361931953"></a><a name="p209361931953"></a>描述</p>
 </th>
@@ -571,9 +571,9 @@
 **表 13**  metadata字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table66688435"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row31807536"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26273638"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26273638"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p26273638"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row31807536"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p1134017215310"><a name="p1134017215310"></a><a name="p1134017215310"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p149434319518"><a name="p149434319518"></a><a name="p149434319518"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p183401328536"><a name="p183401328536"></a><a name="p183401328536"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p159433312055"><a name="p159433312055"></a><a name="p159433312055"></a>描述</p>
 </th>
@@ -599,9 +599,9 @@
 **表 14**  items字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table63325007"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row37516664"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18950973"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18950973"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p18950973"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row37516664"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p19795455318"><a name="p19795455318"></a><a name="p19795455318"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p7946123117512"><a name="p7946123117512"></a><a name="p7946123117512"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p14798415539"><a name="p14798415539"></a><a name="p14798415539"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p6946173115513"><a name="p6946173115513"></a><a name="p6946173115513"></a>描述</p>
 </th>
@@ -648,9 +648,9 @@
 **表 15**  metadata字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table33054158"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row28541725"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30178389"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30178389"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30178389"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row28541725"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p690910619537"><a name="p690910619537"></a><a name="p690910619537"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p199520315516"><a name="p199520315516"></a><a name="p199520315516"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p13909960535"><a name="p13909960535"></a><a name="p13909960535"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p5952331556"><a name="p5952331556"></a><a name="p5952331556"></a>描述</p>
 </th>
@@ -776,9 +776,9 @@
 **表 16**  spec字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table29051967"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row49494501"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p49631670"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p49631670"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p49631670"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row49494501"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p688011127538"><a name="p688011127538"></a><a name="p688011127538"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p17973731859"><a name="p17973731859"></a><a name="p17973731859"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p58801712185318"><a name="p58801712185318"></a><a name="p58801712185318"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p1697413113518"><a name="p1697413113518"></a><a name="p1697413113518"></a>描述</p>
 </th>
@@ -793,7 +793,7 @@
 </tr>
 <tr id="zh-cn_topic_0083857396_r4aec73aaa8d6473ea8553e565be9a633"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p693133016417"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p693133016417"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p693133016417"></a>selector</p>
 </td>
-<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p69415301342"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p69415301342"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p69415301342"></a>object</p>
+<td class="cellrowborder" valign="top" width="30%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p69415301342"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p69415301342"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p69415301342"></a>Object</p>
 </td>
 <td class="cellrowborder" valign="top" width="45%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1794330544"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1794330544"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p1794330544"></a>Selector is a label query over pods that should match the Replicas count. If Selector is empty, it is defaulted to the labels present on the Pod template. Label keys and values that must match in order to be controlled by this replication controller, if empty defaulted to labels on Pod template.</p>
 </td>
@@ -818,9 +818,9 @@
 **表 17**  status字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table60141117"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row37173655"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58276079"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58276079"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58276079"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row37173655"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p151481915125313"><a name="p151481915125313"></a><a name="p151481915125313"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1797843113512"><a name="p1797843113512"></a><a name="p1797843113512"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p514811565310"><a name="p514811565310"></a><a name="p514811565310"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p29780315514"><a name="p29780315514"></a><a name="p29780315514"></a>描述</p>
 </th>
@@ -874,9 +874,9 @@
 **表 18**  initializers字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t050e77dc2b1644c895d89f389e46d859"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_r39b5f5cdeea442f09d57a73438a3cbdd"><th class="cellrowborder" valign="top" width="26%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_a8a1d268a8df74d4db1422b3adb240425"><a name="zh-cn_topic_0083857396_a8a1d268a8df74d4db1422b3adb240425"></a><a name="zh-cn_topic_0083857396_a8a1d268a8df74d4db1422b3adb240425"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_r39b5f5cdeea442f09d57a73438a3cbdd"><th class="cellrowborder" valign="top" width="26%" id="mcps1.2.4.1.1"><p id="p185361817105312"><a name="p185361817105312"></a><a name="p185361817105312"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0083857396_a07f341acaa7849438020dfbacc8283e2"><a name="zh-cn_topic_0083857396_a07f341acaa7849438020dfbacc8283e2"></a><a name="zh-cn_topic_0083857396_a07f341acaa7849438020dfbacc8283e2"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p8536417195317"><a name="p8536417195317"></a><a name="p8536417195317"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12832140407"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12832140407"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12832140407"></a>描述</p>
 </th>
@@ -902,9 +902,9 @@
 **表 19**  pending字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t692762a9bbc843b5896568bfd21b9648"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_r18c9e95961b54866b7b590339b3ed99d"><th class="cellrowborder" valign="top" width="25.742574257425744%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p284419416407"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p284419416407"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p284419416407"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_r18c9e95961b54866b7b590339b3ed99d"><th class="cellrowborder" valign="top" width="25.742574257425744%" id="mcps1.2.4.1.1"><p id="p1793791975318"><a name="p1793791975318"></a><a name="p1793791975318"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="29.7029702970297%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0083857396_ac7a11661036d4bf18bbe2c8e319cd85e"><a name="zh-cn_topic_0083857396_ac7a11661036d4bf18bbe2c8e319cd85e"></a><a name="zh-cn_topic_0083857396_ac7a11661036d4bf18bbe2c8e319cd85e"></a>类型</p>
+<th class="cellrowborder" valign="top" width="29.7029702970297%" id="mcps1.2.4.1.2"><p id="p4937131965319"><a name="p4937131965319"></a><a name="p4937131965319"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.554455445544555%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148446494015"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148446494015"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p148446494015"></a>描述</p>
 </th>
@@ -923,9 +923,9 @@
 **表 20**  result字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t6c6ba0cfa7084a419291c2d12d305875"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_rdf2ec7121be34ff282d0b8aa63a8386d"><th class="cellrowborder" valign="top" width="26%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2856044409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2856044409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p2856044409"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_rdf2ec7121be34ff282d0b8aa63a8386d"><th class="cellrowborder" valign="top" width="26%" id="mcps1.2.4.1.1"><p id="p49221175318"><a name="p49221175318"></a><a name="p49221175318"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="28.999999999999996%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168561148407"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168561148407"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p168561148407"></a>类型</p>
+<th class="cellrowborder" valign="top" width="28.999999999999996%" id="mcps1.2.4.1.2"><p id="p149102118538"><a name="p149102118538"></a><a name="p149102118538"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38561644407"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38561644407"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38561644407"></a>描述</p>
 </th>
@@ -993,9 +993,9 @@
 **表 21**  details字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t8621cc18eac440e38feedc125a229d1d"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_rdfcdd7483a2f4f95a2e24a83d7f02b9f"><th class="cellrowborder" valign="top" width="26%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p68711346409"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p68711346409"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p68711346409"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_rdfcdd7483a2f4f95a2e24a83d7f02b9f"><th class="cellrowborder" valign="top" width="26%" id="mcps1.2.4.1.1"><p id="p798822313536"><a name="p798822313536"></a><a name="p798822313536"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="28.999999999999996%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198712040408"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198712040408"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p198712040408"></a>类型</p>
+<th class="cellrowborder" valign="top" width="28.999999999999996%" id="mcps1.2.4.1.2"><p id="p119881723145314"><a name="p119881723145314"></a><a name="p119881723145314"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0083857396_abe53a8baf4284ddd9386b32fa5ee045f"><a name="zh-cn_topic_0083857396_abe53a8baf4284ddd9386b32fa5ee045f"></a><a name="zh-cn_topic_0083857396_abe53a8baf4284ddd9386b32fa5ee045f"></a>描述</p>
 </th>
@@ -1049,9 +1049,9 @@
 **表 22**  metadata字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_te555e6efe7cd4ab8809d83b30977a22a"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_re7eb25a1f0214f5abef00c68a99a4f94"><th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_af2c106ca72684cb5b4f7eaaac59f15e6"><a name="zh-cn_topic_0083857396_af2c106ca72684cb5b4f7eaaac59f15e6"></a><a name="zh-cn_topic_0083857396_af2c106ca72684cb5b4f7eaaac59f15e6"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_re7eb25a1f0214f5abef00c68a99a4f94"><th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.1"><p id="p1016992635316"><a name="p1016992635316"></a><a name="p1016992635316"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="28.000000000000004%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0083857396_ac3e6fe9bbe0146e6a82e1af48b844f31"><a name="zh-cn_topic_0083857396_ac3e6fe9bbe0146e6a82e1af48b844f31"></a><a name="zh-cn_topic_0083857396_ac3e6fe9bbe0146e6a82e1af48b844f31"></a>类型</p>
+<th class="cellrowborder" valign="top" width="28.000000000000004%" id="mcps1.2.4.1.2"><p id="p616932655319"><a name="p616932655319"></a><a name="p616932655319"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p158866484011"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p158866484011"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p158866484011"></a>描述</p>
 </th>
@@ -1077,9 +1077,9 @@
 **表 23**  causes字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t1193c22aa5984fd0b43bfc8f02276db7"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_r4ac138286cf641609437f2ade7ace6d1"><th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188975454017"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188975454017"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p188975454017"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_r4ac138286cf641609437f2ade7ace6d1"><th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.1"><p id="p1586232719538"><a name="p1586232719538"></a><a name="p1586232719538"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p3898547403"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p3898547403"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p3898547403"></a>类型</p>
+<th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.2"><p id="p1986262785311"><a name="p1986262785311"></a><a name="p1986262785311"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="46%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0083857396_a2f671e3aaa5342078731c1b4ebb3c19d"><a name="zh-cn_topic_0083857396_a2f671e3aaa5342078731c1b4ebb3c19d"></a><a name="zh-cn_topic_0083857396_a2f671e3aaa5342078731c1b4ebb3c19d"></a>描述</p>
 </th>
@@ -1112,9 +1112,9 @@
 **表 24**  ownerReferences字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t9b2c5d4719b24ea6a40f0f5e7bd366b8"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_r3a26942761ab4b7d92867b3a8805dcee"><th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_a995203116d034393912ffdae279c4b79"><a name="zh-cn_topic_0083857396_a995203116d034393912ffdae279c4b79"></a><a name="zh-cn_topic_0083857396_a995203116d034393912ffdae279c4b79"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_r3a26942761ab4b7d92867b3a8805dcee"><th class="cellrowborder" valign="top" width="27%" id="mcps1.2.4.1.1"><p id="p1414912309531"><a name="p1414912309531"></a><a name="p1414912309531"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="28.000000000000004%" id="mcps1.2.4.1.2"><p id="p171217324517"><a name="p171217324517"></a><a name="p171217324517"></a>类型</p>
+<th class="cellrowborder" valign="top" width="28.000000000000004%" id="mcps1.2.4.1.2"><p id="p12149193045310"><a name="p12149193045310"></a><a name="p12149193045310"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p412133211516"><a name="p412133211516"></a><a name="p412133211516"></a>描述</p>
 </th>
@@ -1168,9 +1168,9 @@
 **表 25**  template字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table4399144"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row57734587"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45989946"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45989946"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p45989946"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row57734587"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p2022063315315"><a name="p2022063315315"></a><a name="p2022063315315"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p71893211513"><a name="p71893211513"></a><a name="p71893211513"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p622015332531"><a name="p622015332531"></a><a name="p622015332531"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p61811326515"><a name="p61811326515"></a><a name="p61811326515"></a>描述</p>
 </th>
@@ -1196,9 +1196,9 @@
 **表 26**  spec字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table39592297"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row10450704"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41200727"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41200727"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p41200727"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row10450704"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p194252035155319"><a name="p194252035155319"></a><a name="p194252035155319"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p9205321056"><a name="p9205321056"></a><a name="p9205321056"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p10425133565310"><a name="p10425133565310"></a><a name="p10425133565310"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p72118326516"><a name="p72118326516"></a><a name="p72118326516"></a>描述</p>
 </th>
@@ -1308,9 +1308,9 @@
 **表 27**  containers字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table21660524"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row36090219"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37626636"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37626636"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37626636"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row36090219"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p340048155312"><a name="p340048155312"></a><a name="p340048155312"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p1034532758"><a name="p1034532758"></a><a name="p1034532758"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p134018487531"><a name="p134018487531"></a><a name="p134018487531"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p id="p10341932655"><a name="p10341932655"></a><a name="p10341932655"></a>描述</p>
 </th>
@@ -1448,9 +1448,9 @@
 **表 28**  securityContext字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875925"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row41062319"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37713565"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37713565"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37713565"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row41062319"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p17941752195318"><a name="p17941752195318"></a><a name="p17941752195318"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p3491032754"><a name="p3491032754"></a><a name="p3491032754"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p9941052185310"><a name="p9941052185310"></a><a name="p9941052185310"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p105019325511"><a name="p105019325511"></a><a name="p105019325511"></a>描述</p>
 </th>
@@ -1498,9 +1498,9 @@
 **表 29**  imagePullSecrets字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875945"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row17290772"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58375326"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58375326"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58375326"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row17290772"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p19844105575311"><a name="p19844105575311"></a><a name="p19844105575311"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p105519321054"><a name="p105519321054"></a><a name="p105519321054"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p17844155511533"><a name="p17844155511533"></a><a name="p17844155511533"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p115514321511"><a name="p115514321511"></a><a name="p115514321511"></a>描述</p>
 </th>
@@ -1519,9 +1519,9 @@
 **表 30**  hostPath字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875954"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row48514746"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37380344"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37380344"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p37380344"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row48514746"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p10823756185318"><a name="p10823756185318"></a><a name="p10823756185318"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p159123219519"><a name="p159123219519"></a><a name="p159123219519"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p178231056125310"><a name="p178231056125310"></a><a name="p178231056125310"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p059632455"><a name="p059632455"></a><a name="p059632455"></a>描述</p>
 </th>
@@ -1540,9 +1540,9 @@
 **表 31**  gitRepo字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875979"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row6915674"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23298740"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23298740"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p23298740"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row6915674"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p1793125814537"><a name="p1793125814537"></a><a name="p1793125814537"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p46011329518"><a name="p46011329518"></a><a name="p46011329518"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p9936582532"><a name="p9936582532"></a><a name="p9936582532"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p id="p1603322513"><a name="p1603322513"></a><a name="p1603322513"></a>描述</p>
 </th>
@@ -1568,9 +1568,9 @@
 **表 32**  secret字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_ref458875984"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50642235"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8380364"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8380364"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p8380364"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50642235"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p12247151115415"><a name="p12247151115415"></a><a name="p12247151115415"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p9668321659"><a name="p9668321659"></a><a name="p9668321659"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p72471011115411"><a name="p72471011115411"></a><a name="p72471011115411"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p666123215518"><a name="p666123215518"></a><a name="p666123215518"></a>描述</p>
 </th>
@@ -1589,9 +1589,9 @@
 **表 33**  ports字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table5972994"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row392368"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31781818"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31781818"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p31781818"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row392368"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p19837161212548"><a name="p19837161212548"></a><a name="p19837161212548"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p867123214519"><a name="p867123214519"></a><a name="p867123214519"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p148372012205418"><a name="p148372012205418"></a><a name="p148372012205418"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p156717324512"><a name="p156717324512"></a><a name="p156717324512"></a>描述</p>
 </th>
@@ -1638,9 +1638,9 @@
 **表 34**  env字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table53756949"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row48372684"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25873364"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25873364"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p25873364"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row48372684"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p13713315165414"><a name="p13713315165414"></a><a name="p13713315165414"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p147419321513"><a name="p147419321513"></a><a name="p147419321513"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p8713111555411"><a name="p8713111555411"></a><a name="p8713111555411"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p974153218515"><a name="p974153218515"></a><a name="p974153218515"></a>描述</p>
 </th>
@@ -1673,9 +1673,9 @@
 **表 35**  resources字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t5532c616d0de49d2aabe5e4cad89e370"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_r5c106f8c400e4799b618758f6faa4156"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_ad6d59c06de8c431798339fd238aa9f60"><a name="zh-cn_topic_0083857396_ad6d59c06de8c431798339fd238aa9f60"></a><a name="zh-cn_topic_0083857396_ad6d59c06de8c431798339fd238aa9f60"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_r5c106f8c400e4799b618758f6faa4156"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p8928201765415"><a name="p8928201765415"></a><a name="p8928201765415"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p577032359"><a name="p577032359"></a><a name="p577032359"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p79281217165413"><a name="p79281217165413"></a><a name="p79281217165413"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p187743216516"><a name="p187743216516"></a><a name="p187743216516"></a>描述</p>
 </th>
@@ -1683,14 +1683,14 @@
 </thead>
 <tbody><tr id="zh-cn_topic_0083857396_rd3f86ba2d74c4537ba67ae670c124525"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_a8b8216428b514d7290a8e07307fbad9b"><a name="zh-cn_topic_0083857396_a8b8216428b514d7290a8e07307fbad9b"></a><a name="zh-cn_topic_0083857396_a8b8216428b514d7290a8e07307fbad9b"></a>limits</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7b6ea12dc6b54160babf63e5ca79d6dc"><a name="zh-cn_topic_0083857396_a7b6ea12dc6b54160babf63e5ca79d6dc"></a><a name="zh-cn_topic_0083857396_a7b6ea12dc6b54160babf63e5ca79d6dc"></a>object</p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a7b6ea12dc6b54160babf63e5ca79d6dc"><a name="zh-cn_topic_0083857396_a7b6ea12dc6b54160babf63e5ca79d6dc"></a><a name="zh-cn_topic_0083857396_a7b6ea12dc6b54160babf63e5ca79d6dc"></a>Object</p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_a1ff084a3efbc448e89f15738eda41145"><a name="zh-cn_topic_0083857396_a1ff084a3efbc448e89f15738eda41145"></a><a name="zh-cn_topic_0083857396_a1ff084a3efbc448e89f15738eda41145"></a>Limits describes the maximum amount of compute resources allowed.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0083857396_r160489b9c18f4850a2077093db598127"><td class="cellrowborder" valign="top" width="25.06%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0083857396_aadab18dcbee9464eb6e4bde71ee81a45"><a name="zh-cn_topic_0083857396_aadab18dcbee9464eb6e4bde71ee81a45"></a><a name="zh-cn_topic_0083857396_aadab18dcbee9464eb6e4bde71ee81a45"></a>requests</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a484d187d508942c29c321af45f97e29c"><a name="zh-cn_topic_0083857396_a484d187d508942c29c321af45f97e29c"></a><a name="zh-cn_topic_0083857396_a484d187d508942c29c321af45f97e29c"></a>object</p>
+<td class="cellrowborder" valign="top" width="30.14%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0083857396_a484d187d508942c29c321af45f97e29c"><a name="zh-cn_topic_0083857396_a484d187d508942c29c321af45f97e29c"></a><a name="zh-cn_topic_0083857396_a484d187d508942c29c321af45f97e29c"></a>Object</p>
 </td>
 <td class="cellrowborder" valign="top" width="44.800000000000004%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0083857396_afe2b3ea807264a7c8c24320583b3fe92"><a name="zh-cn_topic_0083857396_afe2b3ea807264a7c8c24320583b3fe92"></a><a name="zh-cn_topic_0083857396_afe2b3ea807264a7c8c24320583b3fe92"></a>Requests describes the minimum amount of compute resources required. If Requests is omitted for a container, it defaults to Limits if that is explicitly specified, otherwise to an implementation-defined value.</p>
 </td>
@@ -1701,9 +1701,9 @@
 **表 36**  livenessProbe字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table59345638"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row62863761"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58799890"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58799890"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p58799890"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row62863761"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p5545819105414"><a name="p5545819105414"></a><a name="p5545819105414"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p1379173217518"><a name="p1379173217518"></a><a name="p1379173217518"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.330000000000002%" id="mcps1.2.4.1.2"><p id="p75457195542"><a name="p75457195542"></a><a name="p75457195542"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.61%" id="mcps1.2.4.1.3"><p id="p1079173216518"><a name="p1079173216518"></a><a name="p1079173216518"></a>描述</p>
 </th>
@@ -1771,9 +1771,9 @@
 **表 37**  lifecycle字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table64348702"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row4240049"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7899687"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7899687"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p7899687"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row4240049"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p012132455412"><a name="p012132455412"></a><a name="p012132455412"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p7851132251"><a name="p7851132251"></a><a name="p7851132251"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p812102485412"><a name="p812102485412"></a><a name="p812102485412"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p08517323512"><a name="p08517323512"></a><a name="p08517323512"></a>描述</p>
 </th>
@@ -1799,9 +1799,9 @@
 **表 38**  securityContext字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table42267412"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row23912794"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57888134"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57888134"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p57888134"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row23912794"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p148819255544"><a name="p148819255544"></a><a name="p148819255544"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p5878321552"><a name="p5878321552"></a><a name="p5878321552"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p28811325115420"><a name="p28811325115420"></a><a name="p28811325115420"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p68823211520"><a name="p68823211520"></a><a name="p68823211520"></a>描述</p>
 </th>
@@ -1848,9 +1848,9 @@
 **表 39**  seLinuxOptions字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table44862393"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row51424131"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4605057"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4605057"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p4605057"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row51424131"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p1854012820541"><a name="p1854012820541"></a><a name="p1854012820541"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p109512321258"><a name="p109512321258"></a><a name="p109512321258"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p175401428155411"><a name="p175401428155411"></a><a name="p175401428155411"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p169514321555"><a name="p169514321555"></a><a name="p169514321555"></a>描述</p>
 </th>
@@ -1890,9 +1890,9 @@
 **表 40**  items字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table1108358"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row1243712"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33631824"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33631824"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33631824"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row1243712"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p20658153018548"><a name="p20658153018548"></a><a name="p20658153018548"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1610013211513"><a name="p1610013211513"></a><a name="p1610013211513"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p0658153017549"><a name="p0658153017549"></a><a name="p0658153017549"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1310012320512"><a name="p1310012320512"></a><a name="p1310012320512"></a>描述</p>
 </th>
@@ -1918,9 +1918,9 @@
 **表 41**  valueFrom字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table9975229"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row30238483"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33398050"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33398050"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p33398050"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row30238483"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p15761233195419"><a name="p15761233195419"></a><a name="p15761233195419"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p191034328511"><a name="p191034328511"></a><a name="p191034328511"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p17663312545"><a name="p17663312545"></a><a name="p17663312545"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p1310315321454"><a name="p1310315321454"></a><a name="p1310315321454"></a>描述</p>
 </th>
@@ -1946,9 +1946,9 @@
 **表 42**  exec字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table22668197"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50448563"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59801811"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59801811"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p59801811"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row50448563"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p124304348545"><a name="p124304348545"></a><a name="p124304348545"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p161038321057"><a name="p161038321057"></a><a name="p161038321057"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p243083417547"><a name="p243083417547"></a><a name="p243083417547"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p19105153219513"><a name="p19105153219513"></a><a name="p19105153219513"></a>描述</p>
 </th>
@@ -1967,9 +1967,9 @@
 **表 43**  httpGet字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table2687184"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row26632111"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9717417"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9717417"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p9717417"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row26632111"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p4275747185416"><a name="p4275747185416"></a><a name="p4275747185416"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p810523212510"><a name="p810523212510"></a><a name="p810523212510"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p14275174765413"><a name="p14275174765413"></a><a name="p14275174765413"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p12107032658"><a name="p12107032658"></a><a name="p12107032658"></a>描述</p>
 </th>
@@ -2009,9 +2009,9 @@
 **表 44**  tcpSocket字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table24184664"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row65930648"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38782309"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38782309"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p38782309"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row65930648"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p0930526115510"><a name="p0930526115510"></a><a name="p0930526115510"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p411143218517"><a name="p411143218517"></a><a name="p411143218517"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p39301026105514"><a name="p39301026105514"></a><a name="p39301026105514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p411153211512"><a name="p411153211512"></a><a name="p411153211512"></a>描述</p>
 </th>
@@ -2030,9 +2030,9 @@
 **表 45**  postStart/preStop字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table16335389"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row65732647"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22744204"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22744204"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p22744204"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row65732647"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p10933152875520"><a name="p10933152875520"></a><a name="p10933152875520"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1811353216513"><a name="p1811353216513"></a><a name="p1811353216513"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p2933132816551"><a name="p2933132816551"></a><a name="p2933132816551"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p41146321054"><a name="p41146321054"></a><a name="p41146321054"></a>描述</p>
 </th>
@@ -2065,9 +2065,9 @@
 **表 46**  capabilities字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table12800776"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row9493201"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30751803"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30751803"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p30751803"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row9493201"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p79971930185519"><a name="p79971930185519"></a><a name="p79971930185519"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p711963217520"><a name="p711963217520"></a><a name="p711963217520"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p4997103019555"><a name="p4997103019555"></a><a name="p4997103019555"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p10119123212515"><a name="p10119123212515"></a><a name="p10119123212515"></a>描述</p>
 </th>
@@ -2093,9 +2093,9 @@
 **表 47**  fieldRef字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_table48098122"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row52349424"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12444953"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12444953"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p12444953"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_row52349424"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p10581432115511"><a name="p10581432115511"></a><a name="p10581432115511"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p19121133219516"><a name="p19121133219516"></a><a name="p19121133219516"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1458163205513"><a name="p1458163205513"></a><a name="p1458163205513"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p9121153218516"><a name="p9121153218516"></a><a name="p9121153218516"></a>描述</p>
 </th>
@@ -2121,9 +2121,9 @@
 **表 48**  resourceFieldRef 字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t1d4186ca4f8d41b6802b56b71011f7a8"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_r349d25501ca74176a76a2d7d12fcdffc"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p129724816411"><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p129724816411"></a><a name="zh-cn_topic_0083857396_zh-cn_topic_0079614930_p129724816411"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_r349d25501ca74176a76a2d7d12fcdffc"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p8879133495512"><a name="p8879133495512"></a><a name="p8879133495512"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p51319329519"><a name="p51319329519"></a><a name="p51319329519"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p8879534125514"><a name="p8879534125514"></a><a name="p8879534125514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p10131203215518"><a name="p10131203215518"></a><a name="p10131203215518"></a>描述</p>
 </th>
@@ -2156,9 +2156,9 @@
 **表 49**  add字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_t32d1ae0b791b43ada220117e4f918910"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_r3de984aa47c7415294d6b8da46e19ba1"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_a3fd83a91b0f746fcaed57aca5f6e63d6"><a name="zh-cn_topic_0083857396_a3fd83a91b0f746fcaed57aca5f6e63d6"></a><a name="zh-cn_topic_0083857396_a3fd83a91b0f746fcaed57aca5f6e63d6"></a>参数</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_r3de984aa47c7415294d6b8da46e19ba1"><th class="cellrowborder" valign="top" width="25.06%" id="mcps1.2.4.1.1"><p id="p191713619550"><a name="p191713619550"></a><a name="p191713619550"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1513593210518"><a name="p1513593210518"></a><a name="p1513593210518"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.14%" id="mcps1.2.4.1.2"><p id="p1391753655514"><a name="p1391753655514"></a><a name="p1391753655514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.800000000000004%" id="mcps1.2.4.1.3"><p id="p413511321753"><a name="p413511321753"></a><a name="p413511321753"></a>描述</p>
 </th>
@@ -2192,9 +2192,9 @@
 **表 50**  metadata字段数据结构说明
 
 <a name="zh-cn_topic_0083857396_tf50171b557ef4ebdafb2cc0bcb724d1b"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857396_r1893423f49864701824a66b2055df20b"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0083857396_a0d847fe09883492b80c890e6ab45948b"><a name="zh-cn_topic_0083857396_a0d847fe09883492b80c890e6ab45948b"></a><a name="zh-cn_topic_0083857396_a0d847fe09883492b80c890e6ab45948b"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857396_r1893423f49864701824a66b2055df20b"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p5862163820559"><a name="p5862163820559"></a><a name="p5862163820559"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p613923219516"><a name="p613923219516"></a><a name="p613923219516"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p1862133845514"><a name="p1862133845514"></a><a name="p1862133845514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p913918326518"><a name="p913918326518"></a><a name="p913918326518"></a>描述</p>
 </th>
@@ -2220,9 +2220,9 @@
 **表 51**  ReplicationControllerCondition字段数据结构说明
 
 <a name="t0136d24c39ae4df89959d36b2119f260"></a>
-<table><thead align="left"><tr id="r3cdaa47a76e2437f8a25f925733c8f39"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="a2b6a1243cf574addb319333c360c54a9"><a name="a2b6a1243cf574addb319333c360c54a9"></a><a name="a2b6a1243cf574addb319333c360c54a9"></a>名称</p>
+<table><thead align="left"><tr id="r3cdaa47a76e2437f8a25f925733c8f39"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="p145241941195515"><a name="p145241941195515"></a><a name="p145241941195515"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p242012118425"><a name="p242012118425"></a><a name="p242012118425"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p1452444115512"><a name="p1452444115512"></a><a name="p1452444115512"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.44444444444445%" id="mcps1.2.4.1.3"><p id="p17428162124219"><a name="p17428162124219"></a><a name="p17428162124219"></a>描述</p>
 </th>
@@ -2269,9 +2269,9 @@
 **表 52**  status v1 Core字段数据结构说明
 
 <a name="table37251757105918"></a>
-<table><thead align="left"><tr id="row1672545712597"><th class="cellrowborder" valign="top" width="16.161616161616163%" id="mcps1.2.4.1.1"><p id="p372575755912"><a name="p372575755912"></a><a name="p372575755912"></a>名称</p>
+<table><thead align="left"><tr id="row1672545712597"><th class="cellrowborder" valign="top" width="16.161616161616163%" id="mcps1.2.4.1.1"><p id="p2027510444559"><a name="p2027510444559"></a><a name="p2027510444559"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="17.171717171717173%" id="mcps1.2.4.1.2"><p id="p8725205712599"><a name="p8725205712599"></a><a name="p8725205712599"></a>类型</p>
+<th class="cellrowborder" valign="top" width="17.171717171717173%" id="mcps1.2.4.1.2"><p id="p427584411557"><a name="p427584411557"></a><a name="p427584411557"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="66.66666666666667%" id="mcps1.2.4.1.3"><p id="p16725195717599"><a name="p16725195717599"></a><a name="p16725195717599"></a>描述</p>
 </th>
@@ -2279,14 +2279,14 @@
 </thead>
 <tbody><tr id="row4725165725913"><td class="cellrowborder" valign="top" width="16.161616161616163%" headers="mcps1.2.4.1.1 "><p id="p3725125735910"><a name="p3725125735910"></a><a name="p3725125735910"></a>apiVersion</p>
 </td>
-<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p2725145715910"><a name="p2725145715910"></a><a name="p2725145715910"></a>string</p>
+<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p2725145715910"><a name="p2725145715910"></a><a name="p2725145715910"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p8725957195917"><a name="p8725957195917"></a><a name="p8725957195917"></a>APIVersion defines the versioned schema of this representation of an object. Servers should convert recognized schemas to the latest internal value, and may reject unrecognized values.</p>
 </td>
 </tr>
 <tr id="row3725175785911"><td class="cellrowborder" valign="top" width="16.161616161616163%" headers="mcps1.2.4.1.1 "><p id="p1472525725910"><a name="p1472525725910"></a><a name="p1472525725910"></a>code</p>
 </td>
-<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p167251257155918"><a name="p167251257155918"></a><a name="p167251257155918"></a>integer</p>
+<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p167251257155918"><a name="p167251257155918"></a><a name="p167251257155918"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p157255575599"><a name="p157255575599"></a><a name="p157255575599"></a>Suggested HTTP return code for this status, 0 if not set</p>
 </td>
@@ -2300,14 +2300,14 @@
 </tr>
 <tr id="row672515775918"><td class="cellrowborder" valign="top" width="16.161616161616163%" headers="mcps1.2.4.1.1 "><p id="p772515575594"><a name="p772515575594"></a><a name="p772515575594"></a>kind</p>
 </td>
-<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p1672575712594"><a name="p1672575712594"></a><a name="p1672575712594"></a>string</p>
+<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p1672575712594"><a name="p1672575712594"></a><a name="p1672575712594"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p5725125717598"><a name="p5725125717598"></a><a name="p5725125717598"></a>Kind is a string value representing the REST resource this object represents. Servers may infer this from the endpoint the client submits requests to. Cannot be updated. In CamelCase</p>
 </td>
 </tr>
 <tr id="row1772505705918"><td class="cellrowborder" valign="top" width="16.161616161616163%" headers="mcps1.2.4.1.1 "><p id="p872535717599"><a name="p872535717599"></a><a name="p872535717599"></a>message</p>
 </td>
-<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p172511574596"><a name="p172511574596"></a><a name="p172511574596"></a>string</p>
+<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p172511574596"><a name="p172511574596"></a><a name="p172511574596"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p1872565714599"><a name="p1872565714599"></a><a name="p1872565714599"></a>A human-readable description of the status of this operation</p>
 </td>
@@ -2321,16 +2321,16 @@
 </tr>
 <tr id="row4725105795919"><td class="cellrowborder" valign="top" width="16.161616161616163%" headers="mcps1.2.4.1.1 "><p id="p172510578593"><a name="p172510578593"></a><a name="p172510578593"></a>reason</p>
 </td>
-<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p197253575598"><a name="p197253575598"></a><a name="p197253575598"></a>string</p>
+<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p197253575598"><a name="p197253575598"></a><a name="p197253575598"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p672555718598"><a name="p672555718598"></a><a name="p672555718598"></a>A machine-readable description of why this operation is in the "Failure" status. If this value is empty there is no information available. A Reason clarifies an HTTP status code but does not override it.</p>
-<div class="notice" id="note201334494311"><a name="note201334494311"></a><a name="note201334494311"></a><span class="noticetitle"> 注意： </span><div class="noticebody"><p id="p14133247432"><a name="p14133247432"></a><a name="p14133247432"></a>reason取值详见表：<a href="#table93541738154317">表57</a></p>
+<div class="notice" id="note201334494311"><a name="note201334494311"></a><a name="note201334494311"></a><span class="noticetitle"> 须知： </span><div class="noticebody"><p id="p14133247432"><a name="p14133247432"></a><a name="p14133247432"></a>reason取值详见表：<a href="#table93541738154317">表57</a></p>
 </div></div>
 </td>
 </tr>
 <tr id="row897818492313"><td class="cellrowborder" valign="top" width="16.161616161616163%" headers="mcps1.2.4.1.1 "><p id="p6978204919319"><a name="p6978204919319"></a><a name="p6978204919319"></a>status</p>
 </td>
-<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p697884918319"><a name="p697884918319"></a><a name="p697884918319"></a>string</p>
+<td class="cellrowborder" valign="top" width="17.171717171717173%" headers="mcps1.2.4.1.2 "><p id="p697884918319"><a name="p697884918319"></a><a name="p697884918319"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.66666666666667%" headers="mcps1.2.4.1.3 "><p id="p6978114913312"><a name="p6978114913312"></a><a name="p6978114913312"></a>Status of the operation. One of: "Success" or "Failure".</p>
 </td>
@@ -2341,9 +2341,9 @@
 **表 53** **StatusDetails v1 meta**  数据结构说明
 
 <a name="table513814471454"></a>
-<table><thead align="left"><tr id="row19138104718511"><th class="cellrowborder" valign="top" width="14.141414141414144%" id="mcps1.2.4.1.1"><p id="p1535695710519"><a name="p1535695710519"></a><a name="p1535695710519"></a>名称</p>
+<table><thead align="left"><tr id="row19138104718511"><th class="cellrowborder" valign="top" width="14.141414141414144%" id="mcps1.2.4.1.1"><p id="p207869471552"><a name="p207869471552"></a><a name="p207869471552"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="15.151515151515152%" id="mcps1.2.4.1.2"><p id="p03721457459"><a name="p03721457459"></a><a name="p03721457459"></a>类型</p>
+<th class="cellrowborder" valign="top" width="15.151515151515152%" id="mcps1.2.4.1.2"><p id="p4786114717552"><a name="p4786114717552"></a><a name="p4786114717552"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="70.70707070707071%" id="mcps1.2.4.1.3"><p id="p53881957355"><a name="p53881957355"></a><a name="p53881957355"></a>描述</p>
 </th>
@@ -2359,35 +2359,35 @@
 </tr>
 <tr id="row81381471353"><td class="cellrowborder" valign="top" width="14.141414141414144%" headers="mcps1.2.4.1.1 "><p id="p613844714518"><a name="p613844714518"></a><a name="p613844714518"></a>group</p>
 </td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p16138347453"><a name="p16138347453"></a><a name="p16138347453"></a>string</p>
+<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p16138347453"><a name="p16138347453"></a><a name="p16138347453"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70.70707070707071%" headers="mcps1.2.4.1.3 "><p id="p181381471257"><a name="p181381471257"></a><a name="p181381471257"></a>The group attribute of the resource associated with the status StatusReason.</p>
 </td>
 </tr>
 <tr id="row1613820471052"><td class="cellrowborder" valign="top" width="14.141414141414144%" headers="mcps1.2.4.1.1 "><p id="p8138174710518"><a name="p8138174710518"></a><a name="p8138174710518"></a>kind</p>
 </td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p81388471158"><a name="p81388471158"></a><a name="p81388471158"></a>string</p>
+<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p81388471158"><a name="p81388471158"></a><a name="p81388471158"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70.70707070707071%" headers="mcps1.2.4.1.3 "><p id="p1913812472510"><a name="p1913812472510"></a><a name="p1913812472510"></a>The kind attribute of the resource associated with the status StatusReason. On some operations may differ from the requested resource Kind</p>
 </td>
 </tr>
 <tr id="row213819474519"><td class="cellrowborder" valign="top" width="14.141414141414144%" headers="mcps1.2.4.1.1 "><p id="p8138647759"><a name="p8138647759"></a><a name="p8138647759"></a>name</p>
 </td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p1613810471856"><a name="p1613810471856"></a><a name="p1613810471856"></a>string</p>
+<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p1613810471856"><a name="p1613810471856"></a><a name="p1613810471856"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70.70707070707071%" headers="mcps1.2.4.1.3 "><p id="p913812471359"><a name="p913812471359"></a><a name="p913812471359"></a>The name attribute of the resource associated with the status StatusReason (when there is a single name which can be described).</p>
 </td>
 </tr>
 <tr id="row1213815472053"><td class="cellrowborder" valign="top" width="14.141414141414144%" headers="mcps1.2.4.1.1 "><p id="p19138114717514"><a name="p19138114717514"></a><a name="p19138114717514"></a>retryAfterSeconds</p>
 </td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p1513817471957"><a name="p1513817471957"></a><a name="p1513817471957"></a>integer</p>
+<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p1513817471957"><a name="p1513817471957"></a><a name="p1513817471957"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="70.70707070707071%" headers="mcps1.2.4.1.3 "><p id="p213816479512"><a name="p213816479512"></a><a name="p213816479512"></a>If specified, the time in seconds before the operation should be retried. Some errors may indicate the client must take an alternate action - for those errors this field may indicate how long to wait before taking the alternate action.</p>
 </td>
 </tr>
 <tr id="row6138047657"><td class="cellrowborder" valign="top" width="14.141414141414144%" headers="mcps1.2.4.1.1 "><p id="p413815471513"><a name="p413815471513"></a><a name="p413815471513"></a>uid</p>
 </td>
-<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p11380478514"><a name="p11380478514"></a><a name="p11380478514"></a>string</p>
+<td class="cellrowborder" valign="top" width="15.151515151515152%" headers="mcps1.2.4.1.2 "><p id="p11380478514"><a name="p11380478514"></a><a name="p11380478514"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70.70707070707071%" headers="mcps1.2.4.1.3 "><p id="p171381647251"><a name="p171381647251"></a><a name="p171381647251"></a>UID of the resource. (when there is a single resource which can be described)</p>
 </td>
@@ -2398,9 +2398,9 @@
 **表 54** **StatusCause v1 meta**数据结构说明
 
 <a name="table17518521795"></a>
-<table><thead align="left"><tr id="row751812211915"><th class="cellrowborder" valign="top" width="17%" id="mcps1.2.4.1.1"><p id="p64086261593"><a name="p64086261593"></a><a name="p64086261593"></a>名称</p>
+<table><thead align="left"><tr id="row751812211915"><th class="cellrowborder" valign="top" width="17%" id="mcps1.2.4.1.1"><p id="p13632164975512"><a name="p13632164975512"></a><a name="p13632164975512"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="13%" id="mcps1.2.4.1.2"><p id="p7424182611915"><a name="p7424182611915"></a><a name="p7424182611915"></a>类型</p>
+<th class="cellrowborder" valign="top" width="13%" id="mcps1.2.4.1.2"><p id="p15632114995511"><a name="p15632114995511"></a><a name="p15632114995511"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="70%" id="mcps1.2.4.1.3"><p id="p1742442610918"><a name="p1742442610918"></a><a name="p1742442610918"></a>描述</p>
 </th>
@@ -2408,24 +2408,24 @@
 </thead>
 <tbody><tr id="row35186219910"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.4.1.1 "><p id="p251819214920"><a name="p251819214920"></a><a name="p251819214920"></a>field</p>
 </td>
-<td class="cellrowborder" valign="top" width="13%" headers="mcps1.2.4.1.2 "><p id="p1651811210918"><a name="p1651811210918"></a><a name="p1651811210918"></a>string</p>
+<td class="cellrowborder" valign="top" width="13%" headers="mcps1.2.4.1.2 "><p id="p1651811210918"><a name="p1651811210918"></a><a name="p1651811210918"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70%" headers="mcps1.2.4.1.3 "><p id="p185181921192"><a name="p185181921192"></a><a name="p185181921192"></a>The field of the resource that has caused this error, as named by its JSON serialization. May include dot and postfix notation for nested attributes. Arrays are zero-indexed. Fields may appear more than once in an array of causes due to fields having multiple errors. Optional. Examples: "name" - the field "name" on the current resource "items[0].name" - the field "name" on the first array entry in "items"</p>
 </td>
 </tr>
 <tr id="row1851812116918"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.4.1.1 "><p id="p551815211916"><a name="p551815211916"></a><a name="p551815211916"></a>message</p>
 </td>
-<td class="cellrowborder" valign="top" width="13%" headers="mcps1.2.4.1.2 "><p id="p18518202113912"><a name="p18518202113912"></a><a name="p18518202113912"></a>string</p>
+<td class="cellrowborder" valign="top" width="13%" headers="mcps1.2.4.1.2 "><p id="p18518202113912"><a name="p18518202113912"></a><a name="p18518202113912"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70%" headers="mcps1.2.4.1.3 "><p id="p85189212917"><a name="p85189212917"></a><a name="p85189212917"></a>A human-readable description of the cause of the error. This field may be presented as-is to a reader.</p>
 </td>
 </tr>
 <tr id="row12518121892"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.4.1.1 "><p id="p15184219912"><a name="p15184219912"></a><a name="p15184219912"></a>reason</p>
 </td>
-<td class="cellrowborder" valign="top" width="13%" headers="mcps1.2.4.1.2 "><p id="p1751812211392"><a name="p1751812211392"></a><a name="p1751812211392"></a>string</p>
+<td class="cellrowborder" valign="top" width="13%" headers="mcps1.2.4.1.2 "><p id="p1751812211392"><a name="p1751812211392"></a><a name="p1751812211392"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70%" headers="mcps1.2.4.1.3 "><p id="p18518192117911"><a name="p18518192117911"></a><a name="p18518192117911"></a>A machine-readable description of the cause of the error. If this value is empty there is no information available.</p>
-<div class="notice" id="note174271020171217"><a name="note174271020171217"></a><a name="note174271020171217"></a><span class="noticetitle"> 注意： </span><div class="noticebody"><p id="p542712208126"><a name="p542712208126"></a><a name="p542712208126"></a>取值 详见表 <a href="#table208502167132">表55 StatusCause Type 说明</a></p>
+<div class="notice" id="note174271020171217"><a name="note174271020171217"></a><a name="note174271020171217"></a><span class="noticetitle"> 须知： </span><div class="noticebody"><p id="p542712208126"><a name="p542712208126"></a><a name="p542712208126"></a>取值 详见表 <a href="#table208502167132">表55 StatusCause Type 说明</a></p>
 </div></div>
 </td>
 </tr>
@@ -2477,9 +2477,9 @@
 **表 56**  ListMeta v1 meta数据结构说明
 
 <a name="table14206179122311"></a>
-<table><thead align="left"><tr id="row1120669132310"><th class="cellrowborder" valign="top" width="15%" id="mcps1.2.4.1.1"><p id="p02062942319"><a name="p02062942319"></a><a name="p02062942319"></a>名称</p>
+<table><thead align="left"><tr id="row1120669132310"><th class="cellrowborder" valign="top" width="15%" id="mcps1.2.4.1.1"><p id="p73668915562"><a name="p73668915562"></a><a name="p73668915562"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="15%" id="mcps1.2.4.1.2"><p id="p1320619992317"><a name="p1320619992317"></a><a name="p1320619992317"></a>类型</p>
+<th class="cellrowborder" valign="top" width="15%" id="mcps1.2.4.1.2"><p id="p15366179155611"><a name="p15366179155611"></a><a name="p15366179155611"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="70%" id="mcps1.2.4.1.3"><p id="p172068922317"><a name="p172068922317"></a><a name="p172068922317"></a>描述</p>
 </th>
@@ -2487,21 +2487,21 @@
 </thead>
 <tbody><tr id="row1120615972314"><td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.1 "><p id="p1420649172314"><a name="p1420649172314"></a><a name="p1420649172314"></a>continue</p>
 </td>
-<td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.2 "><p id="p72064992310"><a name="p72064992310"></a><a name="p72064992310"></a>string</p>
+<td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.2 "><p id="p72064992310"><a name="p72064992310"></a><a name="p72064992310"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70%" headers="mcps1.2.4.1.3 "><p id="p122061913239"><a name="p122061913239"></a><a name="p122061913239"></a>continue may be set if the user set a limit on the number of items returned, and indicates that the server has more data available. The value is opaque and may be used to issue another request to the endpoint that served this list to retrieve the next set of available objects. Continuing a list may not be possible if the server configuration has changed or more than a few minutes have passed. The resourceVersion field returned when using this continue value will be identical to the value in the first response</p>
 </td>
 </tr>
 <tr id="row720610972314"><td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.1 "><p id="p172061794236"><a name="p172061794236"></a><a name="p172061794236"></a>resourceVersion</p>
 </td>
-<td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.2 "><p id="p11206392234"><a name="p11206392234"></a><a name="p11206392234"></a>string</p>
+<td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.2 "><p id="p11206392234"><a name="p11206392234"></a><a name="p11206392234"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70%" headers="mcps1.2.4.1.3 "><p id="p1620613992317"><a name="p1620613992317"></a><a name="p1620613992317"></a>String that identifies the server's internal version of this object that can be used by clients to determine when objects have changed. Value must be treated as opaque by clients and passed unmodified back to the server. Populated by the system. <strong id="b2910103342412"><a name="b2910103342412"></a><a name="b2910103342412"></a>Read-only</strong></p>
 </td>
 </tr>
 <tr id="row1120659112310"><td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.1 "><p id="p4206690237"><a name="p4206690237"></a><a name="p4206690237"></a>selfLink</p>
 </td>
-<td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.2 "><p id="p15206598238"><a name="p15206598238"></a><a name="p15206598238"></a>string</p>
+<td class="cellrowborder" valign="top" width="15%" headers="mcps1.2.4.1.2 "><p id="p15206598238"><a name="p15206598238"></a><a name="p15206598238"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="70%" headers="mcps1.2.4.1.3 "><p id="p420616914234"><a name="p420616914234"></a><a name="p420616914234"></a>SelfLink is a URL representing this object. Populated by the system. <strong id="b16253846102410"><a name="b16253846102410"></a><a name="b16253846102410"></a>Read-only</strong></p>
 </td>

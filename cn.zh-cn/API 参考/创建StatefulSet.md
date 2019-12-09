@@ -4,17 +4,6 @@
 
 创建StatefulSet。
 
-如果要将创建的StatefulSet对象在CCI工作负载界面上显示，则需要给创建的StatefulSet资源对象添加labels标签。
-
-设置请求消息体中的“metadata.labels“参数键值如下内容：
-
-```
-labels:
-    app: appname
-```
-
-其中“app“参数所键入的“appname“为显示在CCI工作负载界面上的工作负载名称，可取任意值。
-
 ## URI<a name="section33235568"></a>
 
 POST /apis/apps/v1/namespaces/\{namespace\}/statefulsets
@@ -61,7 +50,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/statefulsets
 
 **请求参数：**
 
-请求参数如[表87](数据结构.md#d0e37568)所示。
+请求参数如[表86](数据结构.md#d0e37568)所示。
 
 **请求示例：**
 
@@ -73,7 +62,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/statefulsets
         "name": "statefulset-test"
     },
     "spec": {
-        "replicas": 3,
+        "replicas": "3",
         "selector": {
             "matchLabels": {
                 "app": "statefulset-test"
@@ -106,7 +95,8 @@ POST /apis/apps/v1/namespaces/\{namespace\}/statefulsets
                     {
                         "name": "imagepull-secret"
                     }
-                ]
+                ],
+                "priority": "0",
             }
         }
     }
@@ -117,89 +107,88 @@ POST /apis/apps/v1/namespaces/\{namespace\}/statefulsets
 
 **响应参数：**
 
-响应参数的详细描述请参见[表87](数据结构.md#d0e37568)。
+响应参数的详细描述请参见[表86](数据结构.md#d0e37568)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "StatefulSet",
-  "apiVersion": "apps/v1",
-  "metadata": {
-    "name": "statefulset-test",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/apps/v1/namespaces/namespace-test/statefulsets/statefulset-test",
-    "uid": "f4a35f35-b011-11e8-b6ef-f898ef6c78b4",
-    "resourceVersion": "5207623",
-    "generation": 1,
-    "creationTimestamp": "2018-09-04T07:13:00Z",
-    "labels": {
-      "app": "statefulset-test"
-    },
-    "enable": true
-  },
-  "spec": {
-    "replicas": 3,
-    "selector": {
-      "matchLabels": {
-        "app": "statefulset-test"
-      }
-    },
-    "template": {
-      "metadata": {
-        "creationTimestamp": null,
+    "kind": "StatefulSet",
+    "apiVersion": "apps/v1",
+    "metadata": {
+        "name": "statefulset-test",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/apps/v1/namespaces/namespace-test/statefulsets/statefulset-test",
+        "uid": "f4a35f35-b011-11e8-b6ef-f898ef6c78b4",
+        "resourceVersion": "5207623",
+        "generation": 1,
+        "creationTimestamp": "2018-09-04T07:13:00Z",
         "labels": {
-          "app": "statefulset-test"
-        },
-        "annotations": {
-          "cri.cci.io/container-type": "secure-container"
+            "app": "statefulset-test"
         },
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "container-0",
-            "image": "redis:3.0",
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "IfNotPresent"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "replicas": 3,
+        "priority": "0",
+        "selector": {
+            "matchLabels": {
+                "app": "statefulset-test"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "creationTimestamp": null,
+                "labels": {
+                    "app": "statefulset-test"
+                },
+                "annotations": {
+                    "cri.cci.io/container-type": "secure-container"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "container-0",
+                        "image": "redis:3.0",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "IfNotPresent"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        },
+        "serviceName": "",
+        "podManagementPolicy": "OrderedReady",
+        "updateStrategy": {
+            "type": "OnDelete"
+        },
+        "revisionHistoryLimit": 10
     },
-    "serviceName": "",
-    "podManagementPolicy": "OrderedReady",
-    "updateStrategy": {
-      "type": "OnDelete"
-    },
-    "revisionHistoryLimit": 10
-  },
-  "status": {
-    "replicas": 0
-  }
+    "status": {
+        "replicas": 0
+    }
 }
 ```
 

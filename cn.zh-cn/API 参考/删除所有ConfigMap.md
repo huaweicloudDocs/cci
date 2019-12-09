@@ -110,38 +110,38 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "ConfigMapList",
-  "apiVersion": "v1",
-  "metadata": {
-    "selfLink": "/api/v1/namespaces/namespace-test/configmaps",
-    "resourceVersion": "5174188"
-  },
-  "items": [
-    {
-      "metadata": {
-        "name": "kube-dns",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/configmaps/kube-dns",
-        "uid": "6c48d677-af6b-11e8-b6ef-f898ef6c78b4",
-        "resourceVersion": "5016780",
-        "creationTimestamp": "2018-09-03T11:20:54Z",
-        "labels": {
-          "addonmanager.kubernetes.io/mode": "EnsureExists",
-          "app": "kube-dns"
-        },
-        "enable": true
-      },
-      "data": {
-        "upstreamNameservers": "[\"100.125.1.230\"]"
-      }
-    }
-  ]
+    "kind": "ConfigMapList",
+    "apiVersion": "v1",
+    "metadata": {
+        "selfLink": "/api/v1/namespaces/namespace-test/configmaps",
+        "resourceVersion": "5174188"
+    },
+    "items": [
+        {
+            "metadata": {
+                "name": "kube-dns",
+                "namespace": "namespace-test",
+                "selfLink": "/api/v1/namespaces/namespace-test/configmaps/kube-dns",
+                "uid": "6c48d677-af6b-11e8-b6ef-f898ef6c78b4",
+                "resourceVersion": "5016780",
+                "creationTimestamp": "2018-09-03T11:20:54Z",
+                "labels": {
+                    "addonmanager.kubernetes.io/mode": "EnsureExists",
+                    "app": "kube-dns"
+                },
+                "enable": true
+            },
+            "data": {
+                "upstreamNameservers": "[\"*.*.*.*\"]"
+            }
+        }
+    ]
 }
 ```
 

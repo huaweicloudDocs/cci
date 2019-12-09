@@ -21,7 +21,7 @@ N/A.
 <a name="d0e48729"></a>
 <table><thead align="left"><tr id="row51254422"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.4.1.1"><p id="p57967506"><a name="p57967506"></a><a name="p57967506"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p64856370"><a name="p64856370"></a><a name="p64856370"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30%" id="mcps1.2.4.1.2"><p id="p64856370"><a name="p64856370"></a><a name="p64856370"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="45%" id="mcps1.2.4.1.3"><p id="p18874590"><a name="p18874590"></a><a name="p18874590"></a>描述</p>
 </th>
@@ -56,7 +56,7 @@ N/A.
 <a name="d0e48779"></a>
 <table><thead align="left"><tr id="row55892189"><th class="cellrowborder" valign="top" width="25.252525252525253%" id="mcps1.2.4.1.1"><p id="p30973495"><a name="p30973495"></a><a name="p30973495"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p25825194"><a name="p25825194"></a><a name="p25825194"></a>类型</p>
+<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p25825194"><a name="p25825194"></a><a name="p25825194"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44.44444444444445%" id="mcps1.2.4.1.3"><p id="p11465949"><a name="p11465949"></a><a name="p11465949"></a>描述</p>
 </th>
@@ -122,21 +122,21 @@ N/A.
     "apiVersion": "v1",
     "groupVersion": "networking.cci.io/v1beta1",
     "resources": [
-     {
-      "name":"networks",
-      "singularName":"",
-      "namespaced":true,
-      "kind":"Network",
-      "verbs":[
-        "create",
-        "delete",
-        "deletecollection",
-        "get",
-        "list",
-        "patch",
-        "update"
-      ]
-     }
+        {
+            "name": "networks",
+            "singularName": "",
+            "namespaced": true,
+            "kind": "Network",
+            "verbs": [
+                "create",
+                "delete",
+                "deletecollection",
+                "get",
+                "list",
+                "patch",
+                "update"
+            ]
+        }
     ]
 }
 ```

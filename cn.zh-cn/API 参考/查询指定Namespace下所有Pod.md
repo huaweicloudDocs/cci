@@ -30,59 +30,59 @@ GET /api/v1/namespaces/\{namespace\}/pods
 <a name="zh-cn_topic_0079615024_table39288210"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0079615024_row57365620"><th class="cellrowborder" valign="top" width="33%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0079615024_p16103609"><a name="zh-cn_topic_0079615024_p16103609"></a><a name="zh-cn_topic_0079615024_p16103609"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="26%" id="mcps1.2.4.1.2"><p id="p2877885220168"><a name="p2877885220168"></a><a name="p2877885220168"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="18.34%" id="mcps1.2.4.1.2"><p id="p2877885220168"><a name="p2877885220168"></a><a name="p2877885220168"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="41%" id="mcps1.2.4.1.3"><p id="p4938564320168"><a name="p4938564320168"></a><a name="p4938564320168"></a>描述</p>
+<th class="cellrowborder" valign="top" width="48.66%" id="mcps1.2.4.1.3"><p id="p4938564320168"><a name="p4938564320168"></a><a name="p4938564320168"></a>描述</p>
 </th>
 </tr>
 </thead>
 <tbody><tr id="zh-cn_topic_0079615024_row60306259"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615024_p52968826"><a name="zh-cn_topic_0079615024_p52968826"></a><a name="zh-cn_topic_0079615024_p52968826"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p62616542"><a name="zh-cn_topic_0079615024_p62616542"></a><a name="zh-cn_topic_0079615024_p62616542"></a>No</p>
+<td class="cellrowborder" valign="top" width="18.34%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p62616542"><a name="zh-cn_topic_0079615024_p62616542"></a><a name="zh-cn_topic_0079615024_p62616542"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="41%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p38775142"><a name="zh-cn_topic_0079615024_p38775142"></a><a name="zh-cn_topic_0079615024_p38775142"></a>If 'true', then the output is pretty printed.</p>
+<td class="cellrowborder" valign="top" width="48.66%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p38775142"><a name="zh-cn_topic_0079615024_p38775142"></a><a name="zh-cn_topic_0079615024_p38775142"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0079615024_row13431963"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615024_p14247253"><a name="zh-cn_topic_0079615024_p14247253"></a><a name="zh-cn_topic_0079615024_p14247253"></a>labelSelector</p>
 </td>
-<td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p13176872"><a name="zh-cn_topic_0079615024_p13176872"></a><a name="zh-cn_topic_0079615024_p13176872"></a>No</p>
+<td class="cellrowborder" valign="top" width="18.34%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p13176872"><a name="zh-cn_topic_0079615024_p13176872"></a><a name="zh-cn_topic_0079615024_p13176872"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="41%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p60693691"><a name="zh-cn_topic_0079615024_p60693691"></a><a name="zh-cn_topic_0079615024_p60693691"></a>A selector to restrict the list of returned objects by their labels. Defaults to everything.</p>
+<td class="cellrowborder" valign="top" width="48.66%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p60693691"><a name="zh-cn_topic_0079615024_p60693691"></a><a name="zh-cn_topic_0079615024_p60693691"></a>A selector to restrict the list of returned objects by their labels. Defaults to everything.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0079615024_row9372308"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615024_p20959466"><a name="zh-cn_topic_0079615024_p20959466"></a><a name="zh-cn_topic_0079615024_p20959466"></a>fieldSelector</p>
 </td>
-<td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p19995222"><a name="zh-cn_topic_0079615024_p19995222"></a><a name="zh-cn_topic_0079615024_p19995222"></a>No</p>
+<td class="cellrowborder" valign="top" width="18.34%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p19995222"><a name="zh-cn_topic_0079615024_p19995222"></a><a name="zh-cn_topic_0079615024_p19995222"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="41%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p9000253"><a name="zh-cn_topic_0079615024_p9000253"></a><a name="zh-cn_topic_0079615024_p9000253"></a>A selector to restrict the list of returned objects by their fields. Defaults to everything.</p>
+<td class="cellrowborder" valign="top" width="48.66%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p9000253"><a name="zh-cn_topic_0079615024_p9000253"></a><a name="zh-cn_topic_0079615024_p9000253"></a>A selector to restrict the list of returned objects by their fields. Defaults to everything.</p>
 </td>
 </tr>
 <tr id="r48a23247a4514d3895552219d0bf1d7f"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615024_p268425212266"><a name="zh-cn_topic_0079615024_p268425212266"></a><a name="zh-cn_topic_0079615024_p268425212266"></a>includeUninitialized</p>
 </td>
-<td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.2 "><p id="ab0682c66f2294f69bb2a7d10b9e29068"><a name="ab0682c66f2294f69bb2a7d10b9e29068"></a><a name="ab0682c66f2294f69bb2a7d10b9e29068"></a>No</p>
+<td class="cellrowborder" valign="top" width="18.34%" headers="mcps1.2.4.1.2 "><p id="ab0682c66f2294f69bb2a7d10b9e29068"><a name="ab0682c66f2294f69bb2a7d10b9e29068"></a><a name="ab0682c66f2294f69bb2a7d10b9e29068"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="41%" headers="mcps1.2.4.1.3 "><p id="a101aec385acb47ff8569f2105ffa4e76"><a name="a101aec385acb47ff8569f2105ffa4e76"></a><a name="a101aec385acb47ff8569f2105ffa4e76"></a>If true, partially initialized resources are included in the response.</p>
+<td class="cellrowborder" valign="top" width="48.66%" headers="mcps1.2.4.1.3 "><p id="a101aec385acb47ff8569f2105ffa4e76"><a name="a101aec385acb47ff8569f2105ffa4e76"></a><a name="a101aec385acb47ff8569f2105ffa4e76"></a>If true, partially initialized resources are included in the response.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0079615024_row13893419"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615024_p51625177"><a name="zh-cn_topic_0079615024_p51625177"></a><a name="zh-cn_topic_0079615024_p51625177"></a>watch</p>
 </td>
-<td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p20889783"><a name="zh-cn_topic_0079615024_p20889783"></a><a name="zh-cn_topic_0079615024_p20889783"></a>No</p>
+<td class="cellrowborder" valign="top" width="18.34%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p20889783"><a name="zh-cn_topic_0079615024_p20889783"></a><a name="zh-cn_topic_0079615024_p20889783"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="41%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p14350829"><a name="zh-cn_topic_0079615024_p14350829"></a><a name="zh-cn_topic_0079615024_p14350829"></a>Watch for changes to the described resources and return them as a stream of add, update, and remove notifications. Specify resourceVersion.</p>
+<td class="cellrowborder" valign="top" width="48.66%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p14350829"><a name="zh-cn_topic_0079615024_p14350829"></a><a name="zh-cn_topic_0079615024_p14350829"></a>Watch for changes to the described resources and return them as a stream of add, update, and remove notifications. Specify resourceVersion.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0079615024_row62048601"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615024_p59880775"><a name="zh-cn_topic_0079615024_p59880775"></a><a name="zh-cn_topic_0079615024_p59880775"></a>resourceVersion</p>
 </td>
-<td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p18504610"><a name="zh-cn_topic_0079615024_p18504610"></a><a name="zh-cn_topic_0079615024_p18504610"></a>No</p>
+<td class="cellrowborder" valign="top" width="18.34%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p18504610"><a name="zh-cn_topic_0079615024_p18504610"></a><a name="zh-cn_topic_0079615024_p18504610"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="41%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p22478417"><a name="zh-cn_topic_0079615024_p22478417"></a><a name="zh-cn_topic_0079615024_p22478417"></a>When specified with a watch call, shows changes that occur after that particular version of a resource. Defaults to changes from the beginning of history.</p>
+<td class="cellrowborder" valign="top" width="48.66%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p22478417"><a name="zh-cn_topic_0079615024_p22478417"></a><a name="zh-cn_topic_0079615024_p22478417"></a>When specified with a watch call, shows changes that occur after that particular version of a resource. Defaults to changes from the beginning of history.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0079615024_row979164"><td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0079615024_p12203429"><a name="zh-cn_topic_0079615024_p12203429"></a><a name="zh-cn_topic_0079615024_p12203429"></a>timeoutSeconds</p>
 </td>
-<td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p48953654"><a name="zh-cn_topic_0079615024_p48953654"></a><a name="zh-cn_topic_0079615024_p48953654"></a>No</p>
+<td class="cellrowborder" valign="top" width="18.34%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0079615024_p48953654"><a name="zh-cn_topic_0079615024_p48953654"></a><a name="zh-cn_topic_0079615024_p48953654"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="41%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p5823032"><a name="zh-cn_topic_0079615024_p5823032"></a><a name="zh-cn_topic_0079615024_p5823032"></a>Timeout for the list/watch call.</p>
+<td class="cellrowborder" valign="top" width="48.66%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615024_p5823032"><a name="zh-cn_topic_0079615024_p5823032"></a><a name="zh-cn_topic_0079615024_p5823032"></a>Timeout for the list/watch call.</p>
 </td>
 </tr>
 </tbody>
@@ -96,132 +96,128 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表68](数据结构.md#zh-cn_topic_0079614930_table6622802)。
+响应参数的详细描述请参见[表67](数据结构.md#zh-cn_topic_0079614930_table6622802)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "PodList",
-  "apiVersion": "v1",
-  "metadata": {
-    "selfLink": "/api/v1/namespaces/namespace-test/pods",
-    "resourceVersion": "5032373"
-  },
-  "items": [
-    {
-      "metadata": {
-        "name": "pod-test",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/pods/pod-test",
-        "uid": "8b985a27-af74-11e8-9d5d-c88d83be759f",
-        "resourceVersion": "5030610",
-        "creationTimestamp": "2018-09-03T12:26:12Z",
-        "labels": {
-          "name": "pod-test"
-        },
-        "annotations": {
-          "cri.cci.io/container-type": "secure-container",
-          "kubernetes.io/availablezone": "dc1",
-          "network.alpha.kubernetes.io/network": "[{\"name\":\"namespace-test-dc1-default-network\",\"interface\":\"eth0\",\"network_plane\":\"default\"}]"
-        },
-        "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "test",
-            "image": "redis:3.0",
-            "resources": {
-              "limits": {
-                "memory": "1Gi",
-                "cpu": "500m"
-              },
-              "requests": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              }
+    "kind": "PodList",
+    "apiVersion": "v1",
+    "metadata": {
+        "selfLink": "/api/v1/namespaces/namespace-test/pods",
+        "resourceVersion": "5032373"
+    },
+    "items": [
+        {
+            "metadata": {
+                "name": "pod-test",
+                "namespace": "namespace-test",
+                "selfLink": "/api/v1/namespaces/namespace-test/pods/pod-test",
+                "uid": "8b985a27-af74-11e8-9d5d-c88d83be759f",
+                "resourceVersion": "5030610",
+                "creationTimestamp": "2018-09-03T12:26:12Z",
+                "labels": {
+                    "name": "pod-test"
+                },
+                "annotations": {
+                    "cri.cci.io/container-type": "secure-container",
+                    "kubernetes.io/availablezone": "dc1",
+                    "network.alpha.kubernetes.io/network": "[{\"name\":\"namespace-test-dc1-default-network\",\"interface\":\"eth0\",\"network_plane\":\"default\"}]"
+                },
+                "enable": true
             },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "Always"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "nodeName": "c0dd6256-195a-e811-90a2-10c17294fcbc",
-        "securityContext": {
-
-        },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler",
-        "tolerations": [
-          {
-            "key": "node.kubernetes.io/not-ready",
-            "operator": "Exists",
-            "effect": "NoExecute",
-            "tolerationSeconds": 300
-          },
-          {
-            "key": "node.kubernetes.io/unreachable",
-            "operator": "Exists",
-            "effect": "NoExecute",
-            "tolerationSeconds": 300
-          }
-        ]
-      },
-      "status": {
-        "phase": "Running",
-        "conditions": [
-          {
-            "type": "Initialized",
-            "status": "True",
-            "lastProbeTime": null,
-            "lastTransitionTime": "2018-09-03T12:26:12Z"
-          },
-          {
-            "type": "Ready",
-            "status": "True",
-            "lastProbeTime": null,
-            "lastTransitionTime": "2018-09-03T12:26:16Z"
-          },
-          {
-            "type": "PodScheduled",
-            "status": "True",
-            "lastProbeTime": null,
-            "lastTransitionTime": "2018-09-03T12:26:12Z"
-          }
-        ],
-        "podIP": "192.168.245.185",
-        "startTime": "2018-09-03T12:26:12Z",
-        "containerStatuses": [
-          {
-            "name": "test",
-            "state": {
-              "running": {
-                "startedAt": "2018-09-03T12:26:16Z"
-              }
+            "spec": {
+                "containers": [
+                    {
+                        "name": "test",
+                        "image": "redis:3.0",
+                        "resources": {
+                            "limits": {
+                                "memory": "1Gi",
+                                "cpu": "500m"
+                            },
+                            "requests": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "Always"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "nodeName": "c0dd6256-195a-e811-90a2-10c17294fcbc",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler",
+                "tolerations": [
+                    {
+                        "key": "node.kubernetes.io/not-ready",
+                        "operator": "Exists",
+                        "effect": "NoExecute",
+                        "tolerationSeconds": 300
+                    },
+                    {
+                        "key": "node.kubernetes.io/unreachable",
+                        "operator": "Exists",
+                        "effect": "NoExecute",
+                        "tolerationSeconds": 300
+                    }
+                ]
             },
-            "lastState": {
-
-            },
-            "ready": true,
-            "restartCount": 0,
-            "image": "redis:3.0",
-            "imageID": "docker-pullable://redis@sha256:3ab7046bd035a47aa06963d8240651d00b57e82dab07ba374ad01f84dfa1230c",
-            "containerID": "docker://aee55d8dedb8371f96aa5d5116f69a53bf1cb23afe1802567c24081514d3b048"
-          }
-        ],
-        "qosClass": "Guaranteed",
-        "managementIP": "172.28.0.17"
-      }
-    }
-  ]
+            "status": {
+                "phase": "Running",
+                "conditions": [
+                    {
+                        "type": "Initialized",
+                        "status": "True",
+                        "lastProbeTime": null,
+                        "lastTransitionTime": "2018-09-03T12:26:12Z"
+                    },
+                    {
+                        "type": "Ready",
+                        "status": "True",
+                        "lastProbeTime": null,
+                        "lastTransitionTime": "2018-09-03T12:26:16Z"
+                    },
+                    {
+                        "type": "PodScheduled",
+                        "status": "True",
+                        "lastProbeTime": null,
+                        "lastTransitionTime": "2018-09-03T12:26:12Z"
+                    }
+                ],
+                "podIP": "192.168.245.185",
+                "startTime": "2018-09-03T12:26:12Z",
+                "containerStatuses": [
+                    {
+                        "name": "test",
+                        "state": {
+                            "running": {
+                                "startedAt": "2018-09-03T12:26:16Z"
+                            }
+                        },
+                        "lastState": {},
+                        "ready": true,
+                        "restartCount": 0,
+                        "image": "redis:3.0",
+                        "imageID": "docker-pullable://redis@sha256:3ab7046bd035a47aa06963d8240651d00b57e82dab07ba374ad01f84dfa1230c",
+                        "containerID": "docker://aee55d8dedb8371f96aa5d5116f69a53bf1cb23afe1802567c24081514d3b048"
+                    }
+                ],
+                "qosClass": "Guaranteed",
+                "managementIP": "172.28.0.17"
+            }
+        }
+    ]
 }
 ```
 

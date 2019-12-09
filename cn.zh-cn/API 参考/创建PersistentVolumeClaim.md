@@ -2,18 +2,18 @@
 
 ## 功能介绍<a name="s0a28adc85c784085a2d82fe65fbfc112"></a>
 
-创建PersistentVolumeClaim。
+创建PersistentVolumeClaim，主要适用于动态创建存储的场景，即存储资源未创建时，创建PVC会根据请求内容创建一个存储资源。
 
-主要使用于动态创建存储的场景，即存储资源未创建时，创建PVC会根据请求内容创建一个存储资源。
-
-当前支持创建EVS（云硬盘卷，块存储）和SFS（文件存储卷），使用时 spec.storageClassName 参数的取值如下：
+当前支持**创建EVS（云硬盘卷，块存储）和SFS（文件存储卷）**，使用时 spec.storageClassName 参数的取值如下：
 
 -   sata：普通I/O云硬盘卷
 -   sas：高I/O云硬盘卷
 -   ssd：超高I/O云硬盘卷
 -   nfs-rw：标准文件协议类型文件存储卷
 
-如果不指定 spec.storageClassName，可以在 metadata.annotations 中指定 volume.beta.kubernetes.io/storage-class，取值含义与spec.storageClassName 相同，这两个参数选择一个即可。
+若不指定spec.storageClassName，可在metadata.annotations中指定volume.beta.kubernetes.io/storage-class，取值含义与spec.storageClassName 相同，这两个参数选择其中一个即可。
+
+若需要创建加密类型存储卷，对于云硬盘存储卷需要在metadata.annotations中增加paas.storage.io/cryptKeyId字段；对于文件存储卷需要增加paas.storage.io/cryptKeyId、paas.storage.io/cryptAlias和paas.storage.io/cryptDomainId字段。
 
 ## URI<a name="sdad79289da6f40bfb1b0726f426f9f1f"></a>
 
@@ -61,41 +61,72 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
 
 **请求参数：**
 
-请参见[表93](数据结构.md#t7aa9de1153e9466cbfcaa9af17a24772)
+请参见[表92](数据结构.md#t7aa9de1153e9466cbfcaa9af17a24772)。
 
 **请求示例：**
 
-创建一个大小为10G的云硬盘，类型为sata。
+-   创建一个大小为10G的加密云硬盘，类型为sata
 
-```
-{
-  "apiVersion": "v1",
-  "kind": "PersistentVolumeClaim",
-  "metadata": {
-    "annotations": {
-      "volume.beta.kubernetes.io/storage-class": "sata"
-    },
-    "name": "pvc-test",
-    "namespace": "test-namespace"
-  },
-  "spec": {
-    "accessModes": [
-      "ReadWriteMany"
-    ],
-    "resources": {
-      "requests": {
-        "storage": "10Gi"
-      }
+    ```
+    {
+        "apiVersion": "v1",
+        "kind": "PersistentVolumeClaim",
+        "metadata": {
+            "annotations": {
+                "paas.storage.io/cryptKeyId":"ee9b610c-e356-11e9-aadc-d0efc1b3bb6b",
+                "volume.beta.kubernetes.io/storage-class": "sata"
+            },
+            "name": "pvc-test",
+            "namespace": "test-namespace"
+        },
+        "spec": {
+            "accessModes": [
+                "ReadWriteMany"
+            ],
+            "resources": {
+                "requests": {
+                    "storage": "10Gi"
+                }
+            }
+        }
     }
-  }
-}
-```
+    ```
+
+-   创建一个大小为10G的加密文件存储卷
+
+    ```
+    {
+        "apiVersion": "v1",
+        "kind": "PersistentVolumeClaim",
+        "metadata": {
+            "annotations": {
+               "paas.storage.io/cryptKeyId":"ee9b610c-e356-11e9-aadc-d0efc1b3bb6b",
+               "paas.storage.io/cryptAlias":"sfs/default",
+               "paas.storage.io/cryptDomainId":"d6912480-c3d6-4e9e-8c70-38afeea434c3",
+               "volume.beta.kubernetes.io/storage-class": "nfs-rw"
+            },
+            "name": "pvc-test",
+            "namespace": "test-namespace"
+        },
+        "spec": {
+            "accessModes": [
+                "ReadWriteMany"
+            ],
+            "resources": {
+                "requests": {
+                    "storage": "10Gi"
+                }
+            }
+        }
+    }
+    ```
+
 
 ## 响应消息<a name="sfea287b75ddb40569f61ea90875869cb"></a>
 
 **响应参数：**
 
-响应参数的详细描述请参见[表93](数据结构.md#t7aa9de1153e9466cbfcaa9af17a24772).
+响应参数的详细描述请参见[表92](数据结构.md#t7aa9de1153e9466cbfcaa9af17a24772)。
 
 **响应示例：**
 
@@ -105,7 +136,7 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
     "apiVersion": "v1",
     "metadata": {
         "name": "pvc-test",
-        "namespace": "ns-test",
+        "namespace": "test-namespace",
         "selfLink": "/api/v1/namespaces/ns-test/persistentvolumeclaims/pvc-test",
         "uid": "58d15f3e-efbd-11e8-8950-501d934409f3",
         "resourceVersion": "28156856",
@@ -114,6 +145,7 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
             "app": "evs"
         },
         "annotations": {
+            "paas.storage.io/cryptKeyId": "ee9b610c-e356-11e9-aadc-d0efc1b3bb6b",
             "pv.kubernetes.io/bind-completed": "yes",
             "pv.kubernetes.io/bound-by-controller": "yes",
             "volume.beta.kubernetes.io/storage-provisioner": "flexvolume-huawei.com/fuxivol"
@@ -128,7 +160,7 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
         ],
         "resources": {
             "requests": {
-                "storage": "1Gi"
+                "storage": "10Gi"
             }
         },
         "volumeName": "pvc-58d15f3e-efbd-11e8-8950-501d934409f3",
@@ -140,7 +172,7 @@ POST /api/v1/namespaces/\{namespace\}/persistentvolumeclaims
             "ReadWriteMany"
         ],
         "capacity": {
-            "storage": "1Gi"
+            "storage": "10Gi"
         }
     }
 }

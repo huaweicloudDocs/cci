@@ -33,33 +33,33 @@ GET /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
 **表 2**  Query参数
 
 <a name="d0e41471"></a>
-<table><thead align="left"><tr id="row14497772"><th class="cellrowborder" valign="top" width="33.33333333333333%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
+<table><thead align="left"><tr id="row14497772"><th class="cellrowborder" valign="top" width="24.192419241924192%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="19.371937193719376%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="36.36363636363636%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
+<th class="cellrowborder" valign="top" width="56.43564356435644%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row66636327"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="p28833370"><a name="p28833370"></a><a name="p28833370"></a>pretty</p>
+<tbody><tr id="row66636327"><td class="cellrowborder" valign="top" width="24.192419241924192%" headers="mcps1.2.4.1.1 "><p id="p28833370"><a name="p28833370"></a><a name="p28833370"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.303030303030305%" headers="mcps1.2.4.1.2 "><p id="p53801671"><a name="p53801671"></a><a name="p53801671"></a>No</p>
+<td class="cellrowborder" valign="top" width="19.371937193719376%" headers="mcps1.2.4.1.2 "><p id="p53801671"><a name="p53801671"></a><a name="p53801671"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="36.36363636363636%" headers="mcps1.2.4.1.3 "><p id="p62968084"><a name="p62968084"></a><a name="p62968084"></a>If 'true', then the output is pretty printed.</p>
-</td>
-</tr>
-<tr id="row50603201"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="p5218617"><a name="p5218617"></a><a name="p5218617"></a>exact</p>
-</td>
-<td class="cellrowborder" valign="top" width="30.303030303030305%" headers="mcps1.2.4.1.2 "><p id="p20054846"><a name="p20054846"></a><a name="p20054846"></a>No</p>
-</td>
-<td class="cellrowborder" valign="top" width="36.36363636363636%" headers="mcps1.2.4.1.3 "><p id="p13829815"><a name="p13829815"></a><a name="p13829815"></a>Should the export be exact. Exact export maintains cluster-specific fields like 'Namespace'.</p>
+<td class="cellrowborder" valign="top" width="56.43564356435644%" headers="mcps1.2.4.1.3 "><p id="p62968084"><a name="p62968084"></a><a name="p62968084"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
-<tr id="row57359475"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="p15605878"><a name="p15605878"></a><a name="p15605878"></a>export</p>
+<tr id="row50603201"><td class="cellrowborder" valign="top" width="24.192419241924192%" headers="mcps1.2.4.1.1 "><p id="p5218617"><a name="p5218617"></a><a name="p5218617"></a>exact</p>
 </td>
-<td class="cellrowborder" valign="top" width="30.303030303030305%" headers="mcps1.2.4.1.2 "><p id="p56116577"><a name="p56116577"></a><a name="p56116577"></a>No</p>
+<td class="cellrowborder" valign="top" width="19.371937193719376%" headers="mcps1.2.4.1.2 "><p id="p20054846"><a name="p20054846"></a><a name="p20054846"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="36.36363636363636%" headers="mcps1.2.4.1.3 "><p id="p49148893"><a name="p49148893"></a><a name="p49148893"></a>Should this value be exported. Export strips fields that a user cannot specify.</p>
+<td class="cellrowborder" valign="top" width="56.43564356435644%" headers="mcps1.2.4.1.3 "><p id="p13829815"><a name="p13829815"></a><a name="p13829815"></a>Should the export be exact. Exact export maintains cluster-specific fields like 'Namespace'.</p>
+</td>
+</tr>
+<tr id="row57359475"><td class="cellrowborder" valign="top" width="24.192419241924192%" headers="mcps1.2.4.1.1 "><p id="p15605878"><a name="p15605878"></a><a name="p15605878"></a>export</p>
+</td>
+<td class="cellrowborder" valign="top" width="19.371937193719376%" headers="mcps1.2.4.1.2 "><p id="p56116577"><a name="p56116577"></a><a name="p56116577"></a>No</p>
+</td>
+<td class="cellrowborder" valign="top" width="56.43564356435644%" headers="mcps1.2.4.1.3 "><p id="p49148893"><a name="p49148893"></a><a name="p49148893"></a>Should this value be exported. Export strips fields that a user cannot specify.</p>
 </td>
 </tr>
 </tbody>
@@ -73,94 +73,92 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表98](数据结构.md#table8040885)。
+响应参数的详细描述请参见[表97](数据结构.md#table8040885)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Job",
-  "apiVersion": "batch/v1",
-  "metadata": {
-    "name": "pi",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/batch/v1/namespaces/namespace-test/jobs/pi",
-    "uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
-    "resourceVersion": "5391205",
-    "creationTimestamp": "2018-09-05T01:10:59Z",
-    "labels": {
-      "job-name": "pi",
-      "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4"
-    },
-    "enable": true
-  },
-  "spec": {
-    "parallelism": 1,
-    "completions": 1,
-    "backoffLimit": 6,
-    "selector": {
-      "matchLabels": {
-        "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4"
-      }
-    },
-    "template": {
-      "metadata": {
+    "kind": "Job",
+    "apiVersion": "batch/v1",
+    "metadata": {
         "name": "pi",
-        "creationTimestamp": null,
+        "namespace": "namespace-test",
+        "selfLink": "/apis/batch/v1/namespaces/namespace-test/jobs/pi",
+        "uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
+        "resourceVersion": "5391205",
+        "creationTimestamp": "2018-09-05T01:10:59Z",
         "labels": {
-          "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
-          "job-name": "pi"
-        },
-        "annotations": {
-          "cri.cci.io/container-type": "secure-container"
+            "job-name": "pi",
+            "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4"
         },
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "pi",
-            "image": "perl",
-            "command": [
-              "perl",
-              "-Mbignum=bpi",
-              "-wle",
-              "print bpi(2000)"
-            ],
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "Always"
-          }
-        ],
-        "restartPolicy": "Never",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "parallelism": 1,
+        "completions": 1,
+        "backoffLimit": 6,
+        "selector": {
+            "matchLabels": {
+                "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "name": "pi",
+                "creationTimestamp": null,
+                "labels": {
+                    "controller-uid": "8c923079-b0a8-11e8-8bcb-f898ef6c78b4",
+                    "job-name": "pi"
+                },
+                "annotations": {
+                    "cri.cci.io/container-type": "secure-container"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "pi",
+                        "image": "perl",
+                        "command": [
+                            "perl",
+                            "-Mbignum=bpi",
+                            "-wle",
+                            "print bpi(2000)"
+                        ],
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "Always"
+                    }
+                ],
+                "restartPolicy": "Never",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        }
+    },
+    "status": {
+        "startTime": "2018-09-05T01:10:59Z",
+        "active": 1
     }
-  },
-  "status": {
-    "startTime": "2018-09-05T01:10:59Z",
-    "active": 1
-  }
 }
 ```
 

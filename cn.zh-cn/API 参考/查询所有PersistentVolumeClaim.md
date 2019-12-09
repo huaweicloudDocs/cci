@@ -110,60 +110,60 @@ N/A
 
 **响应参数：**
 
-响应参数参见[表127](数据结构.md#t48c604ca9f9f44e59b88ea85d6d7fd4b)
+响应参数参见[表126](数据结构.md#t48c604ca9f9f44e59b88ea85d6d7fd4b)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "PersistentVolumeClaimList",
-  "apiVersion": "v1",
-  "metadata": {
-    "selfLink": "/api/v1/namespaces/namespace-test/persistentvolumeclaims",
-    "resourceVersion": "6456754"
-  },
-  "items": [
-    {
-      "metadata": {
-        "name": "pvc-test",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/persistentvolumeclaims/pvc-test",
-        "uid": "19a355cc-b26e-11e8-b205-c88d83be759f",
-        "resourceVersion": "5915795",
-        "creationTimestamp": "2018-09-07T07:17:38Z",
-        "annotations": {
-          "volume.beta.kubernetes.io/storage-class": "sata",
-          "volume.beta.kubernetes.io/storage-provisioner": "flexvolume-huawei.com/fuxivol",
-          "pv.kubernetes.io/bind-completed": "yes",
-          "pv.kubernetes.io/bound-by-controller": "yes"
-        },
-        "finalizers": [
-          "kubernetes.io/pvc-protection"
-        ],
-        "enable": true
-      },
-      "spec": {
-        "accessModes": [
-          "ReadWriteMany"
-        ],
-        "resources": {
-          "requests": {
-            "storage": "1Gi"
-          }
-        },
-        "volumeName": "pvc-19a355cc-b26e-11e8-b205-c88d83be759f"
-      },
-      "status": {
-        "phase": "Bound",
-        "accessModes": [
-          "ReadWriteMany"
-        ],
-        "capacity": {
-          "storage": "1Gi"
+    "kind": "PersistentVolumeClaimList",
+    "apiVersion": "v1",
+    "metadata": {
+        "selfLink": "/api/v1/namespaces/namespace-test/persistentvolumeclaims",
+        "resourceVersion": "6456754"
+    },
+    "items": [
+        {
+            "metadata": {
+                "name": "pvc-test",
+                "namespace": "test-namespace",
+                "selfLink": "/api/v1/namespaces/namespace-test/persistentvolumeclaims/pvc-test",
+                "uid": "19a355cc-b26e-11e8-b205-c88d83be759f",
+                "resourceVersion": "5915795",
+                "creationTimestamp": "2018-09-07T07:17:38Z",
+                "annotations": {
+                    "volume.beta.kubernetes.io/storage-class": "sata",
+                    "volume.beta.kubernetes.io/storage-provisioner": "flexvolume-huawei.com/fuxivol",
+                    "pv.kubernetes.io/bind-completed": "yes",
+                    "pv.kubernetes.io/bound-by-controller": "yes"
+                },
+                "finalizers": [
+                    "kubernetes.io/pvc-protection"
+                ],
+                "enable": true
+            },
+            "spec": {
+                "accessModes": [
+                    "ReadWriteMany"
+                ],
+                "resources": {
+                    "requests": {
+                        "storage": "10Gi"
+                    }
+                },
+                "volumeName": "pvc-19a355cc-b26e-11e8-b205-c88d83be759f"
+            },
+            "status": {
+                "phase": "Bound",
+                "accessModes": [
+                    "ReadWriteMany"
+                ],
+                "capacity": {
+                    "storage": "10Gi"
+                }
+            }
         }
-      }
-    }
-  ]
+    ]
 }
 ```
 

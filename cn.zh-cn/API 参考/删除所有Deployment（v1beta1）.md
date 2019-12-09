@@ -85,7 +85,7 @@ DELETE /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 

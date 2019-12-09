@@ -95,125 +95,123 @@ Content-Type: application/merge-patch+json
 
 ```
 {
-  "kind": "Pod",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "pod-test",
-    "namespace": "namespace-test",
-    "selfLink": "/api/v1/namespaces/namespace-test/pods/pod-test",
-    "uid": "3b99abe8-b032-11e8-9d5d-c88d83be759f",
-    "resourceVersion": "5254098",
-    "creationTimestamp": "2018-09-04T11:04:02Z",
-    "labels": {
-      "name": "pod-test2"
-    },
-    "annotations": {
-      "kubernetes.io/availablezone": "dc1",
-      "network.alpha.kubernetes.io/network": "[{\"name\":\"namespace-test-dc1-default-network\",\"interface\":\"eth0\",\"network_plane\":\"default\"}]"
-    },
-    "enable": true
-  },
-  "spec": {
-    "containers": [
-      {
-        "name": "test",
-        "image": "redis:latest",
-        "resources": {
-          "limits": {
-            "cpu": "500m",
-            "memory": "1Gi"
-          },
-          "requests": {
-            "cpu": "500m",
-            "memory": "1Gi"
-          }
+    "kind": "Pod",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "pod-test",
+        "namespace": "namespace-test",
+        "selfLink": "/api/v1/namespaces/namespace-test/pods/pod-test",
+        "uid": "3b99abe8-b032-11e8-9d5d-c88d83be759f",
+        "resourceVersion": "5254098",
+        "creationTimestamp": "2018-09-04T11:04:02Z",
+        "labels": {
+            "name": "pod-test2"
         },
-        "terminationMessagePath": "/dev/termination-log",
-        "terminationMessagePolicy": "File",
-        "imagePullPolicy": "Always"
-      }
-    ],
-    "restartPolicy": "Always",
-    "terminationGracePeriodSeconds": 30,
-    "dnsPolicy": "ClusterFirst",
-    "nodeName": "c0dd6256-195a-e811-90a2-10c17294fcbc",
-    "securityContext": {
-
+        "annotations": {
+            "kubernetes.io/availablezone": "dc1",
+            "network.alpha.kubernetes.io/network": "[{\"name\":\"namespace-test-dc1-default-network\",\"interface\":\"eth0\",\"network_plane\":\"default\"}]"
+        },
+        "enable": true
     },
-    "imagePullSecrets": [
-      {
-        "name": "imagepull-secret"
-      }
-    ],
-    "schedulerName": "default-scheduler",
-    "tolerations": [
-      {
-        "key": "node.kubernetes.io/not-ready",
-        "operator": "Exists",
-        "effect": "NoExecute",
-        "tolerationSeconds": 300
-      },
-      {
-        "key": "node.kubernetes.io/unreachable",
-        "operator": "Exists",
-        "effect": "NoExecute",
-        "tolerationSeconds": 300
-      }
-    ]
-  },
-  "status": {
-    "phase": "Running",
-    "conditions": [
-      {
-        "type": "Initialized",
-        "status": "True",
-        "lastProbeTime": null,
-        "lastTransitionTime": "2018-09-04T11:04:03Z"
-      },
-      {
-        "type": "Ready",
-        "status": "False",
-        "lastProbeTime": null,
-        "lastTransitionTime": "2018-09-04T11:08:55Z",
-        "reason": "ContainersNotReady",
-        "message": "containers with unready status: [test]"
-      },
-      {
-        "type": "PodScheduled",
-        "status": "True",
-        "lastProbeTime": null,
-        "lastTransitionTime": "2018-09-04T11:04:02Z"
-      }
-    ],
-    "hostIP": "192.149.117.100",
-    "startTime": "2018-09-04T11:04:03Z",
-    "containerStatuses": [
-      {
-        "name": "test",
-        "state": {
-          "waiting": {
-            "reason": "ErrImagePull",
-            "message": "rpc error: code = Unknown desc = Error response from daemon: Get https://registry-1.docker.io/v2/: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"
-          }
-        },
-        "lastState": {
-          "terminated": {
-            "exitCode": 0,
-            "reason": "Completed",
-            "startedAt": "2018-09-04T11:04:23Z",
-            "finishedAt": "2018-09-04T11:08:33Z",
-            "containerID": "docker://f867ab7d5c68a86fc695e4d3e5f1912fdb8f98f5029ca96032b4d5d407d9a75c"
-          }
-        },
-        "ready": false,
-        "restartCount": 0,
-        "image": "redis:latest",
-        "imageID": ""
-      }
-    ],
-    "qosClass": "Guaranteed",
-    "managementIP": "172.28.0.17"
-  }
+    "spec": {
+        "containers": [
+            {
+                "name": "test",
+                "image": "redis:latest",
+                "resources": {
+                    "limits": {
+                        "cpu": "500m",
+                        "memory": "1Gi"
+                    },
+                    "requests": {
+                        "cpu": "500m",
+                        "memory": "1Gi"
+                    }
+                },
+                "terminationMessagePath": "/dev/termination-log",
+                "terminationMessagePolicy": "File",
+                "imagePullPolicy": "Always"
+            }
+        ],
+        "restartPolicy": "Always",
+        "terminationGracePeriodSeconds": 30,
+        "dnsPolicy": "ClusterFirst",
+        "nodeName": "c0dd6256-195a-e811-90a2-10c17294fcbc",
+        "securityContext": {},
+        "imagePullSecrets": [
+            {
+                "name": "imagepull-secret"
+            }
+        ],
+        "schedulerName": "default-scheduler",
+        "tolerations": [
+            {
+                "key": "node.kubernetes.io/not-ready",
+                "operator": "Exists",
+                "effect": "NoExecute",
+                "tolerationSeconds": 300
+            },
+            {
+                "key": "node.kubernetes.io/unreachable",
+                "operator": "Exists",
+                "effect": "NoExecute",
+                "tolerationSeconds": 300
+            }
+        ]
+    },
+    "status": {
+        "phase": "Running",
+        "conditions": [
+            {
+                "type": "Initialized",
+                "status": "True",
+                "lastProbeTime": null,
+                "lastTransitionTime": "2018-09-04T11:04:03Z"
+            },
+            {
+                "type": "Ready",
+                "status": "False",
+                "lastProbeTime": null,
+                "lastTransitionTime": "2018-09-04T11:08:55Z",
+                "reason": "ContainersNotReady",
+                "message": "containers with unready status: [test]"
+            },
+            {
+                "type": "PodScheduled",
+                "status": "True",
+                "lastProbeTime": null,
+                "lastTransitionTime": "2018-09-04T11:04:02Z"
+            }
+        ],
+        "hostIP": "192.149.117.100",
+        "startTime": "2018-09-04T11:04:03Z",
+        "containerStatuses": [
+            {
+                "name": "test",
+                "state": {
+                    "waiting": {
+                        "reason": "ErrImagePull",
+                        "message": "rpc error: code = Unknown desc = Error response from daemon: Get https://registry-1.docker.io/v2/: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"
+                    }
+                },
+                "lastState": {
+                    "terminated": {
+                        "exitCode": 0,
+                        "reason": "Completed",
+                        "startedAt": "2018-09-04T11:04:23Z",
+                        "finishedAt": "2018-09-04T11:08:33Z",
+                        "containerID": "docker://f867ab7d5c68a86fc695e4d3e5f1912fdb8f98f5029ca96032b4d5d407d9a75c"
+                    }
+                },
+                "ready": false,
+                "restartCount": 0,
+                "image": "redis:latest",
+                "imageID": ""
+            }
+        ],
+        "qosClass": "Guaranteed",
+        "managementIP": "172.28.0.17"
+    }
 }
 ```
 

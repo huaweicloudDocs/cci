@@ -1,14 +1,14 @@
 # 创建Network<a name="cci_02_2012"></a>
 
-## 功能描述<a name="section1686113493165"></a>
+## 功能介绍<a name="section1686113493165"></a>
 
 创建一个Network对象。
 
-Network对象是华为云CCI 新增对象，用于定义kubernetes中一个namespace内的网络。目前CCI支持VPC网络，一个VPC网络类型的network对象对应于华为云虚拟私有云服务中的一个子网。
+Network对象是华为云CCI新增对象，用于定义kubernetes中一个namespace内的网络。目前CCI支持VPC网络，一个VPC网络类型的network对象对应于华为云虚拟私有云服务中的一个子网。
 
 CCI的容器网络依赖于华为云底层VPC网络，因此在创建network对象前，需要先调用虚拟私有云的接口创建或者查询已有子网信息。
 
->![](public_sys-resources/icon-notice.gif) **注意：**   
+>![](public_sys-resources/icon-notice.gif) **须知：**   
 >此处VPC和子网的网段不能为10.247.0.0/16，10.247.0.0/16是云容器实例预留给Service的网段。如果您使用此网段，后续可能会造成IP冲突，导致负载无法创建或服务不可用；如果您不需要通过Service访问，而是直接访问Pod，则可以使用此网段。  
 
 安全组ID可以在[安全组控制台](https://console.huaweicloud.com/vpc/#/vpc/vpcmanager/securitygroups)获取，如下图。
@@ -31,15 +31,15 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 **表 1**  Path参数
 
 <a name="table1696332124519"></a>
-<table><thead align="left"><tr id="row11961332194516"><th class="cellrowborder" valign="top" width="24%" id="mcps1.2.3.1.1"><p id="p396032144518"><a name="p396032144518"></a><a name="p396032144518"></a>参数</p>
+<table><thead align="left"><tr id="row11961332194516"><th class="cellrowborder" valign="top" width="24.01%" id="mcps1.2.3.1.1"><p id="p396032144518"><a name="p396032144518"></a><a name="p396032144518"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="76%" id="mcps1.2.3.1.2"><p id="p18962325454"><a name="p18962325454"></a><a name="p18962325454"></a>描述</p>
+<th class="cellrowborder" valign="top" width="75.99000000000001%" id="mcps1.2.3.1.2"><p id="p18962325454"><a name="p18962325454"></a><a name="p18962325454"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row9960327457"><td class="cellrowborder" valign="top" width="24%" headers="mcps1.2.3.1.1 "><p id="p1496113214456"><a name="p1496113214456"></a><a name="p1496113214456"></a>namespace</p>
+<tbody><tr id="row9960327457"><td class="cellrowborder" valign="top" width="24.01%" headers="mcps1.2.3.1.1 "><p id="p1496113214456"><a name="p1496113214456"></a><a name="p1496113214456"></a>namespace</p>
 </td>
-<td class="cellrowborder" valign="top" width="76%" headers="mcps1.2.3.1.2 "><p id="p141902036155717"><a name="p141902036155717"></a><a name="p141902036155717"></a>Object name and auth scope, such as for teams and projects.</p>
+<td class="cellrowborder" valign="top" width="75.99000000000001%" headers="mcps1.2.3.1.2 "><p id="p141902036155717"><a name="p141902036155717"></a><a name="p141902036155717"></a>Object name and auth scope, such as for teams and projects.</p>
 </td>
 </tr>
 </tbody>
@@ -48,17 +48,17 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 **表 2**  Query参数
 
 <a name="table34813241101"></a>
-<table><thead align="left"><tr id="row1048111243020"><th class="cellrowborder" valign="top" width="16%" id="mcps1.2.4.1.1"><p id="p13339172817018"><a name="p13339172817018"></a><a name="p13339172817018"></a>参数</p>
+<table><thead align="left"><tr id="row1048111243020"><th class="cellrowborder" valign="top" width="24.38%" id="mcps1.2.4.1.1"><p id="p13339172817018"><a name="p13339172817018"></a><a name="p13339172817018"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="33%" id="mcps1.2.4.1.2"><p id="p663610391010"><a name="p663610391010"></a><a name="p663610391010"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="24.62%" id="mcps1.2.4.1.2"><p id="p663610391010"><a name="p663610391010"></a><a name="p663610391010"></a>是否必选</p>
 </th>
 <th class="cellrowborder" valign="top" width="51%" id="mcps1.2.4.1.3"><p id="p9636103913011"><a name="p9636103913011"></a><a name="p9636103913011"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row34814241405"><td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.4.1.1 "><p id="p5964532607"><a name="p5964532607"></a><a name="p5964532607"></a>pretty</p>
+<tbody><tr id="row34814241405"><td class="cellrowborder" valign="top" width="24.38%" headers="mcps1.2.4.1.1 "><p id="p5964532607"><a name="p5964532607"></a><a name="p5964532607"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="33%" headers="mcps1.2.4.1.2 "><p id="p49641432503"><a name="p49641432503"></a><a name="p49641432503"></a>No</p>
+<td class="cellrowborder" valign="top" width="24.62%" headers="mcps1.2.4.1.2 "><p id="p49641432503"><a name="p49641432503"></a><a name="p49641432503"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="51%" headers="mcps1.2.4.1.3 "><p id="p496433211018"><a name="p496433211018"></a><a name="p496433211018"></a>If 'true', then the output is pretty printed.</p>
 </td>
@@ -140,7 +140,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </th>
 <th class="cellrowborder" valign="top" width="11%" id="mcps1.2.5.1.2"><p id="p37761541122611"><a name="p37761541122611"></a><a name="p37761541122611"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="10%" id="mcps1.2.5.1.3"><p id="p18600759152013"><a name="p18600759152013"></a><a name="p18600759152013"></a>类型</p>
+<th class="cellrowborder" valign="top" width="10%" id="mcps1.2.5.1.3"><p id="p18600759152013"><a name="p18600759152013"></a><a name="p18600759152013"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44%" id="mcps1.2.5.1.4"><p id="p36001759112013"><a name="p36001759112013"></a><a name="p36001759112013"></a>描述</p>
 </th>
@@ -183,7 +183,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </th>
 <th class="cellrowborder" valign="top" width="16%" id="mcps1.2.5.1.2"><p id="p046512488820"><a name="p046512488820"></a><a name="p046512488820"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19%" id="mcps1.2.5.1.3"><p id="p104741648481"><a name="p104741648481"></a><a name="p104741648481"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19%" id="mcps1.2.5.1.3"><p id="p104741648481"><a name="p104741648481"></a><a name="p104741648481"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="48%" id="mcps1.2.5.1.4"><p id="p15491184819810"><a name="p15491184819810"></a><a name="p15491184819810"></a>描述</p>
 </th>
@@ -242,8 +242,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p1873651111311"><a name="p1873651111311"></a><a name="p1873651111311"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p1877275710511"><a name="p1877275710511"></a><a name="p1877275710511"></a>Network对应VPC子网所在可用区。当前仅支持<span class="uicontrol" id="uicontrol187721557175111"><a name="uicontrol187721557175111"></a><a name="uicontrol187721557175111"></a>“华北-北京一”</span>区域，<span class="uicontrol" id="uicontrol1477935085316"><a name="uicontrol1477935085316"></a><a name="uicontrol1477935085316"></a>“可用区一”</span>。</p>
-<p id="p197365115311"><a name="p197365115311"></a><a name="p197365115311"></a>值必须为<span class="uicontrol" id="uicontrol59911284529"><a name="uicontrol59911284529"></a><a name="uicontrol59911284529"></a>“cnnorth1a”</span>。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p159741931152618"><a name="p159741931152618"></a><a name="p159741931152618"></a>Network对应VPC子网所在可用区。当前支持“华北-北京一”、“华北-北京四”和“华东-上海一”区域，该值可设置为“cnnorth1a”、“cn-north-4a”或“cn-east-3a”。</p>
 </td>
 </tr>
 </tbody>
@@ -256,7 +255,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </th>
 <th class="cellrowborder" valign="top" width="15.828417158284172%" id="mcps1.2.5.1.2"><p id="p107515551089"><a name="p107515551089"></a><a name="p107515551089"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="18.998100189981002%" id="mcps1.2.5.1.3"><p id="p15881655682"><a name="p15881655682"></a><a name="p15881655682"></a>类型</p>
+<th class="cellrowborder" valign="top" width="18.998100189981002%" id="mcps1.2.5.1.3"><p id="p15881655682"><a name="p15881655682"></a><a name="p15881655682"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="47.795220477952206%" id="mcps1.2.5.1.4"><p id="p69835516817"><a name="p69835516817"></a><a name="p69835516817"></a>描述</p>
 </th>
@@ -319,34 +318,34 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 
 ```
 {
-	"kind": "Network",
-	"apiVersion": "networking.cci.io/v1beta1",
-	"metadata": {
-		"name": "test-network",
-		"namespace": "test-ns",
-		"selfLink": "/apis/networking.cci.io/v1beta1/namespaces/test-ns/networks/test-network",
-		"uid": "f03452ac-a4ea-11e8-8500-c81fbe371a17",
-		"resourceVersion": "2025736",
-		"creationTimestamp": "2018-08-21T02:35:59Z",
-		"annotations": {
-			"network.alpha.kubernetes.io/default-security-group": "security-group-id",
-			"network.alpha.kubernetes.io/domain-id": "domain-id",
-			"network.alpha.kubernetes.io/project-id": "project-id",
-			"network.alpha.kubernetes.io/type": "underlay_neutron"
-		},
-		"enable": true
-	},
-	"spec": {
-		"availableZone": "cnnorth1a",
-		"cidr": "192.168.0.0/24",
-		"attachedVPC": "vpc-id",
-		"networkID": "network-id",
-		"networkType": "underlay_neutron", 
-		"subnetID": "subnet-id"
-	},
-        "status": {
-            "state": "Initializing"
-        }
+    "kind": "Network",
+    "apiVersion": "networking.cci.io/v1beta1",
+    "metadata": {
+        "name": "test-network",
+        "namespace": "test-ns",
+        "selfLink": "/apis/networking.cci.io/v1beta1/namespaces/test-ns/networks/test-network",
+        "uid": "f03452ac-a4ea-11e8-8500-c81fbe371a17",
+        "resourceVersion": "2025736",
+        "creationTimestamp": "2018-08-21T02:35:59Z",
+        "annotations": {
+            "network.alpha.kubernetes.io/default-security-group": "security-group-id",
+            "network.alpha.kubernetes.io/domain-id": "domain-id",
+            "network.alpha.kubernetes.io/project-id": "project-id",
+            "network.alpha.kubernetes.io/type": "underlay_neutron"
+        },
+        "enable": true
+    },
+    "spec": {
+        "availableZone": "cnnorth1a",
+        "cidr": "192.168.0.0/24",
+        "attachedVPC": "vpc-id",
+        "networkID": "network-id",
+        "networkType": "underlay_neutron",
+        "subnetID": "subnet-id"
+    },
+    "status": {
+        "state": "Initializing"
+    }
 }
 ```
 

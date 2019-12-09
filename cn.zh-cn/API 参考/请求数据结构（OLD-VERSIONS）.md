@@ -3,11 +3,11 @@
 **表 1**  v1.PodTemplate数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table58905579"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row32049974"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45911124"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45911124"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45911124"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row32049974"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45911124"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45911124"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45911124"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p17824192910511"><a name="p17824192910511"></a><a name="p17824192910511"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p20824629859"><a name="p20824629859"></a><a name="p20824629859"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p20824629859"><a name="p20824629859"></a><a name="p20824629859"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15622127"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15622127"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15622127"></a>描述</p>
 </th>
@@ -57,11 +57,11 @@
 **表 2**  v1.Pod请求参数
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table60388168"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row46345412"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62990874"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62990874"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62990874"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row46345412"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62990874"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62990874"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62990874"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1984015291654"><a name="p1984015291654"></a><a name="p1984015291654"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p208417293510"><a name="p208417293510"></a><a name="p208417293510"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p208417293510"><a name="p208417293510"></a><a name="p208417293510"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18939577"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18939577"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18939577"></a>描述</p>
 </th>
@@ -120,11 +120,11 @@
 **表 3**  status字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table6622601"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row34661303"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56102195"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56102195"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56102195"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row34661303"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56102195"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56102195"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56102195"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1786013291557"><a name="p1786013291557"></a><a name="p1786013291557"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p986219291753"><a name="p986219291753"></a><a name="p986219291753"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p986219291753"><a name="p986219291753"></a><a name="p986219291753"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p14783663"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p14783663"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p14783663"></a>描述</p>
 </th>
@@ -208,11 +208,11 @@
 **表 4**  conditions字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table59603417"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row23738738"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43789612"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43789612"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43789612"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row23738738"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43789612"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43789612"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43789612"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p4905229457"><a name="p4905229457"></a><a name="p4905229457"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p790762910514"><a name="p790762910514"></a><a name="p790762910514"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p790762910514"><a name="p790762910514"></a><a name="p790762910514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53486334"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53486334"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p53486334"></a>描述</p>
 </th>
@@ -278,11 +278,11 @@
 **表 5**  containerStatuses字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table66668712"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row62671488"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43225763"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43225763"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43225763"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row62671488"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43225763"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43225763"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43225763"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p54381630453"><a name="p54381630453"></a><a name="p54381630453"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p14381730958"><a name="p14381730958"></a><a name="p14381730958"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p14381730958"><a name="p14381730958"></a><a name="p14381730958"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42012952"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42012952"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42012952"></a>描述</p>
 </th>
@@ -366,11 +366,11 @@
 **表 6**  state/lastState字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table63147504"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row23849822"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52787457"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52787457"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52787457"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row23849822"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52787457"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52787457"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52787457"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p74642301156"><a name="p74642301156"></a><a name="p74642301156"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p17466173016519"><a name="p17466173016519"></a><a name="p17466173016519"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p17466173016519"><a name="p17466173016519"></a><a name="p17466173016519"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p34860939"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p34860939"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p34860939"></a>描述</p>
 </th>
@@ -409,11 +409,11 @@
 **表 7**  waiting字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table31456624"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row17289511"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p58273132"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p58273132"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p58273132"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row17289511"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p58273132"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p58273132"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p58273132"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p194771305515"><a name="p194771305515"></a><a name="p194771305515"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p54796301457"><a name="p54796301457"></a><a name="p54796301457"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p54796301457"><a name="p54796301457"></a><a name="p54796301457"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4431231"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4431231"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4431231"></a>描述</p>
 </th>
@@ -443,11 +443,11 @@
 **表 8**  running字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table14674162"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row21384704"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54439469"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54439469"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54439469"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row21384704"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54439469"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54439469"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54439469"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p24885301455"><a name="p24885301455"></a><a name="p24885301455"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p648823015517"><a name="p648823015517"></a><a name="p648823015517"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p648823015517"><a name="p648823015517"></a><a name="p648823015517"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63868800"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63868800"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63868800"></a>描述</p>
 </th>
@@ -468,11 +468,11 @@
 **表 9**  terminated字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table64958600"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row59852202"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16190202"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16190202"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16190202"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row59852202"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16190202"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16190202"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p16190202"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p2394732950"><a name="p2394732950"></a><a name="p2394732950"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p143942324516"><a name="p143942324516"></a><a name="p143942324516"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p143942324516"><a name="p143942324516"></a><a name="p143942324516"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42712676"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42712676"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p42712676"></a>描述</p>
 </th>
@@ -547,11 +547,11 @@
 **表 10**  metadata字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row40380178"><th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49569014"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49569014"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49569014"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row40380178"><th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49569014"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49569014"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p49569014"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="20%" id="mcps1.2.5.1.2"><p id="p1401163211511"><a name="p1401163211511"></a><a name="p1401163211511"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20%" id="mcps1.2.5.1.3"><p id="p1740117321150"><a name="p1740117321150"></a><a name="p1740117321150"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20%" id="mcps1.2.5.1.3"><p id="p1740117321150"><a name="p1740117321150"></a><a name="p1740117321150"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26052508"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26052508"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p26052508"></a>描述</p>
 </th>
@@ -715,7 +715,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_aeb9abb483cfc4943a1d3eb4e4fd92e9c"><a name="zh-cn_topic_0083857342_aeb9abb483cfc4943a1d3eb4e4fd92e9c"></a><a name="zh-cn_topic_0083857342_aeb9abb483cfc4943a1d3eb4e4fd92e9c"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a3f27537b0c5f43598e377734d8771bad"><a name="zh-cn_topic_0083857342_a3f27537b0c5f43598e377734d8771bad"></a><a name="zh-cn_topic_0083857342_a3f27537b0c5f43598e377734d8771bad"></a>String array</p>
+<td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a3f27537b0c5f43598e377734d8771bad"><a name="zh-cn_topic_0083857342_a3f27537b0c5f43598e377734d8771bad"></a><a name="zh-cn_topic_0083857342_a3f27537b0c5f43598e377734d8771bad"></a>Array of strings</p>
 </td>
 <td class="cellrowborder" valign="top" width="39%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_ab207b3e465ab41aa93dcf87cc30e9e70"><a name="zh-cn_topic_0083857342_ab207b3e465ab41aa93dcf87cc30e9e70"></a><a name="zh-cn_topic_0083857342_ab207b3e465ab41aa93dcf87cc30e9e70"></a>(A newly added parameter in Kubernetes 1.3)</p>
 <p id="zh-cn_topic_0083857342_abd27c3d72bb04cc29f3b76476c8bb368"><a name="zh-cn_topic_0083857342_abd27c3d72bb04cc29f3b76476c8bb368"></a><a name="zh-cn_topic_0083857342_abd27c3d72bb04cc29f3b76476c8bb368"></a>Must be empty before the object is deleted from the registry. Each entry is an identifier for the responsible component that will remove the entry from the list. If the deletionTimestamp of the object is non-nil, entries in this list can only be removed.</p>
@@ -731,7 +731,7 @@
 </th>
 <th class="cellrowborder" valign="top" width="17.348265173482645%" id="mcps1.2.5.1.2"><p id="p8424532556"><a name="p8424532556"></a><a name="p8424532556"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p24243321050"><a name="p24243321050"></a><a name="p24243321050"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p24243321050"><a name="p24243321050"></a><a name="p24243321050"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.7960203979602%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12832140407"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12832140407"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p12832140407"></a>描述</p>
 </th>
@@ -767,7 +767,7 @@
 </th>
 <th class="cellrowborder" valign="top" width="17.348265173482645%" id="mcps1.2.5.1.2"><p id="p114287321052"><a name="p114287321052"></a><a name="p114287321052"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p84287321757"><a name="p84287321757"></a><a name="p84287321757"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p84287321757"><a name="p84287321757"></a><a name="p84287321757"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.7960203979602%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p148446494015"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p148446494015"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p148446494015"></a>描述</p>
 </th>
@@ -793,7 +793,7 @@
 </th>
 <th class="cellrowborder" valign="top" width="17.348265173482645%" id="mcps1.2.5.1.2"><p id="p124291832756"><a name="p124291832756"></a><a name="p124291832756"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p2431173215514"><a name="p2431173215514"></a><a name="p2431173215514"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p2431173215514"><a name="p2431173215514"></a><a name="p2431173215514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.7960203979602%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p38561644407"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p38561644407"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p38561644407"></a>描述</p>
 </th>
@@ -888,7 +888,7 @@
 </th>
 <th class="cellrowborder" valign="top" width="17.348265173482645%" id="mcps1.2.5.1.2"><p id="p2440143219512"><a name="p2440143219512"></a><a name="p2440143219512"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p1944133212516"><a name="p1944133212516"></a><a name="p1944133212516"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p1944133212516"><a name="p1944133212516"></a><a name="p1944133212516"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.7960203979602%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a8749b844279340acb521834ceab1cbf6"><a name="zh-cn_topic_0083857342_a8749b844279340acb521834ceab1cbf6"></a><a name="zh-cn_topic_0083857342_a8749b844279340acb521834ceab1cbf6"></a>描述</p>
 </th>
@@ -964,7 +964,7 @@
 </th>
 <th class="cellrowborder" valign="top" width="17.348265173482645%" id="mcps1.2.5.1.2"><p id="p244893217517"><a name="p244893217517"></a><a name="p244893217517"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p94483321656"><a name="p94483321656"></a><a name="p94483321656"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p94483321656"><a name="p94483321656"></a><a name="p94483321656"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.7960203979602%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p158866484011"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p158866484011"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p158866484011"></a>描述</p>
 </th>
@@ -1000,7 +1000,7 @@
 </th>
 <th class="cellrowborder" valign="top" width="17.348265173482645%" id="mcps1.2.5.1.2"><p id="p4452732254"><a name="p4452732254"></a><a name="p4452732254"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p845210326517"><a name="p845210326517"></a><a name="p845210326517"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20.40795920407959%" id="mcps1.2.5.1.3"><p id="p845210326517"><a name="p845210326517"></a><a name="p845210326517"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.7960203979602%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a5b3ca990a3254f2da3cae63c1ec166af"><a name="zh-cn_topic_0083857342_a5b3ca990a3254f2da3cae63c1ec166af"></a><a name="zh-cn_topic_0083857342_a5b3ca990a3254f2da3cae63c1ec166af"></a>描述</p>
 </th>
@@ -1042,11 +1042,11 @@
 **表 17**  ownerReferences字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t750cc4dd5dd645d6963dcde2ebd1be84"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r0e7fe9a9c3cb4264b4cfab5be22f4cec"><th class="cellrowborder" valign="top" width="21.240000000000002%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_ad8a64b45c5ff4b689eb363d9f35e8013"><a name="zh-cn_topic_0083857342_ad8a64b45c5ff4b689eb363d9f35e8013"></a><a name="zh-cn_topic_0083857342_ad8a64b45c5ff4b689eb363d9f35e8013"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r0e7fe9a9c3cb4264b4cfab5be22f4cec"><th class="cellrowborder" valign="top" width="21.240000000000002%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_ad8a64b45c5ff4b689eb363d9f35e8013"><a name="zh-cn_topic_0083857342_ad8a64b45c5ff4b689eb363d9f35e8013"></a><a name="zh-cn_topic_0083857342_ad8a64b45c5ff4b689eb363d9f35e8013"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.74%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0083857342_ae80bc3670ce44355bc989cdcd0b81502"><a name="zh-cn_topic_0083857342_ae80bc3670ce44355bc989cdcd0b81502"></a><a name="zh-cn_topic_0083857342_ae80bc3670ce44355bc989cdcd0b81502"></a><span id="zh-cn_topic_0083857342_p68548a3a2794424f872617f302a82a1d"><a name="zh-cn_topic_0083857342_p68548a3a2794424f872617f302a82a1d"></a><a name="zh-cn_topic_0083857342_p68548a3a2794424f872617f302a82a1d"></a>是否必选</span></p>
 </th>
-<th class="cellrowborder" valign="top" width="19.74%" id="mcps1.2.5.1.3"><p id="p545593219510"><a name="p545593219510"></a><a name="p545593219510"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.74%" id="mcps1.2.5.1.3"><p id="p545593219510"><a name="p545593219510"></a><a name="p545593219510"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_aeb4ca3eeb4ed4b97bc426472e4712e97"><a name="zh-cn_topic_0083857342_aeb4ca3eeb4ed4b97bc426472e4712e97"></a><a name="zh-cn_topic_0083857342_aeb4ca3eeb4ed4b97bc426472e4712e97"></a>描述</p>
 </th>
@@ -1112,11 +1112,11 @@
 **表 18**  spec字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table27155224"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row61263992"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63436324"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63436324"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63436324"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row61263992"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63436324"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63436324"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p63436324"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p44627321655"><a name="p44627321655"></a><a name="p44627321655"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1946253218520"><a name="p1946253218520"></a><a name="p1946253218520"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1946253218520"><a name="p1946253218520"></a><a name="p1946253218520"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56112283"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56112283"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56112283"></a>描述</p>
 </th>
@@ -1167,11 +1167,11 @@
 **表 19**  status字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table43070429"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row14117289"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2649792"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2649792"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2649792"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row14117289"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2649792"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2649792"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2649792"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1846773219514"><a name="p1846773219514"></a><a name="p1846773219514"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p164681732654"><a name="p164681732654"></a><a name="p164681732654"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p164681732654"><a name="p164681732654"></a><a name="p164681732654"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62834605"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62834605"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p62834605"></a>描述</p>
 </th>
@@ -1237,11 +1237,11 @@
 **表 20**  template字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table52089545"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row34234904"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p21563865"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p21563865"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p21563865"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row34234904"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p21563865"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p21563865"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p21563865"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p9474153216513"><a name="p9474153216513"></a><a name="p9474153216513"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p54759327517"><a name="p54759327517"></a><a name="p54759327517"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p54759327517"><a name="p54759327517"></a><a name="p54759327517"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10225512"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10225512"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p10225512"></a>描述</p>
 </th>
@@ -1271,11 +1271,11 @@
 **表 21**  condition字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t98ff3e5ee20d488b9906bd31144724f3"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r82e80a6190d64dc5b21dfb926fc15fe0"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a67b2c43eeb2141dead9b6d457f96ff3a"><a name="zh-cn_topic_0083857342_a67b2c43eeb2141dead9b6d457f96ff3a"></a><a name="zh-cn_topic_0083857342_a67b2c43eeb2141dead9b6d457f96ff3a"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r82e80a6190d64dc5b21dfb926fc15fe0"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a67b2c43eeb2141dead9b6d457f96ff3a"><a name="zh-cn_topic_0083857342_a67b2c43eeb2141dead9b6d457f96ff3a"></a><a name="zh-cn_topic_0083857342_a67b2c43eeb2141dead9b6d457f96ff3a"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p14781932057"><a name="p14781932057"></a><a name="p14781932057"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p12478193216511"><a name="p12478193216511"></a><a name="p12478193216511"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p12478193216511"><a name="p12478193216511"></a><a name="p12478193216511"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p689218113409"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p689218113409"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p689218113409"></a>描述</p>
 </th>
@@ -1332,11 +1332,11 @@
 **表 22**  spec字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table66152725"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row27914196"><th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46457383"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46457383"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46457383"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row27914196"><th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46457383"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46457383"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46457383"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="20%" id="mcps1.2.5.1.2"><p id="p174853321056"><a name="p174853321056"></a><a name="p174853321056"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="20%" id="mcps1.2.5.1.3"><p id="p124857321255"><a name="p124857321255"></a><a name="p124857321255"></a>类型</p>
+<th class="cellrowborder" valign="top" width="20%" id="mcps1.2.5.1.3"><p id="p124857321255"><a name="p124857321255"></a><a name="p124857321255"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7089074"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7089074"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7089074"></a>描述</p>
 </th>
@@ -1591,11 +1591,11 @@
 **表 23**  containers字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table56770522"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row44830087"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7358467"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7358467"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7358467"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row44830087"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7358467"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7358467"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p7358467"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p55181321559"><a name="p55181321559"></a><a name="p55181321559"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p175186321055"><a name="p175186321055"></a><a name="p175186321055"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p175186321055"><a name="p175186321055"></a><a name="p175186321055"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23388799"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23388799"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23388799"></a>描述</p>
 </th>
@@ -1783,11 +1783,11 @@
 **表 24**  securityContext字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table41172652"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row48603320"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44554846"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44554846"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44554846"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row48603320"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44554846"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44554846"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44554846"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p05401132450"><a name="p05401132450"></a><a name="p05401132450"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p165409321554"><a name="p165409321554"></a><a name="p165409321554"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p165409321554"><a name="p165409321554"></a><a name="p165409321554"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p50168842"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p50168842"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p50168842"></a>描述</p>
 </th>
@@ -1846,11 +1846,11 @@
 **表 25**  imagePullSecrets字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table35009555"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row58826021"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p178395"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p178395"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p178395"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row58826021"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p178395"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p178395"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p178395"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p2054515325513"><a name="p2054515325513"></a><a name="p2054515325513"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p6547183211510"><a name="p6547183211510"></a><a name="p6547183211510"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p6547183211510"><a name="p6547183211510"></a><a name="p6547183211510"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48768695"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48768695"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48768695"></a>描述</p>
 </th>
@@ -1863,7 +1863,7 @@
 <td class="cellrowborder" valign="top" width="19.73802619738026%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44327440"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44327440"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p44327440"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="39.28607139286072%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33752906"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33752906"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p33752906"></a>Name of the referent.</p>
-<div class="notice" id="zh-cn_topic_0083857342_note114641846318"><a name="zh-cn_topic_0083857342_note114641846318"></a><a name="zh-cn_topic_0083857342_note114641846318"></a><span class="noticetitle"> 注意： </span><div class="noticebody"><p id="zh-cn_topic_0083857342_p84641744316"><a name="zh-cn_topic_0083857342_p84641744316"></a><a name="zh-cn_topic_0083857342_p84641744316"></a>创建应用时，使用的镜像是容器镜像服务界面上的“我的镜像”页签中的镜像，那么该参数的值必须设置为imagepull-secret 。</p>
+<div class="notice" id="zh-cn_topic_0083857342_note114641846318"><a name="zh-cn_topic_0083857342_note114641846318"></a><a name="zh-cn_topic_0083857342_note114641846318"></a><span class="noticetitle"> 须知： </span><div class="noticebody"><p id="zh-cn_topic_0083857342_p84641744316"><a name="zh-cn_topic_0083857342_p84641744316"></a><a name="zh-cn_topic_0083857342_p84641744316"></a>创建应用时，使用的镜像是容器镜像服务界面上的“我的镜像”页签中的镜像，那么该参数的值必须设置为imagepull-secret 。</p>
 </div></div>
 </td>
 </tr>
@@ -1873,11 +1873,11 @@
 **表 26**  hostPath字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table46650543"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row8100078"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52126542"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52126542"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52126542"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row8100078"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52126542"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52126542"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p52126542"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p145494321655"><a name="p145494321655"></a><a name="p145494321655"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p18549232158"><a name="p18549232158"></a><a name="p18549232158"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p18549232158"><a name="p18549232158"></a><a name="p18549232158"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45285081"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45285081"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45285081"></a>描述</p>
 </th>
@@ -1898,11 +1898,11 @@
 **表 27**  emptyDir字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table17201705"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row61327951"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1508097"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1508097"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1508097"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row61327951"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1508097"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1508097"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p1508097"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p555711326510"><a name="p555711326510"></a><a name="p555711326510"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p555753216516"><a name="p555753216516"></a><a name="p555753216516"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p555753216516"><a name="p555753216516"></a><a name="p555753216516"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p50890292"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p50890292"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p50890292"></a>描述</p>
 </th>
@@ -1923,11 +1923,11 @@
 **表 28**  gitRepo字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table57794333"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row4899555"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61319646"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61319646"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61319646"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row4899555"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61319646"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61319646"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61319646"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p35608328513"><a name="p35608328513"></a><a name="p35608328513"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p85601332157"><a name="p85601332157"></a><a name="p85601332157"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p85601332157"><a name="p85601332157"></a><a name="p85601332157"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45467475"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45467475"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p45467475"></a>描述</p>
 </th>
@@ -1957,11 +1957,11 @@
 **表 29**  ports字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table61256692"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row65668446"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17543884"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17543884"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17543884"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row65668446"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17543884"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17543884"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17543884"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1656410327518"><a name="p1656410327518"></a><a name="p1656410327518"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p14564133214517"><a name="p14564133214517"></a><a name="p14564133214517"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p14564133214517"><a name="p14564133214517"></a><a name="p14564133214517"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37715016"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37715016"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37715016"></a>描述</p>
 </th>
@@ -2025,11 +2025,11 @@
 **表 30**  env字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table14439320"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row30424881"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48496300"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48496300"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48496300"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row30424881"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48496300"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48496300"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p48496300"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p155741732358"><a name="p155741732358"></a><a name="p155741732358"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1857417321055"><a name="p1857417321055"></a><a name="p1857417321055"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1857417321055"><a name="p1857417321055"></a><a name="p1857417321055"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p31485239"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p31485239"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p31485239"></a>描述</p>
 </th>
@@ -2068,11 +2068,11 @@
 **表 31**  resources字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_tadcecbe6eebe4b1190e9630dce396f2c"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_rca2b205afa944714a2f3079d3a4945f1"><th class="cellrowborder" valign="top" width="21.240000000000002%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a5aa84a05ae1f45edbfc7df8ec0f4c5f2"><a name="zh-cn_topic_0083857342_a5aa84a05ae1f45edbfc7df8ec0f4c5f2"></a><a name="zh-cn_topic_0083857342_a5aa84a05ae1f45edbfc7df8ec0f4c5f2"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_rca2b205afa944714a2f3079d3a4945f1"><th class="cellrowborder" valign="top" width="21.240000000000002%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a5aa84a05ae1f45edbfc7df8ec0f4c5f2"><a name="zh-cn_topic_0083857342_a5aa84a05ae1f45edbfc7df8ec0f4c5f2"></a><a name="zh-cn_topic_0083857342_a5aa84a05ae1f45edbfc7df8ec0f4c5f2"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.55%" id="mcps1.2.5.1.2"><p id="p5578133218517"><a name="p5578133218517"></a><a name="p5578133218517"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.74%" id="mcps1.2.5.1.3"><p id="p6579143211518"><a name="p6579143211518"></a><a name="p6579143211518"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.74%" id="mcps1.2.5.1.3"><p id="p6579143211518"><a name="p6579143211518"></a><a name="p6579143211518"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.47%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_ab599fc2cf69f4db6b18486cb02a7fb42"><a name="zh-cn_topic_0083857342_ab599fc2cf69f4db6b18486cb02a7fb42"></a><a name="zh-cn_topic_0083857342_ab599fc2cf69f4db6b18486cb02a7fb42"></a>描述</p>
 </th>
@@ -2082,7 +2082,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.55%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_aaa56d255c05a4a55b9298d058f56fde4"><a name="zh-cn_topic_0083857342_aaa56d255c05a4a55b9298d058f56fde4"></a><a name="zh-cn_topic_0083857342_aaa56d255c05a4a55b9298d058f56fde4"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a1cece4857c3445bd90c93d6439724334"><a name="zh-cn_topic_0083857342_a1cece4857c3445bd90c93d6439724334"></a><a name="zh-cn_topic_0083857342_a1cece4857c3445bd90c93d6439724334"></a>object</p>
+<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_a1cece4857c3445bd90c93d6439724334"><a name="zh-cn_topic_0083857342_a1cece4857c3445bd90c93d6439724334"></a><a name="zh-cn_topic_0083857342_a1cece4857c3445bd90c93d6439724334"></a>Object</p>
 </td>
 <td class="cellrowborder" valign="top" width="39.47%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_afcea6dc0717e46c7b7b4749b70f02e13"><a name="zh-cn_topic_0083857342_afcea6dc0717e46c7b7b4749b70f02e13"></a><a name="zh-cn_topic_0083857342_afcea6dc0717e46c7b7b4749b70f02e13"></a>Maximum amount of compute resources allowed.</p>
 </td>
@@ -2091,7 +2091,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.55%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083857342_a0a864d6f95784c8d94063fc93666925f"><a name="zh-cn_topic_0083857342_a0a864d6f95784c8d94063fc93666925f"></a><a name="zh-cn_topic_0083857342_a0a864d6f95784c8d94063fc93666925f"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"></a>object</p>
+<td class="cellrowborder" valign="top" width="19.74%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p276291172926"></a>Object</p>
 </td>
 <td class="cellrowborder" valign="top" width="39.47%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083857342_a2f754c9b36674039aefe0854ee9253c6"><a name="zh-cn_topic_0083857342_a2f754c9b36674039aefe0854ee9253c6"></a><a name="zh-cn_topic_0083857342_a2f754c9b36674039aefe0854ee9253c6"></a>Minimum amount of compute resources required. If Requests is omitted for a container, it defaults to Limits if that is explicitly specified, otherwise to an implementation-defined value.</p>
 <p id="p1937915924315"><a name="p1937915924315"></a><a name="p1937915924315"></a>云容器实例中Pod规格有限制，具体的限制请参见<a href="https://support.huaweicloud.com/productdesc-cci/cci_03_0007.html" target="_blank" rel="noopener noreferrer">约束限制</a>页面的<span class="uicontrol" id="uicontrol1961412441534"><a name="uicontrol1961412441534"></a><a name="uicontrol1961412441534"></a>“Pod规格”</span>部分。</p>
@@ -2103,11 +2103,11 @@
 **表 32**  volumeMounts字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table62845019"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row37334299"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4179377"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4179377"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4179377"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row37334299"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4179377"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4179377"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p4179377"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p205836321510"><a name="p205836321510"></a><a name="p205836321510"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p18583143212512"><a name="p18583143212512"></a><a name="p18583143212512"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p18583143212512"><a name="p18583143212512"></a><a name="p18583143212512"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57396781"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57396781"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p57396781"></a>描述</p>
 </th>
@@ -2161,11 +2161,11 @@
 **表 33**  livenessProbe字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table1046103"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row37955333"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54483095"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54483095"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54483095"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row37955333"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54483095"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54483095"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p54483095"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1258913215511"><a name="p1258913215511"></a><a name="p1258913215511"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p125899323514"><a name="p125899323514"></a><a name="p125899323514"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p125899323514"><a name="p125899323514"></a><a name="p125899323514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28830314"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28830314"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p28830314"></a>描述</p>
 </th>
@@ -2258,11 +2258,11 @@
 **表 34**  lifecycle字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table28734262"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row1362691"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43269122"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43269122"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43269122"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row1362691"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43269122"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43269122"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p43269122"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p8603113214515"><a name="p8603113214515"></a><a name="p8603113214515"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1960513321052"><a name="p1960513321052"></a><a name="p1960513321052"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1960513321052"><a name="p1960513321052"></a><a name="p1960513321052"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66290058"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66290058"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p66290058"></a>描述</p>
 </th>
@@ -2292,11 +2292,11 @@
 **表 35**  securityContext字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table57281770"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row13515039"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20976384"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20976384"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20976384"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row13515039"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20976384"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20976384"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p20976384"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p261015321055"><a name="p261015321055"></a><a name="p261015321055"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p161016321556"><a name="p161016321556"></a><a name="p161016321556"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p161016321556"><a name="p161016321556"></a><a name="p161016321556"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56038774"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56038774"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p56038774"></a>描述</p>
 </th>
@@ -2360,11 +2360,11 @@
 **表 36**  seLinuxOptions字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table45773889"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row8520399"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19063717"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19063717"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19063717"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row8520399"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19063717"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19063717"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p19063717"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p17618332053"><a name="p17618332053"></a><a name="p17618332053"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1961893210514"><a name="p1961893210514"></a><a name="p1961893210514"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1961893210514"><a name="p1961893210514"></a><a name="p1961893210514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17022177"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17022177"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p17022177"></a>描述</p>
 </th>
@@ -2412,11 +2412,11 @@
 **表 37**  items字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table9311818"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row42299649"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3719529"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3719529"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3719529"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row42299649"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3719529"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3719529"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3719529"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p10623163215514"><a name="p10623163215514"></a><a name="p10623163215514"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1962318320513"><a name="p1962318320513"></a><a name="p1962318320513"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1962318320513"><a name="p1962318320513"></a><a name="p1962318320513"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18731155"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18731155"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p18731155"></a>描述</p>
 </th>
@@ -2455,11 +2455,11 @@
 **表 38**  valueFrom字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table16697504"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row24765833"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59875445"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59875445"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59875445"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row24765833"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59875445"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59875445"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p59875445"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p106286321855"><a name="p106286321855"></a><a name="p106286321855"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p186281732351"><a name="p186281732351"></a><a name="p186281732351"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p186281732351"><a name="p186281732351"></a><a name="p186281732351"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61630770"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61630770"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p61630770"></a>描述</p>
 </th>
@@ -2489,11 +2489,11 @@
 **表 39**  exec字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table16059811"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row48992079"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8935494"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8935494"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8935494"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row48992079"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8935494"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8935494"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8935494"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p9631143211516"><a name="p9631143211516"></a><a name="p9631143211516"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p2631103213514"><a name="p2631103213514"></a><a name="p2631103213514"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p2631103213514"><a name="p2631103213514"></a><a name="p2631103213514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p64667859"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p64667859"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p64667859"></a>描述</p>
 </th>
@@ -2514,11 +2514,11 @@
 **表 40**  httpGet字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table10320572"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row4999822"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2332471"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2332471"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2332471"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row4999822"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2332471"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2332471"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p2332471"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p146334321952"><a name="p146334321952"></a><a name="p146334321952"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p56332327513"><a name="p56332327513"></a><a name="p56332327513"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p56332327513"><a name="p56332327513"></a><a name="p56332327513"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3193740"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3193740"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3193740"></a>描述</p>
 </th>
@@ -2566,11 +2566,11 @@
 **表 41**  tcpSocket字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table25776284"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row66859210"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46886909"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46886909"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46886909"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row66859210"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46886909"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46886909"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p46886909"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1640143217515"><a name="p1640143217515"></a><a name="p1640143217515"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p19640193217518"><a name="p19640193217518"></a><a name="p19640193217518"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p19640193217518"><a name="p19640193217518"></a><a name="p19640193217518"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37569576"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37569576"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37569576"></a>描述</p>
 </th>
@@ -2591,11 +2591,11 @@
 **表 42**  postStart/preStop字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table30659964"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row10134631"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15598744"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15598744"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15598744"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row10134631"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15598744"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15598744"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p15598744"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p176438322512"><a name="p176438322512"></a><a name="p176438322512"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p166438326510"><a name="p166438326510"></a><a name="p166438326510"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p166438326510"><a name="p166438326510"></a><a name="p166438326510"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p55692015"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p55692015"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p55692015"></a>描述</p>
 </th>
@@ -2634,11 +2634,11 @@
 **表 43**  capabilities字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table7504221"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row41730377"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24717373"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24717373"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24717373"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row41730377"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24717373"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24717373"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p24717373"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1864818322510"><a name="p1864818322510"></a><a name="p1864818322510"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1464853218515"><a name="p1464853218515"></a><a name="p1464853218515"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1464853218515"><a name="p1464853218515"></a><a name="p1464853218515"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3951742"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3951742"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3951742"></a>描述</p>
 </th>
@@ -2668,11 +2668,11 @@
 **表 44**  fieldRef字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_table429128"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row11055947"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23116495"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23116495"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23116495"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_row11055947"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23116495"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23116495"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p23116495"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p765119321152"><a name="p765119321152"></a><a name="p765119321152"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p46511326514"><a name="p46511326514"></a><a name="p46511326514"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p46511326514"><a name="p46511326514"></a><a name="p46511326514"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37683526"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37683526"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p37683526"></a>描述</p>
 </th>
@@ -2702,11 +2702,11 @@
 **表 45**  resourceFieldRef字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t38f0ca2ab8d74dd98de023687b5cfcf1"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_rb2e2bd06c721439d8dd768d6d908c47b"><th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11644191375"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11644191375"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11644191375"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_rb2e2bd06c721439d8dd768d6d908c47b"><th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11644191375"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11644191375"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p11644191375"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="20%" id="mcps1.2.5.1.2"><p id="p196530321452"><a name="p196530321452"></a><a name="p196530321452"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19%" id="mcps1.2.5.1.3"><p id="p665516321857"><a name="p665516321857"></a><a name="p665516321857"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19%" id="mcps1.2.5.1.3"><p id="p665516321857"><a name="p665516321857"></a><a name="p665516321857"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="40%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8641196710"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8641196710"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p8641196710"></a>描述</p>
 </th>
@@ -2745,11 +2745,11 @@
 **表 46**  add字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t5d748156fbe2402fb321de0cf4f31ebf"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r257593795036407d965d416aa884a7db"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a8f03184d215d4743ad1d2c3fb15bc4e5"><a name="zh-cn_topic_0083857342_a8f03184d215d4743ad1d2c3fb15bc4e5"></a><a name="zh-cn_topic_0083857342_a8f03184d215d4743ad1d2c3fb15bc4e5"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r257593795036407d965d416aa884a7db"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a8f03184d215d4743ad1d2c3fb15bc4e5"><a name="zh-cn_topic_0083857342_a8f03184d215d4743ad1d2c3fb15bc4e5"></a><a name="zh-cn_topic_0083857342_a8f03184d215d4743ad1d2c3fb15bc4e5"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1966010321558"><a name="p1966010321558"></a><a name="p1966010321558"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1066014326519"><a name="p1066014326519"></a><a name="p1066014326519"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1066014326519"><a name="p1066014326519"></a><a name="p1066014326519"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p848171210124"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p848171210124"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p848171210124"></a>描述</p>
 </th>
@@ -2789,11 +2789,11 @@
 **表 47**  affinity字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_tbfd18f2629c14251a5aa840fec915754"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_rb748f91f331140f5b74d222e3f32e099"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p118843313481"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p118843313481"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p118843313481"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_rb748f91f331140f5b74d222e3f32e099"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p118843313481"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p118843313481"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p118843313481"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p16641032959"><a name="p16641032959"></a><a name="p16641032959"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p18664232754"><a name="p18664232754"></a><a name="p18664232754"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p18664232754"><a name="p18664232754"></a><a name="p18664232754"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a12237349bfbc44e6bb6deb4bac20a533"><a name="zh-cn_topic_0083857342_a12237349bfbc44e6bb6deb4bac20a533"></a><a name="zh-cn_topic_0083857342_a12237349bfbc44e6bb6deb4bac20a533"></a>描述</p>
 </th>
@@ -2835,11 +2835,11 @@
 **表 48**  nodeAffinity字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t73c1a2f755cd4c26a308ffde4c9472d6"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_ra48bff07e1d942c79061ae39b9777ecd"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a6e48d82840294508b25ec65847cc6428"><a name="zh-cn_topic_0083857342_a6e48d82840294508b25ec65847cc6428"></a><a name="zh-cn_topic_0083857342_a6e48d82840294508b25ec65847cc6428"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_ra48bff07e1d942c79061ae39b9777ecd"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a6e48d82840294508b25ec65847cc6428"><a name="zh-cn_topic_0083857342_a6e48d82840294508b25ec65847cc6428"></a><a name="zh-cn_topic_0083857342_a6e48d82840294508b25ec65847cc6428"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1966813321353"><a name="p1966813321353"></a><a name="p1966813321353"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p866818321252"><a name="p866818321252"></a><a name="p866818321252"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p866818321252"><a name="p866818321252"></a><a name="p866818321252"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a2d4abcf772614938abf93065e7028d0d"><a name="zh-cn_topic_0083857342_a2d4abcf772614938abf93065e7028d0d"></a><a name="zh-cn_topic_0083857342_a2d4abcf772614938abf93065e7028d0d"></a>描述</p>
 </th>
@@ -2871,11 +2871,11 @@
 **表 49**  podAffinity字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_tdaa4038d2198465fbf27b65a84b0e82e"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r9bbcde01c63f41a38ed4a4257f82a713"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a95dea0c35a4d49d4bd5e4196f1829176"><a name="zh-cn_topic_0083857342_a95dea0c35a4d49d4bd5e4196f1829176"></a><a name="zh-cn_topic_0083857342_a95dea0c35a4d49d4bd5e4196f1829176"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r9bbcde01c63f41a38ed4a4257f82a713"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a95dea0c35a4d49d4bd5e4196f1829176"><a name="zh-cn_topic_0083857342_a95dea0c35a4d49d4bd5e4196f1829176"></a><a name="zh-cn_topic_0083857342_a95dea0c35a4d49d4bd5e4196f1829176"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p1367513322517"><a name="p1367513322517"></a><a name="p1367513322517"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p967514321054"><a name="p967514321054"></a><a name="p967514321054"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p967514321054"><a name="p967514321054"></a><a name="p967514321054"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a012d75a06b6d479489c547fa53f53a25"><a name="zh-cn_topic_0083857342_a012d75a06b6d479489c547fa53f53a25"></a><a name="zh-cn_topic_0083857342_a012d75a06b6d479489c547fa53f53a25"></a>描述</p>
 </th>
@@ -2906,11 +2906,11 @@
 **表 50**  preferredDuringSchedulingIgnoredDuringExecution字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t006ba8881ab94c2e959daa5be168b8c4"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r4fdeb44fa2c24168980d8cddb7fd15cf"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p175232027204"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p175232027204"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p175232027204"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r4fdeb44fa2c24168980d8cddb7fd15cf"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p175232027204"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p175232027204"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p175232027204"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p15683432353"><a name="p15683432353"></a><a name="p15683432353"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p668416325512"><a name="p668416325512"></a><a name="p668416325512"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p668416325512"><a name="p668416325512"></a><a name="p668416325512"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a98a344f8257a42f58b68fcb60b2d0094"><a name="zh-cn_topic_0083857342_a98a344f8257a42f58b68fcb60b2d0094"></a><a name="zh-cn_topic_0083857342_a98a344f8257a42f58b68fcb60b2d0094"></a>描述</p>
 </th>
@@ -2942,11 +2942,11 @@
 **表 51**  requiredDuringSchedulingIgnoredDuringExecution字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_tc27eca87ee0b4a819ab6ee20720e2f45"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r17724e63485747e688e35ea015c95c82"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p270393619"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p270393619"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p270393619"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r17724e63485747e688e35ea015c95c82"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p270393619"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p270393619"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p270393619"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p369011327515"><a name="p369011327515"></a><a name="p369011327515"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p186901532456"><a name="p186901532456"></a><a name="p186901532456"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p186901532456"><a name="p186901532456"></a><a name="p186901532456"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3758163819"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3758163819"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p3758163819"></a>描述</p>
 </th>
@@ -2968,11 +2968,11 @@
 **表 52**  preference字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t17a1b90b9b294b4eaa152585792e7617"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r5bbb6a8235f54c68a6ba9db473cc814c"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p74337247419"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p74337247419"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p74337247419"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r5bbb6a8235f54c68a6ba9db473cc814c"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p74337247419"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p74337247419"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p74337247419"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p176926327517"><a name="p176926327517"></a><a name="p176926327517"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1969216321455"><a name="p1969216321455"></a><a name="p1969216321455"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1969216321455"><a name="p1969216321455"></a><a name="p1969216321455"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p94859241143"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p94859241143"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p94859241143"></a>描述</p>
 </th>
@@ -2993,11 +2993,11 @@
 **表 53**  matchExpressions字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_tc4580543ea4b466c8f9c319a6364992e"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_rc54bcccbccb54e53ae558670571cabb2"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p174072251450"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p174072251450"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p174072251450"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_rc54bcccbccb54e53ae558670571cabb2"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p174072251450"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p174072251450"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p174072251450"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p126965326510"><a name="p126965326510"></a><a name="p126965326510"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p16696103210510"><a name="p16696103210510"></a><a name="p16696103210510"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p16696103210510"><a name="p16696103210510"></a><a name="p16696103210510"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a666183b52d74401aa38d863620c13f1a"><a name="zh-cn_topic_0083857342_a666183b52d74401aa38d863620c13f1a"></a><a name="zh-cn_topic_0083857342_a666183b52d74401aa38d863620c13f1a"></a>描述</p>
 </th>
@@ -3040,11 +3040,11 @@
 **表 54**  preferredDuringSchedulingIgnoredDuringExecution字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_ta557c04db47245eea38937a835800ed8"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r8353ce2db34c401ea5a31e7414d67a5d"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_aed75934da88141ca946c9582e60eac60"><a name="zh-cn_topic_0083857342_aed75934da88141ca946c9582e60eac60"></a><a name="zh-cn_topic_0083857342_aed75934da88141ca946c9582e60eac60"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r8353ce2db34c401ea5a31e7414d67a5d"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_aed75934da88141ca946c9582e60eac60"><a name="zh-cn_topic_0083857342_aed75934da88141ca946c9582e60eac60"></a><a name="zh-cn_topic_0083857342_aed75934da88141ca946c9582e60eac60"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p37028327512"><a name="p37028327512"></a><a name="p37028327512"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1370217321657"><a name="p1370217321657"></a><a name="p1370217321657"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1370217321657"><a name="p1370217321657"></a><a name="p1370217321657"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a974424a7ed924e989a46c143a89811a7"><a name="zh-cn_topic_0083857342_a974424a7ed924e989a46c143a89811a7"></a><a name="zh-cn_topic_0083857342_a974424a7ed924e989a46c143a89811a7"></a>描述</p>
 </th>
@@ -3076,11 +3076,11 @@
 **表 55**  podAffinityTerm字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t71c4d466f8914af8b2bdc715f3c17157"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_rd47040bcdf6e4aa5b799c680c5941679"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_ace9b8936267c48e0af8dc212532f7023"><a name="zh-cn_topic_0083857342_ace9b8936267c48e0af8dc212532f7023"></a><a name="zh-cn_topic_0083857342_ace9b8936267c48e0af8dc212532f7023"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_rd47040bcdf6e4aa5b799c680c5941679"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_ace9b8936267c48e0af8dc212532f7023"><a name="zh-cn_topic_0083857342_ace9b8936267c48e0af8dc212532f7023"></a><a name="zh-cn_topic_0083857342_ace9b8936267c48e0af8dc212532f7023"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p8705193215512"><a name="p8705193215512"></a><a name="p8705193215512"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p107058322519"><a name="p107058322519"></a><a name="p107058322519"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p107058322519"><a name="p107058322519"></a><a name="p107058322519"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p515716303124"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p515716303124"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p515716303124"></a>描述</p>
 </th>
@@ -3121,11 +3121,11 @@
 **表 56**  labelSelector字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t9761ecceafe2408fa4ada94298c2557d"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_rbcf8d994b90541409134027c6ed59e6c"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p114616612152"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p114616612152"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p114616612152"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_rbcf8d994b90541409134027c6ed59e6c"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p114616612152"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p114616612152"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p114616612152"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p8709153215520"><a name="p8709153215520"></a><a name="p8709153215520"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p13711183218510"><a name="p13711183218510"></a><a name="p13711183218510"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p13711183218510"><a name="p13711183218510"></a><a name="p13711183218510"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p91023618151"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p91023618151"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p91023618151"></a>描述</p>
 </th>
@@ -3157,11 +3157,11 @@
 **表 57**  matchExpressions字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t9151539b718d4fa8ab6783d827b85620"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r9fe86d14ab414aa4a737903d199b7554"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_abf5ff718b48741e3921e11da35ae4e44"><a name="zh-cn_topic_0083857342_abf5ff718b48741e3921e11da35ae4e44"></a><a name="zh-cn_topic_0083857342_abf5ff718b48741e3921e11da35ae4e44"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r9fe86d14ab414aa4a737903d199b7554"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_abf5ff718b48741e3921e11da35ae4e44"><a name="zh-cn_topic_0083857342_abf5ff718b48741e3921e11da35ae4e44"></a><a name="zh-cn_topic_0083857342_abf5ff718b48741e3921e11da35ae4e44"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p57146321457"><a name="p57146321457"></a><a name="p57146321457"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1871419321252"><a name="p1871419321252"></a><a name="p1871419321252"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p1871419321252"><a name="p1871419321252"></a><a name="p1871419321252"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a782eac3ba0934cd2b6ad46ac41988007"><a name="zh-cn_topic_0083857342_a782eac3ba0934cd2b6ad46ac41988007"></a><a name="zh-cn_topic_0083857342_a782eac3ba0934cd2b6ad46ac41988007"></a>描述</p>
 </th>
@@ -3200,11 +3200,11 @@
 **表 58**  hostAliases字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t1fd09529895f445989372ccc67d34544"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_r319b67fd95a54eeb8765be99ad1a5a94"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p639111718357"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p639111718357"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p639111718357"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_r319b67fd95a54eeb8765be99ad1a5a94"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p639111718357"><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p639111718357"></a><a name="zh-cn_topic_0083857342_zh-cn_topic_0079614925_p639111718357"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p127195321455"><a name="p127195321455"></a><a name="p127195321455"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p7719133217515"><a name="p7719133217515"></a><a name="p7719133217515"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p7719133217515"><a name="p7719133217515"></a><a name="p7719133217515"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a13b10fafb1094723955a0dd18a2ce6af"><a name="zh-cn_topic_0083857342_a13b10fafb1094723955a0dd18a2ce6af"></a><a name="zh-cn_topic_0083857342_a13b10fafb1094723955a0dd18a2ce6af"></a>描述</p>
 </th>
@@ -3234,11 +3234,11 @@
 **表 59**  envFrom字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t0da1d4b32d79462a85a53d425612b4fc"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_rbd1b7a4561b04d2fbe75fa5e95f3207d"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a63d7af0719664992bd7f959e50c73cfa"><a name="zh-cn_topic_0083857342_a63d7af0719664992bd7f959e50c73cfa"></a><a name="zh-cn_topic_0083857342_a63d7af0719664992bd7f959e50c73cfa"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_rbd1b7a4561b04d2fbe75fa5e95f3207d"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_a63d7af0719664992bd7f959e50c73cfa"><a name="zh-cn_topic_0083857342_a63d7af0719664992bd7f959e50c73cfa"></a><a name="zh-cn_topic_0083857342_a63d7af0719664992bd7f959e50c73cfa"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p87245320514"><a name="p87245320514"></a><a name="p87245320514"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p87241321957"><a name="p87241321957"></a><a name="p87241321957"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p87241321957"><a name="p87241321957"></a><a name="p87241321957"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_a95fff6f2f54e49aea98a6789a69f9c81"><a name="zh-cn_topic_0083857342_a95fff6f2f54e49aea98a6789a69f9c81"></a><a name="zh-cn_topic_0083857342_a95fff6f2f54e49aea98a6789a69f9c81"></a>描述</p>
 </th>
@@ -3277,11 +3277,11 @@
 **表 60**  configMapRef字段数据结构说明
 
 <a name="tec427515396240f4920a49535b56f6d2"></a>
-<table><thead align="left"><tr id="rbedc7e43f47d4151871e2e6244f2dfd3"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0079614925_p046784334415"><a name="zh-cn_topic_0079614925_p046784334415"></a><a name="zh-cn_topic_0079614925_p046784334415"></a>名称</p>
+<table><thead align="left"><tr id="rbedc7e43f47d4151871e2e6244f2dfd3"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0079614925_p046784334415"><a name="zh-cn_topic_0079614925_p046784334415"></a><a name="zh-cn_topic_0079614925_p046784334415"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p367243311359"><a name="p367243311359"></a><a name="p367243311359"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p16864338354"><a name="p16864338354"></a><a name="p16864338354"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p16864338354"><a name="p16864338354"></a><a name="p16864338354"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="abc0e9f84a7854c828c2e2353a5730ba6"><a name="abc0e9f84a7854c828c2e2353a5730ba6"></a><a name="abc0e9f84a7854c828c2e2353a5730ba6"></a>描述</p>
 </th>
@@ -3311,11 +3311,11 @@
 **表 61**  secretRef字段数据结构说明
 
 <a name="t9d5712d0cc1143f296b53218ac2ed2ff"></a>
-<table><thead align="left"><tr id="r9f9f5e09208846a0baa2c17926fcdca9"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="a52f62a1fb1ad4867b04281bd25441b36"><a name="a52f62a1fb1ad4867b04281bd25441b36"></a><a name="a52f62a1fb1ad4867b04281bd25441b36"></a>名称</p>
+<table><thead align="left"><tr id="r9f9f5e09208846a0baa2c17926fcdca9"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="a52f62a1fb1ad4867b04281bd25441b36"><a name="a52f62a1fb1ad4867b04281bd25441b36"></a><a name="a52f62a1fb1ad4867b04281bd25441b36"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p8905201914361"><a name="p8905201914361"></a><a name="p8905201914361"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p4918151933613"><a name="p4918151933613"></a><a name="p4918151933613"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p4918151933613"><a name="p4918151933613"></a><a name="p4918151933613"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="a96dffa1f97664b90b96c9a190ec40342"><a name="a96dffa1f97664b90b96c9a190ec40342"></a><a name="a96dffa1f97664b90b96c9a190ec40342"></a>描述</p>
 </th>
@@ -3345,11 +3345,11 @@
 **表 62**  tolerations字段数据结构说明
 
 <a name="zh-cn_topic_0083857342_t9c64dcbb868f45359607f0693e41091c"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0083857342_re7e4582ac43143c1bf1a92da4a6842af"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_af37017d0996b4def89ca7f18adfdb972"><a name="zh-cn_topic_0083857342_af37017d0996b4def89ca7f18adfdb972"></a><a name="zh-cn_topic_0083857342_af37017d0996b4def89ca7f18adfdb972"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0083857342_re7e4582ac43143c1bf1a92da4a6842af"><th class="cellrowborder" valign="top" width="21.23787621237876%" id="mcps1.2.5.1.1"><p id="zh-cn_topic_0083857342_af37017d0996b4def89ca7f18adfdb972"><a name="zh-cn_topic_0083857342_af37017d0996b4def89ca7f18adfdb972"></a><a name="zh-cn_topic_0083857342_af37017d0996b4def89ca7f18adfdb972"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.2"><p id="p137351320510"><a name="p137351320510"></a><a name="p137351320510"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p27355321857"><a name="p27355321857"></a><a name="p27355321857"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.73802619738026%" id="mcps1.2.5.1.3"><p id="p27355321857"><a name="p27355321857"></a><a name="p27355321857"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.28607139286072%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0083857342_affd8b9d9aedd4be9a4c43a4467761ec8"><a name="zh-cn_topic_0083857342_affd8b9d9aedd4be9a4c43a4467761ec8"></a><a name="zh-cn_topic_0083857342_affd8b9d9aedd4be9a4c43a4467761ec8"></a>描述</p>
 </th>
@@ -3410,7 +3410,7 @@
 </th>
 <th class="cellrowborder" valign="top" width="19.388061193880613%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433700_p31242518"><a name="zh-cn_topic_0091433700_p31242518"></a><a name="zh-cn_topic_0091433700_p31242518"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.388061193880613%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433700_p47616044"><a name="zh-cn_topic_0091433700_p47616044"></a><a name="zh-cn_topic_0091433700_p47616044"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.388061193880613%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433700_p47616044"><a name="zh-cn_topic_0091433700_p47616044"></a><a name="zh-cn_topic_0091433700_p47616044"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.796020397960206%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433700_p31694362"><a name="zh-cn_topic_0091433700_p31694362"></a><a name="zh-cn_topic_0091433700_p31694362"></a>描述</p>
 </th>
@@ -3482,7 +3482,7 @@
 </th>
 <th class="cellrowborder" valign="top" width="19.388061193880613%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433700_p47386251"><a name="zh-cn_topic_0091433700_p47386251"></a><a name="zh-cn_topic_0091433700_p47386251"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="19.388061193880613%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433700_p13081136"><a name="zh-cn_topic_0091433700_p13081136"></a><a name="zh-cn_topic_0091433700_p13081136"></a>类型</p>
+<th class="cellrowborder" valign="top" width="19.388061193880613%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433700_p13081136"><a name="zh-cn_topic_0091433700_p13081136"></a><a name="zh-cn_topic_0091433700_p13081136"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="39.796020397960206%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433700_p52939081"><a name="zh-cn_topic_0091433700_p52939081"></a><a name="zh-cn_topic_0091433700_p52939081"></a>描述</p>
 </th>
@@ -3492,7 +3492,7 @@
 </td>
 <td class="cellrowborder" valign="top" width="19.388061193880613%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433700_p16450015"><a name="zh-cn_topic_0091433700_p16450015"></a><a name="zh-cn_topic_0091433700_p16450015"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="19.388061193880613%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433700_p57382875"><a name="zh-cn_topic_0091433700_p57382875"></a><a name="zh-cn_topic_0091433700_p57382875"></a>string</p>
+<td class="cellrowborder" valign="top" width="19.388061193880613%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433700_p57382875"><a name="zh-cn_topic_0091433700_p57382875"></a><a name="zh-cn_topic_0091433700_p57382875"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="39.796020397960206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433700_p17501266"><a name="zh-cn_topic_0091433700_p17501266"></a><a name="zh-cn_topic_0091433700_p17501266"></a>Specifies the target UID.</p>
 </td>

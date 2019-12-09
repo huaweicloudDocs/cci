@@ -111,19 +111,19 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "IngressList",
-  "apiVersion": "extensions/v1beta1",
-  "metadata": {
-    "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses",
-    "resourceVersion": "5160862"
-  },
-  "items": null
+    "kind": "IngressList",
+    "apiVersion": "extensions/v1beta1",
+    "metadata": {
+        "selfLink": "/apis/extensions/v1beta1/namespaces/namespace-test/ingresses",
+        "resourceVersion": "5160862"
+    },
+    "items": null
 }
 ```
 

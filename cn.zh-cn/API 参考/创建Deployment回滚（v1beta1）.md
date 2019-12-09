@@ -2,7 +2,7 @@
 
 ## 功能介绍<a name="zh-cn_topic_0091433672_section41398477"></a>
 
-This API is used to create rollback of a Deployment Rollback
+This API is used to create rollback of a Deployment Rollback.
 
 ## URI<a name="zh-cn_topic_0091433672_section37041974"></a>
 
@@ -56,7 +56,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </th>
 <th class="cellrowborder" valign="top" width="16%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433672_p33548811"><a name="zh-cn_topic_0091433672_p33548811"></a><a name="zh-cn_topic_0091433672_p33548811"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="22%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433672_p33099132"><a name="zh-cn_topic_0091433672_p33099132"></a><a name="zh-cn_topic_0091433672_p33099132"></a>类型</p>
+<th class="cellrowborder" valign="top" width="22%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433672_p33099132"><a name="zh-cn_topic_0091433672_p33099132"></a><a name="zh-cn_topic_0091433672_p33099132"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="43%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433672_p63784030"><a name="zh-cn_topic_0091433672_p63784030"></a><a name="zh-cn_topic_0091433672_p63784030"></a>描述</p>
 </th>
@@ -66,7 +66,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </td>
 <td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433672_p23458743"><a name="zh-cn_topic_0091433672_p23458743"></a><a name="zh-cn_topic_0091433672_p23458743"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p21109994"><a name="zh-cn_topic_0091433672_p21109994"></a><a name="zh-cn_topic_0091433672_p21109994"></a>string</p>
+<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p21109994"><a name="zh-cn_topic_0091433672_p21109994"></a><a name="zh-cn_topic_0091433672_p21109994"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="43%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433672_p32187991"><a name="zh-cn_topic_0091433672_p32187991"></a><a name="zh-cn_topic_0091433672_p32187991"></a>APIVersion defines the versioned schema of this representation of an object. Servers should convert recognized schemas to the latest internal value, and may reject unrecognized values.</p>
 </td>
@@ -75,7 +75,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </td>
 <td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433672_p11455687"><a name="zh-cn_topic_0091433672_p11455687"></a><a name="zh-cn_topic_0091433672_p11455687"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p55495420"><a name="zh-cn_topic_0091433672_p55495420"></a><a name="zh-cn_topic_0091433672_p55495420"></a>string</p>
+<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p55495420"><a name="zh-cn_topic_0091433672_p55495420"></a><a name="zh-cn_topic_0091433672_p55495420"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="43%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433672_p65944013"><a name="zh-cn_topic_0091433672_p65944013"></a><a name="zh-cn_topic_0091433672_p65944013"></a>Kind is a string value representing the REST resource this object represents. Servers may infer this from the endpoint the client submits requests to. Cannot be updated. In CamelCase.</p>
 </td>
@@ -84,7 +84,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </td>
 <td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433672_p3350684"><a name="zh-cn_topic_0091433672_p3350684"></a><a name="zh-cn_topic_0091433672_p3350684"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p2969964"><a name="zh-cn_topic_0091433672_p2969964"></a><a name="zh-cn_topic_0091433672_p2969964"></a>string</p>
+<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p2969964"><a name="zh-cn_topic_0091433672_p2969964"></a><a name="zh-cn_topic_0091433672_p2969964"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="43%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433672_p39240541"><a name="zh-cn_topic_0091433672_p39240541"></a><a name="zh-cn_topic_0091433672_p39240541"></a>Required: This must match the Name of a deployment.</p>
 </td>
@@ -102,7 +102,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </td>
 <td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433672_p8327600"><a name="zh-cn_topic_0091433672_p8327600"></a><a name="zh-cn_topic_0091433672_p8327600"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p3447020"><a name="zh-cn_topic_0091433672_p3447020"></a><a name="zh-cn_topic_0091433672_p3447020"></a>object</p>
+<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p3447020"><a name="zh-cn_topic_0091433672_p3447020"></a><a name="zh-cn_topic_0091433672_p3447020"></a>Object</p>
 </td>
 <td class="cellrowborder" valign="top" width="43%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433672_p10773237"><a name="zh-cn_topic_0091433672_p10773237"></a><a name="zh-cn_topic_0091433672_p10773237"></a>The annotations to be updated to a deployment</p>
 </td>
@@ -117,7 +117,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </th>
 <th class="cellrowborder" valign="top" width="16%" id="mcps1.2.5.1.2"><p id="zh-cn_topic_0091433672_p37389616"><a name="zh-cn_topic_0091433672_p37389616"></a><a name="zh-cn_topic_0091433672_p37389616"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433672_p8660017"><a name="zh-cn_topic_0091433672_p8660017"></a><a name="zh-cn_topic_0091433672_p8660017"></a>类型</p>
+<th class="cellrowborder" valign="top" width="21%" id="mcps1.2.5.1.3"><p id="zh-cn_topic_0091433672_p8660017"><a name="zh-cn_topic_0091433672_p8660017"></a><a name="zh-cn_topic_0091433672_p8660017"></a>参数类型</p>
 </th>
 <th class="cellrowborder" valign="top" width="44%" id="mcps1.2.5.1.4"><p id="zh-cn_topic_0091433672_p30372771"><a name="zh-cn_topic_0091433672_p30372771"></a><a name="zh-cn_topic_0091433672_p30372771"></a>描述</p>
 </th>
@@ -127,7 +127,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </td>
 <td class="cellrowborder" valign="top" width="16%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0091433672_p43563692"><a name="zh-cn_topic_0091433672_p43563692"></a><a name="zh-cn_topic_0091433672_p43563692"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p38998127"><a name="zh-cn_topic_0091433672_p38998127"></a><a name="zh-cn_topic_0091433672_p38998127"></a>integer</p>
+<td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433672_p38998127"><a name="zh-cn_topic_0091433672_p38998127"></a><a name="zh-cn_topic_0091433672_p38998127"></a>Integer</p>
 </td>
 <td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433672_p4731756"><a name="zh-cn_topic_0091433672_p4731756"></a><a name="zh-cn_topic_0091433672_p4731756"></a>The revision to rollback to. If set to 0, rollback to the last revision.</p>
 </td>

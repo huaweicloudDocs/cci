@@ -4,16 +4,7 @@
 
 创建一个Deployment。
 
-如果要将创建的Deployment对象在CCI工作负载界面上显示，则需要给创建的Deployment资源对象添加labels标签。
-
-设置请求消息体中的“metadata.labels“参数键值如下内容：
-
-```
-labels:
-    app: appname
-```
-
-其中“app“参数所键入的“appname“为显示在CCI工作负载界面上的工作负载名称，可取任意值。
+创建Deployment时挂载OBS的使用限制请参见[挂载OBS使用限制](挂载OBS使用限制.md)。
 
 ## URI<a name="section764545414815"></a>
 
@@ -61,7 +52,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/deployments
 
 **请求参数**：
 
-请求参数如[表80](数据结构.md#table12862324102610)所示。
+请求参数如[表79](数据结构.md#table12862324102610)所示。
 
 **请求示例：**
 
@@ -73,7 +64,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/deployments
         "name": "deployment-test"
     },
     "spec": {
-        "replicas": 1,
+        "replicas": "1",
         "selector": {
             "matchLabels": {
                 "app": "redis"
@@ -106,7 +97,8 @@ POST /apis/apps/v1/namespaces/\{namespace\}/deployments
                     {
                         "name": "imagepull-secret"
                     }
-                ]
+                ],
+               "priority": "0",
             }
         }
     }
@@ -117,92 +109,89 @@ POST /apis/apps/v1/namespaces/\{namespace\}/deployments
 
 **响应参数**：
 
-响应参数如[表80](数据结构.md#table12862324102610)所示。
+响应参数如[表79](数据结构.md#table12862324102610)所示。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Deployment",
-  "apiVersion": "apps/v1",
-  "metadata": {
-    "name": "deployment-test",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
-    "uid": "777dce52-b186-11e8-8cb0-c81fbe371a17",
-    "resourceVersion": "5630832",
-    "generation": 1,
-    "creationTimestamp": "2018-09-06T03:39:32Z",
-    "labels": {
-      "app": "redis"
-    },
-    "enable": true
-  },
-  "spec": {
-    "replicas": 1,
-    "selector": {
-      "matchLabels": {
-        "app": "redis"
-      }
-    },
-    "template": {
-      "metadata": {
-        "creationTimestamp": null,
+    "kind": "Deployment",
+    "apiVersion": "apps/v1",
+    "metadata": {
+        "name": "deployment-test",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
+        "uid": "777dce52-b186-11e8-8cb0-c81fbe371a17",
+        "resourceVersion": "5630832",
+        "generation": 1,
+        "creationTimestamp": "2018-09-06T03:39:32Z",
         "labels": {
-          "app": "redis"
-        },
-        "annotations": {
-          "cri.cci.io/container-type": "secure-container"
+            "app": "redis"
         },
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "container-0",
-            "image": "redis:3.0",
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "memory": "1Gi",
-                "cpu": "500m"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "IfNotPresent"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "replicas": 1,
+        "priority": "0",
+        "selector": {
+            "matchLabels": {
+                "app": "redis"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "creationTimestamp": null,
+                "labels": {
+                    "app": "redis"
+                },
+                "annotations": {
+                    "cri.cci.io/container-type": "secure-container"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "container-0",
+                        "image": "redis:3.0",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "memory": "1Gi",
+                                "cpu": "500m"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "IfNotPresent"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        },
+        "strategy": {
+            "type": "RollingUpdate",
+            "rollingUpdate": {
+                "maxUnavailable": "25%",
+                "maxSurge": "25%"
+            }
+        },
+        "revisionHistoryLimit": 10,
+        "progressDeadlineSeconds": 600
     },
-    "strategy": {
-      "type": "RollingUpdate",
-      "rollingUpdate": {
-        "maxUnavailable": "25%",
-        "maxSurge": "25%"
-      }
-    },
-    "revisionHistoryLimit": 10,
-    "progressDeadlineSeconds": 600
-  },
-  "status": {
-
-  }
+    "status": {}
 }
 ```
 

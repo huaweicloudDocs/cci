@@ -1,6 +1,6 @@
 # 删除所有Network<a name="cci_02_2014"></a>
 
-## 功能描述<a name="section1686113493165"></a>
+## 功能介绍<a name="section1686113493165"></a>
 
 删除指定namespace下的所有Network对象。
 
@@ -25,7 +25,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0079615000_p1759884"><a name="zh-cn_topic_0079615000_p1759884"></a><a name="zh-cn_topic_0079615000_p1759884"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p16603929145318"><a name="p16603929145318"></a><a name="p16603929145318"></a><span>string</span></p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p16603929145318"><a name="p16603929145318"></a><a name="p16603929145318"></a><span>String</span></p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0079615000_p8332925"><a name="zh-cn_topic_0079615000_p8332925"></a><a name="zh-cn_topic_0079615000_p8332925"></a>命名空间。</p>
 </td>
@@ -50,7 +50,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p390815444151"><a name="p390815444151"></a><a name="p390815444151"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p14908444131515"><a name="p14908444131515"></a><a name="p14908444131515"></a>boolean</p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p14908444131515"><a name="p14908444131515"></a><a name="p14908444131515"></a>Boolean</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p1908104418156"><a name="p1908104418156"></a><a name="p1908104418156"></a>If 'true', then the output is pretty printed.</p>
 </td>
@@ -59,7 +59,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p1190824413154"><a name="p1190824413154"></a><a name="p1190824413154"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1592412443158"><a name="p1592412443158"></a><a name="p1592412443158"></a><span>string</span></p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1592412443158"><a name="p1592412443158"></a><a name="p1592412443158"></a><span>String</span></p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p892424411157"><a name="p892424411157"></a><a name="p892424411157"></a>A selector to restrict the list of returned objects by their fields. Defaults to everything.</p>
 </td>
@@ -68,7 +68,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p592464417158"><a name="p592464417158"></a><a name="p592464417158"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p8924174431518"><a name="p8924174431518"></a><a name="p8924174431518"></a>boolean</p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p8924174431518"><a name="p8924174431518"></a><a name="p8924174431518"></a>Boolean</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p10924124461513"><a name="p10924124461513"></a><a name="p10924124461513"></a>If true, partially initialized resources are included in the response.</p>
 </td>
@@ -86,7 +86,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p29244442155"><a name="p29244442155"></a><a name="p29244442155"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p9924344111519"><a name="p9924344111519"></a><a name="p9924344111519"></a>string</p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p9924344111519"><a name="p9924344111519"></a><a name="p9924344111519"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p12924194461519"><a name="p12924194461519"></a><a name="p12924194461519"></a>When specified with a watch call, shows changes that occur after that particular version of a resource. Defaults to changes from the beginning of history. When specified for list: - if unset, then the result is returned from remote storage based on quorum-read flag; - if it is 0, then we simply return what we currently have in cache, no guarantee; - if set to non zero, then the result is at least as fresh as given rv.</p>
 </td>
@@ -95,7 +95,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p49401244111516"><a name="p49401244111516"></a><a name="p49401244111516"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1294074411150"><a name="p1294074411150"></a><a name="p1294074411150"></a><span>integer (int32)</span></p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1294074411150"><a name="p1294074411150"></a><a name="p1294074411150"></a><span>Integer (int32)</span></p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p1794074431518"><a name="p1794074431518"></a><a name="p1794074431518"></a>Timeout for the list/watch call.</p>
 </td>
@@ -104,7 +104,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p11940104412159"><a name="p11940104412159"></a><a name="p11940104412159"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p109401044111513"><a name="p109401044111513"></a><a name="p109401044111513"></a>boolean</p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p109401044111513"><a name="p109401044111513"></a><a name="p109401044111513"></a>Boolean</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p15940194461510"><a name="p15940194461510"></a><a name="p15940194461510"></a><span>Watch for changes to the described resources and return them as a stream of add, update, and remove notifications. Specify resourceVersion</span></p>
 </td>
@@ -113,7 +113,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p1094014481511"><a name="p1094014481511"></a><a name="p1094014481511"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p5940114410153"><a name="p5940114410153"></a><a name="p5940114410153"></a>integer (int32)</p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p5940114410153"><a name="p5940114410153"></a><a name="p5940114410153"></a>Integer (int32)</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p794044421516"><a name="p794044421516"></a><a name="p794044421516"></a>limit is a maximum number of responses to return for a list call. If more items exist, the server will set the continue field on the list metadata to a value that can be used with the same initial query to retrieve the next set of results. Setting a limit may return fewer than the requested amount of items (up to zero items) in the event all requested objects are filtered out and clients should only use the presence of the continue field to determine whether more results are available. Servers may choose not to support the limit argument and will return all of the available results. If limit is specified and the continue field is empty, clients may assume that no more results are available. This field is not supported if watch is true.</p>
 <p id="p179407445157"><a name="p179407445157"></a><a name="p179407445157"></a>The server guarantees that the objects returned when using continue will be identical to issuing a single list call without a limit - that is, no objects created, modified, or deleted after the first request is issued will be included in any subsequent continued requests. This is sometimes referred to as a consistent snapshot, and ensures that a client that is using limit to receive smaller chunks of a very large result can ensure they see all possible objects. If objects are updated during a chunked list the version of the object that was present at the time the first list result was calculated is returned.</p>
@@ -123,7 +123,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p139546441152"><a name="p139546441152"></a><a name="p139546441152"></a><span>false</span></p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p39541844171518"><a name="p39541844171518"></a><a name="p39541844171518"></a><span>string</span></p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p39541844171518"><a name="p39541844171518"></a><a name="p39541844171518"></a><span>String</span></p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p49541844201518"><a name="p49541844201518"></a><a name="p49541844201518"></a><span>The continue option should be set when retrieving more results from the server. Since this value is server defined, clients may only use the continue value from a previous query result with identical query parameters (except for the value of continue) and the server may reject a continue value it does not recognize. If the specified continue value is no longer valid whether due to expiration (generally five to fifteen minutes) or a configuration change on the server, the server will respond with a 410 ResourceExpired error indicating the client must restart their list without the continue field. This field is not supported if watch is true. Clients may start a watch from the last resourceVersion value returned by the server and not miss any modifications.</span></p>
 </td>
@@ -139,18 +139,18 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
-{ 
-   "kind": "Status", 
-   "apiVersion": "v1", 
-   "metadata": {}, 
-   "status": "Success", 
-   "code": 200 
- }
+{
+    "kind": "Status",
+    "apiVersion": "v1",
+    "metadata": {},
+    "status": "Success",
+    "code": 200
+}
 ```
 
 ## 状态码<a name="s10d425dd6e6d43a394ec0cd15cf7b233"></a>

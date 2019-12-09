@@ -33,38 +33,38 @@ DELETE /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}
 **表 2**  Query参数
 
 <a name="table2758112513516"></a>
-<table><thead align="left"><tr id="row65815647"><th class="cellrowborder" valign="top" width="17.348265173482652%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
+<table><thead align="left"><tr id="row65815647"><th class="cellrowborder" valign="top" width="19.958004199580042%" id="mcps1.2.4.1.1"><p id="p65652297517"><a name="p65652297517"></a><a name="p65652297517"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="16.328367163283673%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="13.71862813718628%" id="mcps1.2.4.1.2"><p id="p165661629135114"><a name="p165661629135114"></a><a name="p165661629135114"></a>是否必选</p>
 </th>
 <th class="cellrowborder" valign="top" width="66.32336766323368%" id="mcps1.2.4.1.3"><p id="p14567629115114"><a name="p14567629115114"></a><a name="p14567629115114"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row62561693"><td class="cellrowborder" valign="top" width="17.348265173482652%" headers="mcps1.2.4.1.1 "><p id="p34332366"><a name="p34332366"></a><a name="p34332366"></a>pretty</p>
+<tbody><tr id="row62561693"><td class="cellrowborder" valign="top" width="19.958004199580042%" headers="mcps1.2.4.1.1 "><p id="p34332366"><a name="p34332366"></a><a name="p34332366"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="p29458227"><a name="p29458227"></a><a name="p29458227"></a>No</p>
+<td class="cellrowborder" valign="top" width="13.71862813718628%" headers="mcps1.2.4.1.2 "><p id="p29458227"><a name="p29458227"></a><a name="p29458227"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.32336766323368%" headers="mcps1.2.4.1.3 "><p id="p37306164"><a name="p37306164"></a><a name="p37306164"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
-<tr id="row211163"><td class="cellrowborder" valign="top" width="17.348265173482652%" headers="mcps1.2.4.1.1 "><p id="p17104275"><a name="p17104275"></a><a name="p17104275"></a>gracePeriodSeconds</p>
+<tr id="row211163"><td class="cellrowborder" valign="top" width="19.958004199580042%" headers="mcps1.2.4.1.1 "><p id="p17104275"><a name="p17104275"></a><a name="p17104275"></a>gracePeriodSeconds</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="p43269019"><a name="p43269019"></a><a name="p43269019"></a>No</p>
+<td class="cellrowborder" valign="top" width="13.71862813718628%" headers="mcps1.2.4.1.2 "><p id="p43269019"><a name="p43269019"></a><a name="p43269019"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.32336766323368%" headers="mcps1.2.4.1.3 "><p id="p15129627"><a name="p15129627"></a><a name="p15129627"></a>The duration in seconds before the object should be deleted. Value must be a non-negative integer. The value zero indicates delete immediately. If this value is nil, the default grace period for the specified type will be used. Defaults to a per object value if not specified. zero means delete immediately.</p>
 </td>
 </tr>
-<tr id="row1948920"><td class="cellrowborder" valign="top" width="17.348265173482652%" headers="mcps1.2.4.1.1 "><p id="p23644832"><a name="p23644832"></a><a name="p23644832"></a>orphanDependents</p>
+<tr id="row1948920"><td class="cellrowborder" valign="top" width="19.958004199580042%" headers="mcps1.2.4.1.1 "><p id="p23644832"><a name="p23644832"></a><a name="p23644832"></a>orphanDependents</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="p36183253"><a name="p36183253"></a><a name="p36183253"></a>No</p>
+<td class="cellrowborder" valign="top" width="13.71862813718628%" headers="mcps1.2.4.1.2 "><p id="p36183253"><a name="p36183253"></a><a name="p36183253"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.32336766323368%" headers="mcps1.2.4.1.3 "><p id="p45162366"><a name="p45162366"></a><a name="p45162366"></a>Deprecated: please use the PropagationPolicy, this field will be deprecated in 1.7. Should the dependent objects be orphaned. If true/false, the "orphan" finalizer will be added to/removed from the object's finalizers list. Either this field or PropagationPolicy may be set, but not both.</p>
 </td>
 </tr>
-<tr id="row3808114"><td class="cellrowborder" valign="top" width="17.348265173482652%" headers="mcps1.2.4.1.1 "><p id="p40021797"><a name="p40021797"></a><a name="p40021797"></a>propagationPolicy</p>
+<tr id="row3808114"><td class="cellrowborder" valign="top" width="19.958004199580042%" headers="mcps1.2.4.1.1 "><p id="p40021797"><a name="p40021797"></a><a name="p40021797"></a>propagationPolicy</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="p20540096"><a name="p20540096"></a><a name="p20540096"></a>No</p>
+<td class="cellrowborder" valign="top" width="13.71862813718628%" headers="mcps1.2.4.1.2 "><p id="p20540096"><a name="p20540096"></a><a name="p20540096"></a>No</p>
 </td>
 <td class="cellrowborder" valign="top" width="66.32336766323368%" headers="mcps1.2.4.1.3 "><p id="p8453712"><a name="p8453712"></a><a name="p8453712"></a>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy. Acceptable values are: 'Orphan' - orphan the dependents; 'Background' - allow the garbage collector to delete the dependents in the background; 'Foreground' - a cascading policy that deletes all dependents in the foreground.</p>
 </td>
@@ -76,7 +76,7 @@ DELETE /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
@@ -115,119 +115,117 @@ DELETE /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "Deployment",
-  "apiVersion": "apps/v1",
-  "metadata": {
-    "name": "deployment-test",
-    "namespace": "namespace-test",
-    "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
-    "uid": "777dce52-b186-11e8-8cb0-c81fbe371a17",
-    "resourceVersion": "5657791",
-    "generation": 3,
-    "creationTimestamp": "2018-09-06T03:39:32Z",
-    "deletionTimestamp": "2018-09-06T06:36:54Z",
-    "deletionGracePeriodSeconds": 0,
-    "labels": {
-      "app": "deployment-test2"
-    },
-    "annotations": {
-      "deployment.kubernetes.io/revision": "2"
-    },
-    "finalizers": [
-      "foregroundDeletion"
-    ],
-    "enable": true
-  },
-  "spec": {
-    "replicas": 2,
-    "selector": {
-      "matchLabels": {
-        "app": "redis"
-      }
-    },
-    "template": {
-      "metadata": {
-        "creationTimestamp": null,
+    "kind": "Deployment",
+    "apiVersion": "apps/v1",
+    "metadata": {
+        "name": "deployment-test",
+        "namespace": "namespace-test",
+        "selfLink": "/apis/apps/v1/namespaces/namespace-test/deployments/deployment-test",
+        "uid": "777dce52-b186-11e8-8cb0-c81fbe371a17",
+        "resourceVersion": "5657791",
+        "generation": 3,
+        "creationTimestamp": "2018-09-06T03:39:32Z",
+        "deletionTimestamp": "2018-09-06T06:36:54Z",
+        "deletionGracePeriodSeconds": 0,
         "labels": {
-          "app": "redis"
+            "app": "deployment-test2"
         },
+        "annotations": {
+            "deployment.kubernetes.io/revision": "2"
+        },
+        "finalizers": [
+            "foregroundDeletion"
+        ],
         "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "container-0",
-            "image": "100.125.5.235:20202/cci_z00425431/redis:V1",
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              }
-            },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "IfNotPresent"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "securityContext": {
-
+    },
+    "spec": {
+        "replicas": 2,
+        "selector": {
+            "matchLabels": {
+                "app": "redis"
+            }
         },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler"
-      }
+        "template": {
+            "metadata": {
+                "creationTimestamp": null,
+                "labels": {
+                    "app": "redis"
+                },
+                "enable": true
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "container-0",
+                        "image": "*.*.*.*:20202/cci/redis:V1",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "IfNotPresent"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler"
+            }
+        },
+        "strategy": {
+            "type": "RollingUpdate",
+            "rollingUpdate": {
+                "maxUnavailable": "25%",
+                "maxSurge": "25%"
+            }
+        },
+        "revisionHistoryLimit": 10,
+        "progressDeadlineSeconds": 600
     },
-    "strategy": {
-      "type": "RollingUpdate",
-      "rollingUpdate": {
-        "maxUnavailable": "25%",
-        "maxSurge": "25%"
-      }
-    },
-    "revisionHistoryLimit": 10,
-    "progressDeadlineSeconds": 600
-  },
-  "status": {
-    "observedGeneration": 2,
-    "replicas": 2,
-    "updatedReplicas": 2,
-    "readyReplicas": 2,
-    "availableReplicas": 2,
-    "conditions": [
-      {
-        "type": "Available",
-        "status": "True",
-        "lastUpdateTime": "2018-09-06T04:14:14Z",
-        "lastTransitionTime": "2018-09-06T04:14:14Z",
-        "reason": "MinimumReplicasAvailable",
-        "message": "Deployment has minimum availability."
-      },
-      {
-        "type": "Progressing",
-        "status": "True",
-        "lastUpdateTime": "2018-09-06T04:14:24Z",
-        "lastTransitionTime": "2018-09-06T03:39:32Z",
-        "reason": "NewReplicaSetAvailable",
-        "message": "ReplicaSet \"deployment-test-68585dfddb\" has successfully progressed."
-      }
-    ]
-  }
+    "status": {
+        "observedGeneration": 2,
+        "replicas": 2,
+        "updatedReplicas": 2,
+        "readyReplicas": 2,
+        "availableReplicas": 2,
+        "conditions": [
+            {
+                "type": "Available",
+                "status": "True",
+                "lastUpdateTime": "2018-09-06T04:14:14Z",
+                "lastTransitionTime": "2018-09-06T04:14:14Z",
+                "reason": "MinimumReplicasAvailable",
+                "message": "Deployment has minimum availability."
+            },
+            {
+                "type": "Progressing",
+                "status": "True",
+                "lastUpdateTime": "2018-09-06T04:14:24Z",
+                "lastTransitionTime": "2018-09-06T03:39:32Z",
+                "reason": "NewReplicaSetAvailable",
+                "message": "ReplicaSet \"deployment-test-68585dfddb\" has successfully progressed."
+            }
+        ]
+    }
 }
 ```
 

@@ -33,7 +33,7 @@ DELETE /api/v1/namespaces/\{namespace\}/pods/\{name\}
 **表 2**  Query参数
 
 <a name="zh-cn_topic_0079615056_table52824818"></a>
-<table><thead align="left"><tr id="zh-cn_topic_0079615056_row59343410"><th class="cellrowborder" valign="top" width="33%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0079615056_p42086942"><a name="zh-cn_topic_0079615056_p42086942"></a><a name="zh-cn_topic_0079615056_p42086942"></a>名称</p>
+<table><thead align="left"><tr id="zh-cn_topic_0079615056_row59343410"><th class="cellrowborder" valign="top" width="33%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0079615056_p42086942"><a name="zh-cn_topic_0079615056_p42086942"></a><a name="zh-cn_topic_0079615056_p42086942"></a>参数</p>
 </th>
 <th class="cellrowborder" valign="top" width="22%" id="mcps1.2.4.1.2"><p id="p6618481203046"><a name="p6618481203046"></a><a name="p6618481203046"></a>是否必选</p>
 </th>
@@ -76,148 +76,144 @@ DELETE /api/v1/namespaces/\{namespace\}/pods/\{name\}
 
 **请求参数：**
 
-请求参数如[表65](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
+请求参数如[表64](数据结构.md#zh-cn_topic_0091433700_d0e41006)所示。
 
 **请求示例：**
 
 ```
-{ 
-   "kind": "DeleteOptions", 
-   "apiVersion": "v1", 
-   "gracePeriodSeconds": 10 
- }
+{
+    "kind": "DeleteOptions",
+    "apiVersion": "v1",
+    "gracePeriodSeconds": 10
+}
 ```
 
 ## 响应消息<a name="s3687f13ac2bf4e5494185bac214448ff"></a>
 
 **响应参数：**
 
-响应参数的详细描述请参见[表73](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "PodList",
-  "apiVersion": "v1",
-  "metadata": {
-    "selfLink": "/api/v1/namespaces/namespace-test/pods",
-    "resourceVersion": "5035636"
-  },
-  "items": [
-    {
-      "metadata": {
-        "name": "pod-test",
-        "namespace": "namespace-test",
-        "selfLink": "/api/v1/namespaces/namespace-test/pods/pod-test",
-        "uid": "8b985a27-af74-11e8-9d5d-c88d83be759f",
-        "resourceVersion": "5030610",
-        "creationTimestamp": "2018-09-03T12:26:12Z",
-        "labels": {
-          "name": "pod-test"
-        },
-        "annotations": {
-          "network.alpha.kubernetes.io/network": "[{\"name\":\"namespace-test-dc1-default-network\",\"interface\":\"eth0\",\"network_plane\":\"default\"}]",
-          "cri.cci.io/container-type": "secure-container",
-          "kubernetes.io/availablezone": "dc1"
-        },
-        "enable": true
-      },
-      "spec": {
-        "containers": [
-          {
-            "name": "test",
-            "image": "redis:3.0",
-            "resources": {
-              "limits": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              },
-              "requests": {
-                "cpu": "500m",
-                "memory": "1Gi"
-              }
+    "kind": "PodList",
+    "apiVersion": "v1",
+    "metadata": {
+        "selfLink": "/api/v1/namespaces/namespace-test/pods",
+        "resourceVersion": "5035636"
+    },
+    "items": [
+        {
+            "metadata": {
+                "name": "pod-test",
+                "namespace": "namespace-test",
+                "selfLink": "/api/v1/namespaces/namespace-test/pods/pod-test",
+                "uid": "8b985a27-af74-11e8-9d5d-c88d83be759f",
+                "resourceVersion": "5030610",
+                "creationTimestamp": "2018-09-03T12:26:12Z",
+                "labels": {
+                    "name": "pod-test"
+                },
+                "annotations": {
+                    "network.alpha.kubernetes.io/network": "[{\"name\":\"namespace-test-dc1-default-network\",\"interface\":\"eth0\",\"network_plane\":\"default\"}]",
+                    "cri.cci.io/container-type": "secure-container",
+                    "kubernetes.io/availablezone": "dc1"
+                },
+                "enable": true
             },
-            "terminationMessagePath": "/dev/termination-log",
-            "terminationMessagePolicy": "File",
-            "imagePullPolicy": "Always"
-          }
-        ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
-        "dnsPolicy": "ClusterFirst",
-        "nodeName": "c0dd6256-195a-e811-90a2-10c17294fcbc",
-        "securityContext": {
-
-        },
-        "imagePullSecrets": [
-          {
-            "name": "imagepull-secret"
-          }
-        ],
-        "schedulerName": "default-scheduler",
-        "tolerations": [
-          {
-            "key": "node.kubernetes.io/not-ready",
-            "operator": "Exists",
-            "effect": "NoExecute",
-            "tolerationSeconds": 300
-          },
-          {
-            "key": "node.kubernetes.io/unreachable",
-            "operator": "Exists",
-            "effect": "NoExecute",
-            "tolerationSeconds": 300
-          }
-        ]
-      },
-      "status": {
-        "phase": "Running",
-        "conditions": [
-          {
-            "type": "Initialized",
-            "status": "True",
-            "lastProbeTime": null,
-            "lastTransitionTime": "2018-09-03T12:26:12Z"
-          },
-          {
-            "type": "Ready",
-            "status": "True",
-            "lastProbeTime": null,
-            "lastTransitionTime": "2018-09-03T12:26:16Z"
-          },
-          {
-            "type": "PodScheduled",
-            "status": "True",
-            "lastProbeTime": null,
-            "lastTransitionTime": "2018-09-03T12:26:12Z"
-          }
-        ],
-        "podIP": "192.168.245.185",
-        "startTime": "2018-09-03T12:26:12Z",
-        "containerStatuses": [
-          {
-            "name": "test",
-            "state": {
-              "running": {
-                "startedAt": "2018-09-03T12:26:16Z"
-              }
+            "spec": {
+                "containers": [
+                    {
+                        "name": "test",
+                        "image": "redis:3.0",
+                        "resources": {
+                            "limits": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            },
+                            "requests": {
+                                "cpu": "500m",
+                                "memory": "1Gi"
+                            }
+                        },
+                        "terminationMessagePath": "/dev/termination-log",
+                        "terminationMessagePolicy": "File",
+                        "imagePullPolicy": "Always"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "nodeName": "c0dd6256-195a-e811-90a2-10c17294fcbc",
+                "securityContext": {},
+                "imagePullSecrets": [
+                    {
+                        "name": "imagepull-secret"
+                    }
+                ],
+                "schedulerName": "default-scheduler",
+                "tolerations": [
+                    {
+                        "key": "node.kubernetes.io/not-ready",
+                        "operator": "Exists",
+                        "effect": "NoExecute",
+                        "tolerationSeconds": 300
+                    },
+                    {
+                        "key": "node.kubernetes.io/unreachable",
+                        "operator": "Exists",
+                        "effect": "NoExecute",
+                        "tolerationSeconds": 300
+                    }
+                ]
             },
-            "lastState": {
-
-            },
-            "ready": true,
-            "restartCount": 0,
-            "image": "redis:3.0",
-            "imageID": "docker-pullable://redis@sha256:3ab7046bd035a47aa06963d8240651d00b57e82dab07ba374ad01f84dfa1230c",
-            "containerID": "docker://aee55d8dedb8371f96aa5d5116f69a53bf1cb23afe1802567c24081514d3b048"
-          }
-        ],
-        "qosClass": "Guaranteed",
-        "managementIP": "172.28.0.17"
-      }
-    }
-  ]
+            "status": {
+                "phase": "Running",
+                "conditions": [
+                    {
+                        "type": "Initialized",
+                        "status": "True",
+                        "lastProbeTime": null,
+                        "lastTransitionTime": "2018-09-03T12:26:12Z"
+                    },
+                    {
+                        "type": "Ready",
+                        "status": "True",
+                        "lastProbeTime": null,
+                        "lastTransitionTime": "2018-09-03T12:26:16Z"
+                    },
+                    {
+                        "type": "PodScheduled",
+                        "status": "True",
+                        "lastProbeTime": null,
+                        "lastTransitionTime": "2018-09-03T12:26:12Z"
+                    }
+                ],
+                "podIP": "192.168.245.185",
+                "startTime": "2018-09-03T12:26:12Z",
+                "containerStatuses": [
+                    {
+                        "name": "test",
+                        "state": {
+                            "running": {
+                                "startedAt": "2018-09-03T12:26:16Z"
+                            }
+                        },
+                        "lastState": {},
+                        "ready": true,
+                        "restartCount": 0,
+                        "image": "redis:3.0",
+                        "imageID": "docker-pullable://redis@sha256:3ab7046bd035a47aa06963d8240651d00b57e82dab07ba374ad01f84dfa1230c",
+                        "containerID": "docker://aee55d8dedb8371f96aa5d5116f69a53bf1cb23afe1802567c24081514d3b048"
+                    }
+                ],
+                "qosClass": "Guaranteed",
+                "managementIP": "172.28.0.17"
+            }
+        }
+    ]
 }
 ```
 

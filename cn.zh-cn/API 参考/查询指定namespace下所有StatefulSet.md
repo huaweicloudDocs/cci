@@ -30,7 +30,7 @@ GET /apis/apps/v1/namespaces/\{namespace\}/statefulsets
 <a name="d0e39332"></a>
 <table><thead align="left"><tr id="row16249415"><th class="cellrowborder" valign="top" width="20.407959204079592%" id="mcps1.2.4.1.1"><p id="p102391234191410"><a name="p102391234191410"></a><a name="p102391234191410"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="16.328367163283673%" id="mcps1.2.4.1.2"><p id="p1864653711143"><a name="p1864653711143"></a><a name="p1864653711143"></a>是否必填</p>
+<th class="cellrowborder" valign="top" width="16.328367163283673%" id="mcps1.2.4.1.2"><p id="p1864653711143"><a name="p1864653711143"></a><a name="p1864653711143"></a>是否必选</p>
 </th>
 <th class="cellrowborder" valign="top" width="63.26367363263674%" id="mcps1.2.4.1.3"><p id="p122391934161412"><a name="p122391934161412"></a><a name="p122391934161412"></a>描述</p>
 </th>
@@ -110,103 +110,101 @@ N/A
 
 **响应参数：**
 
-响应参数的详细描述请参见[表97](数据结构.md#table185396462518)。
+响应参数的详细描述请参见[表96](数据结构.md#table185396462518)。
 
 **响应示例：**
 
 ```
 {
-  "kind": "StatefulSetList",
-  "apiVersion": "apps/v1",
-  "metadata": {
-    "selfLink": "/apis/apps/v1/namespaces/namespace-test/statefulsets",
-    "resourceVersion": "5215730"
-  },
-  "items": [
-    {
-      "metadata": {
-        "name": "statefulset-test",
-        "namespace": "namespace-test",
-        "selfLink": "/apis/apps/v1/namespaces/namespace-test/statefulsets/statefulset-test",
-        "uid": "f4a35f35-b011-11e8-b6ef-f898ef6c78b4",
-        "resourceVersion": "5209881",
-        "generation": 1,
-        "creationTimestamp": "2018-09-04T07:13:00Z",
-        "labels": {
-          "app": "statefulset-test"
-        },
-        "enable": true
-      },
-      "spec": {
-        "replicas": 3,
-        "selector": {
-          "matchLabels": {
-            "app": "statefulset-test"
-          }
-        },
-        "template": {
-          "metadata": {
-            "creationTimestamp": null,
-            "labels": {
-              "app": "statefulset-test"
-            },
-            "annotations": {
-              "cri.cci.io/container-type": "secure-container"
-            },
-            "enable": true
-          },
-          "spec": {
-            "containers": [
-              {
-                "name": "container-0",
-                "image": "redis:3.0",
-                "resources": {
-                  "limits": {
-                    "cpu": "500m",
-                    "memory": "1Gi"
-                  },
-                  "requests": {
-                    "cpu": "500m",
-                    "memory": "1Gi"
-                  }
+    "kind": "StatefulSetList",
+    "apiVersion": "apps/v1",
+    "metadata": {
+        "selfLink": "/apis/apps/v1/namespaces/namespace-test/statefulsets",
+        "resourceVersion": "5215730"
+    },
+    "items": [
+        {
+            "metadata": {
+                "name": "statefulset-test",
+                "namespace": "namespace-test",
+                "selfLink": "/apis/apps/v1/namespaces/namespace-test/statefulsets/statefulset-test",
+                "uid": "f4a35f35-b011-11e8-b6ef-f898ef6c78b4",
+                "resourceVersion": "5209881",
+                "generation": 1,
+                "creationTimestamp": "2018-09-04T07:13:00Z",
+                "labels": {
+                    "app": "statefulset-test"
                 },
-                "terminationMessagePath": "/dev/termination-log",
-                "terminationMessagePolicy": "File",
-                "imagePullPolicy": "IfNotPresent"
-              }
-            ],
-            "restartPolicy": "Always",
-            "terminationGracePeriodSeconds": 30,
-            "dnsPolicy": "ClusterFirst",
-            "securityContext": {
-
+                "enable": true
             },
-            "imagePullSecrets": [
-              {
-                "name": "imagepull-secret"
-              }
-            ],
-            "schedulerName": "default-scheduler"
-          }
-        },
-        "serviceName": "",
-        "podManagementPolicy": "OrderedReady",
-        "updateStrategy": {
-          "type": "OnDelete"
-        },
-        "revisionHistoryLimit": 10
-      },
-      "status": {
-        "observedGeneration": 1,
-        "replicas": 3,
-        "readyReplicas": 2,
-        "currentReplicas": 3,
-        "currentRevision": "statefulset-test-f986b645b",
-        "updateRevision": "statefulset-test-f986b645b",
-        "collisionCount": 0
-      }
-    }
-  ]
+            "spec": {
+                "replicas": 3,
+                "selector": {
+                    "matchLabels": {
+                        "app": "statefulset-test"
+                    }
+                },
+                "template": {
+                    "metadata": {
+                        "creationTimestamp": null,
+                        "labels": {
+                            "app": "statefulset-test"
+                        },
+                        "annotations": {
+                            "cri.cci.io/container-type": "secure-container"
+                        },
+                        "enable": true
+                    },
+                    "spec": {
+                        "containers": [
+                            {
+                                "name": "container-0",
+                                "image": "redis:3.0",
+                                "resources": {
+                                    "limits": {
+                                        "cpu": "500m",
+                                        "memory": "1Gi"
+                                    },
+                                    "requests": {
+                                        "cpu": "500m",
+                                        "memory": "1Gi"
+                                    }
+                                },
+                                "terminationMessagePath": "/dev/termination-log",
+                                "terminationMessagePolicy": "File",
+                                "imagePullPolicy": "IfNotPresent"
+                            }
+                        ],
+                        "restartPolicy": "Always",
+                        "terminationGracePeriodSeconds": 30,
+                        "dnsPolicy": "ClusterFirst",
+                        "securityContext": {},
+                        "imagePullSecrets": [
+                            {
+                                "name": "imagepull-secret"
+                            }
+                        ],
+                        "schedulerName": "default-scheduler"
+                    }
+                },
+                "serviceName": "",
+                "podManagementPolicy": "OrderedReady",
+                "updateStrategy": {
+                    "type": "OnDelete"
+                },
+                "revisionHistoryLimit": 10
+            },
+            "status": {
+                "observedGeneration": 1,
+                "replicas": 3,
+                "readyReplicas": 2,
+                "currentReplicas": 3,
+                "currentRevision": "statefulset-test-f986b645b",
+                "updateRevision": "statefulset-test-f986b645b",
+                "collisionCount": 0
+            }
+        }
+    ]
 }
 ```
 
