@@ -4,7 +4,7 @@
 
 项目ID可以通过调用[查询指定条件下的项目信息](https://support.huaweicloud.com/api-iam/zh-cn_topic_0057845625.html)API获取。
 
-获取项目ID的接口为“GET https://\{Endpoint\}/v3/projects/”，其中\{Endpoint\}为IAM的终端节点，可以从管理员处[地区和终端节点](https://developer.huaweicloud.com/dev/endpoint)获取。接口的认证鉴权请参见[认证鉴权](认证鉴权.md)。
+获取项目ID的接口为“GET https://\{Endpoint\}/v3/projects/”，其中\{Endpoint\}为IAM的终端节点，可以从[地区和终端节点](https://developer.huaweicloud.com/dev/endpoint)获取。接口的认证鉴权请参见[认证鉴权](认证鉴权.md)。
 
 响应示例如下，其中projects下的“id”即为项目ID。
 
@@ -47,36 +47,4 @@
 
 **图 1**  查看项目ID<a name="fig48412424201120"></a>  
 ![](figures/查看项目ID.png "查看项目ID")
-
-1.  获取Token。
-
-    请参见[Token认证](认证鉴权.md#section2417768214391)。
-
-2.  获取项目ID。
-
-    获取项目ID的接口为“GET https://iam.eu-west-0.myhuaweicloud.com/v3/_projects_”。
-
-    在请求消息头中增加“X-Auth-Token“，“X-Auth-Token“的取值为上一步获取的Token。
-
-    响应示例如下，其中projects下的“id“即为项目ID。
-
-    ```
-    {
-        "links": {},
-        "projects": [
-            {
-                "is_domain": ,
-                "description": "",
-                "links": {},
-                "enabled": true,
-                "id": "",   // 项目ID
-                "parent_id": "",
-                "domain_id": "",
-                "name": ""
-            },
-            ...
-       ]
-    }
-    ```
-
 

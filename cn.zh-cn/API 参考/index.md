@@ -216,7 +216,7 @@
         -   [删除所有StatefulSet](删除所有StatefulSet（v1beta1）.md)
 
 
--   [数据结构-0]
+-   [数据结构]
     -   [请求数据结构（OLD VERSIONS）](请求数据结构（OLD-VERSIONS）.md)
     -   [响应数据结构（OLD VERSIONS）](响应数据结构（OLD-VERSIONS）.md)
     -   [数据结构](数据结构.md)
@@ -231,3 +231,4 @@
     -   [获取账号ID](获取账号ID.md)
     -   [获取Docker镜像地址](获取Docker镜像地址.md)
     -   [挂载OBS使用限制](挂载OBS使用限制.md)
+
