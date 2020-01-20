@@ -341,7 +341,7 @@ CCI通过云审计服务（Cloud Trace Service，简称CTS）为您提供云服�
 <td class="cellrowborder" valign="top" width="48.64%" headers="mcps1.2.3.1.2 "><p id="p10552122513424"><a name="p10552122513424"></a><a name="p10552122513424"></a>createPersistentvolumeclaim</p>
 </td>
 </tr>
-<tr id="row54522018183815"><td class="cellrowborder" valign="top" width="51.35999999999999%" headers="mcps1.2.3.1.1 "><p id="p1055217257425"><a name="p1055217257425"></a><a name="p1055217257425"></a>导入已有存储</p>
+<tr id="row54522018183815"><td class="cellrowborder" valign="top" width="51.35999999999999%" headers="mcps1.2.3.1.1 "><p id="p1055217257425"><a name="p1055217257425"></a><a name="p1055217257425"></a>导入已有PVC</p>
 </td>
 <td class="cellrowborder" valign="top" width="48.64%" headers="mcps1.2.3.1.2 "><p id="p16552112564214"><a name="p16552112564214"></a><a name="p16552112564214"></a>createPersistentvolumeclaimByStorageInfo</p>
 </td>

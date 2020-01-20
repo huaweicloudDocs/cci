@@ -56,7 +56,7 @@ POST /apis/kubeflow.org/v1/namespaces/\{namespace\}/tfjobs
 
 **请求参数**：
 
-请求参数的详细描述请参见[表153](数据结构.md#table2587194916400)。
+请求参数的详细描述请参见[表154](数据结构.md#table2587194916400)。
 
 **请求示例：**
 
@@ -172,7 +172,7 @@ POST /apis/kubeflow.org/v1/namespaces/\{namespace\}/tfjobs
 
 **响应参数**：
 
-响应参数的详细描述请参考[表153](数据结构.md#table2587194916400)。
+响应参数的详细描述请参考[表154](数据结构.md#table2587194916400)。
 
 **响应示例：**
 

@@ -65,7 +65,7 @@ PUT /apis/kubeflow.org/v1/namespaces/\{namespace\}/tfjobs/\{name\}
 
 ## 请求消息<a name="section89699412414"></a>
 
-请求参数的详细描述请参见[表153](数据结构.md#table2587194916400)。
+请求参数的详细描述请参见[表154](数据结构.md#table2587194916400)。
 
 **请求示例：**
 
@@ -222,7 +222,7 @@ PUT /apis/kubeflow.org/v1/namespaces/\{namespace\}/tfjobs/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参考[表153](数据结构.md#table2587194916400)。
+响应参数的详细描述请参考[表154](数据结构.md#table2587194916400)。
 
 **响应示例**：
 
@@ -373,45 +373,45 @@ PUT /apis/kubeflow.org/v1/namespaces/\{namespace\}/tfjobs/\{name\}
 }
 ```
 
-**状态码**
+## 状态码<a name="section649511434414"></a>
 
-**表 3**  表3 状态码
+**表 3**  状态码
 
-<a name="table76801012163815"></a>
-<table><thead align="left"><tr id="row166182493817"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="zh-cn_topic_0083864910_p189627299518"><a name="zh-cn_topic_0083864910_p189627299518"></a><a name="zh-cn_topic_0083864910_p189627299518"></a>状态码</p>
+<a name="table1557910359443"></a>
+<table><thead align="left"><tr id="row1958063510446"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="p966010481444"><a name="p966010481444"></a><a name="p966010481444"></a>状态码</p>
 </th>
-<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p id="zh-cn_topic_0083864910_p1596342917515"><a name="zh-cn_topic_0083864910_p1596342917515"></a><a name="zh-cn_topic_0083864910_p1596342917515"></a>描述</p>
+<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p id="p1660114813441"><a name="p1660114813441"></a><a name="p1660114813441"></a>描述</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row13777151217387"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p8777131243816"><a name="p8777131243816"></a><a name="p8777131243816"></a>200</p>
+<tbody><tr id="row758019354448"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p1466024814418"><a name="p1466024814418"></a><a name="p1466024814418"></a>200</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p87771612203811"><a name="p87771612203811"></a><a name="p87771612203811"></a>OK</p>
-</td>
-</tr>
-<tr id="row1377711263815"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p15777161233811"><a name="p15777161233811"></a><a name="p15777161233811"></a>201</p>
-</td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p977711217385"><a name="p977711217385"></a><a name="p977711217385"></a>Created</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p766164811448"><a name="p766164811448"></a><a name="p766164811448"></a>OK</p>
 </td>
 </tr>
-<tr id="row127776122381"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p6777121283812"><a name="p6777121283812"></a><a name="p6777121283812"></a>401</p>
+<tr id="row55801135124418"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p166144814449"><a name="p166144814449"></a><a name="p166144814449"></a>201</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p17777121219387"><a name="p17777121219387"></a><a name="p17777121219387"></a>Unauthorized</p>
-</td>
-</tr>
-<tr id="row7777131253811"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p10777141253817"><a name="p10777141253817"></a><a name="p10777141253817"></a>400</p>
-</td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p577717125387"><a name="p577717125387"></a><a name="p577717125387"></a>BadRequest</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p166611448104411"><a name="p166611448104411"></a><a name="p166611448104411"></a>Created</p>
 </td>
 </tr>
-<tr id="row1277771211389"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p9777171218387"><a name="p9777171218387"></a><a name="p9777171218387"></a>500</p>
+<tr id="row18580535124410"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p0661194824412"><a name="p0661194824412"></a><a name="p0661194824412"></a>401</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1777512153810"><a name="p1777512153810"></a><a name="p1777512153810"></a>Internal Error</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p266154884410"><a name="p266154884410"></a><a name="p266154884410"></a>Unauthorized</p>
 </td>
 </tr>
-<tr id="row1477719124386"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p187776127381"><a name="p187776127381"></a><a name="p187776127381"></a>403</p>
+<tr id="row15580135134412"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p136615487442"><a name="p136615487442"></a><a name="p136615487442"></a>400</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p9777151283817"><a name="p9777151283817"></a><a name="p9777151283817"></a>Forbidden</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p20661164818447"><a name="p20661164818447"></a><a name="p20661164818447"></a>BadRequest</p>
+</td>
+</tr>
+<tr id="row458023517449"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p126611448134420"><a name="p126611448134420"></a><a name="p126611448134420"></a>500</p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p5661104813448"><a name="p5661104813448"></a><a name="p5661104813448"></a>Internal Error</p>
+</td>
+</tr>
+<tr id="row1658017359443"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p1066212486444"><a name="p1066212486444"></a><a name="p1066212486444"></a>403</p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p66621548194415"><a name="p66621548194415"></a><a name="p66621548194415"></a>Forbidden</p>
 </td>
 </tr>
 </tbody>

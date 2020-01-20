@@ -82,21 +82,21 @@ N/A
 </td>
 <td class="cellrowborder" valign="top" width="24.72%" headers="mcps1.2.4.1.2 "><p id="p16493259"><a name="p16493259"></a><a name="p16493259"></a>Object</p>
 </td>
-<td class="cellrowborder" valign="top" width="55.559999999999995%" headers="mcps1.2.4.1.3 "><p id="p60885635"><a name="p60885635"></a><a name="p60885635"></a>详情请参见<a href="数据结构.md#table37685299">表174</a>。</p>
+<td class="cellrowborder" valign="top" width="55.559999999999995%" headers="mcps1.2.4.1.3 "><p id="p60885635"><a name="p60885635"></a><a name="p60885635"></a>详情请参见<a href="数据结构.md#table37685299">表175</a>。</p>
 </td>
 </tr>
 <tr id="row11099805"><td class="cellrowborder" valign="top" width="19.72%" headers="mcps1.2.4.1.1 "><p id="p26669028"><a name="p26669028"></a><a name="p26669028"></a>PersistentVolume</p>
 </td>
 <td class="cellrowborder" valign="top" width="24.72%" headers="mcps1.2.4.1.2 "><p id="p536765711525"><a name="p536765711525"></a><a name="p536765711525"></a>Object</p>
 </td>
-<td class="cellrowborder" valign="top" width="55.559999999999995%" headers="mcps1.2.4.1.3 "><p id="p22689808"><a name="p22689808"></a><a name="p22689808"></a>详情请参见<a href="数据结构.md#table24845910">表183</a>。</p>
+<td class="cellrowborder" valign="top" width="55.559999999999995%" headers="mcps1.2.4.1.3 "><p id="p22689808"><a name="p22689808"></a><a name="p22689808"></a>详情请参见<a href="数据结构.md#table24845910">表184</a>。</p>
 </td>
 </tr>
 <tr id="row2881685"><td class="cellrowborder" valign="top" width="19.72%" headers="mcps1.2.4.1.1 "><p id="p32089967"><a name="p32089967"></a><a name="p32089967"></a>StorageInfo</p>
 </td>
 <td class="cellrowborder" valign="top" width="24.72%" headers="mcps1.2.4.1.2 "><p id="p445425712528"><a name="p445425712528"></a><a name="p445425712528"></a>Object</p>
 </td>
-<td class="cellrowborder" valign="top" width="55.559999999999995%" headers="mcps1.2.4.1.3 "><p id="p21772565"><a name="p21772565"></a><a name="p21772565"></a>详情请参见<a href="数据结构.md#table60569775">表198</a>。</p>
+<td class="cellrowborder" valign="top" width="55.559999999999995%" headers="mcps1.2.4.1.3 "><p id="p21772565"><a name="p21772565"></a><a name="p21772565"></a>详情请参见<a href="数据结构.md#table60569775">表199</a>。</p>
 </td>
 </tr>
 </tbody>

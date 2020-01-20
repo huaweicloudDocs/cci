@@ -67,7 +67,7 @@ PUT /apis/kubeflow.org/v1/namespaces/\{namespace\}/pytorchjobs/\{name\}
 
 **请求参数**：
 
-请求参数的详细描述请参见[表164](数据结构.md#table1729624017556)。
+请求参数的详细描述请参见[表165](数据结构.md#table1729624017556)。
 
 **请求示例：**
 
@@ -191,7 +191,7 @@ PUT /apis/kubeflow.org/v1/namespaces/\{namespace\}/pytorchjobs/\{name\}
 
 **响应参数**：
 
-响应参数的详细描述请参见[表164](数据结构.md#table1729624017556)。
+响应参数的详细描述请参见[表165](数据结构.md#table1729624017556)。
 
 **响应示例：**
 
@@ -311,7 +311,7 @@ PUT /apis/kubeflow.org/v1/namespaces/\{namespace\}/pytorchjobs/\{name\}
 
 ## 状态码<a name="zh-cn_topic_0083864910_section16509142112516"></a>
 
-**表 3**  表3 状态码
+**表 3**  状态码
 
 <a name="table76801012163815"></a>
 <table><thead align="left"><tr id="row166182493817"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="zh-cn_topic_0083864910_p189627299518"><a name="zh-cn_topic_0083864910_p189627299518"></a><a name="zh-cn_topic_0083864910_p189627299518"></a>状态码</p>

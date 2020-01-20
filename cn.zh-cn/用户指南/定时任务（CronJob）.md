@@ -44,6 +44,9 @@
             -   NVIDIA Tesla P4 8G x 3，CPU 16核，内存128GB
             -   NVIDIA Tesla P4 8G x 4，CPU 32核，内存256GB
 
+        >![](public_sys-resources/icon-note.gif) **说明：**   
+        >“华北-北京四”区域，仅支持NVIDIA Tesla V100 32G显卡。  
+
         云容器实例支持使用NVIDIA GPU的驱动版本为**396.26**和**410.104**，您应用程序中使用的CUDA需满足如[表1](#table2822104310159)所示的配套关系。CUDA与驱动的配套关系来源于NVIDIA官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
 
         **表 1**  NVIDIA GPU驱动与CUDA配套关系
@@ -91,7 +94,7 @@
         >![](public_sys-resources/icon-note.gif) **说明：**   
         >每个租户一个月有500M的免费日志存储空间，超过500M时AOM将根据实际使用量进行收费，计费规则请参见[产品价格详情](https://www.huaweicloud.com/pricing.html?tab=detail#/aom)。  
 
-        对于GPU加速型Pod（仅GPU型命名空间下才可以选择），Pod中只有一个容器能使用GPU，如果您的Pod中有多个容器，您可以通过**开启GPU**这个开关选择哪个容器使用GPU。同样GPU加速型Pod中只有一个容器能使用IB网络，如果您的Pod中有多个容器，您可以通过**开启IB网络**这个开关选择哪个容器使用IB网络。如果您的GPU型命名空间中没有创建IB网络，可以在这里单击“新创建IB网络“，IB网络的介绍请参见[7](命名空间.md#li536317258233)。
+        对于GPU加速型Pod（仅GPU型命名空间下才可以选择），Pod中只有一个容器能使用GPU，如果您的Pod中有多个容器，您可以通过**开启GPU**这个开关选择哪个容器使用GPU。同样GPU加速型Pod中只有一个容器能使用IB网络，如果您的Pod中有多个容器，您可以通过**开启IB网络**这个开关选择哪个容器使用IB网络。如果您的GPU型命名空间中没有创建IB网络，可以在这里单击“新创建IB网络“，IB网络的介绍请参见[8](命名空间.md#li536317258233)。
 
         您还可以为容器做如下高级设置：
 

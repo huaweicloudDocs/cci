@@ -305,7 +305,7 @@ POST /api/v1/namespaces
 </td>
 <td class="cellrowborder" valign="top" width="17.52%" headers="mcps1.2.4.1.2 "><p id="p3472649171413"><a name="p3472649171413"></a><a name="p3472649171413"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p1028517416144"><a name="p1028517416144"></a><a name="p1028517416144"></a>用户额项目名称。</p>
+<td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p1028517416144"><a name="p1028517416144"></a><a name="p1028517416144"></a>用户的项目名称。</p>
 </td>
 </tr>
 </tbody>

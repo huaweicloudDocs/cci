@@ -126,7 +126,7 @@ POST /api/v1/namespaces/\{namespace\}/pods
             }
         ],
         "restartPolicy": "Always",
-        "priority": "0"
+        "priority": 0
     }
 }
 ```
@@ -172,7 +172,7 @@ POST /api/v1/namespaces/\{namespace\}/pods
             }
         ],
         "restartPolicy": "Always",
-        "priority": "0"
+        "priority": 0
     }
 }
 ```

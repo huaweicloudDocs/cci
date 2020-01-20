@@ -92,7 +92,7 @@ Content-Type: application/merge-patch+json
 
 **响应参数**：
 
-响应参数的详细描述请参见[表161](数据结构.md#table65611161418)。
+响应参数的详细描述请参见[表162](数据结构.md#table65611161418)。
 
 **响应示例：**
 

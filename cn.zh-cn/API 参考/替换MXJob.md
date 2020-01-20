@@ -67,7 +67,7 @@ PUT /apis/kubeflow.org/v1/namespaces/\{namespace\}/mxjobs/\{name\}
 
 **请求参数**：
 
-请求参数的详细描述请参见[表161](数据结构.md#table65611161418)。
+请求参数的详细描述请参见[表162](数据结构.md#table65611161418)。
 
 **请求示例：**
 
@@ -240,7 +240,7 @@ PUT /apis/kubeflow.org/v1/namespaces/\{namespace\}/mxjobs/\{name\}
 
 **响应参数**：
 
-响应参数的详细描述请参见[表161](数据结构.md#table65611161418)。
+响应参数的详细描述请参见[表162](数据结构.md#table65611161418)。
 
 **响应示例：**
 

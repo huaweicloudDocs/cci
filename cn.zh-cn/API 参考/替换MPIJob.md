@@ -66,7 +66,7 @@ PUT /apis/kubeflow.org/v1alpha2/namespaces/\{namespace\}/mpijobs/\{name\}
 
 **请求参数**：
 
-请求参数的详细描述请参见[表170](数据结构.md#table23131833144416)。
+请求参数的详细描述请参见[表171](数据结构.md#table23131833144416)。
 
 **请求示例：**
 
@@ -200,7 +200,7 @@ PUT /apis/kubeflow.org/v1alpha2/namespaces/\{namespace\}/mpijobs/\{name\}
 
 **响应参数**：
 
-响应参数的详细描述请参见[表170](数据结构.md#table23131833144416)。
+响应参数的详细描述请参见[表171](数据结构.md#table23131833144416)。
 
 **响应示例：**
 

@@ -83,7 +83,7 @@ PATCH /apis/batch.volcano.sh/v1alpha1/namespaces/\{namespace\}/jobs/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参考[表144](数据结构.md#table1251082312812)。
+响应参数的详细描述请参考[表145](数据结构.md#table1251082312812)。
 
 **响应示例**：
 

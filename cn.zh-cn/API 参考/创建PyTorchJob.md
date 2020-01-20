@@ -56,7 +56,7 @@ POST /apis/kubeflow.org/v1/namespaces/\{namespace\}/pytorchjobs
 
 **请求参数**：
 
-请求参数的详细描述请参见[表164](数据结构.md#table1729624017556)。
+请求参数的详细描述请参见[表165](数据结构.md#table1729624017556)。
 
 **请求示例：**
 
@@ -151,7 +151,7 @@ POST /apis/kubeflow.org/v1/namespaces/\{namespace\}/pytorchjobs
 
 **响应参数**：
 
-响应参数的详细描述请参见[表164](数据结构.md#table1729624017556)。
+响应参数的详细描述请参见[表165](数据结构.md#table1729624017556)。
 
 **响应示例：**
 
