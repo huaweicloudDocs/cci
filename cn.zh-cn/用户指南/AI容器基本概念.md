@@ -4,9 +4,6 @@ AI容器面向云端深度学习训练和推理场景，支持Tensorflow、MXNet
 
 AI容器提供了多种类型的AI任务部署和管理能力，支持任务部署、配置、监控、日志等特性。AI容器支持任务类型包括Tensorflow、MXNet、PyTorch、MPI。
 
->![](public_sys-resources/icon-note.gif) **说明：**   
->目前AI容器仅“华北-北京一”区域支持。  
-
 ## Tensorflow<a name="section103357191010"></a>
 
 Tensorflow任务是基于Tensorflow开源框架的kubernetes自定义资源类型，有多种角色可以配置，能够帮助我们更简单地实现Tensorflow的单机或分布式训练。Tensorflow开源框架的信息详见：[https://www.tensorflow.org](https://www.tensorflow.org/)  。
