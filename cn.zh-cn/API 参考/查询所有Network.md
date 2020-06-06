@@ -166,7 +166,7 @@ N/A
                 "physicalNetwork": "phy_net0",
                 "networkID": "0022e356-f730-4226-802e-9cdaa6e7da17",
                 "subnetID": "1ffd839d-e534-4fa8-a59d-42356335bf74",
-                "availableZone": "cnnorth1a"
+                "availableZone": "cn-north-1a"
             },
             "status": {
                 "state": "Active"

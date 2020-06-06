@@ -89,7 +89,7 @@ N/A
         "enable": true
     },
     "spec": {
-        "availableZone": "cnnorth1a",
+        "availableZone": "cn-north-1a",
         "cidr": "192.168.0.0/24",
         "attachedVPC": "vpc-id",
         "networkID": "network-id",

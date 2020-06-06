@@ -15,7 +15,7 @@
     -   [返回结果](返回结果.md)
 
 -   [快速入门](快速入门.md)
--   [API](API.md)
+-   [API]
     -   [Network]
         -   [创建Network](创建Network.md)
         -   [查询Network](查询Network.md)
@@ -191,6 +191,21 @@
         -   [删除MPIJob](删除MPIJob.md)
         -   [更新MPIJob](更新MPIJob.md)
         -   [替换MPIJob](替换MPIJob.md)
+
+    -   [RBAC]
+        -   [ClusterRole]
+            -   [获取指定的ClusterRole](获取指定的ClusterRole.md)
+            -   [获取ClusterRole列表](获取ClusterRole列表.md)
+
+        -   [RoleBinding]
+            -   [创建RoleBinding](创建RoleBinding.md)
+            -   [更新指定的RoleBinding](更新指定的RoleBinding.md)
+            -   [替换指定的RoleBinding](替换指定的RoleBinding.md)
+            -   [删除指定的RoleBinding](删除指定的RoleBinding.md)
+            -   [获取指定的RoleBinding](获取指定的RoleBinding.md)
+            -   [获取指定namespace下RoleBinding列表](获取指定namespace下RoleBinding列表.md)
+            -   [获取RoleBinding列表](获取RoleBinding列表.md)
+
 
 
 -   [Kubernetes API （OLD VERSIONS）]

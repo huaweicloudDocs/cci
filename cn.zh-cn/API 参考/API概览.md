@@ -1059,9 +1059,68 @@
 </tbody>
 </table>
 
+## RBAC<a name="section187328377322"></a>
+
+**表 1**  RBAC
+
+<a name="table9795194911260"></a>
+<table><thead align="left"><tr id="row5796549112610"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="p102791555192715"><a name="p102791555192715"></a><a name="p102791555192715"></a>API</p>
+</th>
+<th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.2"><p id="p92808553276"><a name="p92808553276"></a><a name="p92808553276"></a>说明</p>
+</th>
+</tr>
+</thead>
+<tbody><tr id="row3796749172618"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p197971649162614"><a name="p197971649162614"></a><a name="p197971649162614"></a><a href="获取指定的ClusterRole.md">获取指定的ClusterRole</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p14449814192918"><a name="p14449814192918"></a><a name="p14449814192918"></a>获取指定的ClusterRole。</p>
+</td>
+</tr>
+<tr id="row1879714496265"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p17974494267"><a name="p17974494267"></a><a name="p17974494267"></a><a href="获取ClusterRole列表.md">获取ClusterRole列表</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1644931416297"><a name="p1644931416297"></a><a name="p1644931416297"></a>获取ClusterRole列表。</p>
+</td>
+</tr>
+<tr id="row9850164414386"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p12850104493811"><a name="p12850104493811"></a><a name="p12850104493811"></a><a href="创建RoleBinding.md">创建RoleBinding</a><a href="创建RoleBinding.md">创建RoleBinding</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p14790163819435"><a name="p14790163819435"></a><a name="p14790163819435"></a>创建RoleBinding。</p>
+</td>
+</tr>
+<tr id="row12422184518384"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p7422645113819"><a name="p7422645113819"></a><a name="p7422645113819"></a><a href="更新指定的RoleBinding.md">更新指定的RoleBinding</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p11790163814431"><a name="p11790163814431"></a><a name="p11790163814431"></a>部分更新指定的RoleBinding。</p>
+</td>
+</tr>
+<tr id="row1299824517389"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p13998144533811"><a name="p13998144533811"></a><a name="p13998144533811"></a><a href="替换指定的RoleBinding.md">替换指定的RoleBinding</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p187901538164315"><a name="p187901538164315"></a><a name="p187901538164315"></a>替换指定的RoleBinding。</p>
+</td>
+</tr>
+<tr id="row553474623820"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p12534144643816"><a name="p12534144643816"></a><a name="p12534144643816"></a><a href="删除指定的RoleBinding.md">删除指定的RoleBinding</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p8791113884313"><a name="p8791113884313"></a><a name="p8791113884313"></a>删除指定的RoleBinding。</p>
+</td>
+</tr>
+<tr id="row96408470383"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p15640194712381"><a name="p15640194712381"></a><a name="p15640194712381"></a><a href="获取指定的RoleBinding.md">获取指定的RoleBinding</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p8792138144316"><a name="p8792138144316"></a><a name="p8792138144316"></a>获取指定的RoleBinding。</p>
+</td>
+</tr>
+<tr id="row4230124883810"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p323110487381"><a name="p323110487381"></a><a name="p323110487381"></a><a href="获取指定namespace下RoleBinding列表.md">获取指定namespace下RoleBinding列表</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p7792938134311"><a name="p7792938134311"></a><a name="p7792938134311"></a>列出指定namespace下的RoleBinding列表。</p>
+</td>
+</tr>
+<tr id="row895614819382"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p1956748153814"><a name="p1956748153814"></a><a name="p1956748153814"></a><a href="获取RoleBinding列表.md">获取RoleBinding列表</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p20793938164315"><a name="p20793938164315"></a><a name="p20793938164315"></a>获取RoleBinding列表。</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 ## Deployment（v1beta1）<a name="section17502111762310"></a>
 
-**表 1**  Deployment接口
+**表 2**  Deployment接口
 
 <a name="table15459104792711"></a>
 <table><thead align="left"><tr id="row8462144716276"><th class="cellrowborder" valign="top" width="32.029999999999994%" id="mcps1.2.3.1.1"><p id="p54645479275"><a name="p54645479275"></a><a name="p54645479275"></a>API</p>
@@ -1120,7 +1179,7 @@
 
 ## Statefulset（v1beta1）<a name="section4337374319"></a>
 
-**表 2**  Statefulset接口
+**表 3**  Statefulset接口
 
 <a name="table82794558319"></a>
 <table><thead align="left"><tr id="row182841055153118"><th class="cellrowborder" valign="top" width="32%" id="mcps1.2.3.1.1"><p id="p1528518557318"><a name="p1528518557318"></a><a name="p1528518557318"></a>API</p>

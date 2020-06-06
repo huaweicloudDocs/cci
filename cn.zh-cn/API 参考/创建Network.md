@@ -242,7 +242,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p1873651111311"><a name="p1873651111311"></a><a name="p1873651111311"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p159741931152618"><a name="p159741931152618"></a><a name="p159741931152618"></a>Network对应VPC子网所在可用区。当前支持“华北-北京一”、“华北-北京四”和“华东-上海一”区域，该值可设置为“cnnorth1a”、“cn-north-4a”或“cn-east-3a”。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p159741931152618"><a name="p159741931152618"></a><a name="p159741931152618"></a>Network对应VPC子网所在可用区。当前支持“华北-北京一”、“华北-北京四”和“华东-上海一”区域，该值可设置为“cn-north-1a”、“cn-north-4a”或“cn-east-3a”。</p>
 </td>
 </tr>
 </tbody>
@@ -298,7 +298,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
         "namespace": "test-ns"
     },
     "spec": {
-        "availableZone": "cnnorth1a",
+        "availableZone": "cn-north-1a",
         "cidr": "192.168.0.0/24",
         "attachedVPC": "vpc-id",
         "networkID": "network-id",
@@ -336,7 +336,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
         "enable": true
     },
     "spec": {
-        "availableZone": "cnnorth1a",
+        "availableZone": "cn-north-1a",
         "cidr": "192.168.0.0/24",
         "attachedVPC": "vpc-id",
         "networkID": "network-id",

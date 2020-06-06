@@ -218,7 +218,7 @@ N/A
                 "name": "pvc-e82c1574-a46d-11e9-be8a-b44326d0c915",
                 "size": 10,
                 "inresourcepool": false,
-                "availability_zone": "cn-north-7a",
+                "availability_zone": "cn-north-1a",
                 "volume_type": "sata",
                 "multiattach": true,
                 "access": {
