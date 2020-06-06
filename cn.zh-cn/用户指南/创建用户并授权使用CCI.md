@@ -12,8 +12,7 @@
 
 ## 前提条件<a name="section143301247493"></a>
 
--   “CCI FullAccess”属于策略，请先在IAM控制台中开通基于策略的访问控制公测，开通方法请参见：[申请基于策略的访问控制公测](https://support.huaweicloud.com/usermanual-iam/iam_01_019.html)。
--   给用户组授权之前，请您了解用户组可以添加的CCI权限，并结合实际需求进行选择，CCI支持的系统策略，请参见[CCI系统策略](https://support.huaweicloud.com/productdesc-cci/cci_03_0008.html)。若您需要对除CCI之外的其它服务授权，IAM支持服务的所有策略请参见[权限策略](https://support.huaweicloud.com/permissions/policy_list.html?product=cci)。
+给用户组授权之前，请您了解用户组可以添加的CCI权限，并结合实际需求进行选择，CCI支持的系统策略，请参见[CCI系统策略](https://support.huaweicloud.com/productdesc-cci/cci_03_0008.html)。若您需要对除CCI之外的其它服务授权，IAM支持服务的所有策略请参见[权限策略](https://support.huaweicloud.com/permissions/policy_list.html?product=cci)。
 
 ## 示例流程<a name="section1733954454616"></a>
 
@@ -22,17 +21,17 @@
 
 1.  <a name="li2706103635114"></a>[创建用户组并授权](https://support.huaweicloud.com/usermanual-iam/iam_03_0001.html)
 
-    在IAM控制台创建用户组，并授予云容器实例只读权限“CCI ReadOnlyAccess”。
+    在IAM控制台创建用户组（例如开发人员组），并授予云容器实例普通用户权限“CCI CommonOperations”。因为CCI为项目级服务，所以在给用户授予CCI相关系统策略权限时，还需要给用户授予IAM ReadOnlyAccess。
 
 2.  [创建用户并加入用户组](https://support.huaweicloud.com/usermanual-iam/iam_02_0001.html)
 
-    在IAM控制台创建用户，并将其加入[1](#li2706103635114)中创建的用户组。
+    在IAM控制台创建用户（例如James），并将其加入[1](#li2706103635114)中创建的用户组。
 
 3.  [用户登录](https://support.huaweicloud.com/usermanual-iam/iam_01_0552.html)并验证权限
 
     新创建的用户登录控制台，切换至授权区域，验证权限：
 
-    -   在“服务列表”中选择云容器实例，进入CCI主界面，左侧导航栏中选择“工作负载 \> 无状态（Deployment）“，在右侧页面单击“创建无状态负载“，如果无法创建工作负载（假设当前权限仅包含CCI ReadOnlyAccess），表示“CCI ReadOnlyAccess”已生效。
-    -   在“服务列表”中选择除云容器实例外（假设当前策略仅包含CCI ReadOnlyAccess）的任一服务，若提示权限不足，表示“CCI ReadOnlyAccess”已生效。
+    -   在“服务列表”中选择云容器实例，进入CCI主界面，左侧导航栏中选择“工作负载 \> 无状态（Deployment）“，在右侧页面单击“创建无状态负载“，如果可以正常创建工作负载，表示“CCI CommonOperations”已生效。
+    -   在“服务列表”中选择云容器实例，进入CCI主界面，左侧导航栏中选择“命名空间“，在右侧页面单击“创建命名空间“，如果无法创建命名空间，表示“CCI CommonOperations”已生效。
 
 
