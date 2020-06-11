@@ -40,31 +40,6 @@ GET /apis/rbac.authorization.k8s.io/v1/clusterroles/\{name\}
 
 ## 请求消息<a name="section18662134312520"></a>
 
-**请求参数**
-
-**表 2**  请求Header参数说明
-
-<a name="table165001054142614"></a>
-<table><thead align="left"><tr id="row55001954122614"><th class="cellrowborder" valign="top" width="20%" id="mcps1.2.4.1.1"><p id="p115009545264"><a name="p115009545264"></a><a name="p115009545264"></a>参数</p>
-</th>
-<th class="cellrowborder" valign="top" width="19%" id="mcps1.2.4.1.2"><p id="p175001547265"><a name="p175001547265"></a><a name="p175001547265"></a>是否必选</p>
-</th>
-<th class="cellrowborder" valign="top" width="61%" id="mcps1.2.4.1.3"><p id="p16500154162611"><a name="p16500154162611"></a><a name="p16500154162611"></a>描述</p>
-</th>
-</tr>
-</thead>
-<tbody><tr id="row199801811203412"><td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.4.1.1 "><p id="p69808112344"><a name="p69808112344"></a><a name="p69808112344"></a>X-CCI-Namespace</p>
-</td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.4.1.2 "><p id="p3980111103414"><a name="p3980111103414"></a><a name="p3980111103414"></a>是</p>
-</td>
-<td class="cellrowborder" valign="top" width="61%" headers="mcps1.2.4.1.3 "><p id="p4234331132917"><a name="p4234331132917"></a><a name="p4234331132917"></a>当前用户任一Namespace的名称。</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-**请求示例**
-
 N/A
 
 ## 响应消息<a name="section726119112252"></a>
@@ -73,7 +48,7 @@ N/A
 
 响应参数的详细描述请参见[表2 响应参数](#table1154814995615)。
 
-**表 3**  响应参数
+**表 2**  响应参数
 
 <a name="table1154814995615"></a>
 <table><thead align="left"><tr id="row455284915618"><th class="cellrowborder" valign="top" width="25.88%" id="mcps1.2.4.1.1"><p id="p15553124911564"><a name="p15553124911564"></a><a name="p15553124911564"></a>参数</p>
@@ -115,7 +90,7 @@ N/A
 </tbody>
 </table>
 
-**表 4**  metadata字段数据结构说明
+**表 3**  metadata字段数据结构说明
 
 <a name="table204271324125219"></a>
 <table><thead align="left"><tr id="row1942919240529"><th class="cellrowborder" valign="top" width="26.080000000000002%" id="mcps1.2.4.1.1"><p id="p2042942415210"><a name="p2042942415210"></a><a name="p2042942415210"></a>参数</p>
@@ -164,7 +139,7 @@ N/A
 </tbody>
 </table>
 
-**表 5**  rules字段数据结构说明
+**表 4**  rules字段数据结构说明
 
 <a name="table157813483553"></a>
 <table><thead align="left"><tr id="row78819487558"><th class="cellrowborder" valign="top" width="25.88%" id="mcps1.2.4.1.1"><p id="p88984811556"><a name="p88984811556"></a><a name="p88984811556"></a>参数</p>
@@ -224,7 +199,7 @@ N/A
 
 [状态码](#d0e43055)描述API的状态码。
 
-**表 6**  状态码
+**表 5**  状态码
 
 <a name="d0e43055"></a>
 <table><thead align="left"><tr id="row20813512"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="p8172937"><a name="p8172937"></a><a name="p8172937"></a>状态码</p>
