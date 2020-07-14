@@ -4,28 +4,28 @@
 
 创建Ingress。
 
->![](public_sys-resources/icon-note.gif) **说明：**   
->若需要在CCI工作负载详情页面的“访问方式”页签中显示对应的Ingress资源，则需要给创建的Ingress资源对象添加labels标签。添加的标签需满足如下要求：  
->-   service的labels中设置的标签必须和负载的selector中matchLabels设置的label一致。  
->    例如，负载中matchLabels标签设置如下：  
->    ```  
->    "spec": {  
->            "replicas": 1,  
->            "selector": {  
->                "matchLabels": {  
->                    "app": "redis"  
->                }  
->            }  
->    ```  
->    service中的labels也必须设置为**"app": "redis"**：  
->    ```  
->        "metadata": {  
->            "name": "redis",  
->            "labels": {  
->                "app": "redis"  
->            }  
->    ```  
->-   ingress中定义的serviceName必须和service中定义的名称一致。  
+>![](public_sys-resources/icon-note.gif) **说明：** 
+>若需要在CCI工作负载详情页面的“访问方式”页签中显示对应的Ingress资源，则需要给创建的Ingress资源对象添加labels标签。添加的标签需满足如下要求：
+>-   service的labels中设置的标签必须和负载的selector中matchLabels设置的label一致。
+>    例如，负载中matchLabels标签设置如下：
+>    ```
+>    "spec": {
+>            "replicas": 1,
+>            "selector": {
+>                "matchLabels": {
+>                    "app": "redis"
+>                }
+>            }
+>    ```
+>    service中的labels也必须设置为**"app": "redis"**：
+>    ```
+>        "metadata": {
+>            "name": "redis",
+>            "labels": {
+>                "app": "redis"
+>            }
+>    ```
+>-   ingress中定义的serviceName必须和service中定义的名称一致。
 
 ## URI<a name="section14030938"></a>
 
@@ -222,11 +222,13 @@ POST /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses
 </th>
 </tr>
 </thead>
-<tbody><tr id="row2663689"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p14432280"><a name="p14432280"></a><a name="p14432280"></a>202</p>
+<tbody><tr id="row2663689"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p14432280"><a name="p14432280"></a><a name="p14432280"></a><span>201</span></p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p28164027"><a name="p28164027"></a><a name="p28164027"></a>Accepted</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p28164027"><a name="p28164027"></a><a name="p28164027"></a>Created</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+更多状态码请参见[状态码](状态码.md)。
 

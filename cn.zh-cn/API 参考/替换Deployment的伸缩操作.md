@@ -134,3 +134,5 @@ PUT /apis/apps/v1/namespaces/\{namespace\}/deployments/\{name\}/scale
 </tbody>
 </table>
 
+更多状态码请参见[状态码](状态码.md)。
+

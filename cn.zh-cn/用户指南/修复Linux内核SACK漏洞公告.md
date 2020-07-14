@@ -88,8 +88,8 @@
     **图 2**  自动创建Pod<a name="fig18810183164014"></a>  
     ![](figures/自动创建Pod.png "自动创建Pod")
 
-    >![](public_sys-resources/icon-notice.gif) **须知：**   
-    >存在多个Pod时，请逐个删除Pod，待前一个Pod重新创建成功后，再删除下一个Pod，避免业务发生中断。  
+    >![](public_sys-resources/icon-notice.gif) **须知：** 
+    >存在多个Pod时，请逐个删除Pod，待前一个Pod重新创建成功后，再删除下一个Pod，避免业务发生中断。
 
 
 ## 附：TCP SACK介绍<a name="section11904733145410"></a>

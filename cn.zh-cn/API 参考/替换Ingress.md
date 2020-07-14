@@ -184,11 +184,8 @@ PUT /apis/extensions/v1beta1/namespaces/\{namespace\}/ingresses/\{name\}
 <td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0079615066_p696045"><a name="zh-cn_topic_0079615066_p696045"></a><a name="zh-cn_topic_0079615066_p696045"></a>success</p>
 </td>
 </tr>
-<tr id="row18199115518235"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p81998550234"><a name="p81998550234"></a><a name="p81998550234"></a>201</p>
-</td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p719935513239"><a name="p719935513239"></a><a name="p719935513239"></a>Created</p>
-</td>
-</tr>
 </tbody>
 </table>
+
+更多状态码请参见[状态码](状态码.md)。
 

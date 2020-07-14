@@ -5,9 +5,10 @@ CCI当前认证鉴权是在Kubernetes的角色访问控制（RBAC）与统一身
 -   **命名空间下资源权限的授权：**是基于Kubernetes RBAC能力的授权。通过权限设置可以让不同的用户或用户组拥有操作指定Namespace下Kubernetes资源的权限。
 -   **命名空间级别的授权：**是基于IAM的细粒度授权。通过命名空间级别权限设置可以控制用户操作Namespace（如创建、删除Namespace等）。更多细粒度权限说明请参见[CCI细粒度鉴权系统策略关联Actions](https://support.huaweicloud.com/productdesc-cci/cci_03_0008.html#section0)。
 
->![](public_sys-resources/icon-note.gif) **说明：**   
->-   创建Namespace时，打开RBAC鉴权开关，则此Namespace下资源访问受RBAC鉴权控制；如果未打开RBAC鉴权开关，则RBAC鉴权不生效。  
->-   创建开启RBAC鉴权的Namespace后，需要先对用户授权后，用户才能使用这个Namespace。  
+>![](public_sys-resources/icon-note.gif) **说明：** 
+>-   创建Namespace时，打开RBAC鉴权开关，则此Namespace下资源访问受RBAC鉴权控制；如果未打开RBAC鉴权开关，则RBAC鉴权不生效。
+>-   创建开启RBAC鉴权的Namespace后，需要先对用户授权后，用户才能使用这个Namespace。
+>-   支持对当前用户下的所有命名空间进行授权，以提供更好的前端显示体验。
 
 **图 1**  CCI权限管理<a name="fig338584562419"></a>  
 ![](figures/CCI权限管理.png "CCI权限管理")
@@ -41,8 +42,8 @@ Kubernetes RBAC API定义了四种类型：Role、ClusterRole、RoleBinding与Cl
 </tbody>
 </table>
 
->![](public_sys-resources/icon-caution.gif) **注意：**   
->当前仅支持用户使用ClusterRole在Namespace下创建RoleBinding。  
+>![](public_sys-resources/icon-caution.gif) **注意：** 
+>当前仅支持用户使用ClusterRole在Namespace下创建RoleBinding。
 
 CCI中的命名空间权限是基于Kubernetes RBAC能力的授权，通过权限设置可以让不同的用户或用户组拥有操作不同Kubernetes资源的不同权限。
 

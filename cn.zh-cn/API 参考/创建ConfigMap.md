@@ -107,21 +107,23 @@ POST /api/v1/namespaces/\{namespace\}/configmaps
 </th>
 </tr>
 </thead>
-<tbody><tr id="row094391816323"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p16943191810326"><a name="p16943191810326"></a><a name="p16943191810326"></a>200</p>
+<tbody><tr id="row19718941931"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p371916415318"><a name="p371916415318"></a><a name="p371916415318"></a>200</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p6943518123216"><a name="p6943518123216"></a><a name="p6943518123216"></a>OK</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p5719114115312"><a name="p5719114115312"></a><a name="p5719114115312"></a>OK</p>
 </td>
 </tr>
 <tr id="row2663689"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p14432280"><a name="p14432280"></a><a name="p14432280"></a>201</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p28164027"><a name="p28164027"></a><a name="p28164027"></a>Created</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1436155513315"><a name="p1436155513315"></a><a name="p1436155513315"></a><span>Created</span></p>
 </td>
 </tr>
-<tr id="row369972615347"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p46991726153416"><a name="p46991726153416"></a><a name="p46991726153416"></a>202</p>
+<tr id="row847320441734"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p447412447315"><a name="p447412447315"></a><a name="p447412447315"></a>202</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p18699826163420"><a name="p18699826163420"></a><a name="p18699826163420"></a>Accepted</p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1947417441832"><a name="p1947417441832"></a><a name="p1947417441832"></a><span>Accepted</span></p>
 </td>
 </tr>
 </tbody>
 </table>
+
+更多状态码请参见[状态码](状态码.md)。
 

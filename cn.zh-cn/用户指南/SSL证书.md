@@ -4,8 +4,8 @@ SSL（安全套接层，Secure Sockets Layer）是一种安全协议，目的是
 
 云容器实例支持上传SSL证书，在使用HTTPS访问时，云容器实例将SSL证书自动安装到七层负载均衡器上，实现数据传输加密。
 
->![](public_sys-resources/icon-note.gif) **说明：**   
->Secret与SSL证书共用同一个配额。  
+>![](public_sys-resources/icon-note.gif) **说明：** 
+>Secret与SSL证书共用同一个配额。
 
 ## SSL证书介绍<a name="section1769917209386"></a>
 

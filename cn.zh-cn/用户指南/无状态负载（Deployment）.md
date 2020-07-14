@@ -57,30 +57,30 @@ Deployment集成了上线部署、滚动升级、创建副本，恢复上线任�
             -   NVIDIA Tesla P4 8G x 3，CPU 16核，内存128GB
             -   NVIDIA Tesla P4 8G x 4，CPU 32核，内存256GB
 
-        云容器实例支持使用NVIDIA GPU的驱动版本为**396.26**和**410.104**，您应用程序中使用的CUDA需满足如[表1](#table2822104310159)所示的配套关系。CUDA与驱动的配套关系来源于NVIDIA官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
+        云容器实例支持使用NVIDIA GPU的驱动版本为**410.104**和**418.126**，您应用程序中使用的CUDA需满足如[表1](#table16459192015518)所示的配套关系。CUDA与驱动的配套关系来源于NVIDIA官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
 
-        >![](public_sys-resources/icon-note.gif) **说明：**   
-        >-   nvidia-smi是一个命令行工具，详细信息请参考[NVIDIA System Management Interface](https://developer.nvidia.com/nvidia-system-management-interface)。  
-        >-   CCI不提供nvidia-smi，您可以将nvidia-smi打包到镜像中，通过nvidia-smi监控GPU使用情况。使用nvidia-smi前需要设置LD\_LIBRARY\_PATH值，方法请参考[为什么exec进入容器后执行GPU相关的操作报错](https://support.huaweicloud.com/cci_faq/cci_faq_0040.html)。  
-        >-   “华北-北京四”区域，仅支持NVIDIA Tesla V100 32G显卡。  
+        >![](public_sys-resources/icon-note.gif) **说明：** 
+        >-   nvidia-smi是一个命令行工具，详细信息请参考[NVIDIA System Management Interface](https://developer.nvidia.com/nvidia-system-management-interface)。
+        >-   CCI不提供nvidia-smi，您可以将nvidia-smi打包到镜像中，通过nvidia-smi监控GPU使用情况。使用nvidia-smi前需要设置LD\_LIBRARY\_PATH值，方法请参考[为什么exec进入容器后执行GPU相关的操作报错](https://support.huaweicloud.com/cci_faq/cci_faq_0040.html)。
+        >-   “华北-北京四”区域，仅支持NVIDIA Tesla V100 32G显卡。
 
         **表 1**  NVIDIA GPU驱动与CUDA配套关系
 
-        <a name="table2822104310159"></a>
-        <table><thead align="left"><tr id="row17823154311517"><th class="cellrowborder" valign="top" width="15.72%" id="mcps1.2.3.1.1"><p id="p114410478202"><a name="p114410478202"></a><a name="p114410478202"></a>NVIDIA GPU驱动版本</p>
+        <a name="table16459192015518"></a>
+        <table><thead align="left"><tr id="row194598204515"><th class="cellrowborder" valign="top" width="30.620000000000005%" id="mcps1.2.3.1.1"><p id="p1845932065111"><a name="p1845932065111"></a><a name="p1845932065111"></a>NVIDIA GPU驱动版本</p>
         </th>
-        <th class="cellrowborder" valign="top" width="84.28%" id="mcps1.2.3.1.2"><p id="p3823104361519"><a name="p3823104361519"></a><a name="p3823104361519"></a>CUDA Toolkit版本</p>
+        <th class="cellrowborder" valign="top" width="69.38%" id="mcps1.2.3.1.2"><p id="p1445910203518"><a name="p1445910203518"></a><a name="p1445910203518"></a>CUDA Toolkit版本</p>
         </th>
         </tr>
         </thead>
-        <tbody><tr id="row4823184321519"><td class="cellrowborder" valign="top" width="15.72%" headers="mcps1.2.3.1.1 "><p id="p10823114312154"><a name="p10823114312154"></a><a name="p10823114312154"></a>396.26</p>
+        <tbody><tr id="row9786192115398"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p1178672103912"><a name="p1178672103912"></a><a name="p1178672103912"></a>410.104</p>
         </td>
-        <td class="cellrowborder" valign="top" width="84.28%" headers="mcps1.2.3.1.2 "><p id="p1356832711196"><a name="p1356832711196"></a><a name="p1356832711196"></a>CUDA 9.2 (9.2.88)及以下</p>
+        <td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p20459152020519"><a name="p20459152020519"></a><a name="p20459152020519"></a>CUDA 10.0 (10.0.130)及以下</p>
         </td>
         </tr>
-        <tr id="row482384341513"><td class="cellrowborder" valign="top" width="15.72%" headers="mcps1.2.3.1.1 "><p id="p14823104361510"><a name="p14823104361510"></a><a name="p14823104361510"></a>410.104</p>
+        <tr id="row626275911711"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p52626591079"><a name="p52626591079"></a><a name="p52626591079"></a>418.126</p>
         </td>
-        <td class="cellrowborder" valign="top" width="84.28%" headers="mcps1.2.3.1.2 "><p id="p3628192518161"><a name="p3628192518161"></a><a name="p3628192518161"></a>CUDA 10.0 (10.0.130)及以下</p>
+        <td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p9459132010511"><a name="p9459132010511"></a><a name="p9459132010511"></a>CUDA 10.1 (10.1.105)及以下</p>
         </td>
         </tr>
         </tbody>
@@ -97,21 +97,21 @@ Deployment集成了上线部署、滚动升级、创建副本，恢复上线任�
 
         一个Pod可以包含一个或多个运行不同镜像的容器，通常情况下一个Pod中只有一个容器，若您的应用程序需要多个容器，请单击“添加容器“，然后选择镜像。
 
-        >![](public_sys-resources/icon-notice.gif) **须知：**   
-        >同一个Pod实例中的不同容器如果监听了相同的端口，则会导致端口冲突，Pod可能会启动失败。例如在Pod中添加了一个nginx镜像容器，启动了80端口，如果该Pod中另一个http服务的镜像也启动80端口，那么这个Pod就会出现端口冲突。  
+        >![](public_sys-resources/icon-notice.gif) **须知：** 
+        >同一个Pod实例中的不同容器如果监听了相同的端口，则会导致端口冲突，Pod可能会启动失败。例如在Pod中添加了一个nginx镜像容器，启动了80端口，如果该Pod中另一个http服务的镜像也启动80端口，那么这个Pod就会出现端口冲突。
 
         -   我的镜像：展示了您上传到容器镜像服务的镜像。
 
-            >![](public_sys-resources/icon-note.gif) **说明：**   
-            >如您是IAM用户，您需要参考[（可选）上传镜像](环境设置.md#section1593133403517)进行权限设置后才可使用账号的私有镜像。  
+            >![](public_sys-resources/icon-note.gif) **说明：** 
+            >如您是IAM用户，您需要参考[（可选）上传镜像](环境设置.md#section1593133403517)进行权限设置后才可使用账号的私有镜像。
 
         -   Docker官方镜像：展示了Dockerhub上的公共镜像。
         -   共享镜像：展示了容器镜像服务中他人共享的镜像。
 
         镜像选择完成后，需要选择镜像的版本、设置容器名称、设置容器占用的CPU和内存规格（**单个容器最小配置是0.25核、0.2GB**），并选择是否开启采集标准输出文件（开启后，应用运维管理AOM将根据实际使用量进行计费）。
 
-        >![](public_sys-resources/icon-note.gif) **说明：**   
-        >每个租户一个月有500M的免费日志存储空间，超过500M时AOM将根据实际使用量进行收费，计费规则请参见[产品价格详情](https://www.huaweicloud.com/pricing.html?tab=detail#/aom)。  
+        >![](public_sys-resources/icon-note.gif) **说明：** 
+        >每个租户一个月有500M的免费日志存储空间，超过500M时AOM将根据实际使用量进行收费，计费规则请参见[产品价格详情](https://www.huaweicloud.com/pricing.html?tab=detail#/aom)。
 
         对于GPU加速型Pod（仅GPU型命名空间下才可以选择），Pod中只有一个容器能使用GPU，如果您的Pod中有多个容器，您可以通过**开启GPU**这个开关选择哪个容器使用GPU。同样GPU加速型Pod中只有一个容器能使用IB网络，如果您的Pod中有多个容器，您可以通过**开启IB网络**这个开关选择哪个容器使用IB网络。如果您的GPU型命名空间中没有创建IB网络，可以在这里单击“新创建IB网络“，IB网络的介绍请参见[9](命名空间.md#li536317258233)。
 
@@ -150,8 +150,8 @@ Deployment集成了上线部署、滚动升级、创建副本，恢复上线任�
 
         当前仅支持给Java类工作负载提供调用链、拓扑等监控能力，若您为Java类工作负载，并且需要监控状态，请勾选“Java探针”选项，并输入监控组名称。
 
-        >![](public_sys-resources/icon-note.gif) **说明：**   
-        >安装探针会产生少量资源消耗，主要作用是可对java工作负载提供应用调用链、拓扑、SQL分析、堆栈追踪等监控能力。  
+        >![](public_sys-resources/icon-note.gif) **说明：** 
+        >安装探针会产生少量资源消耗，主要作用是可对java工作负载提供应用调用链、拓扑、SQL分析、堆栈追踪等监控能力。
 
         1.  输入监控组名称，如testapp。若已有监控组，可下拉选择。
         2.  选择“探针版本“，探针版本默认为latest，具体可查看下拉框后的“版本说明“。

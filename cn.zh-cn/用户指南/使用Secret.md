@@ -2,8 +2,8 @@
 
 Secret是Kubernetes中一种加密存储的资源对象，您可以将认证信息、证书、私钥等保存在密钥中，在容器启动时以环境变量加载到容器中，或以文件方式挂载到容器中。
 
->![](public_sys-resources/icon-note.gif) **说明：**   
->Secret与SSL证书共用同一个配额。  
+>![](public_sys-resources/icon-note.gif) **说明：** 
+>Secret与SSL证书共用同一个配额。
 
 ## 创建Secret<a name="section18512531861"></a>
 
@@ -52,8 +52,8 @@ Secret是Kubernetes中一种加密存储的资源对象，您可以将认证信�
 
     -   方式二：文件上传。
 
-        >![](public_sys-resources/icon-note.gif) **说明：**   
-        >云容器实例支持json或yaml格式，且文件大小不得超过2MB，详细请参见[Secret文件格式说明](#section96481187193)。  
+        >![](public_sys-resources/icon-note.gif) **说明：** 
+        >云容器实例支持json或yaml格式，且文件大小不得超过2MB，详细请参见[Secret文件格式说明](#section96481187193)。
 
         单击“添加文件“，选择已创建的Secret类型资源文件后，单击“打开“。
 

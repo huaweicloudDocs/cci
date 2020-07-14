@@ -148,3 +148,5 @@ PUT /apis/rbac.authorization.k8s.io/v1/namespaces/\{namespace\}/rolebindings/\{n
 </tbody>
 </table>
 
+更多状态码请参见[状态码](状态码.md)。
+

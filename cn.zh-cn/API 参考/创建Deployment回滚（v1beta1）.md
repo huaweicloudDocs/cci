@@ -188,3 +188,5 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}/rollback
 </tbody>
 </table>
 
+更多状态码请参见[状态码](状态码.md)。
+

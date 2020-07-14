@@ -44,28 +44,28 @@
             -   NVIDIA Tesla P4 8G x 3，CPU 16核，内存128GB
             -   NVIDIA Tesla P4 8G x 4，CPU 32核，内存256GB
 
-        >![](public_sys-resources/icon-note.gif) **说明：**   
-        >“华北-北京四”区域，仅支持NVIDIA Tesla V100 32G显卡。  
+        >![](public_sys-resources/icon-note.gif) **说明：** 
+        >“华北-北京四”区域，仅支持NVIDIA Tesla V100 32G显卡。
 
-        云容器实例支持使用NVIDIA GPU的驱动版本为**396.26**和**410.104**，您应用程序中使用的CUDA需满足如[表1](#table2822104310159)所示的配套关系。CUDA与驱动的配套关系来源于NVIDIA官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
+        云容器实例支持使用NVIDIA GPU的驱动版本为**410.104和418.126**，您应用程序中使用的CUDA需满足如[表1](#table153076178525)所示的配套关系。CUDA与驱动的配套关系来源于NVIDIA官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
 
         **表 1**  NVIDIA GPU驱动与CUDA配套关系
 
-        <a name="table2822104310159"></a>
-        <table><thead align="left"><tr id="row17823154311517"><th class="cellrowborder" valign="top" width="15.72%" id="mcps1.2.3.1.1"><p id="p114410478202"><a name="p114410478202"></a><a name="p114410478202"></a>NVIDIA GPU驱动版本</p>
+        <a name="table153076178525"></a>
+        <table><thead align="left"><tr id="row133073172525"><th class="cellrowborder" valign="top" width="30.620000000000005%" id="mcps1.2.3.1.1"><p id="p330781713521"><a name="p330781713521"></a><a name="p330781713521"></a>NVIDIA GPU驱动版本</p>
         </th>
-        <th class="cellrowborder" valign="top" width="84.28%" id="mcps1.2.3.1.2"><p id="p3823104361519"><a name="p3823104361519"></a><a name="p3823104361519"></a>CUDA Toolkit版本</p>
+        <th class="cellrowborder" valign="top" width="69.38%" id="mcps1.2.3.1.2"><p id="p1830741710523"><a name="p1830741710523"></a><a name="p1830741710523"></a>CUDA Toolkit版本</p>
         </th>
         </tr>
         </thead>
-        <tbody><tr id="row4823184321519"><td class="cellrowborder" valign="top" width="15.72%" headers="mcps1.2.3.1.1 "><p id="p10823114312154"><a name="p10823114312154"></a><a name="p10823114312154"></a>396.26</p>
+        <tbody><tr id="row9786192115398"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p1178672103912"><a name="p1178672103912"></a><a name="p1178672103912"></a>410.104</p>
         </td>
-        <td class="cellrowborder" valign="top" width="84.28%" headers="mcps1.2.3.1.2 "><p id="p1356832711196"><a name="p1356832711196"></a><a name="p1356832711196"></a>CUDA 9.2 (9.2.88)及以下</p>
+        <td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p3628192518161"><a name="p3628192518161"></a><a name="p3628192518161"></a>CUDA 10.0 (10.0.130)及以下</p>
         </td>
         </tr>
-        <tr id="row482384341513"><td class="cellrowborder" valign="top" width="15.72%" headers="mcps1.2.3.1.1 "><p id="p14823104361510"><a name="p14823104361510"></a><a name="p14823104361510"></a>410.104</p>
+        <tr id="row730851720527"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p163080175524"><a name="p163080175524"></a><a name="p163080175524"></a>418.126</p>
         </td>
-        <td class="cellrowborder" valign="top" width="84.28%" headers="mcps1.2.3.1.2 "><p id="p3628192518161"><a name="p3628192518161"></a><a name="p3628192518161"></a>CUDA 10.0 (10.0.130)及以下</p>
+        <td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p113083174523"><a name="p113083174523"></a><a name="p113083174523"></a>CUDA 10.1 (10.1.105)及以下</p>
         </td>
         </tr>
         </tbody>
@@ -82,8 +82,8 @@
 
         一个Pod可以包含一个或多个运行不同镜像的容器，通常情况下一个Pod中只有一个容器，若您的应用程序需要多个容器，请单击“添加容器“，然后选择镜像。
 
-        >![](public_sys-resources/icon-notice.gif) **须知：**   
-        >同一个Pod实例中的不同容器如果监听了相同的端口，则会导致端口冲突，Pod可能会启动失败。例如在Pod中添加了一个nginx镜像容器，启动了80端口，如果该Pod中另一个http服务的镜像也启动80端口，那么这个Pod就会出现端口冲突。  
+        >![](public_sys-resources/icon-notice.gif) **须知：** 
+        >同一个Pod实例中的不同容器如果监听了相同的端口，则会导致端口冲突，Pod可能会启动失败。例如在Pod中添加了一个nginx镜像容器，启动了80端口，如果该Pod中另一个http服务的镜像也启动80端口，那么这个Pod就会出现端口冲突。
 
         -   我的镜像：展示了您上传到容器镜像服务的镜像。
         -   Docker官方镜像：展示了Dockerhub上的公共镜像。
@@ -91,8 +91,8 @@
 
         镜像选择完成后，需要选择镜像的版本、设置容器名称、设置容器占用的CPU和内存规格（**单个容器最小配置是0.25核、0.2GB**），并选择是否开启采集标准输出文件（开启后，应用运维管理AOM将根据实际使用量进行计费）。
 
-        >![](public_sys-resources/icon-note.gif) **说明：**   
-        >每个租户一个月有500M的免费日志存储空间，超过500M时AOM将根据实际使用量进行收费，计费规则请参见[产品价格详情](https://www.huaweicloud.com/pricing.html?tab=detail#/aom)。  
+        >![](public_sys-resources/icon-note.gif) **说明：** 
+        >每个租户一个月有500M的免费日志存储空间，超过500M时AOM将根据实际使用量进行收费，计费规则请参见[产品价格详情](https://www.huaweicloud.com/pricing.html?tab=detail#/aom)。
 
         对于GPU加速型Pod（仅GPU型命名空间下才可以选择），Pod中只有一个容器能使用GPU，如果您的Pod中有多个容器，您可以通过**开启GPU**这个开关选择哪个容器使用GPU。同样GPU加速型Pod中只有一个容器能使用IB网络，如果您的Pod中有多个容器，您可以通过**开启IB网络**这个开关选择哪个容器使用IB网络。如果您的GPU型命名空间中没有创建IB网络，可以在这里单击“新创建IB网络“，IB网络的介绍请参见[9](命名空间.md#li536317258233)。
 

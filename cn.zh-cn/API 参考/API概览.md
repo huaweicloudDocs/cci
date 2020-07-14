@@ -11,7 +11,7 @@
 </th>
 </tr>
 </thead>
-<tbody><tr id="row2054614267164"><td class="cellrowborder" rowspan="2" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p154009311259"><a name="p154009311259"></a><a name="p154009311259"></a>API</p>
+<tbody><tr id="row2054614267164"><td class="cellrowborder" rowspan="3" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p154009311259"><a name="p154009311259"></a><a name="p154009311259"></a>API</p>
 </td>
 <td class="cellrowborder" valign="top" width="20.979999999999997%" headers="mcps1.1.4.1.2 "><p id="p14546162641618"><a name="p14546162641618"></a><a name="p14546162641618"></a><a href="#section13159414572">Network</a></p>
 </td>
@@ -24,7 +24,12 @@
 <td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p14398132752718"><a name="p14398132752718"></a><a name="p14398132752718"></a>Extended PersistentVolumeClaim对象管理接口，包括导入存储、查询导入的PVC、解绑存储接口。</p>
 </td>
 </tr>
-<tr id="row24301411136"><td class="cellrowborder" rowspan="19" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p1565011115165"><a name="p1565011115165"></a><a name="p1565011115165"></a>Kubernetes API</p>
+<tr id="row1580012715568"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p7801102716561"><a name="p7801102716561"></a><a name="p7801102716561"></a><a href="迁移Namespace到专属集群.md">迁移Namespace到专属集群</a></p>
+</td>
+<td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p13569142514587"><a name="p13569142514587"></a><a name="p13569142514587"></a>迁移Namespace到专属集群接口，用于将原先创建的共享集群的Namespace迁移到对应类型专属集群中。</p>
+</td>
+</tr>
+<tr id="row24301411136"><td class="cellrowborder" rowspan="20" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p1565011115165"><a name="p1565011115165"></a><a name="p1565011115165"></a>Kubernetes API</p>
 </td>
 <td class="cellrowborder" valign="top" width="20.979999999999997%" headers="mcps1.1.4.1.2 "><p id="p1243017413139"><a name="p1243017413139"></a><a name="p1243017413139"></a><a href="#section115511242677">Namespace</a></p>
 </td>
@@ -127,6 +132,11 @@
 <tr id="row2449972450"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p9450137194512"><a name="p9450137194512"></a><a name="p9450137194512"></a><a href="MPIJob.md">MPIJob</a></p>
 </td>
 <td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p174500794519"><a name="p174500794519"></a><a name="p174500794519"></a>MPIJob即MPI任务，是基于allreduce架构的kubernetes自定义资源类型，能够帮助我们更简单地实现allreduce的分布式训练。</p>
+</td>
+</tr>
+<tr id="row117781617154410"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p87781817154410"><a name="p87781817154410"></a><a name="p87781817154410"></a><a href="RBAC.md">RBAC</a></p>
+</td>
+<td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p6778201744419"><a name="p6778201744419"></a><a name="p6778201744419"></a>通过权限设置可以让不同的用户或用户组拥有操作不同Kubernetes资源的权限。</p>
 </td>
 </tr>
 <tr id="row1980621151411"><td class="cellrowborder" rowspan="2" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p111731379148"><a name="p111731379148"></a><a name="p111731379148"></a>Kubernetes API（OLD VERSIONS）</p>

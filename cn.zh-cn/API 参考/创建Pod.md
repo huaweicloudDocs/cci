@@ -4,30 +4,30 @@
 
 创建一个Pod。
 
->![](public_sys-resources/icon-note.gif) **说明：**   
->Pod的生命周期是短暂的，Pod是用后即焚的实体。在实际使用中，请谨慎单独创建Pod，请使用Deployment、StatefulSet和Job这些控制器创建应用，从而保障应用高可用。  
+>![](public_sys-resources/icon-note.gif) **说明：** 
+>Pod的生命周期是短暂的，Pod是用后即焚的实体。在实际使用中，请谨慎单独创建Pod，请使用Deployment、StatefulSet和Job这些控制器创建应用，从而保障应用高可用。
 
 云容器实例中Pod规格有限制，具体的限制请参见[约束限制](https://support.huaweicloud.com/productdesc-cci/cci_03_0007.html)页面的“Pod规格“部分。
 
-当前支持使用Nvidia GPU的驱动版本为**396.26**和**410.104**，您应用程序中使用的CUDA需满足如[表1](#table2822104310159)所示的配套关系。CUDA与驱动的配套关系来源于Nvidia官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
+当前支持使用Nvidia GPU的驱动版本为**410.104和418.126**，您应用程序中使用的CUDA需满足如[表1](#table16459192015518)所示的配套关系。CUDA与驱动的配套关系来源于Nvidia官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
 
-**表 1**  Nvidia GPU驱动与CUDA配套关系
+**表 1**  NVIDIA GPU驱动与CUDA配套关系
 
-<a name="table2822104310159"></a>
-<table><thead align="left"><tr id="row17823154311517"><th class="cellrowborder" valign="top" width="20.61%" id="mcps1.2.3.1.1"><p id="p114410478202"><a name="p114410478202"></a><a name="p114410478202"></a>Nvidia GPU驱动版本</p>
+<a name="table16459192015518"></a>
+<table><thead align="left"><tr id="row194598204515"><th class="cellrowborder" valign="top" width="30.620000000000005%" id="mcps1.2.3.1.1"><p id="p1845932065111"><a name="p1845932065111"></a><a name="p1845932065111"></a>NVIDIA GPU驱动版本</p>
 </th>
-<th class="cellrowborder" valign="top" width="79.39%" id="mcps1.2.3.1.2"><p id="p3823104361519"><a name="p3823104361519"></a><a name="p3823104361519"></a>CUDA Toolkit版本</p>
+<th class="cellrowborder" valign="top" width="69.38%" id="mcps1.2.3.1.2"><p id="p1445910203518"><a name="p1445910203518"></a><a name="p1445910203518"></a>CUDA Toolkit版本</p>
 </th>
 </tr>
 </thead>
-<tbody><tr id="row4823184321519"><td class="cellrowborder" valign="top" width="20.61%" headers="mcps1.2.3.1.1 "><p id="p10823114312154"><a name="p10823114312154"></a><a name="p10823114312154"></a>396.26</p>
+<tbody><tr id="row9786192115398"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p1178672103912"><a name="p1178672103912"></a><a name="p1178672103912"></a>410.104</p>
 </td>
-<td class="cellrowborder" valign="top" width="79.39%" headers="mcps1.2.3.1.2 "><p id="p1356832711196"><a name="p1356832711196"></a><a name="p1356832711196"></a>CUDA 9.2 (9.2.88)及以下</p>
+<td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p20459152020519"><a name="p20459152020519"></a><a name="p20459152020519"></a>CUDA 10.0 (10.0.130)及以下</p>
 </td>
 </tr>
-<tr id="row482384341513"><td class="cellrowborder" valign="top" width="20.61%" headers="mcps1.2.3.1.1 "><p id="p14823104361510"><a name="p14823104361510"></a><a name="p14823104361510"></a>410.104</p>
+<tr id="row4823184321519"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p10823114312154"><a name="p10823114312154"></a><a name="p10823114312154"></a>418.126</p>
 </td>
-<td class="cellrowborder" valign="top" width="79.39%" headers="mcps1.2.3.1.2 "><p id="p3628192518161"><a name="p3628192518161"></a><a name="p3628192518161"></a>CUDA 10.0 (10.0.130)及以下</p>
+<td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p9459132010511"><a name="p9459132010511"></a><a name="p9459132010511"></a>CUDA 10.1 (10.1.105)及以下</p>
 </td>
 </tr>
 </tbody>
@@ -36,7 +36,7 @@
 如果选择GPU加速型Pod，您需要设置Pod的**metadata.annotations**中添加**cri.cci.io/gpu-driver**字段，指定使用哪个版本显卡驱动，取值如下：
 
 -   gpu-410.104
--   gpu-396.26
+-   gpu-418.126
 
 创建Pod时挂载OBS的使用限制请参见[挂载OBS使用限制](挂载OBS使用限制.md)。
 
@@ -354,4 +354,6 @@ POST /api/v1/namespaces/\{namespace\}/pods
 </tr>
 </tbody>
 </table>
+
+更多状态码请参见[状态码](状态码.md)。
 

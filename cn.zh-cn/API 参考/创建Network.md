@@ -8,8 +8,8 @@ Network对象是华为云CCI新增对象，用于定义kubernetes中一个namesp
 
 CCI的容器网络依赖于华为云底层VPC网络，因此在创建network对象前，需要先调用虚拟私有云的接口创建或者查询已有子网信息。
 
->![](public_sys-resources/icon-notice.gif) **须知：**   
->此处VPC和子网的网段不能为10.247.0.0/16，10.247.0.0/16是云容器实例预留给Service的网段。如果您使用此网段，后续可能会造成IP冲突，导致负载无法创建或服务不可用；如果您不需要通过Service访问，而是直接访问Pod，则可以使用此网段。  
+>![](public_sys-resources/icon-notice.gif) **须知：** 
+>此处VPC和子网的网段不能为10.247.0.0/16，10.247.0.0/16是云容器实例预留给Service的网段。如果您使用此网段，后续可能会造成IP冲突，导致负载无法创建或服务不可用；如果您不需要通过Service访问，而是直接访问Pod，则可以使用此网段。
 
 安全组ID可以在[安全组控制台](https://console.huaweicloud.com/vpc/#/vpc/vpcmanager/securitygroups)获取，如下图。
 
@@ -367,4 +367,6 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </tr>
 </tbody>
 </table>
+
+更多状态码请参见[状态码](状态码.md)。
 

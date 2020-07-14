@@ -69,8 +69,8 @@ PATCH /apis/kubeflow.org/v1/namespaces/\{namespace\}/mxjobs/\{name\}
 
 “Content-Type“消息头说明请参见[PATCH请求方法操作说明](PATCH请求方法操作说明.md)。
 
->![](public_sys-resources/icon-note.gif) **说明：**   
->目前只支持“Merge Patch”。  
+>![](public_sys-resources/icon-note.gif) **说明：** 
+>目前只支持“Merge Patch”。
 
 **请求示例：**
 

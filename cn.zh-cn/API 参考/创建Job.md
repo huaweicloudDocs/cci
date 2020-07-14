@@ -217,3 +217,5 @@ POST /apis/batch/v1/namespaces/\{namespace\}/jobs
 </tbody>
 </table>
 
+更多状态码请参见[状态码](状态码.md)。
+

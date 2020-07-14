@@ -175,11 +175,13 @@ LoadBalancer类型Service需要在metadata.annotations自定中添加elb实例ID
 </th>
 </tr>
 </thead>
-<tbody><tr id="zh-cn_topic_0079615000_row49645340"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="zh-cn_topic_0079615000_p61849578"><a name="zh-cn_topic_0079615000_p61849578"></a><a name="zh-cn_topic_0079615000_p61849578"></a>200</p>
+<tbody><tr id="zh-cn_topic_0079615000_row49645340"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="zh-cn_topic_0079615000_p61849578"><a name="zh-cn_topic_0079615000_p61849578"></a><a name="zh-cn_topic_0079615000_p61849578"></a>201</p>
 </td>
 <td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="zh-cn_topic_0079615000_p43759888"><a name="zh-cn_topic_0079615000_p43759888"></a><a name="zh-cn_topic_0079615000_p43759888"></a>The request has been fulfilled, resulting in the creation of a new resource.</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+更多状态码请参见[状态码](状态码.md)。
 

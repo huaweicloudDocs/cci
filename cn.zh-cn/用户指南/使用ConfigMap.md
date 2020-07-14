@@ -49,8 +49,8 @@ ConfigMap是一种用于存储应用所需配置信息的资源类型。资源�
 
     -   方式二：文件上传。
 
-        >![](public_sys-resources/icon-note.gif) **说明：**   
-        >云容器实例支持json或yaml格式，且文件大小需要小于1MB，详细请参见[ConfigMap文件格式要求](#section18975165217385)。  
+        >![](public_sys-resources/icon-note.gif) **说明：** 
+        >云容器实例支持json或yaml格式，且文件大小需要小于1MB，详细请参见[ConfigMap文件格式要求](#section18975165217385)。
 
         单击“添加文件“，选择已创建的ConfigMap类型资源文件后，单击“打开”。
 
