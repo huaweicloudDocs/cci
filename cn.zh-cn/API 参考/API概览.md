@@ -11,11 +11,11 @@
 </th>
 </tr>
 </thead>
-<tbody><tr id="row2054614267164"><td class="cellrowborder" rowspan="3" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p154009311259"><a name="p154009311259"></a><a name="p154009311259"></a>API</p>
+<tbody><tr id="row2054614267164"><td class="cellrowborder" rowspan="2" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p154009311259"><a name="p154009311259"></a><a name="p154009311259"></a>API</p>
 </td>
 <td class="cellrowborder" valign="top" width="20.979999999999997%" headers="mcps1.1.4.1.2 "><p id="p14546162641618"><a name="p14546162641618"></a><a name="p14546162641618"></a><a href="#section13159414572">Network</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="60.019999999999996%" headers="mcps1.1.4.1.3 "><p id="p565181993120"><a name="p565181993120"></a><a name="p565181993120"></a>Network对象管理接口，包括Network对象的创建，查询、修改、删除等接口。</p>
+<td class="cellrowborder" valign="top" width="60.019999999999996%" headers="mcps1.1.4.1.3 "><p id="p565181993120"><a name="p565181993120"></a><a name="p565181993120"></a>Network对象管理接口，包括Network对象的创建、查询、修改、删除等接口。</p>
 <p id="p854542223216"><a name="p854542223216"></a><a name="p854542223216"></a>Network对象是华为云CCI 新增对象，用于定义kubernetes中一个namespace内的网络与华为云虚拟私有云服务的子网和VPC的映射关系。</p>
 </td>
 </tr>
@@ -24,12 +24,7 @@
 <td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p14398132752718"><a name="p14398132752718"></a><a name="p14398132752718"></a>Extended PersistentVolumeClaim对象管理接口，包括导入存储、查询导入的PVC、解绑存储接口。</p>
 </td>
 </tr>
-<tr id="row1580012715568"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p7801102716561"><a name="p7801102716561"></a><a name="p7801102716561"></a><a href="迁移Namespace到专属集群.md">迁移Namespace到专属集群</a></p>
-</td>
-<td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p13569142514587"><a name="p13569142514587"></a><a name="p13569142514587"></a>迁移Namespace到专属集群接口，用于将原先创建的共享集群的Namespace迁移到对应类型专属集群中。</p>
-</td>
-</tr>
-<tr id="row24301411136"><td class="cellrowborder" rowspan="20" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p1565011115165"><a name="p1565011115165"></a><a name="p1565011115165"></a>Kubernetes API</p>
+<tr id="row24301411136"><td class="cellrowborder" rowspan="19" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p1565011115165"><a name="p1565011115165"></a><a name="p1565011115165"></a>Kubernetes API</p>
 </td>
 <td class="cellrowborder" valign="top" width="20.979999999999997%" headers="mcps1.1.4.1.2 "><p id="p1243017413139"><a name="p1243017413139"></a><a name="p1243017413139"></a><a href="#section115511242677">Namespace</a></p>
 </td>
@@ -129,28 +124,9 @@
 <td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p538111101458"><a name="p538111101458"></a><a name="p538111101458"></a>PyTorchJob即PyTorch任务，是基于PyTorch开源框架的kubernetes自定义资源类型，有多种角色可以配置，能够帮助我们更简单地实现PyTorch的训练。</p>
 </td>
 </tr>
-<tr id="row2449972450"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p9450137194512"><a name="p9450137194512"></a><a name="p9450137194512"></a><a href="MPIJob.md">MPIJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p174500794519"><a name="p174500794519"></a><a name="p174500794519"></a>MPIJob即MPI任务，是基于allreduce架构的kubernetes自定义资源类型，能够帮助我们更简单地实现allreduce的分布式训练。</p>
-</td>
-</tr>
-<tr id="row117781617154410"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p87781817154410"><a name="p87781817154410"></a><a name="p87781817154410"></a><a href="RBAC.md">RBAC</a></p>
+<tr id="row117781617154410"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p87781817154410"><a name="p87781817154410"></a><a name="p87781817154410"></a><a href="#section187328377322">RBAC</a></p>
 </td>
 <td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p6778201744419"><a name="p6778201744419"></a><a name="p6778201744419"></a>通过权限设置可以让不同的用户或用户组拥有操作不同Kubernetes资源的权限。</p>
-</td>
-</tr>
-<tr id="row1980621151411"><td class="cellrowborder" rowspan="2" valign="top" width="19%" headers="mcps1.1.4.1.1 "><p id="p111731379148"><a name="p111731379148"></a><a name="p111731379148"></a>Kubernetes API（OLD VERSIONS）</p>
-</td>
-<td class="cellrowborder" valign="top" width="20.979999999999997%" headers="mcps1.1.4.1.2 "><p id="p1095493682017"><a name="p1095493682017"></a><a name="p1095493682017"></a><a href="#section17502111762310">Deployment（v1beta1）</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="60.019999999999996%" headers="mcps1.1.4.1.3 "><p id="p178077117141"><a name="p178077117141"></a><a name="p178077117141"></a>Deployment v1beta1 对象管理接口，包括Deployment对象的创建、查询、修改、删除等接口。</p>
-<p id="p144312046171"><a name="p144312046171"></a><a name="p144312046171"></a>Kubernetes 老版本接口，为兼容性考虑继续保留，建议您使用<a href="#section731718191482">Deployment</a> 。</p>
-</td>
-</tr>
-<tr id="row17941818161515"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p6953143612205"><a name="p6953143612205"></a><a name="p6953143612205"></a><a href="#section4337374319">Statefulset（v1beta1）</a></p>
-</td>
-<td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p171171718191511"><a name="p171171718191511"></a><a name="p171171718191511"></a>Statefulset v1beta1 版本对象管理接口，包括Statefulset对象的创建、查询、修改、删除等接口。</p>
-<p id="p738610286818"><a name="p738610286818"></a><a name="p738610286818"></a>Kubernetes 老版本接口，为兼容性考虑继续保留，建议您使用<a href="#section43641211885">StatefulSet</a>。</p>
 </td>
 </tr>
 </tbody>
@@ -255,11 +231,6 @@
 <td class="cellrowborder" valign="top" width="67.89%" headers="mcps1.1.3.1.2 "><p id="p277012561717"><a name="p277012561717"></a><a name="p277012561717"></a>删除一个Namespace。</p>
 </td>
 </tr>
-<tr id="row5425120155016"><td class="cellrowborder" valign="top" width="32.11%" headers="mcps1.1.3.1.1 "><p id="p54263205505"><a name="p54263205505"></a><a name="p54263205505"></a><a href="迁移Namespace到专属集群.md">迁移Namespace到专属集群</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.89%" headers="mcps1.1.3.1.2 "><p id="p134268209504"><a name="p134268209504"></a><a name="p134268209504"></a>迁移Namespace到专属集群。用户购买新的专属集群时，调用该接口可将原先创建的共享集群的Namespace迁移到对应类型专属集群中。</p>
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -361,7 +332,7 @@
 </tr>
 <tr id="row1750353514215"><td class="cellrowborder" valign="top" width="32.11%" headers="mcps1.1.3.1.1 "><p id="p0503035104211"><a name="p0503035104211"></a><a name="p0503035104211"></a><a href="列出用户所有Deployment.md">列出用户所有Deployment</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="67.89%" headers="mcps1.1.3.1.2 "><p id="p750393516424"><a name="p750393516424"></a><a name="p750393516424"></a>列出用户所有的Deployment.</p>
+<td class="cellrowborder" valign="top" width="67.89%" headers="mcps1.1.3.1.2 "><p id="p750393516424"><a name="p750393516424"></a><a name="p750393516424"></a>列出用户所有的Deployment。</p>
 </td>
 </tr>
 <tr id="row33644191284"><td class="cellrowborder" valign="top" width="32.11%" headers="mcps1.1.3.1.1 "><p id="p1036491915817"><a name="p1036491915817"></a><a name="p1036491915817"></a><a href="替换Deployment.md">替换Deployment</a></p>
@@ -1022,53 +993,6 @@
 </tbody>
 </table>
 
-## MPIJob<a name="section12863632131913"></a>
-
-<a name="table186323212196"></a>
-<table><thead align="left"><tr id="row1586319322198"><th class="cellrowborder" valign="top" width="31.869999999999997%" id="mcps1.1.3.1.1"><p id="p14863133231915"><a name="p14863133231915"></a><a name="p14863133231915"></a>API</p>
-</th>
-<th class="cellrowborder" valign="top" width="68.13%" id="mcps1.1.3.1.2"><p id="p17863183215192"><a name="p17863183215192"></a><a name="p17863183215192"></a>说明</p>
-</th>
-</tr>
-</thead>
-<tbody><tr id="row11864143291913"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p2864183217194"><a name="p2864183217194"></a><a name="p2864183217194"></a><a href="创建MPIJob.md">创建MPIJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p286473211193"><a name="p286473211193"></a><a name="p286473211193"></a>创建MPIJob。</p>
-</td>
-</tr>
-<tr id="row5864732131913"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p1386418320194"><a name="p1386418320194"></a><a name="p1386418320194"></a><a href="查询MPIJob.md">查询MPIJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p1086483281913"><a name="p1086483281913"></a><a name="p1086483281913"></a><span>查询MPIJob的详细信息。</span></p>
-</td>
-</tr>
-<tr id="row1486423251920"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p98642321196"><a name="p98642321196"></a><a name="p98642321196"></a><a href="查询指定namespace下的所有MPIJob.md">查询指定namespace下的所有MPIJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p168651632141913"><a name="p168651632141913"></a><a name="p168651632141913"></a>查询Namespace下所有MPIJob的详细信息。</p>
-</td>
-</tr>
-<tr id="row168651832171911"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p8865532191913"><a name="p8865532191913"></a><a name="p8865532191913"></a><a href="删除指定namespace下的所有MPIJob.md">删除指定namespace下的所有MPIJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p108654322199"><a name="p108654322199"></a><a name="p108654322199"></a>删除命名空间下的所有MPIJob。</p>
-</td>
-</tr>
-<tr id="row17865133216197"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p9865133211193"><a name="p9865133211193"></a><a name="p9865133211193"></a><a href="删除MPIJob.md">删除MPIJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p986583218199"><a name="p986583218199"></a><a name="p986583218199"></a>删除MPIJob。</p>
-</td>
-</tr>
-<tr id="row17865143215197"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p1686523251918"><a name="p1686523251918"></a><a name="p1686523251918"></a><a href="更新MPIJob.md">更新MPIJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p8866193214192"><a name="p8866193214192"></a><a name="p8866193214192"></a>更新MPIJob。</p>
-</td>
-</tr>
-<tr id="row1086617326197"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p386633231918"><a name="p386633231918"></a><a name="p386633231918"></a><a href="替换MPIJob.md">替换MPIJob</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p986603217194"><a name="p986603217194"></a><a name="p986603217194"></a>替换MPIJob。</p>
-</td>
-</tr>
-</tbody>
-</table>
-
 ## RBAC<a name="section187328377322"></a>
 
 **表 1**  RBAC
@@ -1090,7 +1014,7 @@
 <td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1644931416297"><a name="p1644931416297"></a><a name="p1644931416297"></a>获取ClusterRole列表。</p>
 </td>
 </tr>
-<tr id="row9850164414386"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p12850104493811"><a name="p12850104493811"></a><a name="p12850104493811"></a><a href="创建RoleBinding.md">创建RoleBinding</a><a href="创建RoleBinding.md">创建RoleBinding</a></p>
+<tr id="row9850164414386"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p12850104493811"><a name="p12850104493811"></a><a name="p12850104493811"></a><a href="创建RoleBinding.md">创建RoleBinding</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p14790163819435"><a name="p14790163819435"></a><a name="p14790163819435"></a>创建RoleBinding。</p>
 </td>
@@ -1123,119 +1047,6 @@
 <tr id="row895614819382"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p1956748153814"><a name="p1956748153814"></a><a name="p1956748153814"></a><a href="获取RoleBinding列表.md">获取RoleBinding列表</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p20793938164315"><a name="p20793938164315"></a><a name="p20793938164315"></a>获取RoleBinding列表。</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-## Deployment（v1beta1）<a name="section17502111762310"></a>
-
-**表 2**  Deployment接口
-
-<a name="table15459104792711"></a>
-<table><thead align="left"><tr id="row8462144716276"><th class="cellrowborder" valign="top" width="32.029999999999994%" id="mcps1.2.3.1.1"><p id="p54645479275"><a name="p54645479275"></a><a name="p54645479275"></a>API</p>
-</th>
-<th class="cellrowborder" valign="top" width="67.97%" id="mcps1.2.3.1.2"><p id="p1046511473278"><a name="p1046511473278"></a><a name="p1046511473278"></a>说明</p>
-</th>
-</tr>
-</thead>
-<tbody><tr id="row5466174742712"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p646611478278"><a name="p646611478278"></a><a name="p646611478278"></a><a href="创建Deployment（v1beta1）.md">创建Deployment</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p94681147102716"><a name="p94681147102716"></a><a name="p94681147102716"></a>创建Deployment。</p>
-</td>
-</tr>
-<tr id="row8469144719273"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p104701147162710"><a name="p104701147162710"></a><a name="p104701147162710"></a><a href="创建Deployment回滚（v1beta1）.md">创建Deployment回滚</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p3471174722718"><a name="p3471174722718"></a><a name="p3471174722718"></a>创建Deployment回滚。</p>
-</td>
-</tr>
-<tr id="row1469211017283"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p36925062817"><a name="p36925062817"></a><a name="p36925062817"></a><a href="删除Deployment（v1beta1）.md">删除Deployment</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p569213015281"><a name="p569213015281"></a><a name="p569213015281"></a>删除Deployment。</p>
-</td>
-</tr>
-<tr id="row69112042813"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p19119018284"><a name="p19119018284"></a><a name="p19119018284"></a><a href="删除所有Deployment（v1beta1）.md">删除所有Deployment</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p19911100102813"><a name="p19911100102813"></a><a name="p19911100102813"></a>删除指定项目下所有Deployment。</p>
-</td>
-</tr>
-<tr id="row1413119242819"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p71311121283"><a name="p71311121283"></a><a name="p71311121283"></a><a href="查询Deployment（v1beta1）.md">查询Deployment</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p121311327288"><a name="p121311327288"></a><a name="p121311327288"></a>获取指定的Deployment。</p>
-</td>
-</tr>
-<tr id="row199606272811"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p69605232811"><a name="p69605232811"></a><a name="p69605232811"></a><a href="查询Deployment的状态（v1beta1）.md">查询Deployment的状态</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p129601211282"><a name="p129601211282"></a><a name="p129601211282"></a>获取指定的Deployment状态。</p>
-</td>
-</tr>
-<tr id="row42591442817"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p4259124152810"><a name="p4259124152810"></a><a name="p4259124152810"></a><a href="替换Deployment（v1beta1）.md">替换Deployment</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p15259946283"><a name="p15259946283"></a><a name="p15259946283"></a>替换指定的Deployment。</p>
-</td>
-</tr>
-<tr id="row36420572810"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p8643582817"><a name="p8643582817"></a><a name="p8643582817"></a><a href="查询所有Deployment（v1beta1）.md">查询所有Deployment</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p166412542810"><a name="p166412542810"></a><a name="p166412542810"></a>列出指定项目下的Deployment。</p>
-</td>
-</tr>
-<tr id="row48838512287"><td class="cellrowborder" valign="top" width="32.029999999999994%" headers="mcps1.2.3.1.1 "><p id="p108831659281"><a name="p108831659281"></a><a name="p108831659281"></a><a href="更新Deployment（v1beta1）.md">更新Deployment</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="67.97%" headers="mcps1.2.3.1.2 "><p id="p888311510281"><a name="p888311510281"></a><a name="p888311510281"></a>更新指定的Deployment。</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-## Statefulset（v1beta1）<a name="section4337374319"></a>
-
-**表 3**  Statefulset接口
-
-<a name="table82794558319"></a>
-<table><thead align="left"><tr id="row182841055153118"><th class="cellrowborder" valign="top" width="32%" id="mcps1.2.3.1.1"><p id="p1528518557318"><a name="p1528518557318"></a><a name="p1528518557318"></a>API</p>
-</th>
-<th class="cellrowborder" valign="top" width="68%" id="mcps1.2.3.1.2"><p id="p1628775593115"><a name="p1628775593115"></a><a name="p1628775593115"></a>说明</p>
-</th>
-</tr>
-</thead>
-<tbody><tr id="row192883556312"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p52892554311"><a name="p52892554311"></a><a name="p52892554311"></a><a href="创建StatefulSet（v1beta1）.md">创建StatefulSet</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p1439731983213"><a name="p1439731983213"></a><a name="p1439731983213"></a>创建Statefulset。</p>
-</td>
-</tr>
-<tr id="row62922559310"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p1229416555313"><a name="p1229416555313"></a><a name="p1229416555313"></a><a href="删除StatefulSet（v1beta1）.md">删除StatefulSet</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p20663182320323"><a name="p20663182320323"></a><a name="p20663182320323"></a>删除Statefulset。</p>
-</td>
-</tr>
-<tr id="row207471913163218"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p374718137326"><a name="p374718137326"></a><a name="p374718137326"></a><a href="删除所有StatefulSet（v1beta1）.md">删除所有StatefulSet</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p374718135326"><a name="p374718135326"></a><a name="p374718135326"></a>删除指定项目下所有Statefulset。</p>
-</td>
-</tr>
-<tr id="row18634131473216"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p9634161411325"><a name="p9634161411325"></a><a name="p9634161411325"></a><a href="查询StatefulSet（v1beta1）.md">查询StatefulSet</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p186342147329"><a name="p186342147329"></a><a name="p186342147329"></a>获取指定Statefulset。</p>
-</td>
-</tr>
-<tr id="row6565101514323"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p75651115143214"><a name="p75651115143214"></a><a name="p75651115143214"></a><a href="查询StatefulSet状态（v1beta1）.md">查询StatefulSet状态</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p456661510324"><a name="p456661510324"></a><a name="p456661510324"></a>获取指定Statefulset的状态。</p>
-</td>
-</tr>
-<tr id="row1721614167320"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p18216131620323"><a name="p18216131620323"></a><a name="p18216131620323"></a><a href="替换StatefulSet（v1beta1）.md">替换StatefulSet</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p17217181673212"><a name="p17217181673212"></a><a name="p17217181673212"></a>替换指定Statefulset。</p>
-</td>
-</tr>
-<tr id="row17725191683210"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p9725816183219"><a name="p9725816183219"></a><a name="p9725816183219"></a><a href="查询所有StatefulSet（v1beta1）.md">查询所有StatefulSet</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p10725111615327"><a name="p10725111615327"></a><a name="p10725111615327"></a>列出指定项目下的Statefulset。</p>
-</td>
-</tr>
-<tr id="row18185101743215"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p2018671710329"><a name="p2018671710329"></a><a name="p2018671710329"></a><a href="更新StatefulSet（v1beta1）.md">更新StatefulSet</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p1618619172323"><a name="p1618619172323"></a><a name="p1618619172323"></a>更新指定的Statefulset。</p>
 </td>
 </tr>
 </tbody>

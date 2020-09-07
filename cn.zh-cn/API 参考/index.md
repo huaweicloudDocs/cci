@@ -4,7 +4,7 @@
     -   [概述](概述.md)
     -   [调用说明](调用说明.md)
     -   [终端节点](终端节点.md)
-    -   [约束限制](约束限制.md)
+    -   [约束与限制](约束与限制.md)
     -   [基本概念](基本概念.md)
     -   [API版本选择建议](API版本选择建议.md)
 
@@ -28,8 +28,6 @@
         -   [导入存储](导入存储.md)
         -   [查询导入的PVC](查询导入的PVC.md)
         -   [解绑存储](解绑存储.md)
-
-    -   [迁移Namespace到专属集群](迁移Namespace到专属集群.md)
 
 -   [Kubernetes API]
     -   [Namespace]
@@ -183,15 +181,6 @@
         -   [更新PyTorchJob](更新PyTorchJob.md)
         -   [替换PyTorchJob](替换PyTorchJob.md)
 
-    -   [MPIJob]
-        -   [创建MPIJob](创建MPIJob.md)
-        -   [查询MPIJob](查询MPIJob.md)
-        -   [查询指定namespace下的所有MPIJob](查询指定namespace下的所有MPIJob.md)
-        -   [删除指定namespace下的所有MPIJob](删除指定namespace下的所有MPIJob.md)
-        -   [删除MPIJob](删除MPIJob.md)
-        -   [更新MPIJob](更新MPIJob.md)
-        -   [替换MPIJob](替换MPIJob.md)
-
     -   [RBAC]
         -   [ClusterRole]
             -   [获取指定的ClusterRole](获取指定的ClusterRole.md)
@@ -206,9 +195,26 @@
             -   [获取指定namespace下RoleBinding列表](获取指定namespace下RoleBinding列表.md)
             -   [获取RoleBinding列表](获取RoleBinding列表.md)
 
+-   [数据结构]
+    -   [请求数据结构（废弃）](请求数据结构（废弃）.md)
+    -   [响应数据结构（废弃）](响应数据结构（废弃）.md)
+    -   [数据结构](数据结构.md)
 
+-   [权限和授权项]
+    -   [权限及授权项说明](权限及授权项说明.md)
+    -   [授权项分类](授权项分类.md)
 
--   [Kubernetes API （OLD VERSIONS）]
+-   [附录]
+    -   [PATCH请求方法操作说明](PATCH请求方法操作说明.md)
+    -   [PATCH请求方法操作示例](PATCH请求方法操作示例.md)
+    -   [状态码](状态码.md)
+    -   [错误码](错误码.md)
+    -   [获取项目ID](获取项目ID.md)
+    -   [获取账号ID](获取账号ID.md)
+    -   [获取容器镜像地址](获取容器镜像地址.md)
+    -   [挂载OBS使用限制](挂载OBS使用限制.md)
+
+-   [Kubernetes API（废弃）]
     -   [Deployment]
         -   [创建Deployment](创建Deployment（v1beta1）.md)
         -   [创建Deployment回滚](创建Deployment回滚（v1beta1）.md)
@@ -229,25 +235,4 @@
         -   [更新StatefulSet](更新StatefulSet（v1beta1）.md)
         -   [删除StatefulSet](删除StatefulSet（v1beta1）.md)
         -   [删除所有StatefulSet](删除所有StatefulSet（v1beta1）.md)
-
-
--   [数据结构]
-    -   [请求数据结构（OLD VERSIONS）](请求数据结构（OLD-VERSIONS）.md)
-    -   [响应数据结构（OLD VERSIONS）](响应数据结构（OLD-VERSIONS）.md)
-    -   [数据结构](数据结构.md)
-
--   [权限和授权项]
-    -   [权限及授权项说明](权限及授权项说明.md)
-    -   [授权项分类](授权项分类.md)
-
--   [附录]
-    -   [PATCH请求方法操作说明](PATCH请求方法操作说明.md)
-    -   [PATCH请求方法操作示例](PATCH请求方法操作示例.md)
-    -   [状态码](状态码.md)
-    -   [错误码](错误码.md)
-    -   [获取项目ID](获取项目ID.md)
-    -   [获取账号ID](获取账号ID.md)
-    -   [获取Docker镜像地址](获取Docker镜像地址.md)
-    -   [挂载OBS使用限制](挂载OBS使用限制.md)
-
 

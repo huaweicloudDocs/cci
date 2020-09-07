@@ -79,7 +79,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.07839216078392%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p1312651084112"><a name="zh-cn_topic_0083864910_p1312651084112"></a><a name="zh-cn_topic_0083864910_p1312651084112"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p8864172472616"><a name="zh-cn_topic_0083864910_p8864172472616"></a><a name="zh-cn_topic_0083864910_p8864172472616"></a><a href="请求数据结构（OLD-VERSIONS）.md#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
+<td class="cellrowborder" valign="top" width="18.92810718928107%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p8864172472616"><a name="zh-cn_topic_0083864910_p8864172472616"></a><a name="zh-cn_topic_0083864910_p8864172472616"></a><a href="请求数据结构（废弃）.md#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table47756489">表10</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.97520247975203%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p6864112411261"><a name="zh-cn_topic_0083864910_p6864112411261"></a><a name="zh-cn_topic_0083864910_p6864112411261"></a>Standard object metadata.</p>
 </td>
@@ -195,7 +195,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.08%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0083864910_p19619176142914"><a name="zh-cn_topic_0083864910_p19619176142914"></a><a name="zh-cn_topic_0083864910_p19619176142914"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1849772214710"><a name="zh-cn_topic_0083864910_p1849772214710"></a><a name="zh-cn_topic_0083864910_p1849772214710"></a><a href="请求数据结构（OLD-VERSIONS）.md#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table52089545">表20</a></p>
+<td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0083864910_p1849772214710"><a name="zh-cn_topic_0083864910_p1849772214710"></a><a name="zh-cn_topic_0083864910_p1849772214710"></a><a href="请求数据结构（废弃）.md#zh-cn_topic_0083857342_zh-cn_topic_0079614925_table52089545">表20</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="47.68%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0083864910_p361914615293"><a name="zh-cn_topic_0083864910_p361914615293"></a><a name="zh-cn_topic_0083864910_p361914615293"></a>Template describes the pods that will be created.</p>
 </td>

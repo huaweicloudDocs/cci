@@ -139,7 +139,7 @@ DELETE /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 
 **响应参数：**
 
-响应参数的详细描述请参见[表52](响应数据结构（OLD-VERSIONS）.md#table37251757105918)。
+响应参数的详细描述请参见[表52](响应数据结构（废弃）.md#table37251757105918)。
 
 **响应示例：**
 

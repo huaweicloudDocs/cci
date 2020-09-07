@@ -36,8 +36,6 @@
 
 -   **[PyTorchJob](PyTorchJob.md)**  
 
--   **[MPIJob](MPIJob.md)**  
-
 -   **[RBAC](RBAC.md)**  
 
 

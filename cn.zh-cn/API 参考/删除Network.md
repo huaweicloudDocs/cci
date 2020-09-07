@@ -79,7 +79,7 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\
 </td>
 <td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p1461822617404"><a name="p1461822617404"></a><a name="p1461822617404"></a>Boolean</p>
 </td>
-<td class="cellrowborder" valign="top" width="55.44554455445545%" headers="mcps1.2.5.1.4 "><p id="p1961815263404"><a name="p1961815263404"></a><a name="p1961815263404"></a>Deprecated: please use the PropagationPolicy, this field will be deprecated in 1.7. Should the dependent objects be orphaned. If true/false, the "orphan" finalizer will be added to/removed from the object’s finalizers list. Either this field or PropagationPolicy may be set, but not bo</p>
+<td class="cellrowborder" valign="top" width="55.44554455445545%" headers="mcps1.2.5.1.4 "><p id="p1961815263404"><a name="p1961815263404"></a><a name="p1961815263404"></a>Deprecated: please use the PropagationPolicy, this field will be deprecated in 1.7. Should the dependent objects be orphaned. If true/false, the "orphan" finalizer will be added to/removed from the object’s finalizers list. Either this field or PropagationPolicy may be set, but not bo<span id="ph6499655151118"><a name="ph6499655151118"></a><a name="ph6499655151118"></a>th.</span></p>
 </td>
 </tr>
 <tr id="row1172064412"><td class="cellrowborder" valign="top" width="21.782178217821784%" headers="mcps1.2.5.1.1 "><p id="p272967414"><a name="p272967414"></a><a name="p272967414"></a><span>gracePeriodSeconds</span></p>
