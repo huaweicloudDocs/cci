@@ -30,8 +30,7 @@
                     "annotations": {
                         "obssidecar-injector-webhook/inject": "true",
                         "obssidecar-injector-webhook/cpu": "500m",
-                        "obssidecar-injector-webhook/memory": "2048Mi",
-                        "cci-obs-import-jzt9g50x-tunn": "casoffinder2"
+                        "obssidecar-injector-webhook/memory": "2048Mi"
                     }
                 },
                 "spec": {

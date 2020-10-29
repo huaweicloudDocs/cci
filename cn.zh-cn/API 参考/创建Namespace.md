@@ -254,6 +254,7 @@ POST /api/v1/namespaces
         ]
     }
 }
+}
 ```
 
 ## 响应消息<a name="sc0e449fc74ae4c4a8a41deb65e63f4f9"></a>

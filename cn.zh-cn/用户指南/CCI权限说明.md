@@ -8,6 +8,7 @@ CCI当前认证鉴权是在Kubernetes的角色访问控制（RBAC）与统一身
 >![](public_sys-resources/icon-note.gif) **说明：** 
 >-   创建Namespace时，打开RBAC鉴权开关，则此Namespace下资源访问受RBAC鉴权控制；如果未打开RBAC鉴权开关，则RBAC鉴权不生效。
 >-   创建开启RBAC鉴权的Namespace后，需要先对用户授权后，用户才能使用这个Namespace。
+>-   network、clusterRole和roleBinding资源不受RBAC权限影响，只受IAM细粒度鉴权控制。network受控于network相关action，clusterRole与roleBinding受控于rbac相关action。
 >-   支持对当前用户下的所有命名空间进行授权，以提供更好的前端显示体验。
 
 **图 1**  CCI权限管理<a name="fig338584562419"></a>  
