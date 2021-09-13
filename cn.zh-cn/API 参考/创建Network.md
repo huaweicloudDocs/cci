@@ -170,7 +170,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p928035972817"><a name="p928035972817"></a><a name="p928035972817"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.5.1.4 "><p id="p1056319392297"><a name="p1056319392297"></a><a name="p1056319392297"></a>Network所属用户的domain-id，获取方法请参见<a href="获取账号ID.md">获取账号ID</a>。</p>
+<td class="cellrowborder" valign="top" width="44%" headers="mcps1.2.5.1.4 "><p id="p1056319392297"><a name="p1056319392297"></a><a name="p1056319392297"></a>Network所属用户的domain-id，获取方法请参见<a href="获取帐号ID.md">获取帐号ID</a>。</p>
 </td>
 </tr>
 </tbody>
@@ -206,7 +206,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p4251123914302"><a name="p4251123914302"></a><a name="p4251123914302"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p1125173914309"><a name="p1125173914309"></a><a name="p1125173914309"></a>Network 所在VPC的ID。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p1125173914309"><a name="p1125173914309"></a><a name="p1125173914309"></a>Network所在VPC的ID。</p>
 </td>
 </tr>
 <tr id="row12251142917306"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.5.1.1 "><p id="p13221554153020"><a name="p13221554153020"></a><a name="p13221554153020"></a>networkType</p>
@@ -215,7 +215,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p18221754103018"><a name="p18221754103018"></a><a name="p18221754103018"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p3221185418309"><a name="p3221185418309"></a><a name="p3221185418309"></a>Network 网络类型，VPC网络类型取值：<strong id="b197945241336"><a name="b197945241336"></a><a name="b197945241336"></a>underlay_neutron</strong>。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p3221185418309"><a name="p3221185418309"></a><a name="p3221185418309"></a>Network网络类型，VPC网络类型取值：<strong id="b197945241336"><a name="b197945241336"></a><a name="b197945241336"></a>underlay_neutron</strong>。</p>
 </td>
 </tr>
 <tr id="row1581183217301"><td class="cellrowborder" valign="top" width="17%" headers="mcps1.2.5.1.1 "><p id="p9470170173116"><a name="p9470170173116"></a><a name="p9470170173116"></a>networkID</p>
@@ -242,7 +242,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="19%" headers="mcps1.2.5.1.3 "><p id="p1873651111311"><a name="p1873651111311"></a><a name="p1873651111311"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p159741931152618"><a name="p159741931152618"></a><a name="p159741931152618"></a>Network对应VPC子网所在可用区。当前支持“华北-北京一”、“华北-北京四”和“华东-上海一”区域，该值可设置为“cn-north-1a”、“cn-north-4a”或“cn-east-3a”。</p>
+<td class="cellrowborder" valign="top" width="48%" headers="mcps1.2.5.1.4 "><p id="p159741931152618"><a name="p159741931152618"></a><a name="p159741931152618"></a>Network对应VPC子网所在可用区。当前支持“华北-北京四”、“华东-上海一”、“华东-上海二”和“华南-广州”区域，该值可设置为、“cn-north-4a”、“cn-east-3a”、“cn-east-2d”或“cn-south-1f”。</p>
 </td>
 </tr>
 </tbody>
@@ -270,7 +270,7 @@ POST /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 <td class="cellrowborder" valign="top" width="47.795220477952206%" headers="mcps1.2.5.1.4 "><p id="p17706543314"><a name="p17706543314"></a><a name="p17706543314"></a>Network所处状态，包括Initializing、Active、Pending、Failed、Terminating。</p>
 </td>
 </tr>
-<tr id="row193591035375"><td class="cellrowborder" valign="top" width="17.378262173782623%" headers="mcps1.2.5.1.1 "><p id="p43591735378"><a name="p43591735378"></a><a name="p43591735378"></a>Message</p>
+<tr id="row193591035375"><td class="cellrowborder" valign="top" width="17.378262173782623%" headers="mcps1.2.5.1.1 "><p id="p43591735378"><a name="p43591735378"></a><a name="p43591735378"></a>message</p>
 </td>
 <td class="cellrowborder" valign="top" width="15.828417158284172%" headers="mcps1.2.5.1.2 "><p id="p1635983183717"><a name="p1635983183717"></a><a name="p1635983183717"></a>No</p>
 </td>

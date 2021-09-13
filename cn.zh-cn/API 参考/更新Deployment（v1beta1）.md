@@ -144,8 +144,7 @@ PATCH /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}
                         "imagePullPolicy": "Always"
                     }
                 ], 
-                "restartPolicy": "Always", 
-                "terminationGracePeriodSeconds": 30, 
+                "restartPolicy": "Always",                                   
                 "dnsPolicy": "ClusterFirst", 
                 "securityContext": {}, 
                 "imagePullSecrets": [

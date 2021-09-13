@@ -15,67 +15,66 @@ GET /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 <a name="zh-cn_topic_0091433694_d0e39332"></a>
 <table><thead align="left"><tr id="zh-cn_topic_0091433694_row16249415"><th class="cellrowborder" valign="top" width="20.407959204079592%" id="mcps1.2.4.1.1"><p id="zh-cn_topic_0091433694_p65652297517"><a name="zh-cn_topic_0091433694_p65652297517"></a><a name="zh-cn_topic_0091433694_p65652297517"></a>参数</p>
 </th>
-<th class="cellrowborder" valign="top" width="16.328367163283673%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0091433694_p165661629135114"><a name="zh-cn_topic_0091433694_p165661629135114"></a><a name="zh-cn_topic_0091433694_p165661629135114"></a>是否必选</p>
+<th class="cellrowborder" valign="top" width="16.2983701629837%" id="mcps1.2.4.1.2"><p id="zh-cn_topic_0091433694_p165661629135114"><a name="zh-cn_topic_0091433694_p165661629135114"></a><a name="zh-cn_topic_0091433694_p165661629135114"></a>是否必选</p>
 </th>
-<th class="cellrowborder" valign="top" width="63.26367363263674%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0091433694_p14567629115114"><a name="zh-cn_topic_0091433694_p14567629115114"></a><a name="zh-cn_topic_0091433694_p14567629115114"></a>描述</p>
+<th class="cellrowborder" valign="top" width="63.2936706329367%" id="mcps1.2.4.1.3"><p id="zh-cn_topic_0091433694_p14567629115114"><a name="zh-cn_topic_0091433694_p14567629115114"></a><a name="zh-cn_topic_0091433694_p14567629115114"></a>描述</p>
 </th>
 </tr>
 </thead>
 <tbody><tr id="zh-cn_topic_0091433694_row33792834"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433694_p52865065"><a name="zh-cn_topic_0091433694_p52865065"></a><a name="zh-cn_topic_0091433694_p52865065"></a>namespace</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p54211835"><a name="zh-cn_topic_0091433694_p54211835"></a><a name="zh-cn_topic_0091433694_p54211835"></a>Yes</p>
+<td class="cellrowborder" valign="top" width="16.2983701629837%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p54211835"><a name="zh-cn_topic_0091433694_p54211835"></a><a name="zh-cn_topic_0091433694_p54211835"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="63.26367363263674%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615000_p8332925"><a name="zh-cn_topic_0079615000_p8332925"></a><a name="zh-cn_topic_0079615000_p8332925"></a>命名空间。</p>
+<td class="cellrowborder" valign="top" width="63.2936706329367%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0079615000_p8332925"><a name="zh-cn_topic_0079615000_p8332925"></a><a name="zh-cn_topic_0079615000_p8332925"></a>命名空间。</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433694_row60416185"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433694_p61872826"><a name="zh-cn_topic_0091433694_p61872826"></a><a name="zh-cn_topic_0091433694_p61872826"></a>pretty</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p45643011"><a name="zh-cn_topic_0091433694_p45643011"></a><a name="zh-cn_topic_0091433694_p45643011"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.2983701629837%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p45643011"><a name="zh-cn_topic_0091433694_p45643011"></a><a name="zh-cn_topic_0091433694_p45643011"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="63.26367363263674%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p6096445"><a name="zh-cn_topic_0091433694_p6096445"></a><a name="zh-cn_topic_0091433694_p6096445"></a>If 'true', then the output is pretty printed.</p>
+<td class="cellrowborder" valign="top" width="63.2936706329367%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p6096445"><a name="zh-cn_topic_0091433694_p6096445"></a><a name="zh-cn_topic_0091433694_p6096445"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433694_row54868012"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433694_p15123986"><a name="zh-cn_topic_0091433694_p15123986"></a><a name="zh-cn_topic_0091433694_p15123986"></a>includeUninitialized</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p17083324"><a name="zh-cn_topic_0091433694_p17083324"></a><a name="zh-cn_topic_0091433694_p17083324"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.2983701629837%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p17083324"><a name="zh-cn_topic_0091433694_p17083324"></a><a name="zh-cn_topic_0091433694_p17083324"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="63.26367363263674%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p41571986"><a name="zh-cn_topic_0091433694_p41571986"></a><a name="zh-cn_topic_0091433694_p41571986"></a></p>
-<p id="zh-cn_topic_0091433694_p38603562"><a name="zh-cn_topic_0091433694_p38603562"></a><a name="zh-cn_topic_0091433694_p38603562"></a>If true, partially initialized resources are included in the response.</p>
+<td class="cellrowborder" valign="top" width="63.2936706329367%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p38603562"><a name="zh-cn_topic_0091433694_p38603562"></a><a name="zh-cn_topic_0091433694_p38603562"></a>If true, partially initialized resources are included in the response.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433694_row11887742"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433694_p23383013"><a name="zh-cn_topic_0091433694_p23383013"></a><a name="zh-cn_topic_0091433694_p23383013"></a>fieldSelector</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p14975921"><a name="zh-cn_topic_0091433694_p14975921"></a><a name="zh-cn_topic_0091433694_p14975921"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.2983701629837%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p14975921"><a name="zh-cn_topic_0091433694_p14975921"></a><a name="zh-cn_topic_0091433694_p14975921"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="63.26367363263674%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p5090122"><a name="zh-cn_topic_0091433694_p5090122"></a><a name="zh-cn_topic_0091433694_p5090122"></a>A selector to restrict the list of returned objects by their fields. Defaults to everything.</p>
+<td class="cellrowborder" valign="top" width="63.2936706329367%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p5090122"><a name="zh-cn_topic_0091433694_p5090122"></a><a name="zh-cn_topic_0091433694_p5090122"></a>A selector to restrict the list of returned objects by their fields. Defaults to everything.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433694_row45811103"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433694_p19711829"><a name="zh-cn_topic_0091433694_p19711829"></a><a name="zh-cn_topic_0091433694_p19711829"></a>labelSelector</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p53154316"><a name="zh-cn_topic_0091433694_p53154316"></a><a name="zh-cn_topic_0091433694_p53154316"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.2983701629837%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p53154316"><a name="zh-cn_topic_0091433694_p53154316"></a><a name="zh-cn_topic_0091433694_p53154316"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="63.26367363263674%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p10532331"><a name="zh-cn_topic_0091433694_p10532331"></a><a name="zh-cn_topic_0091433694_p10532331"></a>A selector to restrict the list of returned objects by their labels. Defaults to everything.</p>
+<td class="cellrowborder" valign="top" width="63.2936706329367%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p10532331"><a name="zh-cn_topic_0091433694_p10532331"></a><a name="zh-cn_topic_0091433694_p10532331"></a>A selector to restrict the list of returned objects by their labels. Defaults to everything.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433694_row27682122"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433694_p27659385"><a name="zh-cn_topic_0091433694_p27659385"></a><a name="zh-cn_topic_0091433694_p27659385"></a>resourceVersion</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p25817701"><a name="zh-cn_topic_0091433694_p25817701"></a><a name="zh-cn_topic_0091433694_p25817701"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.2983701629837%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p25817701"><a name="zh-cn_topic_0091433694_p25817701"></a><a name="zh-cn_topic_0091433694_p25817701"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="63.26367363263674%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p10858997"><a name="zh-cn_topic_0091433694_p10858997"></a><a name="zh-cn_topic_0091433694_p10858997"></a>When specified with a watch call, shows changes that occur after that particular version of a resource. Defaults to changes from the beginning of history.</p>
+<td class="cellrowborder" valign="top" width="63.2936706329367%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p10858997"><a name="zh-cn_topic_0091433694_p10858997"></a><a name="zh-cn_topic_0091433694_p10858997"></a>When specified with a watch call, shows changes that occur after that particular version of a resource. Defaults to changes from the beginning of history.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433694_row30622110"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433694_p64471840"><a name="zh-cn_topic_0091433694_p64471840"></a><a name="zh-cn_topic_0091433694_p64471840"></a>timeoutSeconds</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p54836538"><a name="zh-cn_topic_0091433694_p54836538"></a><a name="zh-cn_topic_0091433694_p54836538"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.2983701629837%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p54836538"><a name="zh-cn_topic_0091433694_p54836538"></a><a name="zh-cn_topic_0091433694_p54836538"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="63.26367363263674%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p12574613"><a name="zh-cn_topic_0091433694_p12574613"></a><a name="zh-cn_topic_0091433694_p12574613"></a>Timeout for the list/watch call.</p>
+<td class="cellrowborder" valign="top" width="63.2936706329367%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p12574613"><a name="zh-cn_topic_0091433694_p12574613"></a><a name="zh-cn_topic_0091433694_p12574613"></a>Timeout for the list/watch call.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433694_row46062658"><td class="cellrowborder" valign="top" width="20.407959204079592%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433694_p40087841"><a name="zh-cn_topic_0091433694_p40087841"></a><a name="zh-cn_topic_0091433694_p40087841"></a>watch</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p25889684"><a name="zh-cn_topic_0091433694_p25889684"></a><a name="zh-cn_topic_0091433694_p25889684"></a>No</p>
+<td class="cellrowborder" valign="top" width="16.2983701629837%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433694_p25889684"><a name="zh-cn_topic_0091433694_p25889684"></a><a name="zh-cn_topic_0091433694_p25889684"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="63.26367363263674%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p16689668"><a name="zh-cn_topic_0091433694_p16689668"></a><a name="zh-cn_topic_0091433694_p16689668"></a>Watch for changes to the described resources and return them as a stream of add, update, and remove notifications. Specify resourceVersion.</p>
+<td class="cellrowborder" valign="top" width="63.2936706329367%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433694_p16689668"><a name="zh-cn_topic_0091433694_p16689668"></a><a name="zh-cn_topic_0091433694_p16689668"></a>Watch for changes to the described resources and return them as a stream of add, update, and remove notifications. Specify resourceVersion.</p>
 </td>
 </tr>
 </tbody>
@@ -220,8 +219,7 @@ N/A
                                 "imagePullPolicy": "Always"
                             }
                         ], 
-                        "restartPolicy": "Always", 
-                        "terminationGracePeriodSeconds": 30, 
+                        "restartPolicy": "Always",                                                   
                         "dnsPolicy": "ClusterFirst", 
                         "securityContext": {}, 
                         "imagePullSecrets": [
@@ -331,7 +329,7 @@ N/A
                             }
                         ], 
                         "restartPolicy": "Always", 
-                        "terminationGracePeriodSeconds": 30, 
+                         
                         "dnsPolicy": "ClusterFirst", 
                         "securityContext": {}, 
                         "imagePullSecrets": [

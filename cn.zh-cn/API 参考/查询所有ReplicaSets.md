@@ -172,7 +172,7 @@ N/A
                             }
                         ],
                         "restartPolicy": "Always",
-                        "terminationGracePeriodSeconds": 30,
+                        
                         "dnsPolicy": "ClusterFirst",
                         "securityContext": {},
                         "schedulerName": "default-scheduler"
@@ -262,8 +262,7 @@ N/A
                                 "imagePullPolicy": "Always"
                             }
                         ],
-                        "restartPolicy": "Always",
-                        "terminationGracePeriodSeconds": 30,
+                        "restartPolicy": "Always",                                                
                         "dnsPolicy": "ClusterFirst",
                         "securityContext": {},
                         "imagePullSecrets": [

@@ -143,8 +143,7 @@ PUT /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
                         "imagePullPolicy": "Always"
                     }
                 ],
-                "restartPolicy": "Never",
-                "terminationGracePeriodSeconds": 30,
+                "restartPolicy": "Never",                                
                 "dnsPolicy": "ClusterFirst",
                 "securityContext": {},
                 "imagePullSecrets": [
@@ -237,8 +236,7 @@ PUT /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
                         "imagePullPolicy": "Always"
                     }
                 ],
-                "restartPolicy": "Never",
-                "terminationGracePeriodSeconds": 30,
+                "restartPolicy": "Never",                                
                 "dnsPolicy": "ClusterFirst",
                 "securityContext": {},
                 "imagePullSecrets": [

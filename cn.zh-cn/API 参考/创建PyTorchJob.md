@@ -61,7 +61,8 @@ POST /apis/kubeflow.org/v1/namespaces/\{namespace\}/pytorchjobs
 **请求示例：**
 
 ```
-{
+{   
+    "apiVersion": "kubeflow.org/v1",
     "kind": "PyTorchJob",
     "metadata": {
         "name": "pytorch-test"

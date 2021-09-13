@@ -54,6 +54,7 @@ GET /api/v1/namespaces/\{namespace\}/extended-persistentvolumeclaims
 </td>
 <td class="cellrowborder" valign="top" width="51.13999999999999%" headers="mcps1.2.5.1.4 "><p id="p5394248"><a name="p5394248"></a><a name="p5394248"></a>Type of storage，目前支持：</p>
 <a name="ul19102811391"></a><a name="ul19102811391"></a><ul id="ul19102811391"><li>bs: 云硬盘存储</li><li>nfs: 文件存储</li><li>efs:  极速文件存储</li></ul>
+<p id="p18837145012488"><a name="p18837145012488"></a><a name="p18837145012488"></a>如果本参数未指定，将默认返回当前命名空间下bs(云硬盘存储)类型的PVC信息。</p>
 </td>
 </tr>
 </tbody>

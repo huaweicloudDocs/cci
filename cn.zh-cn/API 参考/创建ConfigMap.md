@@ -114,12 +114,12 @@ POST /api/v1/namespaces/\{namespace\}/configmaps
 </tr>
 <tr id="row2663689"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p14432280"><a name="p14432280"></a><a name="p14432280"></a>201</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1436155513315"><a name="p1436155513315"></a><a name="p1436155513315"></a><span>Created</span></p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1436155513315"><a name="p1436155513315"></a><a name="p1436155513315"></a>Created</p>
 </td>
 </tr>
 <tr id="row847320441734"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.1 "><p id="p447412447315"><a name="p447412447315"></a><a name="p447412447315"></a>202</p>
 </td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1947417441832"><a name="p1947417441832"></a><a name="p1947417441832"></a><span>Accepted</span></p>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.2.3.1.2 "><p id="p1947417441832"><a name="p1947417441832"></a><a name="p1947417441832"></a>Accepted</p>
 </td>
 </tr>
 </tbody>

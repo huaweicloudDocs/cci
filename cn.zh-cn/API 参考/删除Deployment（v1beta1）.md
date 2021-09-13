@@ -60,8 +60,7 @@ DELETE /apis/apps/v1beta1/namespaces/\{namespace\}/deployments/\{name\}
 </td>
 <td class="cellrowborder" valign="top" width="16.328367163283673%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433673_p20540096"><a name="zh-cn_topic_0091433673_p20540096"></a><a name="zh-cn_topic_0091433673_p20540096"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="66.32336766323368%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433673_p53135084"><a name="zh-cn_topic_0091433673_p53135084"></a><a name="zh-cn_topic_0091433673_p53135084"></a></p>
-<p id="zh-cn_topic_0091433673_p8453712"><a name="zh-cn_topic_0091433673_p8453712"></a><a name="zh-cn_topic_0091433673_p8453712"></a>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy.</p>
+<td class="cellrowborder" valign="top" width="66.32336766323368%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433673_p8453712"><a name="zh-cn_topic_0091433673_p8453712"></a><a name="zh-cn_topic_0091433673_p8453712"></a>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy.</p>
 </td>
 </tr>
 </tbody>

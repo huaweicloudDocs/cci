@@ -51,7 +51,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p59260195"><a name="p59260195"></a><a name="p59260195"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1960315294535"><a name="p1960315294535"></a><a name="p1960315294535"></a><span>String</span></p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1960315294535"><a name="p1960315294535"></a><a name="p1960315294535"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p35346519"><a name="p35346519"></a><a name="p35346519"></a>A selector to restrict the list of returned objects by their fields. Defaults to everything.</p>
 </td>
@@ -87,7 +87,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p27857430"><a name="p27857430"></a><a name="p27857430"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1860320295536"><a name="p1860320295536"></a><a name="p1860320295536"></a><span>Integer (int32)</span></p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1860320295536"><a name="p1860320295536"></a><a name="p1860320295536"></a>Integer (int32)</p>
 </td>
 <td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p41859330"><a name="p41859330"></a><a name="p41859330"></a>Timeout for the list/watch call.</p>
 </td>
@@ -98,7 +98,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 </td>
 <td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p46031229135317"><a name="p46031229135317"></a><a name="p46031229135317"></a>Boolean</p>
 </td>
-<td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p958515298529"><a name="p958515298529"></a><a name="p958515298529"></a><span>Watch for changes to the described resources and return them as a stream of add, update, and remove notifications. Specify resourceVersion</span></p>
+<td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p958515298529"><a name="p958515298529"></a><a name="p958515298529"></a>Watch for changes to the described resources and return them as a stream of add, update, and remove notifications. Specify resourceVersion</p>
 </td>
 </tr>
 <tr id="row174784403522"><td class="cellrowborder" valign="top" width="22.222222222222225%" headers="mcps1.2.5.1.1 "><p id="p1547812404524"><a name="p1547812404524"></a><a name="p1547812404524"></a>limit</p>
@@ -111,13 +111,13 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks
 <p id="p92514555315"><a name="p92514555315"></a><a name="p92514555315"></a>The server guarantees that the objects returned when using continue will be identical to issuing a single list call without a limit - that is, no objects created, modified, or deleted after the first request is issued will be included in any subsequent continued requests. This is sometimes referred to as a consistent snapshot, and ensures that a client that is using limit to receive smaller chunks of a very large result can ensure they see all possible objects. If objects are updated during a chunked list the version of the object that was present at the time the first list result was calculated is returned.</p>
 </td>
 </tr>
-<tr id="row1677516408524"><td class="cellrowborder" valign="top" width="22.222222222222225%" headers="mcps1.2.5.1.1 "><p id="p67755406525"><a name="p67755406525"></a><a name="p67755406525"></a><span>continue</span></p>
+<tr id="row1677516408524"><td class="cellrowborder" valign="top" width="22.222222222222225%" headers="mcps1.2.5.1.1 "><p id="p67755406525"><a name="p67755406525"></a><a name="p67755406525"></a>continue</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p16775340115210"><a name="p16775340115210"></a><a name="p16775340115210"></a><span>false</span></p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.2 "><p id="p16775340115210"><a name="p16775340115210"></a><a name="p16775340115210"></a>false</p>
 </td>
-<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1160382916535"><a name="p1160382916535"></a><a name="p1160382916535"></a><span>String</span></p>
+<td class="cellrowborder" valign="top" width="8.080808080808081%" headers="mcps1.2.5.1.3 "><p id="p1160382916535"><a name="p1160382916535"></a><a name="p1160382916535"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p67751440145212"><a name="p67751440145212"></a><a name="p67751440145212"></a><span>The continue option should be set when retrieving more results from the server. Since this value is server defined, clients may only use the continue value from a previous query result with identical query parameters (except for the value of continue) and the server may reject a continue value it does not recognize. If the specified continue value is no longer valid whether due to expiration (generally five to fifteen minutes) or a configuration change on the server, the server will respond with a 410 ResourceExpired error indicating the client must restart their list without the continue field. This field is not supported if watch is true. Clients may start a watch from the last resourceVersion value returned by the server and not miss any modifications.</span></p>
+<td class="cellrowborder" valign="top" width="61.61616161616161%" headers="mcps1.2.5.1.4 "><p id="p67751440145212"><a name="p67751440145212"></a><a name="p67751440145212"></a>The continue option should be set when retrieving more results from the server. Since this value is server defined, clients may only use the continue value from a previous query result with identical query parameters (except for the value of continue) and the server may reject a continue value it does not recognize. If the specified continue value is no longer valid whether due to expiration (generally five to fifteen minutes) or a configuration change on the server, the server will respond with a 410 ResourceExpired error indicating the client must restart their list without the continue field. This field is not supported if watch is true. Clients may start a watch from the last resourceVersion value returned by the server and not miss any modifications.</p>
 </td>
 </tr>
 </tbody>

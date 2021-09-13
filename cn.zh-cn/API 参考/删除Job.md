@@ -116,7 +116,7 @@ DELETE /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
 
 **响应参数：**
 
-响应参数的详细描述请参见[表72](数据结构.md#table37251757105918)。
+响应参数的详细描述请参见[表 JobStatus字段数据结构说明](数据结构.md#table28665255)。
 
 **响应示例：**
 
@@ -191,8 +191,7 @@ DELETE /apis/batch/v1/namespaces/\{namespace\}/jobs/\{name\}
                         "imagePullPolicy": "Always"
                     }
                 ],
-                "restartPolicy": "Never",
-                "terminationGracePeriodSeconds": 30,
+                "restartPolicy": "Never",                                
                 "dnsPolicy": "ClusterFirst",
                 "securityContext": {},
                 "imagePullSecrets": [

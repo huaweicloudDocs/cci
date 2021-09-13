@@ -31,7 +31,7 @@
 
     拒绝策略需要同时配合其他策略使用，否则没有实际作用。用户被授予的策略中，一个授权项的作用如果同时存在Allow和Deny，则遵循**Deny优先原则**。
 
-    如果您给用户授予CCI FullAccess的系统策略，但不希望用户拥有CCI FullAccess中定义的删除命名空间权限（cci:namespace:delete），您可以创建一条相同Action的自定义策略，并将自定义策略的Effect设置为Deny，然后同时将CCI FullAccess和拒绝策略授予用户，根据Deny优先原则，则用户可以对CCI执行除了删除命名空间外的所有操作。拒绝策略示例如下：
+    如果您给用户授予CCI FullAccess的系统策略，但不希望用户拥有CCI FullAccess中定义的删除命名空间权限（cci:namespace:delete），您可以创建一条相同Action的自定义策略，并将自定义策略的Effect设置为Deny，然后同时将CCI FullAccess和拒绝策略授予用户，根据Deny优先原则，则用户可以对CCI执行除了删除命名空间外的所有操作。拒绝策略示例如下：
 
     ```
     {

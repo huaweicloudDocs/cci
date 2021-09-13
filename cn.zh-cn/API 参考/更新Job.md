@@ -156,8 +156,7 @@ Content-Type: application/merge-patch+json
                         "imagePullPolicy": "Always"
                     }
                 ],
-                "restartPolicy": "Never",
-                "terminationGracePeriodSeconds": 30,
+                "restartPolicy": "Never",                                
                 "dnsPolicy": "ClusterFirst",
                 "securityContext": {},
                 "imagePullSecrets": [

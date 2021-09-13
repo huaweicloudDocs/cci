@@ -59,16 +59,16 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\}
 </td>
 <td class="cellrowborder" valign="top" width="9%" headers="mcps1.2.5.1.2 "><p id="p12943164161619"><a name="p12943164161619"></a><a name="p12943164161619"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p10943144111613"><a name="p10943144111613"></a><a name="p10943144111613"></a><span>String</span></p>
+<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p10943144111613"><a name="p10943144111613"></a><a name="p10943144111613"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="63%" headers="mcps1.2.5.1.4 "><p id="p149432411161"><a name="p149432411161"></a><a name="p149432411161"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
-<tr id="row20959124115162"><td class="cellrowborder" valign="top" width="18%" headers="mcps1.2.5.1.1 "><p id="p7959141111610"><a name="p7959141111610"></a><a name="p7959141111610"></a><span>exact</span></p>
+<tr id="row20959124115162"><td class="cellrowborder" valign="top" width="18%" headers="mcps1.2.5.1.1 "><p id="p7959141111610"><a name="p7959141111610"></a><a name="p7959141111610"></a>exact</p>
 </td>
 <td class="cellrowborder" valign="top" width="9%" headers="mcps1.2.5.1.2 "><p id="p9959841171617"><a name="p9959841171617"></a><a name="p9959841171617"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p7959144116160"><a name="p7959144116160"></a><a name="p7959144116160"></a><span>Boolean</span></p>
+<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p7959144116160"><a name="p7959144116160"></a><a name="p7959144116160"></a>Boolean</p>
 </td>
 <td class="cellrowborder" valign="top" width="63%" headers="mcps1.2.5.1.4 "><p id="p14959204141618"><a name="p14959204141618"></a><a name="p14959204141618"></a>Should the export be exact. Exact export maintains cluster-specific fields like Namespace.</p>
 </td>
@@ -77,7 +77,7 @@ GET /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\}
 </td>
 <td class="cellrowborder" valign="top" width="9%" headers="mcps1.2.5.1.2 "><p id="p1995954110161"><a name="p1995954110161"></a><a name="p1995954110161"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p495904191616"><a name="p495904191616"></a><a name="p495904191616"></a><span>Boolean</span></p>
+<td class="cellrowborder" valign="top" width="10%" headers="mcps1.2.5.1.3 "><p id="p495904191616"><a name="p495904191616"></a><a name="p495904191616"></a>Boolean</p>
 </td>
 <td class="cellrowborder" valign="top" width="63%" headers="mcps1.2.5.1.4 "><p id="p1195914414163"><a name="p1195914414163"></a><a name="p1195914414163"></a>Should this value be exported. Export strips fields that a user cannot specify.</p>
 </td>

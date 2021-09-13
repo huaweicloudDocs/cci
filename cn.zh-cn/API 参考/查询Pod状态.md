@@ -102,8 +102,7 @@ GET /api/v1/namespaces/\{namespace\}/pods/\{name\}/status
                 "imagePullPolicy": "Always"
             }
         ],
-        "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
+        "restartPolicy": "Always",        
         "dnsPolicy": "ClusterFirst",
         "nodeName": "c0dd6256-195a-e811-90a2-10c17294fcbc",
         "securityContext": {},

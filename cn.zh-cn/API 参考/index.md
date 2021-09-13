@@ -1,6 +1,6 @@
 # API参考
 
--   [使用前必读]
+-   [使用前必读](使用前必读.md)
     -   [概述](概述.md)
     -   [调用说明](调用说明.md)
     -   [终端节点](终端节点.md)
@@ -9,14 +9,14 @@
     -   [API版本选择建议](API版本选择建议.md)
 
 -   [API概览](API概览.md)
--   [如何调用API]
+-   [如何调用API](如何调用API.md)
     -   [构造请求](构造请求.md)
     -   [认证鉴权](认证鉴权.md)
     -   [返回结果](返回结果.md)
 
 -   [快速入门](快速入门.md)
--   [API]
-    -   [Network]
+-   [API](API.md)
+    -   [Network](Network.md)
         -   [创建Network](创建Network.md)
         -   [查询Network](查询Network.md)
         -   [查询所有Network](查询所有Network.md)
@@ -24,19 +24,19 @@
         -   [删除Network](删除Network.md)
         -   [删除所有Network](删除所有Network.md)
 
-    -   [Extended PersistentVolumeClaim]
+    -   [Extended PersistentVolumeClaim](Extended-PersistentVolumeClaim.md)
         -   [导入存储](导入存储.md)
         -   [查询导入的PVC](查询导入的PVC.md)
         -   [解绑存储](解绑存储.md)
 
--   [Kubernetes API]
-    -   [Namespace]
+-   [Kubernetes API](Kubernetes-API.md)
+    -   [Namespace](Namespace.md)
         -   [创建Namespace](创建Namespace.md)
         -   [查询Namespace](查询Namespace.md)
         -   [列出Namespace](列出Namespace.md)
         -   [删除Namespace](删除Namespace.md)
 
-    -   [Pod]
+    -   [Pod](Pod.md)
         -   [创建Pod](创建Pod.md)
         -   [查询Pod](查询Pod.md)
         -   [查询指定Namespace下所有Pod](查询指定Namespace下所有Pod.md)
@@ -48,7 +48,7 @@
         -   [删除Pod](删除Pod.md)
         -   [删除所有Pod](删除所有Pod.md)
 
-    -   [Deployment]
+    -   [Deployment](Deployment.md)
         -   [创建Deployment](创建Deployment.md)
         -   [查询Deployment](查询Deployment.md)
         -   [查询Namespace下所有Deployment](查询Namespace下所有Deployment.md)
@@ -62,7 +62,7 @@
         -   [删除Deployment](删除Deployment.md)
         -   [删除所有Deployment](删除所有Deployment.md)
 
-    -   [StatefulSet]
+    -   [StatefulSet](StatefulSet.md)
         -   [创建StatefulSet](创建StatefulSet.md)
         -   [查询StatefulSet](查询StatefulSet.md)
         -   [查询指定namespace下所有StatefulSet](查询指定namespace下所有StatefulSet.md)
@@ -73,7 +73,7 @@
         -   [删除StatefulSet](删除StatefulSet.md)
         -   [删除所有StatefulSet](删除所有StatefulSet.md)
 
-    -   [Job]
+    -   [Job](Job.md)
         -   [创建Job](创建Job.md)
         -   [查询Job](查询Job.md)
         -   [查询指定namespace下所有Job](查询指定namespace下所有Job.md)
@@ -84,14 +84,14 @@
         -   [删除Job](删除Job.md)
         -   [删除所有Job](删除所有Job.md)
 
-    -   [Service]
+    -   [Service](Service.md)
         -   [创建Service](创建Service.md)
         -   [查询Service](查询Service.md)
         -   [查询所有Service](查询所有Service.md)
         -   [查询service状态](查询service状态.md)
         -   [删除Service](删除Service.md)
 
-    -   [Ingress]
+    -   [Ingress](Ingress.md)
         -   [创建Ingress](创建Ingress.md)
         -   [查询Ingress](查询Ingress.md)
         -   [查询所有Ingress](查询所有Ingress.md)
@@ -101,7 +101,7 @@
         -   [删除Ingress](删除Ingress.md)
         -   [删除所有ingress](删除所有ingress.md)
 
-    -   [ConfigMap]
+    -   [ConfigMap](ConfigMap.md)
         -   [创建ConfigMap](创建ConfigMap.md)
         -   [查询ConfigMap](查询ConfigMap.md)
         -   [查询所有ConfigMap](查询所有ConfigMap.md)
@@ -110,25 +110,25 @@
         -   [删除ConfigMap](删除ConfigMap.md)
         -   [删除所有ConfigMap](删除所有ConfigMap.md)
 
-    -   [Secret]
+    -   [Secret](Secret.md)
         -   [创建Secret](创建Secret.md)
         -   [替换Secret](替换Secret.md)
         -   [更新Secret](更新Secret.md)
         -   [删除Secret](删除Secret.md)
         -   [删除所有Secret](删除所有Secret.md)
 
-    -   [PersistentVolumeClaim]
+    -   [PersistentVolumeClaim](PersistentVolumeClaim.md)
         -   [创建PersistentVolumeClaim](创建PersistentVolumeClaim.md)
         -   [查询PersistentVolumeClaim](查询PersistentVolumeClaim.md)
         -   [查询所有PersistentVolumeClaim](查询所有PersistentVolumeClaim.md)
         -   [删除PersistentVolumeClaim](删除PersistentVolumeClaim.md)
 
-    -   [Event]
+    -   [Event](Event.md)
         -   [查询Event](查询Event.md)
         -   [查询所有Event](查询所有Event.md)
         -   [删除Event](删除Event.md)
 
-    -   [API groups]
+    -   [API groups](API-groups.md)
         -   [列出APIVersions](列出APIVersions.md)
         -   [列出APIGroups](列出APIGroups.md)
         -   [列出所有extensions/v1beta1版本的API](列出所有extensions-v1beta1版本的API.md)
@@ -138,14 +138,14 @@
         -   [列出所有networking.cci.io/v1beta1版本的API](列出所有networking-cci-io-v1beta1版本的API.md)
         -   [列出所有v1版本的API](列出所有v1版本的API.md)
 
-    -   [Endpoint]
+    -   [Endpoint](Endpoint.md)
         -   [查询Endpoint](查询Endpoint.md)
         -   [查询所有Endpoints](查询所有Endpoints.md)
 
-    -   [ReplicaSet]
+    -   [ReplicaSet](ReplicaSet.md)
         -   [查询所有ReplicaSets](查询所有ReplicaSets.md)
 
-    -   [VolcanoJob]
+    -   [VolcanoJob](VolcanoJob.md)
         -   [获取namespace下的所有Volcano Job](获取namespace下的所有Volcano-Job.md)
         -   [创建Volcano Job](创建Volcano-Job.md)
         -   [删除namespace下的所有Volcano Job](删除namespace下的所有Volcano-Job.md)
@@ -154,7 +154,7 @@
         -   [删除Volcano Job](删除Volcano-Job.md)
         -   [更新Volcano Job](更新Volcano-Job.md)
 
-    -   [TFJob]
+    -   [TFJob](TFJob.md)
         -   [创建TFJob](创建TFJob.md)
         -   [查询TFJob](查询TFJob.md)
         -   [查询指定namespace下的所有TFJob](查询指定namespace下的所有TFJob.md)
@@ -163,7 +163,7 @@
         -   [更新TFJob](更新TFJob.md)
         -   [替换TFJob](替换TFJob.md)
 
-    -   [MXJob]
+    -   [MXJob](MXJob.md)
         -   [创建MXJob](创建MXJob.md)
         -   [查询MXJob](查询MXJob.md)
         -   [查询指定namespace下的所有MXJob](查询指定namespace下的所有MXJob.md)
@@ -172,7 +172,7 @@
         -   [更新MXJob](更新MXJob.md)
         -   [替换MXJob](替换MXJob.md)
 
-    -   [PyTorchJob]
+    -   [PyTorchJob](PyTorchJob.md)
         -   [创建PyTorchJob](创建PyTorchJob.md)
         -   [查询PyTorchJob](查询PyTorchJob.md)
         -   [查询指定namespace下的所有PyTorchJob](查询指定namespace下的所有PyTorchJob.md)
@@ -181,12 +181,12 @@
         -   [更新PyTorchJob](更新PyTorchJob.md)
         -   [替换PyTorchJob](替换PyTorchJob.md)
 
-    -   [RBAC]
-        -   [ClusterRole]
+    -   [RBAC](RBAC.md)
+        -   [ClusterRole](ClusterRole.md)
             -   [获取指定的ClusterRole](获取指定的ClusterRole.md)
             -   [获取ClusterRole列表](获取ClusterRole列表.md)
 
-        -   [RoleBinding]
+        -   [RoleBinding](RoleBinding.md)
             -   [创建RoleBinding](创建RoleBinding.md)
             -   [更新指定的RoleBinding](更新指定的RoleBinding.md)
             -   [替换指定的RoleBinding](替换指定的RoleBinding.md)
@@ -195,44 +195,47 @@
             -   [获取指定namespace下RoleBinding列表](获取指定namespace下RoleBinding列表.md)
             -   [获取RoleBinding列表](获取RoleBinding列表.md)
 
--   [数据结构]
+-   [数据结构](数据结构-0.md)
     -   [请求数据结构（废弃）](请求数据结构（废弃）.md)
     -   [响应数据结构（废弃）](响应数据结构（废弃）.md)
     -   [数据结构](数据结构.md)
 
--   [权限和授权项]
+-   [权限和授权项](权限和授权项.md)
     -   [权限及授权项说明](权限及授权项说明.md)
     -   [授权项分类](授权项分类.md)
 
--   [附录]
+-   [附录](附录.md)
     -   [PATCH请求方法操作说明](PATCH请求方法操作说明.md)
     -   [PATCH请求方法操作示例](PATCH请求方法操作示例.md)
     -   [状态码](状态码.md)
     -   [错误码](错误码.md)
     -   [获取项目ID](获取项目ID.md)
-    -   [获取账号ID](获取账号ID.md)
+    -   [获取帐号ID](获取帐号ID.md)
     -   [获取容器镜像地址](获取容器镜像地址.md)
     -   [挂载OBS使用限制](挂载OBS使用限制.md)
 
--   [Kubernetes API（废弃）]
-    -   [Deployment]
-        -   [创建Deployment](创建Deployment（v1beta1）.md)
-        -   [创建Deployment回滚](创建Deployment回滚（v1beta1）.md)
-        -   [查询Deployment](查询Deployment（v1beta1）.md)
-        -   [查询所有Deployment](查询所有Deployment（v1beta1）.md)
-        -   [查询Deployment的状态](查询Deployment的状态（v1beta1）.md)
-        -   [替换Deployment](替换Deployment（v1beta1）.md)
-        -   [更新Deployment](更新Deployment（v1beta1）.md)
-        -   [删除Deployment](删除Deployment（v1beta1）.md)
-        -   [删除所有Deployment](删除所有Deployment（v1beta1）.md)
+-   [历史API](历史API.md)
+    -   [Kubernetes API（废弃）](Kubernetes-API（废弃）.md)
+        -   [Deployment](Deployment（v1beta1）.md)
+            -   [创建Deployment](创建Deployment（v1beta1）.md)
+            -   [创建Deployment回滚](创建Deployment回滚（v1beta1）.md)
+            -   [查询Deployment](查询Deployment（v1beta1）.md)
+            -   [查询所有Deployment](查询所有Deployment（v1beta1）.md)
+            -   [查询Deployment的状态](查询Deployment的状态（v1beta1）.md)
+            -   [替换Deployment](替换Deployment（v1beta1）.md)
+            -   [更新Deployment](更新Deployment（v1beta1）.md)
+            -   [删除Deployment](删除Deployment（v1beta1）.md)
+            -   [删除所有Deployment](删除所有Deployment（v1beta1）.md)
 
-    -   [Statefulset]
-        -   [创建StatefulSet](创建StatefulSet（v1beta1）.md)
-        -   [查询StatefulSet](查询StatefulSet（v1beta1）.md)
-        -   [查询所有StatefulSet](查询所有StatefulSet（v1beta1）.md)
-        -   [查询StatefulSet状态](查询StatefulSet状态（v1beta1）.md)
-        -   [替换StatefulSet](替换StatefulSet（v1beta1）.md)
-        -   [更新StatefulSet](更新StatefulSet（v1beta1）.md)
-        -   [删除StatefulSet](删除StatefulSet（v1beta1）.md)
-        -   [删除所有StatefulSet](删除所有StatefulSet（v1beta1）.md)
+        -   [Statefulset](StatefulSet（v1beta1）.md)
+            -   [创建StatefulSet](创建StatefulSet（v1beta1）.md)
+            -   [查询StatefulSet](查询StatefulSet（v1beta1）.md)
+            -   [查询所有StatefulSet](查询所有StatefulSet（v1beta1）.md)
+            -   [查询StatefulSet状态](查询StatefulSet状态（v1beta1）.md)
+            -   [替换StatefulSet](替换StatefulSet（v1beta1）.md)
+            -   [更新StatefulSet](更新StatefulSet（v1beta1）.md)
+            -   [删除StatefulSet](删除StatefulSet（v1beta1）.md)
+            -   [删除所有StatefulSet](删除所有StatefulSet（v1beta1）.md)
+
+-   [修订记录](修订记录.md)
 

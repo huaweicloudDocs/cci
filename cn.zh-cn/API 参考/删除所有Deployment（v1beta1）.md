@@ -46,8 +46,7 @@ DELETE /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433674_p9705370"><a name="zh-cn_topic_0091433674_p9705370"></a><a name="zh-cn_topic_0091433674_p9705370"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="61.22%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433674_p47937500"><a name="zh-cn_topic_0091433674_p47937500"></a><a name="zh-cn_topic_0091433674_p47937500"></a></p>
-<p id="zh-cn_topic_0091433674_p28784318"><a name="zh-cn_topic_0091433674_p28784318"></a><a name="zh-cn_topic_0091433674_p28784318"></a>If true, partially initialized resources are included in the response.</p>
+<td class="cellrowborder" valign="top" width="61.22%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433674_p28784318"><a name="zh-cn_topic_0091433674_p28784318"></a><a name="zh-cn_topic_0091433674_p28784318"></a>If true, partially initialized resources are included in the response.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433674_row57732278"><td class="cellrowborder" valign="top" width="22.45%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433674_p45802961"><a name="zh-cn_topic_0091433674_p45802961"></a><a name="zh-cn_topic_0091433674_p45802961"></a>labelSelector</p>

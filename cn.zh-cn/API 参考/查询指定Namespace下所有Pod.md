@@ -148,7 +148,6 @@ N/A
                     }
                 ],
                 "restartPolicy": "Always",
-                "terminationGracePeriodSeconds": 30,
                 "dnsPolicy": "ClusterFirst",
                 "nodeName": "c0dd6256-195a-e811-90a2-10c17294fcbc",
                 "securityContext": {},

@@ -59,18 +59,18 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\
 </td>
 <td class="cellrowborder" valign="top" width="9.900990099009901%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0079615000_p44315844"><a name="zh-cn_topic_0079615000_p44315844"></a><a name="zh-cn_topic_0079615000_p44315844"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p047811555392"><a name="p047811555392"></a><a name="p047811555392"></a><span>String</span></p>
+<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p047811555392"><a name="p047811555392"></a><a name="p047811555392"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="55.44554455445545%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0079615000_p32813593"><a name="zh-cn_topic_0079615000_p32813593"></a><a name="zh-cn_topic_0079615000_p32813593"></a>If 'true', then the output is pretty printed.</p>
 </td>
 </tr>
-<tr id="row14243172612403"><td class="cellrowborder" valign="top" width="21.782178217821784%" headers="mcps1.2.5.1.1 "><p id="p42431526144010"><a name="p42431526144010"></a><a name="p42431526144010"></a><span>propagationPolicy</span></p>
+<tr id="row14243172612403"><td class="cellrowborder" valign="top" width="21.782178217821784%" headers="mcps1.2.5.1.1 "><p id="p42431526144010"><a name="p42431526144010"></a><a name="p42431526144010"></a>propagationPolicy</p>
 </td>
 <td class="cellrowborder" valign="top" width="9.900990099009901%" headers="mcps1.2.5.1.2 "><p id="p1624362616401"><a name="p1624362616401"></a><a name="p1624362616401"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p10243182694014"><a name="p10243182694014"></a><a name="p10243182694014"></a><span>String</span></p>
+<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p10243182694014"><a name="p10243182694014"></a><a name="p10243182694014"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="55.44554455445545%" headers="mcps1.2.5.1.4 "><p id="p6243426154012"><a name="p6243426154012"></a><a name="p6243426154012"></a><span>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy. Acceptable values are: </span><em id="i1852514174019"><a name="i1852514174019"></a><a name="i1852514174019"></a>Orphan</em><span>- orphan the dependents; </span><em id="i1852564114017"><a name="i1852564114017"></a><a name="i1852564114017"></a>Background</em><span> - allow the garbage collector to delete the dependents in the background; </span><em id="i10525174134013"><a name="i10525174134013"></a><a name="i10525174134013"></a>Foreground</em><span> - a cascading policy that deletes all dependents in the foreground.</span></p>
+<td class="cellrowborder" valign="top" width="55.44554455445545%" headers="mcps1.2.5.1.4 "><p id="p6243426154012"><a name="p6243426154012"></a><a name="p6243426154012"></a>Whether and how garbage collection will be performed. Either this field or OrphanDependents may be set, but not both. The default policy is decided by the existing finalizer set in the metadata.finalizers and the resource-specific default policy. Acceptable values are: <em id="i1852514174019"><a name="i1852514174019"></a><a name="i1852514174019"></a>Orphan</em>- orphan the dependents; <em id="i1852564114017"><a name="i1852564114017"></a><a name="i1852564114017"></a>Background</em> - allow the garbage collector to delete the dependents in the background; <em id="i10525174134013"><a name="i10525174134013"></a><a name="i10525174134013"></a>Foreground</em> - a cascading policy that deletes all dependents in the foreground.</p>
 </td>
 </tr>
 <tr id="row9618126114019"><td class="cellrowborder" valign="top" width="21.782178217821784%" headers="mcps1.2.5.1.1 "><p id="p176181226114017"><a name="p176181226114017"></a><a name="p176181226114017"></a>orphanDependents</p>
@@ -82,13 +82,13 @@ DELETE /apis/networking.cci.io/v1beta1/namespaces/\{namespace\}/networks/\{name\
 <td class="cellrowborder" valign="top" width="55.44554455445545%" headers="mcps1.2.5.1.4 "><p id="p1961815263404"><a name="p1961815263404"></a><a name="p1961815263404"></a>Deprecated: please use the PropagationPolicy, this field will be deprecated in 1.7. Should the dependent objects be orphaned. If true/false, the "orphan" finalizer will be added to/removed from the object’s finalizers list. Either this field or PropagationPolicy may be set, but not both.</p>
 </td>
 </tr>
-<tr id="row1172064412"><td class="cellrowborder" valign="top" width="21.782178217821784%" headers="mcps1.2.5.1.1 "><p id="p272967414"><a name="p272967414"></a><a name="p272967414"></a><span>gracePeriodSeconds</span></p>
+<tr id="row1172064412"><td class="cellrowborder" valign="top" width="21.782178217821784%" headers="mcps1.2.5.1.1 "><p id="p272967414"><a name="p272967414"></a><a name="p272967414"></a>gracePeriodSeconds</p>
 </td>
 <td class="cellrowborder" valign="top" width="9.900990099009901%" headers="mcps1.2.5.1.2 "><p id="p2723617414"><a name="p2723617414"></a><a name="p2723617414"></a>Yes</p>
 </td>
-<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p77226114115"><a name="p77226114115"></a><a name="p77226114115"></a><span>integer (int32)</span></p>
+<td class="cellrowborder" valign="top" width="12.871287128712872%" headers="mcps1.2.5.1.3 "><p id="p77226114115"><a name="p77226114115"></a><a name="p77226114115"></a>integer (int32)</p>
 </td>
-<td class="cellrowborder" valign="top" width="55.44554455445545%" headers="mcps1.2.5.1.4 "><p id="p8727684117"><a name="p8727684117"></a><a name="p8727684117"></a><span>The duration in seconds before the object should be deleted. Value must be a non-negative integer. The value zero indicates delete immediately. If this value is nil, the default grace period for the specified type will be used. Defaults to a per object value if not specified. zero means delete immediately.</span></p>
+<td class="cellrowborder" valign="top" width="55.44554455445545%" headers="mcps1.2.5.1.4 "><p id="p8727684117"><a name="p8727684117"></a><a name="p8727684117"></a>The duration in seconds before the object should be deleted. Value must be a non-negative integer. The value zero indicates delete immediately. If this value is nil, the default grace period for the specified type will be used. Defaults to a per object value if not specified. zero means delete immediately.</p>
 </td>
 </tr>
 </tbody>

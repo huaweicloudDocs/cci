@@ -137,7 +137,7 @@ N/A
                     }
                 ], 
                 "restartPolicy": "Always", 
-                "terminationGracePeriodSeconds": 30, 
+                 
                 "dnsPolicy": "ClusterFirst", 
                 "securityContext": {}, 
                 "imagePullSecrets": [

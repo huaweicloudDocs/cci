@@ -39,8 +39,7 @@ GET /apis/apps/v1beta1/namespaces/\{namespace\}/deployments
 </td>
 <td class="cellrowborder" valign="top" width="16.16%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0091433681_p23850806"><a name="zh-cn_topic_0091433681_p23850806"></a><a name="zh-cn_topic_0091433681_p23850806"></a>No</p>
 </td>
-<td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433681_p52867161"><a name="zh-cn_topic_0091433681_p52867161"></a><a name="zh-cn_topic_0091433681_p52867161"></a></p>
-<p id="zh-cn_topic_0091433681_p6042403"><a name="zh-cn_topic_0091433681_p6042403"></a><a name="zh-cn_topic_0091433681_p6042403"></a>If true, partially initialized resources are included in the response.</p>
+<td class="cellrowborder" valign="top" width="61.62%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0091433681_p6042403"><a name="zh-cn_topic_0091433681_p6042403"></a><a name="zh-cn_topic_0091433681_p6042403"></a>If true, partially initialized resources are included in the response.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433681_row54381628"><td class="cellrowborder" valign="top" width="22.220000000000002%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0091433681_p42835719"><a name="zh-cn_topic_0091433681_p42835719"></a><a name="zh-cn_topic_0091433681_p42835719"></a>labelSelector</p>
@@ -203,7 +202,7 @@ N/A
                             }
                         ], 
                         "restartPolicy": "Always", 
-                        "terminationGracePeriodSeconds": 30, 
+                         
                         "dnsPolicy": "ClusterFirst", 
                         "securityContext": {}, 
                         "imagePullSecrets": [
@@ -308,8 +307,7 @@ N/A
                                 "imagePullPolicy": "Always"
                             }
                         ], 
-                        "restartPolicy": "Always", 
-                        "terminationGracePeriodSeconds": 30, 
+                        "restartPolicy": "Always",                                                   
                         "dnsPolicy": "ClusterFirst", 
                         "securityContext": {}, 
                         "imagePullSecrets": [
@@ -421,8 +419,7 @@ N/A
                                 "imagePullPolicy": "Always"
                             }
                         ], 
-                        "restartPolicy": "Always", 
-                        "terminationGracePeriodSeconds": 30, 
+                        "restartPolicy": "Always",                                                   
                         "dnsPolicy": "ClusterFirst", 
                         "securityContext": {}, 
                         "imagePullSecrets": [

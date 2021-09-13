@@ -131,8 +131,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p03221827151115"><a name="p03221827151115"></a><a name="p03221827151115"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p83283273114"><a name="p83283273114"></a><a name="p83283273114"></a></p>
-<p id="p19331102719119"><a name="p19331102719119"></a><a name="p19331102719119"></a>podManagementPolicy controls how pods are created during initial scale up, when replacing pods on nodes, or when scaling down. The default policy is OrderedReady, where pods are created in increasing order (pod-0, then pod-1, etc) and the controller will wait until each pod is ready before continuing. When scaling down, the pods are removed in the opposite order. The alternative policy is Parallel which will create pods in parallel to match the desired scale without waiting, and on scale down will delete all pods at once.</p>
+<td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p19331102719119"><a name="p19331102719119"></a><a name="p19331102719119"></a>podManagementPolicy controls how pods are created during initial scale up, when replacing pods on nodes, or when scaling down. The default policy is OrderedReady, where pods are created in increasing order (pod-0, then pod-1, etc) and the controller will wait until each pod is ready before continuing. When scaling down, the pods are removed in the opposite order. The alternative policy is Parallel which will create pods in parallel to match the desired scale without waiting, and on scale down will delete all pods at once.</p>
 </td>
 </tr>
 <tr id="row5333182713117"><td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.1 "><p id="p633792741111"><a name="p633792741111"></a><a name="p633792741111"></a>revisionHistoryLimit</p>
@@ -141,8 +140,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p143481427111116"><a name="p143481427111116"></a><a name="p143481427111116"></a>Integer</p>
 </td>
-<td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p16353162710114"><a name="p16353162710114"></a><a name="p16353162710114"></a></p>
-<p id="p135662711114"><a name="p135662711114"></a><a name="p135662711114"></a>revisionHistoryLimit is the maximum number of revisions that will be maintained in the StatefulSet's revision history. The revision history consists of all revisions not represented by a currently applied StatefulSetSpec version. The default value is 10.</p>
+<td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p135662711114"><a name="p135662711114"></a><a name="p135662711114"></a>revisionHistoryLimit is the maximum number of revisions that will be maintained in the StatefulSet's revision history. The revision history consists of all revisions not represented by a currently applied StatefulSetSpec version. The default value is 10.</p>
 </td>
 </tr>
 <tr id="row835912751115"><td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.1 "><p id="p20363122711112"><a name="p20363122711112"></a><a name="p20363122711112"></a>updateStrategy</p>
@@ -151,8 +149,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.5.1.3 "><p id="p13374112717112"><a name="p13374112717112"></a><a name="p13374112717112"></a><a href="#zh-cn_topic_0091433687_d0e38083">表7</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p15381927161112"><a name="p15381927161112"></a><a name="p15381927161112"></a></p>
-<p id="p1938532751120"><a name="p1938532751120"></a><a name="p1938532751120"></a>updateStrategy indicates the StatefulSetUpdateStrategy that will be employed to update Pods in the StatefulSet when a revision is made to Template.</p>
+<td class="cellrowborder" valign="top" width="42%" headers="mcps1.2.5.1.4 "><p id="p1938532751120"><a name="p1938532751120"></a><a name="p1938532751120"></a>updateStrategy indicates the StatefulSetUpdateStrategy that will be employed to update Pods in the StatefulSet when a revision is made to Template.</p>
 </td>
 </tr>
 <tr id="row1138792721112"><td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.5.1.1 "><p id="p15392102711116"><a name="p15392102711116"></a><a name="p15392102711116"></a>serviceName</p>
@@ -222,8 +219,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="19.59%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p29139468"><a name="zh-cn_topic_0091433687_p29139468"></a><a name="zh-cn_topic_0091433687_p29139468"></a>Integer</p>
 </td>
-<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p11486745"><a name="zh-cn_topic_0091433687_p11486745"></a><a name="zh-cn_topic_0091433687_p11486745"></a></p>
-<p id="zh-cn_topic_0091433687_p36271844"><a name="zh-cn_topic_0091433687_p36271844"></a><a name="zh-cn_topic_0091433687_p36271844"></a>currentReplicas is the number of Pods created by the StatefulSet controller from the StatefulSet version indicated by currentRevision.</p>
+<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p36271844"><a name="zh-cn_topic_0091433687_p36271844"></a><a name="zh-cn_topic_0091433687_p36271844"></a>currentReplicas is the number of Pods created by the StatefulSet controller from the StatefulSet version indicated by currentRevision.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433687_row58011142"><td class="cellrowborder" valign="top" width="22.68%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p1282043"><a name="zh-cn_topic_0091433687_p1282043"></a><a name="zh-cn_topic_0091433687_p1282043"></a>currentRevision</p>
@@ -232,8 +228,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="19.59%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p22880543"><a name="zh-cn_topic_0091433687_p22880543"></a><a name="zh-cn_topic_0091433687_p22880543"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p41384734"><a name="zh-cn_topic_0091433687_p41384734"></a><a name="zh-cn_topic_0091433687_p41384734"></a></p>
-<p id="zh-cn_topic_0091433687_p36918294"><a name="zh-cn_topic_0091433687_p36918294"></a><a name="zh-cn_topic_0091433687_p36918294"></a>currentRevision, if not empty, indicates the version of the StatefulSet used to generate Pods in the sequence [0,currentReplicas).</p>
+<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p36918294"><a name="zh-cn_topic_0091433687_p36918294"></a><a name="zh-cn_topic_0091433687_p36918294"></a>currentRevision, if not empty, indicates the version of the StatefulSet used to generate Pods in the sequence [0,currentReplicas).</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433687_row63829190"><td class="cellrowborder" valign="top" width="22.68%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p2781886"><a name="zh-cn_topic_0091433687_p2781886"></a><a name="zh-cn_topic_0091433687_p2781886"></a>readyReplicas</p>
@@ -242,8 +237,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="19.59%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p65453247"><a name="zh-cn_topic_0091433687_p65453247"></a><a name="zh-cn_topic_0091433687_p65453247"></a>Integer</p>
 </td>
-<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p112792"><a name="zh-cn_topic_0091433687_p112792"></a><a name="zh-cn_topic_0091433687_p112792"></a></p>
-<p id="zh-cn_topic_0091433687_p1015136"><a name="zh-cn_topic_0091433687_p1015136"></a><a name="zh-cn_topic_0091433687_p1015136"></a>readyReplicas is the number of Pods created by the StatefulSet controller that have a Ready Condition.</p>
+<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p1015136"><a name="zh-cn_topic_0091433687_p1015136"></a><a name="zh-cn_topic_0091433687_p1015136"></a>readyReplicas is the number of Pods created by the StatefulSet controller that have a Ready Condition.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433687_row9136226"><td class="cellrowborder" valign="top" width="22.68%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p1836869"><a name="zh-cn_topic_0091433687_p1836869"></a><a name="zh-cn_topic_0091433687_p1836869"></a>updateRevision</p>
@@ -252,8 +246,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="19.59%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p39212403"><a name="zh-cn_topic_0091433687_p39212403"></a><a name="zh-cn_topic_0091433687_p39212403"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p22088079"><a name="zh-cn_topic_0091433687_p22088079"></a><a name="zh-cn_topic_0091433687_p22088079"></a></p>
-<p id="zh-cn_topic_0091433687_p64574987"><a name="zh-cn_topic_0091433687_p64574987"></a><a name="zh-cn_topic_0091433687_p64574987"></a>updateRevision, if not empty, indicates the version of the StatefulSet used to generate Pods in the sequence [replicas-updatedReplicas,replicas)</p>
+<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p64574987"><a name="zh-cn_topic_0091433687_p64574987"></a><a name="zh-cn_topic_0091433687_p64574987"></a>updateRevision, if not empty, indicates the version of the StatefulSet used to generate Pods in the sequence [replicas-updatedReplicas,replicas)</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433687_row44303971"><td class="cellrowborder" valign="top" width="22.68%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p31851928"><a name="zh-cn_topic_0091433687_p31851928"></a><a name="zh-cn_topic_0091433687_p31851928"></a>updatedReplicas</p>
@@ -262,8 +255,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="19.59%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p3502148"><a name="zh-cn_topic_0091433687_p3502148"></a><a name="zh-cn_topic_0091433687_p3502148"></a>Integer</p>
 </td>
-<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p15238538"><a name="zh-cn_topic_0091433687_p15238538"></a><a name="zh-cn_topic_0091433687_p15238538"></a></p>
-<p id="zh-cn_topic_0091433687_p2929118"><a name="zh-cn_topic_0091433687_p2929118"></a><a name="zh-cn_topic_0091433687_p2929118"></a>updatedReplicas is the number of Pods created by the StatefulSet controller from the StatefulSet version indicated by updateRevision.</p>
+<td class="cellrowborder" valign="top" width="43.3%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p2929118"><a name="zh-cn_topic_0091433687_p2929118"></a><a name="zh-cn_topic_0091433687_p2929118"></a>updatedReplicas is the number of Pods created by the StatefulSet controller from the StatefulSet version indicated by updateRevision.</p>
 </td>
 </tr>
 </tbody>
@@ -365,8 +357,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="23.447655234476546%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p39738973"><a name="zh-cn_topic_0091433687_p39738973"></a><a name="zh-cn_topic_0091433687_p39738973"></a><a href="#zh-cn_topic_0091433687_table102371729161619">表8</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p45791139"><a name="zh-cn_topic_0091433687_p45791139"></a><a name="zh-cn_topic_0091433687_p45791139"></a></p>
-<p id="zh-cn_topic_0091433687_p9467071"><a name="zh-cn_topic_0091433687_p9467071"></a><a name="zh-cn_topic_0091433687_p9467071"></a>RollingUpdate is used to communicate parameters when Type is RollingUpdateStatefulSetStrategyType.</p>
+<td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p9467071"><a name="zh-cn_topic_0091433687_p9467071"></a><a name="zh-cn_topic_0091433687_p9467071"></a>RollingUpdate is used to communicate parameters when Type is RollingUpdateStatefulSetStrategyType.</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0091433687_row18094775"><td class="cellrowborder" valign="top" width="20.40795920407959%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0091433687_p56390700"><a name="zh-cn_topic_0091433687_p56390700"></a><a name="zh-cn_topic_0091433687_p56390700"></a>type</p>
@@ -375,8 +366,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="23.447655234476546%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p8220504"><a name="zh-cn_topic_0091433687_p8220504"></a><a name="zh-cn_topic_0091433687_p8220504"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p61881054"><a name="zh-cn_topic_0091433687_p61881054"></a><a name="zh-cn_topic_0091433687_p61881054"></a></p>
-<p id="zh-cn_topic_0091433687_p20058578"><a name="zh-cn_topic_0091433687_p20058578"></a><a name="zh-cn_topic_0091433687_p20058578"></a>Type indicates the type of the StatefulSetUpdateStrategy.</p>
+<td class="cellrowborder" valign="top" width="39.7960203979602%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p20058578"><a name="zh-cn_topic_0091433687_p20058578"></a><a name="zh-cn_topic_0091433687_p20058578"></a>Type indicates the type of the StatefulSetUpdateStrategy.</p>
 </td>
 </tr>
 </tbody>
@@ -401,8 +391,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
 </td>
 <td class="cellrowborder" valign="top" width="23.46765323467653%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0091433687_p34256959"><a name="zh-cn_topic_0091433687_p34256959"></a><a name="zh-cn_topic_0091433687_p34256959"></a>Integer</p>
 </td>
-<td class="cellrowborder" valign="top" width="39.796020397960206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p23350276"><a name="zh-cn_topic_0091433687_p23350276"></a><a name="zh-cn_topic_0091433687_p23350276"></a></p>
-<p id="zh-cn_topic_0091433687_p8825898"><a name="zh-cn_topic_0091433687_p8825898"></a><a name="zh-cn_topic_0091433687_p8825898"></a>Partition indicates the ordinal at which the StatefulSet should be partitioned.</p>
+<td class="cellrowborder" valign="top" width="39.796020397960206%" headers="mcps1.2.5.1.4 "><p id="zh-cn_topic_0091433687_p8825898"><a name="zh-cn_topic_0091433687_p8825898"></a><a name="zh-cn_topic_0091433687_p8825898"></a>Partition indicates the ordinal at which the StatefulSet should be partitioned.</p>
 </td>
 </tr>
 </tbody>
@@ -578,8 +567,7 @@ POST /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets
                         "imagePullPolicy": "Always"
                     }
                 ], 
-                "restartPolicy": "Always", 
-                "terminationGracePeriodSeconds": 30, 
+                "restartPolicy": "Always",                                   
                 "dnsPolicy": "ClusterFirst", 
                 "securityContext": {}, 
                 "imagePullSecrets": [

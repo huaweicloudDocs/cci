@@ -156,12 +156,12 @@ POST /api/v1/namespaces/\{namespace\}/pods
                     "requests": {
                         "cpu": "4",
                         "memory": "32Gi",
-                        "nvidia.com/gpu-tesla-v100-16GB": "1"
+                        "nvidia.com/gpu-tesla-v100-16GB": "1"            #16G显存           
                     },
                     "limits": {
                         "cpu": "4",
                         "memory": "32Gi",
-                        "nvidia.com/gpu-tesla-v100-16GB": "1"
+                        "nvidia.com/gpu-tesla-v100-16GB": "1"            #16G显存
                     }
                 }
             }
@@ -176,6 +176,9 @@ POST /api/v1/namespaces/\{namespace\}/pods
     }
 }
 ```
+
+>![](public_sys-resources/icon-note.gif) **说明：** 
+>“华北-北京四”区域，仅支持NVIDIA TeslaV100 32G显卡。“华东-上海一”可支持NVIDIA TeslaV100 32G、NVIDIA TeslaV100 16G显卡。
 
 通过LVM方式创建本地卷的Pod示例：
 
@@ -238,7 +241,7 @@ POST /api/v1/namespaces/\{namespace\}/pods
                 "name": "innerevs123"
             }
         ],
-        "terminationGracePeriodSeconds": 30,
+        
         "nodeSelector": {
             "node.cci.io/allowed-on-poc-dedicated-node": "sina"
         },
@@ -302,8 +305,7 @@ POST /api/v1/namespaces/\{namespace\}/pods
             }
         ],
         "restartPolicy": "Always",
-        "priority": 0,
-        "terminationGracePeriodSeconds": 30,
+        "priority": 0,        
         "dnsPolicy": "ClusterFirst",
         "securityContext": {},
         "imagePullSecrets": [

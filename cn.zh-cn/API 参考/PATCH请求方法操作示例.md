@@ -90,8 +90,7 @@
                         "imagePullPolicy": "Always"
                     }
                 ],
-                "restartPolicy": "Always",
-                "terminationGracePeriodSeconds": 30,
+                "restartPolicy": "Always",                
                 "dnsPolicy": "ClusterFirst",
                 "securityContext": {}
             }
@@ -164,8 +163,7 @@
                             "imagePullPolicy": "Always"
                         }
                     ],
-                    "restartPolicy": "Always",
-                    "terminationGracePeriodSeconds": 30,
+                    "restartPolicy": "Always",                                
                     "dnsPolicy": "ClusterFirst",
                     "securityContext": {}
                 }
@@ -256,8 +254,7 @@
                             "imagePullPolicy": "Always"
                         }
                     ],
-                    "restartPolicy": "Always",
-                    "terminationGracePeriodSeconds": 30,
+                    "restartPolicy": "Always",                                
                     "dnsPolicy": "ClusterFirst",
                     "securityContext": {}
                 }

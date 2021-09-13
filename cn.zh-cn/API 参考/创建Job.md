@@ -179,8 +179,7 @@ POST /apis/batch/v1/namespaces/\{namespace\}/jobs
                     }
                 ],
                 "restartPolicy": "Never",
-                "priority": 0,
-                "terminationGracePeriodSeconds": 30,
+                "priority": 0,                                
                 "dnsPolicy": "ClusterFirst",
                 "securityContext": {},
                 "imagePullSecrets": [

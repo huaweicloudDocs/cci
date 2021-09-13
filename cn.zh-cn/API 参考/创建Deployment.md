@@ -169,8 +169,7 @@ POST /apis/apps/v1/namespaces/\{namespace\}/deployments
                         "imagePullPolicy": "IfNotPresent"
                     }
                 ],
-                "restartPolicy": "Always",
-                "terminationGracePeriodSeconds": 30,
+                "restartPolicy": "Always",                                
                 "dnsPolicy": "ClusterFirst",
                 "securityContext": {},
                 "imagePullSecrets": [

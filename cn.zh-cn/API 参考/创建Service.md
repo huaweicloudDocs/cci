@@ -85,7 +85,7 @@ ClusterIP类型示例。
 
 LoadBalancer类型示例。
 
-LoadBalancer类型Service需要在metadata.annotations自定中添加elb实例ID（kubernetes.io/elb.id）、项目ID（tenant.kubernetes.io/project-id）和账号ID（tenant.kubernetes.io/domain-id）
+LoadBalancer类型Service需要在metadata.annotations自定中添加elb实例ID（kubernetes.io/elb.id）、项目ID（tenant.kubernetes.io/project-id）和帐号ID（tenant.kubernetes.io/domain-id）
 
 ```
 {

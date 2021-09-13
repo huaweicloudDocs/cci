@@ -155,7 +155,7 @@ PUT /api/v1/namespaces/\{namespace\}/pods/\{name\}
             }
         ],
         "restartPolicy": "Always",
-        "terminationGracePeriodSeconds": 30,
+        
         "dnsPolicy": "ClusterFirst",
         "securityContext": {},
         "imagePullSecrets": [

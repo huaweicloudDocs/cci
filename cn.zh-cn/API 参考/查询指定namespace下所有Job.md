@@ -171,8 +171,7 @@ N/A
                                 "imagePullPolicy": "Always"
                             }
                         ],
-                        "restartPolicy": "Never",
-                        "terminationGracePeriodSeconds": 30,
+                        "restartPolicy": "Never",                                                
                         "dnsPolicy": "ClusterFirst",
                         "securityContext": {},
                         "imagePullSecrets": [

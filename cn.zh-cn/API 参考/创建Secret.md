@@ -113,12 +113,12 @@ POST /api/v1/namespaces/\{namespace\}/secrets
 </thead>
 <tbody><tr id="row55054141495"><td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.3.1.1 "><p id="p1150519141498"><a name="p1150519141498"></a><a name="p1150519141498"></a>201</p>
 </td>
-<td class="cellrowborder" valign="top" width="79%" headers="mcps1.2.3.1.2 "><p id="p153061316630"><a name="p153061316630"></a><a name="p153061316630"></a><span>Created</span></p>
+<td class="cellrowborder" valign="top" width="79%" headers="mcps1.2.3.1.2 "><p id="p153061316630"><a name="p153061316630"></a><a name="p153061316630"></a>Created</p>
 </td>
 </tr>
 <tr id="row311644427"><td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.3.1.1 "><p id="p101174412218"><a name="p101174412218"></a><a name="p101174412218"></a>202</p>
 </td>
-<td class="cellrowborder" valign="top" width="79%" headers="mcps1.2.3.1.2 "><p id="p111644025"><a name="p111644025"></a><a name="p111644025"></a><span>Accepted</span></p>
+<td class="cellrowborder" valign="top" width="79%" headers="mcps1.2.3.1.2 "><p id="p111644025"><a name="p111644025"></a><a name="p111644025"></a>Accepted</p>
 </td>
 </tr>
 <tr id="row56253412217"><td class="cellrowborder" valign="top" width="21%" headers="mcps1.2.3.1.1 "><p id="p1562524115217"><a name="p1562524115217"></a><a name="p1562524115217"></a>200</p>

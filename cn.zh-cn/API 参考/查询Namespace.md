@@ -92,14 +92,14 @@ N/A
 </td>
 <td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="p114411249141413"><a name="p114411249141413"></a><a name="p114411249141413"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p6997195015128"><a name="p6997195015128"></a><a name="p6997195015128"></a>用户的账号ID。</p>
+<td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p6997195015128"><a name="p6997195015128"></a><a name="p6997195015128"></a>用户的帐号ID。</p>
 </td>
 </tr>
 <tr id="row191704511126"><td class="cellrowborder" valign="top" width="35.06%" headers="mcps1.2.4.1.1 "><p id="p181706518124"><a name="p181706518124"></a><a name="p181706518124"></a>tenant.kubernetes.io/domain-name</p>
 </td>
 <td class="cellrowborder" valign="top" width="16.33%" headers="mcps1.2.4.1.2 "><p id="p645744931416"><a name="p645744931416"></a><a name="p645744931416"></a>String</p>
 </td>
-<td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p15170165112125"><a name="p15170165112125"></a><a name="p15170165112125"></a>用户的账号名。</p>
+<td class="cellrowborder" valign="top" width="48.61%" headers="mcps1.2.4.1.3 "><p id="p15170165112125"><a name="p15170165112125"></a><a name="p15170165112125"></a>用户的帐号名。</p>
 </td>
 </tr>
 <tr id="row93581510128"><td class="cellrowborder" valign="top" width="35.06%" headers="mcps1.2.4.1.1 "><p id="p14358165171218"><a name="p14358165171218"></a><a name="p14358165171218"></a>tenant.kubernetes.io/project-id</p>

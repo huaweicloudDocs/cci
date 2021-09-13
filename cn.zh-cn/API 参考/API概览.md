@@ -16,7 +16,7 @@
 <td class="cellrowborder" valign="top" width="20.979999999999997%" headers="mcps1.1.4.1.2 "><p id="p14546162641618"><a name="p14546162641618"></a><a name="p14546162641618"></a><a href="#section13159414572">Network</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="60.019999999999996%" headers="mcps1.1.4.1.3 "><p id="p565181993120"><a name="p565181993120"></a><a name="p565181993120"></a>Network对象管理接口，包括Network对象的创建、查询、修改、删除等接口。</p>
-<p id="p854542223216"><a name="p854542223216"></a><a name="p854542223216"></a>Network对象是华为云CCI 新增对象，用于定义kubernetes中一个namespace内的网络与华为云虚拟私有云服务的子网和VPC的映射关系。</p>
+<p id="p854542223216"><a name="p854542223216"></a><a name="p854542223216"></a>Network对象是华为云CCI新增对象，用于定义kubernetes中一个namespace内的网络与华为云虚拟私有云服务的子网和VPC的映射关系。</p>
 </td>
 </tr>
 <tr id="row1739710274275"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p19398427102710"><a name="p19398427102710"></a><a name="p19398427102710"></a><a href="#section743818217318">Extended PersistentVolumeClaim</a></p>
@@ -29,13 +29,13 @@
 <td class="cellrowborder" valign="top" width="20.979999999999997%" headers="mcps1.1.4.1.2 "><p id="p1243017413139"><a name="p1243017413139"></a><a name="p1243017413139"></a><a href="#section115511242677">Namespace</a></p>
 </td>
 <td class="cellrowborder" valign="top" width="60.019999999999996%" headers="mcps1.1.4.1.3 "><p id="p87892038224"><a name="p87892038224"></a><a name="p87892038224"></a>Namespace对象管理接口，包括Namespace对象的创建、查询、修改、删除等接口。</p>
-<p id="p10513122920328"><a name="p10513122920328"></a><a name="p10513122920328"></a><span>命名空间（namespace）是一种在多个用户之间划分资源的方法。当你的项目和人员众多的时候可以考虑根据项目属性，例如生产、测试、开发划分不同的namespace。</span></p>
+<p id="p10513122920328"><a name="p10513122920328"></a><a name="p10513122920328"></a>命名空间（namespace）是一种在多个用户之间划分资源的方法。当你的项目和人员众多的时候可以考虑根据项目属性，例如生产、测试、开发划分不同的namespace。</p>
 </td>
 </tr>
 <tr id="row9338112161"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p17348113165"><a name="p17348113165"></a><a name="p17348113165"></a><a href="#section2458101711812">Pod</a></p>
 </td>
 <td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p195231610101919"><a name="p195231610101919"></a><a name="p195231610101919"></a>Pod对象管理接口，包括Pod对象的查询接口。</p>
-<p id="p177481415123215"><a name="p177481415123215"></a><a name="p177481415123215"></a><span>Pod是Kubernetes创建或部署的最小单位。一个Pod封装一个或多个容器、存储资源、一个独立的网络IP以及管理控制容器运行方式的策略选项。</span></p>
+<p id="p177481415123215"><a name="p177481415123215"></a><a name="p177481415123215"></a>Pod是Kubernetes创建或部署的最小单位。一个Pod封装一个或多个容器、存储资源、一个独立的网络IP以及管理控制容器运行方式的策略选项。</p>
 </td>
 </tr>
 <tr id="row119982597157"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p1998185911517"><a name="p1998185911517"></a><a name="p1998185911517"></a><a href="#section731718191482">Deployment</a></p>
@@ -59,7 +59,7 @@
 <tr id="row2027518598155"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p10276185916155"><a name="p10276185916155"></a><a name="p10276185916155"></a><a href="#section477116311381">Service</a></p>
 </td>
 <td class="cellrowborder" valign="top" headers="mcps1.1.4.1.2 "><p id="p2027675910153"><a name="p2027675910153"></a><a name="p2027675910153"></a>Service对象管理接口，包括Service对象的创建、查询、修改、删除等接口。</p>
-<p id="p19321836113313"><a name="p19321836113313"></a><a name="p19321836113313"></a><span>Service定义了这样一种抽象：一个Pod的逻辑分组，一种可以访问它们的策略（通常称为微服务）。</span></p>
+<p id="p19321836113313"><a name="p19321836113313"></a><a name="p19321836113313"></a>Service定义了这样一种抽象：一个Pod的逻辑分组，一种可以访问它们的策略（通常称为微服务）。</p>
 </td>
 </tr>
 <tr id="row146566588151"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p17656155831518"><a name="p17656155831518"></a><a name="p17656155831518"></a><a href="#section10848153414818">Ingress</a></p>
@@ -868,7 +868,7 @@
 </tr>
 <tr id="row1885785161617"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p108580516167"><a name="p108580516167"></a><a name="p108580516167"></a><a href="查询TFJob.md">查询TFJob</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p16264141401814"><a name="p16264141401814"></a><a name="p16264141401814"></a><span>查询TFJob的详细信息。</span></p>
+<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p16264141401814"><a name="p16264141401814"></a><a name="p16264141401814"></a>查询TFJob的详细信息。</p>
 </td>
 </tr>
 <tr id="row38581859164"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p2858175101612"><a name="p2858175101612"></a><a name="p2858175101612"></a><a href="查询指定namespace下的所有TFJob.md">查询指定namespace下的所有TFJob</a></p>
@@ -915,7 +915,7 @@
 </tr>
 <tr id="row5943122841918"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p159431428151919"><a name="p159431428151919"></a><a name="p159431428151919"></a><a href="查询MXJob.md">查询MXJob</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p594314286198"><a name="p594314286198"></a><a name="p594314286198"></a><span>查询MXJob的详细信息。</span></p>
+<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p594314286198"><a name="p594314286198"></a><a name="p594314286198"></a>查询MXJob的详细信息。</p>
 </td>
 </tr>
 <tr id="row1943128151917"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p12943628111913"><a name="p12943628111913"></a><a name="p12943628111913"></a><a href="查询指定namespace下的所有MXJob.md">查询指定namespace下的所有MXJob</a></p>
@@ -962,7 +962,7 @@
 </tr>
 <tr id="row18829730141917"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p1282919306195"><a name="p1282919306195"></a><a name="p1282919306195"></a><a href="查询PyTorchJob.md">查询PyTorchJob</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p882916302192"><a name="p882916302192"></a><a name="p882916302192"></a><span>查询PyTorchJob的详细信息。</span></p>
+<td class="cellrowborder" valign="top" width="68.13%" headers="mcps1.1.3.1.2 "><p id="p882916302192"><a name="p882916302192"></a><a name="p882916302192"></a>查询PyTorchJob的详细信息。</p>
 </td>
 </tr>
 <tr id="row108293308193"><td class="cellrowborder" valign="top" width="31.869999999999997%" headers="mcps1.1.3.1.1 "><p id="p198291430121913"><a name="p198291430121913"></a><a name="p198291430121913"></a><a href="查询指定namespace下的所有PyTorchJob.md">查询指定namespace下的所有PyTorchJob</a></p>

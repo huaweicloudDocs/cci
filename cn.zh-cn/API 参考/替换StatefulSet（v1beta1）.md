@@ -146,7 +146,7 @@ PUT /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets/\{name\}
                     }
                 ], 
                 "restartPolicy": "Always", 
-                "terminationGracePeriodSeconds": 30, 
+                 
                 "dnsPolicy": "ClusterFirst", 
                 "securityContext": {}, 
                 "imagePullSecrets": [
@@ -263,7 +263,7 @@ PUT /apis/apps/v1beta1/namespaces/\{namespace\}/statefulsets/\{name\}
                     }
                 ], 
                 "restartPolicy": "Always", 
-                "terminationGracePeriodSeconds": 30, 
+                 
                 "dnsPolicy": "ClusterFirst", 
                 "securityContext": {}, 
                 "imagePullSecrets": [
