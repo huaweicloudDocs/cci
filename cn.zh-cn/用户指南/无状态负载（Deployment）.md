@@ -6,14 +6,14 @@
 
 一个Deployment可以包含一个或多个Pod副本，每个Pod副本的角色相同，所以系统会自动为Deployment的多个Pod副本分发请求。
 
-Deployment集成了上线部署、滚动升级、创建副本，恢复上线任务，在某种程度上，Deployment可以帮我们实现无人值守的上线，大大降低我们的上线过程的复杂沟通、操作风险。
+Deployment集成了上线部署、滚动升级、创建副本，恢复上线任务，在某种程度上，Deployment可以帮用户实现无人值守的上线，大大降低了上线过程的复杂沟通、操作风险。
 
 **图 1**  无状态负载<a name="fig8424699522"></a>  
 ![](figures/无状态负载.png "无状态负载")
 
 ## 创建无状态负载<a name="section18340744132615"></a>
 
-1.  登录云容器实例管理控制台，左侧导航栏中选择[工作负载 \> 无状态（Deployment）](https://console.huaweicloud.com/cci/#/app/workload/deployment/list)，在右侧页面单击“创建无状态负载“。
+1.  登录云容器实例管理控制台，左侧导航栏中选择“工作负载 \> 无状态（Deployment）”，在右侧页面单击“镜像创建“。
 2.  添加基本信息。
     -   **负载名称**
 
@@ -35,58 +35,11 @@ Deployment集成了上线部署、滚动升级、创建副本，恢复上线任�
 
         您可以选择使用GPU（只能在GPU型命名空间下）或不使用GPU。
 
-        当前提供3种类型的Pod，包括通用计算型（通用计算型命名空间下使用）、[RDMA](https://zh.wikipedia.org/wiki/%E8%BF%9C%E7%A8%8B%E7%9B%B4%E6%8E%A5%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE)加速型和GPU加速型（GPU型命名空间下使用）。
-
-        GPU加速型Pod提供NVIDIA Tesla V100 32G显卡和NVIDIA Tesla V100 16G显卡，具体的规格有如下所示。
-
-        -   NVIDIA Tesla V100 32G显卡：
-            -   NVIDIA Tesla V100 32G x 1，CPU 4核，内存32GB
-            -   NVIDIA Tesla V100 32G x 2，CPU 8核，内存64GB
-            -   NVIDIA Tesla V100 32G x 4，CPU 16核，内存128GB
-            -   NVIDIA Tesla V100 32G x 8，CPU 32核，内存256GB
-
-        -   NVIDIA Tesla V100 16G显卡：
-            -   NVIDIA Tesla V100 16G x 1，CPU 4核，内存32GB
-            -   NVIDIA Tesla V100 16G x 2，CPU 8核，内存64GB
-            -   NVIDIA Tesla V100 16G x 4，CPU 16核，内存128GB
-            -   NVIDIA Tesla V100 16G x 8，CPU 32核，内存256GB
-
-        云容器实例支持使用NVIDIA GPU的驱动版本为**410.104**和**418.126**，您应用程序中使用的CUDA需满足如[表1](#table16459192015518)所示的配套关系。CUDA与驱动的配套关系来源于NVIDIA官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
+        当前提供3种类型的Pod，包括通用计算型（通用计算型命名空间下使用）、[RDMA](https://zh.wikipedia.org/wiki/%E8%BF%9C%E7%A8%8B%E7%9B%B4%E6%8E%A5%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE)加速型和GPU加速型（GPU型命名空间下使用）。具体的规格信息请参考[约束与限制](https://support.huaweicloud.com/productdesc-cci/cci_03_0007.html)中的“Pod规格”。
 
         >![](public_sys-resources/icon-note.gif) **说明：** 
         >-   nvidia-smi是一个命令行工具，详细信息请参考[NVIDIA System Management Interface](https://developer.nvidia.com/nvidia-system-management-interface)。
         >-   CCI不提供nvidia-smi，您可以将nvidia-smi打包到镜像中，通过nvidia-smi监控GPU使用情况。使用nvidia-smi前需要设置LD\_LIBRARY\_PATH值，方法请参考[为什么exec进入容器后执行GPU相关的操作报错](https://support.huaweicloud.com/cci_faq/cci_faq_0040.html)。
-        >-   “华北-北京四”区域，仅支持NVIDIA TeslaV100 32G显卡。
-
-        **表 1**  NVIDIA GPU驱动与CUDA配套关系
-
-        <a name="table16459192015518"></a>
-        <table><thead align="left"><tr id="row194598204515"><th class="cellrowborder" valign="top" width="30.620000000000005%" id="mcps1.2.3.1.1"><p id="p1845932065111"><a name="p1845932065111"></a><a name="p1845932065111"></a>NVIDIA GPU驱动版本</p>
-        </th>
-        <th class="cellrowborder" valign="top" width="69.38%" id="mcps1.2.3.1.2"><p id="p1445910203518"><a name="p1445910203518"></a><a name="p1445910203518"></a>CUDA Toolkit版本</p>
-        </th>
-        </tr>
-        </thead>
-        <tbody><tr id="row9786192115398"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p1178672103912"><a name="p1178672103912"></a><a name="p1178672103912"></a>410.104</p>
-        </td>
-        <td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p20459152020519"><a name="p20459152020519"></a><a name="p20459152020519"></a>CUDA 10.0 (10.0.130)及以下</p>
-        </td>
-        </tr>
-        <tr id="row626275911711"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p52626591079"><a name="p52626591079"></a><a name="p52626591079"></a>418.126</p>
-        </td>
-        <td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p9459132010511"><a name="p9459132010511"></a><a name="p9459132010511"></a>CUDA 10.1 (10.1.105)及以下</p>
-        </td>
-        </tr>
-        </tbody>
-        </table>
-
-        当不使用GPU时，Pod规格需满足如下要求：
-
-        -   Pod的CPU取值范围为0.25核-32核，或者自定义选择48核、64核，且单个容器的CPU必须为0.25核的整数倍
-        -   Pod的内存取值范围为1GB-512GB，且内存必须为1GB的整数倍
-        -   Pod的CPU/内存配比值必须在1:2到1:8之间
-        -   一个Pod内最多支持5个容器，单个容器最小配置是0.25核、0.2GB，最大同容器实例的最大配置
-        -   Pod中所有容器和InitContainer（启动容器）规格中的request和limit相等
 
     -   **容器配置**
 

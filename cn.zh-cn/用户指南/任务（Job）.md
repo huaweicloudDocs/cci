@@ -8,7 +8,7 @@
 
 ## 创建任务<a name="section1754218181551"></a>
 
-1.  登录云容器实例管理控制台，左侧导航栏中选择[工作负载 \> 任务（Job）](https://console.huaweicloud.com/cci/?#/app/workload/job/list)，在右侧页面单击“创建任务“。
+1.  登录云容器实例管理控制台，左侧导航栏中选择“工作负载 \> 任务（Job）”，在右侧页面单击“镜像创建“。
 2.  添加基本信息。
     -   **任务名称**
 
@@ -26,56 +26,7 @@
 
         您可以选择使用GPU（只能在GPU型命名空间下）或不使用GPU。
 
-        当前提供3种类型的Pod，包括通用计算型（通用计算型命名空间下使用）、[RDMA](https://zh.wikipedia.org/wiki/%E8%BF%9C%E7%A8%8B%E7%9B%B4%E6%8E%A5%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE)加速型和GPU加速型（GPU型命名空间下使用）。
-
-        GPU加速型Pod提供NVIDIA Tesla V100 32G显卡和NVIDIA Tesla V100 16G显卡，具体的规格有如下所示。
-
-        -   NVIDIA Tesla V100 32G显卡：
-            -   NVIDIA Tesla V100 32G x 1，CPU 4核，内存32GB
-            -   NVIDIA Tesla V100 32G x 2，CPU 8核，内存64GB
-            -   NVIDIA Tesla V100 32G x 4，CPU 16核，内存128GB
-            -   NVIDIA Tesla V100 32G x 8，CPU 32核，内存256GB
-
-        -   NVIDIA Tesla V100 16G显卡：
-            -   NVIDIA Tesla V100 16G x 1，CPU 4核，内存32GB
-            -   NVIDIA Tesla V100 16G x 2，CPU 8核，内存64GB
-            -   NVIDIA Tesla V100 16G x 4，CPU 16核，内存128GB
-            -   NVIDIA Tesla V100 16G x 8，CPU 32核，内存256GB
-
-        >![](public_sys-resources/icon-note.gif) **说明：** 
-        >“华北-北京四”区域，仅支持NVIDIA TeslaV100 32G显卡。“华东-上海一”可支持NVIDIA TeslaV100 32G、NVIDIA TeslaV100 16G显卡。
-
-        云容器实例支持使用NVIDIA GPU的驱动版本为**410.104和418.126**，您应用程序中使用的CUDA需满足如[表1](#table13665125815514)所示的配套关系。CUDA与驱动的配套关系来源于NVIDIA官网，详细信息请参见[CUDA Compatibility](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)。
-
-        **表 1**  NVIDIA GPU驱动与CUDA配套关系
-
-        <a name="table13665125815514"></a>
-        <table><thead align="left"><tr id="row1966665875113"><th class="cellrowborder" valign="top" width="30.620000000000005%" id="mcps1.2.3.1.1"><p id="p866618587510"><a name="p866618587510"></a><a name="p866618587510"></a>NVIDIA GPU驱动版本</p>
-        </th>
-        <th class="cellrowborder" valign="top" width="69.38%" id="mcps1.2.3.1.2"><p id="p1766675875111"><a name="p1766675875111"></a><a name="p1766675875111"></a>CUDA Toolkit版本</p>
-        </th>
-        </tr>
-        </thead>
-        <tbody><tr id="row9786192115398"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p1178672103912"><a name="p1178672103912"></a><a name="p1178672103912"></a>410.104</p>
-        </td>
-        <td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p3628192518161"><a name="p3628192518161"></a><a name="p3628192518161"></a>CUDA 10.0 (10.0.130)及以下</p>
-        </td>
-        </tr>
-        <tr id="row566605814512"><td class="cellrowborder" valign="top" width="30.620000000000005%" headers="mcps1.2.3.1.1 "><p id="p9666205819519"><a name="p9666205819519"></a><a name="p9666205819519"></a>418.126</p>
-        </td>
-        <td class="cellrowborder" valign="top" width="69.38%" headers="mcps1.2.3.1.2 "><p id="p5666558105117"><a name="p5666558105117"></a><a name="p5666558105117"></a>CUDA 10.1 (10.1.105)及以下</p>
-        </td>
-        </tr>
-        </tbody>
-        </table>
-
-        当不使用GPU时，Pod规格需满足如下要求：
-
-        -   Pod的CPU取值范围为0.25核-32核，或者自定义选择48核、64核，且单个容器的CPU必须为0.25核的整数倍
-        -   Pod的内存取值范围为1GB-512GB，且内存必须为1GB的整数倍
-        -   Pod的CPU/内存配比值必须在1:2到1:8之间
-        -   一个Pod内最多支持5个容器，单个容器最小配置是0.25核、0.2GB，最大同容器实例的最大配置
-        -   Pod中所有容器和InitContainer（启动容器）规格中的request和limit相等
+        当前提供3种类型的Pod，包括通用计算型（通用计算型命名空间下使用）、[RDMA](https://zh.wikipedia.org/wiki/%E8%BF%9C%E7%A8%8B%E7%9B%B4%E6%8E%A5%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE)加速型和GPU加速型（GPU型命名空间下使用）。具体的规格信息请参考[约束与限制](https://support.huaweicloud.com/productdesc-cci/cci_03_0007.html)中的“Pod规格”。
 
     -   **容器配置**
 

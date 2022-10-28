@@ -17,7 +17,7 @@ Pod使用主要分为两种方式：
 
 ## 查看Pod<a name="section1229283715316"></a>
 
-有时，您也许会通过调用[创建Pod](https://support.huaweicloud.com/api-cci/cci_02_3006.html)接口或者使用kubectl直接创建Pod，这些Pod并不在某个负载或任务之下，不方便通过控制台管理。云容器实例提供了[Pod管理](https://console.huaweicloud.com/cci/#/app/workload/pod/list)功能，您可以通过“选择来源“更方便找到需要的Pod。
+有时，您也许会通过调用[创建Pod](https://support.huaweicloud.com/api-cci/createCoreV1NamespacedPod.html)接口或者使用kubectl直接创建Pod，这些Pod并不在某个负载或任务之下，不方便通过控制台管理。云容器实例提供了[Pod管理](https://console.huaweicloud.com/cci/#/app/workload/pod/list)功能，您可以通过“选择来源“更方便找到需要的Pod。
 
 **图 2**  选择Pod来源<a name="fig20683185364514"></a>  
 ![](figures/选择Pod来源.png "选择Pod来源")

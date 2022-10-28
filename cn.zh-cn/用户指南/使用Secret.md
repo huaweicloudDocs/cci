@@ -7,48 +7,20 @@ Secret是Kubernetes中一种加密存储的资源对象，您可以将认证信�
 
 ## 创建Secret<a name="section18512531861"></a>
 
-1.  登录云容器实例控制台，单击左侧导航栏的[配置中心 \> 密钥（Secret）](https://console.huaweicloud.com/cci/#/app/config/secret/list)，在右侧页面中选择命名空间，单击“创建密钥“。
+1.  登录云容器实例控制台，单击左侧导航栏的“配置中心 \> 密钥（Secret）”，在右侧页面中选择命名空间，单击“创建密钥“。
 2.  云容器实例支持“手工输入”和“文件上传”两种方式来创建Secret。
     -   方式一：手工输入。参照[表1](#table16321825732)设置基本信息，其中带“\*”标志的参数为必填参数。
 
         **表 1**  基本信息说明
 
-        <a name="table16321825732"></a>
-        <table><thead align="left"><tr id="row173212251235"><th class="cellrowborder" valign="top" width="28.000000000000004%" id="mcps1.2.3.1.1"><p id="p43211725338"><a name="p43211725338"></a><a name="p43211725338"></a>参数</p>
-        </th>
-        <th class="cellrowborder" valign="top" width="72%" id="mcps1.2.3.1.2"><p id="p0322102516320"><a name="p0322102516320"></a><a name="p0322102516320"></a>参数说明</p>
-        </th>
-        </tr>
-        </thead>
-        <tbody><tr id="row424229832"><td class="cellrowborder" colspan="2" valign="top" headers="mcps1.2.3.1.1 mcps1.2.3.1.2 "><p id="p1598191212311"><a name="p1598191212311"></a><a name="p1598191212311"></a><strong id="b137387216312"><a name="b137387216312"></a><a name="b137387216312"></a>基本信息</strong></p>
-        </td>
-        </tr>
-        <tr id="row111551253912"><td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.3.1.1 "><p id="p1232219251339"><a name="p1232219251339"></a><a name="p1232219251339"></a>*密钥名称</p>
-        </td>
-        <td class="cellrowborder" valign="top" width="72%" headers="mcps1.2.3.1.2 "><p id="p173227259312"><a name="p173227259312"></a><a name="p173227259312"></a>新建Secret的名称。</p>
-        <p id="p67019179159"><a name="p67019179159"></a><a name="p67019179159"></a>以小写字母或数字开头，小写字母、数字、中划线（-）、点（.）组成（其中两点不能相连，点不能与中划线相连），小写字母或数字结尾的1到253字符的字符串。</p>
-        </td>
-        </tr>
-        <tr id="row1535723154615"><td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.3.1.1 "><p id="p83591731124620"><a name="p83591731124620"></a><a name="p83591731124620"></a>描述</p>
-        </td>
-        <td class="cellrowborder" valign="top" width="72%" headers="mcps1.2.3.1.2 "><p id="p1736012314462"><a name="p1736012314462"></a><a name="p1736012314462"></a>密钥的描述信息。</p>
-        </td>
-        </tr>
-        <tr id="row133224252315"><td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.3.1.1 "><p id="p23228259314"><a name="p23228259314"></a><a name="p23228259314"></a>*密钥数据</p>
-        </td>
-        <td class="cellrowborder" valign="top" width="72%" headers="mcps1.2.3.1.2 "><p id="p133223251335"><a name="p133223251335"></a><a name="p133223251335"></a>Secret的数据可以在容器中使用。其中，“键”代表文件名；“值”代表文件中的内容。</p>
-        <a name="ol10322425232"></a><a name="ol10322425232"></a><ol id="ol10322425232"><li>单击“添加数据” 。</li><li>输入键、值（支持base64自动转码，如果您勾选<span class="uicontrol" id="uicontrol165220558496"><a name="uicontrol165220558496"></a><a name="uicontrol165220558496"></a>“自动转码”</span>，则可以输入未转码的Secret值）。</li></ol>
-        </td>
-        </tr>
-        <tr id="row123142814330"><td class="cellrowborder" valign="top" width="28.000000000000004%" headers="mcps1.2.3.1.1 "><p id="p17322225134"><a name="p17322225134"></a><a name="p17322225134"></a>密钥标签</p>
-        </td>
-        <td class="cellrowborder" valign="top" width="72%" headers="mcps1.2.3.1.2 "><p id="p1932211253312"><a name="p1932211253312"></a><a name="p1932211253312"></a>标签以Key/value键值对的形式附加到各种对象上（如应用、节点、服务等）。</p>
-        <p id="p1932220252316"><a name="p1932220252316"></a><a name="p1932220252316"></a>标签定义了这些对象的可识别属性，用来对它们进行管理和选择。</p>
-        <a name="ol11394016509"></a><a name="ol11394016509"></a><ol id="ol11394016509"><li>单击“添加标签”。</li><li>输入键、值。</li></ol>
-        </td>
-        </tr>
-        </tbody>
-        </table>
+|参数|参数说明|
+|--|--|
+|**基本信息**|
+|*密钥名称|新建Secret的名称。以小写字母或数字开头，小写字母、数字、中划线（-）、点（.）组成（其中两点不能相连，点不能与中划线相连），小写字母或数字结尾的1到253字符的字符串。|
+|描述|密钥的描述信息。|
+|*密钥数据|Secret的数据可以在容器中使用。其中，“键”代表文件名；“值”代表文件中的内容。单击“添加数据” 。输入键、值（支持base64自动转码，如果您勾选自动转码，则可以输入未转码的Secret值）。|
+|密钥标签|标签以Key/value键值对的形式附加到各种对象上（如应用、节点、服务等）。标签定义了这些对象的可识别属性，用来对它们进行管理和选择。单击“添加标签”。输入键、值。|
+
 
     -   方式二：文件上传。
 

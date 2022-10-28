@@ -28,46 +28,12 @@
 
 **表 1**  漏洞信息
 
-<a name="table1565618845915"></a>
-<table><thead align="left"><tr id="row065718811595"><th class="cellrowborder" valign="top" width="25%" id="mcps1.2.5.1.1"><p id="p265798165915"><a name="p265798165915"></a><a name="p265798165915"></a>漏洞类型</p>
-</th>
-<th class="cellrowborder" valign="top" width="25%" id="mcps1.2.5.1.2"><p id="p465798195911"><a name="p465798195911"></a><a name="p465798195911"></a>CVE-ID</p>
-</th>
-<th class="cellrowborder" valign="top" width="25%" id="mcps1.2.5.1.3"><p id="p365720810595"><a name="p365720810595"></a><a name="p365720810595"></a>披露/发现时间</p>
-</th>
-<th class="cellrowborder" valign="top" width="25%" id="mcps1.2.5.1.4"><p id="p1365711835912"><a name="p1365711835912"></a><a name="p1365711835912"></a>华为云修复时间</p>
-</th>
-</tr>
-</thead>
-<tbody><tr id="row1120510564498"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.1 "><p id="p177230203311"><a name="p177230203311"></a><a name="p177230203311"></a>输入验证错误</p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.2 "><p id="p1665713818593"><a name="p1665713818593"></a><a name="p1665713818593"></a><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11477" target="_blank" rel="noopener noreferrer">CVE-2019-11477</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.3 "><p id="p7206656134917"><a name="p7206656134917"></a><a name="p7206656134917"></a>2019-06-17</p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.4 "><p id="p6334947152011"><a name="p6334947152011"></a><a name="p6334947152011"></a>2019-07-11</p>
-</td>
-</tr>
-<tr id="row1056225316496"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.1 "><p id="p85631153164916"><a name="p85631153164916"></a><a name="p85631153164916"></a>资源管理错误</p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.2 "><p id="p756320532491"><a name="p756320532491"></a><a name="p756320532491"></a><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11478" target="_blank" rel="noopener noreferrer">CVE-2019-11478</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.3 "><p id="p1256325344920"><a name="p1256325344920"></a><a name="p1256325344920"></a>2019-06-17</p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.4 "><p id="p39042227504"><a name="p39042227504"></a><a name="p39042227504"></a>2019-07-11</p>
-</td>
-</tr>
-<tr id="row19657198185917"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.1 "><p id="p185191344145311"><a name="p185191344145311"></a><a name="p185191344145311"></a>资源管理错误</p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.2 "><p id="p12349310588"><a name="p12349310588"></a><a name="p12349310588"></a><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11479" target="_blank" rel="noopener noreferrer">CVE-2019-11479</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.3 "><p id="p206589816592"><a name="p206589816592"></a><a name="p206589816592"></a>2019-06-17</p>
-</td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.4 "><p id="p9912162265017"><a name="p9912162265017"></a><a name="p9912162265017"></a>2019-07-11</p>
-</td>
-</tr>
-</tbody>
-</table>
+|漏洞类型|CVE-ID|披露/发现时间|华为云修复时间|
+|--|--|--|--|
+|输入验证错误|CVE-2019-11477|2019-06-17|2019-07-11|
+|资源管理错误|CVE-2019-11478|2019-06-17|2019-07-11|
+|资源管理错误|CVE-2019-11479|2019-06-17|2019-07-11|
+
 
 ## 影响范围<a name="section194116513488"></a>
 
@@ -77,7 +43,7 @@
 
 7月11日0点修复之前创建的无状态负载，建议选择业务不受影响的时间窗口，[删除并重新创建负载的Pod实例](#section1446470135915)。
 
-1.  登录云容器实例管理控制台，左侧导航栏中选择[工作负载 \> 无状态（Deployment）](https://console.huaweicloud.com/cci/?#/app/workload/deployment/list)，单击负载名称。
+1.  登录云容器实例管理控制台，左侧导航栏中选择“工作负载 \> 无状态（Deployment）”，单击负载名称。
 2.  在无状态负载详情页面的Pod列表，单击Pod后的“删除”，在弹出的对话框中单击“是”。
 
     **图 1**  删除相关Pod<a name="fig17400171019714"></a>  
